@@ -1,0 +1,4603 @@
+﻿PokerStars Hand #103171854335:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:53:52 CET [2013/08/24 13:53:52 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($32.29 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 3: Flotty30 ($12.27 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($42.91 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+Bonehead1977: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [8d 3h]
+Flotty30: calls $0.25
+yogiberra14: calls $0.25
+DrInfinity: raises $1 to $1.25
+PAPOONGA: folds 
+aazaa: folds 
+Flotty30: calls $1
+yogiberra14: folds 
+*** FLOP *** [2s Ad 3c]
+Flotty30: checks 
+DrInfinity: bets $1
+Flotty30: folds 
+Uncalled bet ($1) returned to DrInfinity
+DrInfinity collected $2.96 from pot
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [2s Ad 3c]
+Seat 1: PAPOONGA (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: Flotty30 folded on the Flop
+Seat 5: yogiberra14 folded before Flop
+Seat 6: DrInfinity (button) collected ($2.96)
+
+
+
+PokerStars Hand #103171875907:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:54:24 CET [2013/08/24 13:54:24 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($32.19 in chips) 
+Seat 2: aazaa ($24.75 in chips) 
+Seat 3: Flotty30 ($11.02 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($44.62 in chips) 
+aazaa: posts small blind $0.10
+Flotty30: posts big blind $0.25
+Bonehead1977: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [3h 6h]
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+Flotty30: folds 
+Uncalled bet ($0.50) returned to PAPOONGA
+PAPOONGA collected $0.60 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA (button) collected ($0.60)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: Flotty30 (big blind) folded before Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171898362:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:54:57 CET [2013/08/24 13:54:57 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($32.54 in chips) 
+Seat 2: aazaa ($24.65 in chips) 
+Seat 3: Flotty30 ($10.77 in chips) 
+Seat 4: Bonehead1977 ($12 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($44.62 in chips) 
+Flotty30: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4c Ts]
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+Flotty30: calls $0.15
+Bonehead1977: raises $0.50 to $0.75
+Flotty30: calls $0.50
+*** FLOP *** [Qh 6c 3c]
+Flotty30: checks 
+Bonehead1977: bets $0.75
+Flotty30: calls $0.75
+*** TURN *** [Qh 6c 3c] [Kh]
+Flotty30: checks 
+Bonehead1977: checks 
+*** RIVER *** [Qh 6c 3c Kh] [3h]
+Flotty30: checks 
+Bonehead1977: checks 
+*** SHOW DOWN ***
+Flotty30: shows [Ac 6h] (two pair, Sixes and Threes)
+Bonehead1977: shows [9h 9d] (two pair, Nines and Threes)
+Bonehead1977 collected $2.86 from pot
+*** SUMMARY ***
+Total pot $3 | Rake $0.14 
+Board [Qh 6c 3c Kh 3h]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: Flotty30 (small blind) showed [Ac 6h] and lost with two pair, Sixes and Threes
+Seat 4: Bonehead1977 (big blind) showed [9h 9d] and won ($2.86) with two pair, Nines and Threes
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171916698:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:55:32 CET [2013/08/24 13:55:32 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($32.54 in chips) 
+Seat 2: aazaa ($24.65 in chips) 
+Seat 3: Flotty30 ($9.27 in chips) 
+Seat 4: Bonehead1977 ($13.36 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($44.62 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kc As]
+DrInfinity: folds 
+PAPOONGA: calls $0.25
+aazaa: raises $0.75 to $1
+Flotty30: calls $1
+Bonehead1977: calls $0.90
+yogiberra14: folds 
+PAPOONGA: calls $0.75
+*** FLOP *** [8c 4s 8h]
+Bonehead1977: checks 
+PAPOONGA: checks 
+aazaa: bets $2.50
+Flotty30: folds 
+Bonehead1977: folds 
+PAPOONGA: folds 
+Uncalled bet ($2.50) returned to aazaa
+aazaa collected $4.06 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [8c 4s 8h]
+Seat 1: PAPOONGA folded on the Flop
+Seat 2: aazaa collected ($4.06)
+Seat 3: Flotty30 (button) folded on the Flop
+Seat 4: Bonehead1977 (small blind) folded on the Flop
+Seat 5: yogiberra14 (big blind) folded before Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171938104:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:56:16 CET [2013/08/24 13:56:16 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($31.54 in chips) 
+Seat 2: aazaa ($27.71 in chips) 
+Seat 3: Flotty30 ($8.27 in chips) 
+Seat 4: Bonehead1977 ($12.36 in chips) 
+Seat 5: yogiberra14 ($24.75 in chips) 
+Seat 6: DrInfinity ($44.62 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6h 9c]
+PAPOONGA: folds 
+aazaa: folds 
+Flotty30: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.15
+DrInfinity: checks 
+*** FLOP *** [9d Th Jc]
+yogiberra14: bets $0.50
+DrInfinity: folds 
+Uncalled bet ($0.50) returned to yogiberra14
+yogiberra14 collected $0.48 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0.02 
+Board [9d Th Jc]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: Flotty30 folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) collected ($0.48)
+Seat 6: DrInfinity (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103171947759:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:56:36 CET [2013/08/24 13:56:36 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($31.54 in chips) 
+Seat 2: aazaa ($27.71 in chips) 
+Seat 3: Flotty30 ($8.27 in chips) 
+Seat 4: Bonehead1977 ($12.36 in chips) 
+Seat 5: yogiberra14 ($24.98 in chips) 
+Seat 6: DrInfinity ($44.37 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6d 3h]
+aazaa: folds 
+Flotty30: folds 
+Bonehead1977: folds 
+Flotty30 leaves the table
+yogiberra14: raises $0.50 to $0.75
+DrInfinity: folds 
+PAPOONGA: raises $1.50 to $2.25
+yogiberra14: folds 
+Uncalled bet ($1.50) returned to PAPOONGA
+PAPOONGA collected $1.60 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: PAPOONGA (big blind) collected ($1.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: Flotty30 folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) folded before Flop
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172036081:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:59:39 CET [2013/08/24 13:59:39 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($35.26 in chips) 
+Seat 2: aazaa ($27.71 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($8.76 in chips) 
+Seat 5: yogiberra14 ($24.70 in chips) 
+Seat 6: DrInfinity ($44.35 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+aazaa: posts small & big blinds $0.35
+*** HOLE CARDS ***
+Dealt to aazaa [6h 2s]
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.50
+*** FLOP *** [Ah Qd 7d]
+yogiberra14: checks 
+PAPOONGA: bets $1.25
+yogiberra14: folds 
+Uncalled bet ($1.25) returned to PAPOONGA
+PAPOONGA collected $1.86 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.09 
+Board [Ah Qd 7d]
+Seat 1: PAPOONGA collected ($1.86)
+Seat 2: aazaa folded before Flop
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) folded on the Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172046262:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:59:58 CET [2013/08/24 13:59:58 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($36.37 in chips) 
+Seat 2: aazaa ($27.36 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($8.66 in chips) 
+Seat 5: yogiberra14 ($23.95 in chips) 
+Seat 6: DrInfinity ($44.35 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kh 7h]
+PAPOONGA: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Bonehead1977: calls $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+*** FLOP *** [4s Ks 8s]
+aazaa: bets $1
+Bonehead1977: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.77 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [4s Ks 8s]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa collected ($1.77)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded on the Flop
+Seat 5: yogiberra14 (small blind) folded before Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172059890:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:00:19 CET [2013/08/24 14:00:19 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($36.37 in chips) 
+Seat 2: aazaa ($28.38 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($7.91 in chips) 
+Seat 5: yogiberra14 ($23.85 in chips) 
+Seat 6: DrInfinity ($44.10 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d 6s]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: raises $0.25 to $0.50
+yogiberra14: calls $0.50
+DrInfinity: folds 
+PAPOONGA: folds 
+*** FLOP *** [3h Th 4h]
+Bonehead1977: checks 
+yogiberra14: checks 
+*** TURN *** [3h Th 4h] [8d]
+Bonehead1977: checks 
+yogiberra14: bets $1
+Bonehead1977: folds 
+Uncalled bet ($1) returned to yogiberra14
+yogiberra14 collected $1.29 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.35 | Rake $0.06 
+Board [3h Th 4h 8d]
+Seat 1: PAPOONGA (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded on the Turn
+Seat 5: yogiberra14 (button) collected ($1.29)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172074544:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:00:45 CET [2013/08/24 14:00:45 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($36.12 in chips) 
+Seat 2: aazaa ($28.38 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($7.41 in chips) 
+Seat 5: yogiberra14 ($24.64 in chips) 
+Seat 6: DrInfinity ($44 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3h 5c]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.25
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+yogiberra14: calls $0.50
+*** FLOP *** [Ts Jh 2h]
+PAPOONGA: bets $1.50
+yogiberra14: raises $2.25 to $3.75
+PAPOONGA: calls $2.25
+*** TURN *** [Ts Jh 2h] [7s]
+PAPOONGA: checks 
+yogiberra14: bets $5
+PAPOONGA: folds 
+Uncalled bet ($5) returned to yogiberra14
+yogiberra14 collected $8.83 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $9.25 | Rake $0.42 
+Board [Ts Jh 2h 7s]
+Seat 1: PAPOONGA (small blind) folded on the Turn
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 collected ($8.83)
+Seat 6: DrInfinity (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172108885:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:01:39 CET [2013/08/24 14:01:39 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($31.62 in chips) 
+Seat 2: aazaa ($28.13 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($7.41 in chips) 
+Seat 5: yogiberra14 ($28.97 in chips) 
+Seat 6: DrInfinity ($44 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9d 6s]
+Bonehead1977: raises $0.25 to $0.50
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $1
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: calls $0.50
+*** FLOP *** [5c Kc 7c]
+Bonehead1977: checks 
+PAPOONGA: bets $1.50
+Bonehead1977: folds 
+Uncalled bet ($1.50) returned to PAPOONGA
+PAPOONGA collected $2.24 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [5c Kc 7c]
+Seat 1: PAPOONGA (button) collected ($2.24)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: Bonehead1977 folded on the Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172126413:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:02:04 CET [2013/08/24 14:02:04 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($32.86 in chips) 
+Seat 2: aazaa ($28.03 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($6.41 in chips) 
+Seat 5: yogiberra14 ($28.97 in chips) 
+Seat 6: DrInfinity ($44 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3h 5h]
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: calls $0.25
+LucKsTarWSOP: raises $0.75 to $1
+Bonehead1977: folds 
+aazaa: calls $0.75
+*** FLOP *** [Jd 3c 4h]
+LucKsTarWSOP: bets $1
+aazaa: calls $1
+*** TURN *** [Jd 3c 4h] [Ac]
+LucKsTarWSOP: bets $2
+aazaa: folds 
+Uncalled bet ($2) returned to LucKsTarWSOP
+LucKsTarWSOP collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [Jd 3c 4h Ac]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded on the Turn
+Seat 3: LucKsTarWSOP (small blind) collected ($4.06)
+Seat 4: Bonehead1977 (big blind) folded before Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172174161:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:03:11 CET [2013/08/24 14:03:11 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($32.86 in chips) 
+Seat 2: aazaa ($26.03 in chips) 
+Seat 3: LucKsTarWSOP ($27.06 in chips) 
+Seat 4: Bonehead1977 ($6.16 in chips) 
+Seat 5: yogiberra14 ($28.97 in chips) 
+Seat 6: DrInfinity ($44 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6c 4s]
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+Bonehead1977: calls $0.52
+yogiberra14: folds 
+*** FLOP *** [Ac 9d 7c]
+Bonehead1977: checks 
+LucKsTarWSOP: checks 
+*** TURN *** [Ac 9d 7c] [3c]
+Bonehead1977: checks 
+LucKsTarWSOP: checks 
+*** RIVER *** [Ac 9d 7c 3c] [5s]
+Bonehead1977: bets $1.50
+LucKsTarWSOP: folds 
+Uncalled bet ($1.50) returned to Bonehead1977
+Bonehead1977 collected $1.42 from pot
+*** SUMMARY ***
+Total pot $1.49 | Rake $0.07 
+Board [Ac 9d 7c 3c 5s]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded on the River
+Seat 4: Bonehead1977 (small blind) collected ($1.42)
+Seat 5: yogiberra14 (big blind) folded before Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172215778:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:04:08 CET [2013/08/24 14:04:08 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($32.86 in chips) 
+Seat 2: aazaa ($26.03 in chips) 
+Seat 3: LucKsTarWSOP ($26.44 in chips) 
+Seat 4: Bonehead1977 ($6.96 in chips) 
+Seat 5: yogiberra14 ($28.72 in chips) 
+Seat 6: DrInfinity ($44 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ts 8s]
+PAPOONGA: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Bonehead1977: calls $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+*** FLOP *** [2s Th 3s]
+aazaa: bets $1
+Bonehead1977: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.77 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [2s Th 3s]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa collected ($1.77)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded on the Flop
+Seat 5: yogiberra14 (small blind) folded before Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172234930:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:04:33 CET [2013/08/24 14:04:33 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($32.86 in chips) 
+Seat 2: aazaa ($27.05 in chips) 
+Seat 3: LucKsTarWSOP ($26.44 in chips) 
+Seat 4: Bonehead1977 ($6.21 in chips) 
+Seat 5: yogiberra14 ($28.62 in chips) 
+Seat 6: DrInfinity ($43.75 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7s Tc]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: raises $0.25 to $0.50
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: calls $0.25
+*** FLOP *** [Qs Kh 8c]
+PAPOONGA: checks 
+Bonehead1977: checks 
+*** TURN *** [Qs Kh 8c] [8h]
+PAPOONGA: checks 
+Bonehead1977: checks 
+*** RIVER *** [Qs Kh 8c 8h] [3s]
+PAPOONGA: checks 
+Bonehead1977: checks 
+*** SHOW DOWN ***
+PAPOONGA: shows [Jd 6s] (a pair of Eights)
+Bonehead1977: mucks hand 
+PAPOONGA collected $1.05 from pot
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Qs Kh 8c 8h 3s]
+Seat 1: PAPOONGA (big blind) showed [Jd 6s] and won ($1.05) with a pair of Eights
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 mucked [5d 6d]
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172253804:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:04:58 CET [2013/08/24 14:04:58 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($33.41 in chips) 
+Seat 2: aazaa ($27.05 in chips) 
+Seat 3: LucKsTarWSOP ($26.44 in chips) 
+Seat 4: Bonehead1977 ($5.71 in chips) 
+Seat 5: yogiberra14 ($28.62 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jh Ks]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: calls $0.50
+*** FLOP *** [Ah 9d 8s]
+PAPOONGA: bets $1.25
+aazaa: folds 
+Uncalled bet ($1.25) returned to PAPOONGA
+PAPOONGA collected $1.43 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ah 9d 8s]
+Seat 1: PAPOONGA (small blind) collected ($1.43)
+Seat 2: aazaa (big blind) folded on the Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172273132:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:05:24 CET [2013/08/24 14:05:24 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($34.09 in chips) 
+Seat 2: aazaa ($26.30 in chips) 
+Seat 3: LucKsTarWSOP ($26.44 in chips) 
+Seat 4: Bonehead1977 ($5.71 in chips) 
+Seat 5: yogiberra14 ($28.62 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9c Js]
+Bonehead1977: folds 
+yogiberra14: calls $0.25
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: calls $0.15
+LucKsTarWSOP: checks 
+*** FLOP *** [Qs 4s As]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: checks 
+*** TURN *** [Qs 4s As] [2c]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: checks 
+*** RIVER *** [Qs 4s As 2c] [Ad]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: bets $1.50
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($1.50) returned to yogiberra14
+yogiberra14 collected $0.72 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.75 | Rake $0.03 
+Board [Qs 4s As 2c Ad]
+Seat 1: PAPOONGA (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded on the River
+Seat 3: LucKsTarWSOP (big blind) folded on the River
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 collected ($0.72)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172322012:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:06:29 CET [2013/08/24 14:06:29 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($34.09 in chips) 
+Seat 2: aazaa ($26.05 in chips) 
+Seat 3: LucKsTarWSOP ($26.19 in chips) 
+Seat 4: Bonehead1977 ($5.71 in chips) 
+Seat 5: yogiberra14 ($29.09 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th 9c]
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: calls $0.75
+LucKsTarWSOP: folds 
+Bonehead1977: calls $0.50
+*** FLOP *** [8d Ks 8h]
+Bonehead1977: checks 
+PAPOONGA: bets $1.75
+aazaa: folds 
+Bonehead1977: folds 
+Uncalled bet ($1.75) returned to PAPOONGA
+PAPOONGA collected $2.24 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [8d Ks 8h]
+Seat 1: PAPOONGA collected ($2.24)
+Seat 2: aazaa (button) folded on the Flop
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: Bonehead1977 (big blind) folded on the Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172346758:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:07:02 CET [2013/08/24 14:07:02 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($35.58 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($26.09 in chips) 
+Seat 4: Bonehead1977 ($4.96 in chips) 
+Seat 5: yogiberra14 ($29.09 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7h Jh]
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa collected ($0.60)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) folded before Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172364173:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:07:25 CET [2013/08/24 14:07:25 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($35.58 in chips) 
+Seat 2: aazaa ($25.65 in chips) 
+Seat 3: LucKsTarWSOP ($26.09 in chips) 
+Seat 4: Bonehead1977 ($4.86 in chips) 
+Seat 5: yogiberra14 ($28.84 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6d Ac]
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+Uncalled bet ($0.50) returned to PAPOONGA
+PAPOONGA collected $0.60 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA collected ($0.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) folded before Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172384571:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:07:52 CET [2013/08/24 14:07:52 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($35.93 in chips) 
+Seat 2: aazaa ($25.65 in chips) 
+Seat 3: LucKsTarWSOP ($26.09 in chips) 
+Seat 4: Bonehead1977 ($4.86 in chips) 
+Seat 5: yogiberra14 ($28.74 in chips) 
+Seat 6: DrInfinity ($43.40 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3c Jd]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: raises $0.50 to $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: calls $0.50
+*** FLOP *** [2c 4d 7c]
+PAPOONGA: checks 
+Bonehead1977: bets $1
+PAPOONGA: calls $1
+*** TURN *** [2c 4d 7c] [Ks]
+PAPOONGA: checks 
+Bonehead1977: bets $3.11 and is all-in
+PAPOONGA: folds 
+Uncalled bet ($3.11) returned to Bonehead1977
+Bonehead1977 collected $3.44 from pot
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [2c 4d 7c Ks]
+Seat 1: PAPOONGA (big blind) folded on the Turn
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 collected ($3.44)
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172413029:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:08:29 CET [2013/08/24 14:08:29 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($34.18 in chips) 
+Seat 2: aazaa ($25.65 in chips) 
+Seat 3: LucKsTarWSOP ($26.09 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.74 in chips) 
+Seat 6: DrInfinity ($43.30 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9s 6d]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: raises $0.50 to $0.75
+PAPOONGA: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to DrInfinity
+DrInfinity collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) collected ($0.60)
+
+
+
+PokerStars Hand #103172433311:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:08:56 CET [2013/08/24 14:08:56 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($34.08 in chips) 
+Seat 2: aazaa ($25.40 in chips) 
+Seat 3: LucKsTarWSOP ($26.09 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.74 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9c 8d]
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.75 to $1
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.75) returned to PAPOONGA
+PAPOONGA collected $0.60 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA (button) collected ($0.60)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172456230:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:09:27 CET [2013/08/24 14:09:27 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($34.43 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($25.84 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.74 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3c 6s]
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.15) returned to Bonehead1977
+Bonehead1977 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: Bonehead1977 (big blind) collected ($0.20)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172474354:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:09:51 CET [2013/08/24 14:09:51 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($34.43 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($25.74 in chips) 
+Seat 4: Bonehead1977 ($6.65 in chips) 
+Seat 5: yogiberra14 ($28.74 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 6c]
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+Uncalled bet ($0.15) returned to yogiberra14
+yogiberra14 collected $0.20 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) collected ($0.20)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172485379:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:10:06 CET [2013/08/24 14:10:06 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($34.43 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($25.74 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.84 in chips) 
+Seat 6: DrInfinity ($43.65 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Tc 3s]
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.65
+DrInfinity: folds 
+*** FLOP *** [6d 6s Kc]
+yogiberra14: checks 
+PAPOONGA: bets $1.50
+yogiberra14: folds 
+Uncalled bet ($1.50) returned to PAPOONGA
+PAPOONGA collected $1.67 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [6d 6s Kc]
+Seat 1: PAPOONGA collected ($1.67)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) folded on the Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172504203:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:10:31 CET [2013/08/24 14:10:31 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($35.35 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($25.74 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.09 in chips) 
+Seat 6: DrInfinity ($43.40 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4c Jc]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.25
+DrInfinity: folds 
+PAPOONGA: checks 
+*** FLOP *** [Qs 8h 3d]
+PAPOONGA: checks 
+yogiberra14: bets $0.50
+PAPOONGA: calls $0.50
+*** TURN *** [Qs 8h 3d] [Ad]
+PAPOONGA: checks 
+yogiberra14: bets $1.25
+PAPOONGA: folds 
+Uncalled bet ($1.25) returned to yogiberra14
+yogiberra14 collected $1.53 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Qs 8h 3d Ad]
+Seat 1: PAPOONGA (big blind) folded on the Turn
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) collected ($1.53)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172524201:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:10:58 CET [2013/08/24 14:10:58 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($34.60 in chips) 
+Seat 2: aazaa ($25.30 in chips) 
+Seat 3: LucKsTarWSOP ($25.74 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.87 in chips) 
+Seat 6: DrInfinity ($43.30 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d Ah]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: raises $0.50 to $0.75
+PAPOONGA: calls $0.65
+aazaa: folds 
+*** FLOP *** [Jd 8h 5c]
+PAPOONGA: checks 
+DrInfinity: bets $1
+PAPOONGA: folds 
+Uncalled bet ($1) returned to DrInfinity
+DrInfinity collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Jd 8h 5c]
+Seat 1: PAPOONGA (small blind) folded on the Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) collected ($1.67)
+
+
+
+PokerStars Hand #103172549727:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:11:32 CET [2013/08/24 14:11:32 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($33.85 in chips) 
+Seat 2: aazaa ($25.05 in chips) 
+Seat 3: LucKsTarWSOP ($25.74 in chips) 
+Seat 4: Bonehead1977 ($6.55 in chips) 
+Seat 5: yogiberra14 ($28.87 in chips) 
+Seat 6: DrInfinity ($44.22 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 7c]
+Bonehead1977: raises $0.25 to $0.50
+yogiberra14: calls $0.50
+DrInfinity: folds 
+PAPOONGA: calls $0.50
+aazaa: calls $0.40
+LucKsTarWSOP: folds 
+*** FLOP *** [6h 6s 5h]
+aazaa: checks 
+Bonehead1977: bets $0.25
+yogiberra14: calls $0.25
+PAPOONGA: calls $0.25
+aazaa: calls $0.25
+*** TURN *** [6h 6s 5h] [7h]
+aazaa: checks 
+Bonehead1977: checks 
+yogiberra14: checks 
+PAPOONGA: bets $0.50
+aazaa: calls $0.50
+Bonehead1977: folds 
+yogiberra14: calls $0.50
+*** RIVER *** [6h 6s 5h 7h] [Qc]
+aazaa: checks 
+yogiberra14: checks 
+PAPOONGA: bets $2
+aazaa: calls $2
+yogiberra14: folds 
+*** SHOW DOWN ***
+PAPOONGA: shows [3h Kh] (a flush, King high)
+aazaa: mucks hand 
+PAPOONGA collected $8.36 from pot
+*** SUMMARY ***
+Total pot $8.75 | Rake $0.39 
+Board [6h 6s 5h 7h Qc]
+Seat 1: PAPOONGA (button) showed [3h Kh] and won ($8.36) with a flush, King high
+Seat 2: aazaa (small blind) mucked [Ah 7c]
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: Bonehead1977 folded on the Turn
+Seat 5: yogiberra14 folded on the River
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172599955:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:12:40 CET [2013/08/24 14:12:40 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($38.96 in chips) 
+Seat 2: aazaa ($21.80 in chips) 
+Seat 3: LucKsTarWSOP ($25.49 in chips) 
+Seat 4: Bonehead1977 ($5.80 in chips) 
+Seat 5: yogiberra14 ($27.62 in chips) 
+Seat 6: DrInfinity ($44.22 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [As 8s]
+yogiberra14: calls $0.25
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: raises $0.75 to $1
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.75
+*** FLOP *** [Ad 8h 5s]
+yogiberra14: checks 
+aazaa: bets $1.50
+yogiberra14: folds 
+Uncalled bet ($1.50) returned to aazaa
+aazaa collected $2.24 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [Ad 8h 5s]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa (button) collected ($2.24)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: Bonehead1977 (big blind) folded before Flop
+Seat 5: yogiberra14 folded on the Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172624910:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:13:14 CET [2013/08/24 14:13:14 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: PAPOONGA ($38.96 in chips) 
+Seat 2: aazaa ($23.04 in chips) 
+Seat 3: LucKsTarWSOP ($25.39 in chips) 
+Seat 4: Bonehead1977 ($5.55 in chips) 
+Seat 5: yogiberra14 ($26.62 in chips) 
+Seat 6: DrInfinity ($44.22 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5c Ac]
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: calls $0.75
+LucKsTarWSOP: calls $0.75
+Bonehead1977: folds 
+yogiberra14: calls $0.50
+*** FLOP *** [7s 6c Td]
+yogiberra14: checks 
+PAPOONGA: checks 
+aazaa: checks 
+LucKsTarWSOP: checks 
+*** TURN *** [7s 6c Td] [Qs]
+yogiberra14: checks 
+PAPOONGA: bets $1
+aazaa: folds 
+LucKsTarWSOP: folds 
+yogiberra14: folds 
+Uncalled bet ($1) returned to PAPOONGA
+PAPOONGA collected $2.96 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.10 | Rake $0.14 
+Board [7s 6c Td Qs]
+Seat 1: PAPOONGA collected ($2.96)
+Seat 2: aazaa folded on the Turn
+Seat 3: LucKsTarWSOP (button) folded on the Turn
+Seat 4: Bonehead1977 (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) folded on the Turn
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172690808:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:14:43 CET [2013/08/24 14:14:43 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: PAPOONGA ($41.17 in chips) 
+Seat 2: aazaa ($22.29 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.45 in chips) 
+Seat 5: yogiberra14 ($25.87 in chips) 
+Seat 6: DrInfinity ($44.22 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d 4c]
+PAPOONGA: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.65
+DrInfinity: folds 
+*** FLOP *** [Jc 7c 8s]
+yogiberra14: checks 
+PAPOONGA: checks 
+*** TURN *** [Jc 7c 8s] [7s]
+yogiberra14: checks 
+PAPOONGA: checks 
+*** RIVER *** [Jc 7c 8s 7s] [Tc]
+yogiberra14: bets $4
+PAPOONGA: folds 
+Uncalled bet ($4) returned to yogiberra14
+yogiberra14 collected $1.67 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [Jc 7c 8s 7s Tc]
+Seat 1: PAPOONGA folded on the River
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) collected ($1.67)
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172720647:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:15:23 CET [2013/08/24 14:15:23 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: PAPOONGA ($40.42 in chips) 
+Seat 2: aazaa ($22.29 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.45 in chips) 
+Seat 5: yogiberra14 ($26.79 in chips) 
+Seat 6: DrInfinity ($43.97 in chips) 
+DrInfinity: posts small blind $0.10
+PAPOONGA: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6c Ad]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: raises $0.50 to $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: folds 
+Uncalled bet ($0.50) returned to Bonehead1977
+Bonehead1977 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 collected ($0.60)
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172740231:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:15:49 CET [2013/08/24 14:15:49 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: PAPOONGA ($40.17 in chips) 
+Seat 2: aazaa ($22.29 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.80 in chips) 
+Seat 5: yogiberra14 ($26.79 in chips) 
+Seat 6: DrInfinity ($43.87 in chips) 
+PAPOONGA: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th Kc]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+PAPOONGA: raises $0.50 to $0.75
+aazaa: calls $0.50
+*** FLOP *** [2h 7d 6d]
+PAPOONGA: bets $1.25
+aazaa: calls $1.25
+*** TURN *** [2h 7d 6d] [9d]
+PAPOONGA: bets $2.25
+aazaa: folds 
+Uncalled bet ($2.25) returned to PAPOONGA
+PAPOONGA collected $3.82 from pot
+PAPOONGA: doesn't show hand 
+*** SUMMARY ***
+Total pot $4 | Rake $0.18 
+Board [2h 7d 6d 9d]
+Seat 1: PAPOONGA (small blind) collected ($3.82)
+Seat 2: aazaa (big blind) folded on the Turn
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172772807:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:16:32 CET [2013/08/24 14:16:32 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: PAPOONGA ($41.99 in chips) 
+Seat 2: aazaa ($20.29 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.80 in chips) 
+Seat 5: yogiberra14 ($26.79 in chips) 
+Seat 6: DrInfinity ($43.87 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8h 7c]
+Bonehead1977: folds 
+yogiberra14: raises $0.50 to $0.75
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to yogiberra14
+yogiberra14 collected $0.60 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: PAPOONGA (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 collected ($0.60)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172808409:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:17:19 CET [2013/08/24 14:17:19 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: PAPOONGA ($41.99 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.80 in chips) 
+Seat 5: yogiberra14 ($27.14 in chips) 
+Seat 6: DrInfinity ($43.87 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+Bonehead1977: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th 5d]
+yogiberra14: raises $0.25 to $0.50
+DrInfinity: folds 
+PAPOONGA: folds 
+aazaa: folds 
+LucKsTarWSOP: calls $0.40
+Bonehead1977: calls $0.25
+*** FLOP *** [Ad 2d 2h]
+PAPOONGA leaves the table
+LucKsTarWSOP: checks 
+Bonehead1977: checks 
+Sir_Gambito joins the table at seat #1 
+yogiberra14: bets $1
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+Uncalled bet ($1) returned to yogiberra14
+yogiberra14 collected $1.43 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Ad 2d 2h]
+Seat 1: PAPOONGA folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded on the Flop
+Seat 4: Bonehead1977 (big blind) folded on the Flop
+Seat 5: yogiberra14 collected ($1.43)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172829707:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:17:48 CET [2013/08/24 14:17:48 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 2: aazaa ($25 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.30 in chips) 
+Seat 5: yogiberra14 ($28.07 in chips) 
+Seat 6: DrInfinity ($43.87 in chips) 
+Bonehead1977: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+Sir_Gambito: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Th Ac]
+DrInfinity: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: calls $0.50
+*** FLOP *** [5d Td 6c]
+yogiberra14: checks 
+aazaa: bets $1
+yogiberra14: calls $1
+*** TURN *** [5d Td 6c] [7d]
+yogiberra14: checks 
+aazaa: checks 
+*** RIVER *** [5d Td 6c 7d] [9d]
+yogiberra14: bets $1.50
+aazaa: folds 
+Uncalled bet ($1.50) returned to yogiberra14
+yogiberra14 collected $3.44 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [5d Td 6c 7d 9d]
+Seat 2: aazaa folded on the River
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: Bonehead1977 (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) collected ($3.44)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172863397:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:18:33 CET [2013/08/24 14:18:33 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 2: aazaa ($23.25 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: Bonehead1977 ($5.20 in chips) 
+Seat 5: yogiberra14 ($29.76 in chips) 
+Seat 6: DrInfinity ($43.87 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+Sir_Gambito: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [9d 2s]
+aazaa: folds 
+LucKsTarWSOP: raises $0.50 to $0.75
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+Uncalled bet ($0.50) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP collected ($0.60)
+Seat 4: Bonehead1977 (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) folded before Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172874371:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:18:47 CET [2013/08/24 14:18:47 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($12.50 in chips) 
+Seat 2: aazaa ($23.25 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: Bonehead1977 ($5.20 in chips) 
+Seat 5: yogiberra14 ($29.66 in chips) 
+Seat 6: DrInfinity ($43.62 in chips) 
+DrInfinity: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9s Qh]
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+Uncalled bet ($0.15) returned to Sir_Gambito
+Sir_Gambito collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Sir_Gambito (big blind) collected ($0.20)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172890493:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:19:09 CET [2013/08/24 14:19:09 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($12.60 in chips) 
+Seat 2: aazaa ($23.25 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: Bonehead1977 ($5.20 in chips) 
+Seat 5: yogiberra14 ($29.66 in chips) 
+Seat 6: DrInfinity ($43.52 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 2s]
+LucKsTarWSOP: folds 
+Bonehead1977: folds 
+yogiberra14: raises $0.50 to $0.75
+DrInfinity: raises $1.25 to $2
+Sir_Gambito: folds 
+aazaa: folds 
+yogiberra14: folds 
+Uncalled bet ($1.25) returned to DrInfinity
+DrInfinity collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: Bonehead1977 folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop
+Seat 6: DrInfinity (button) collected ($1.85)
+
+
+
+PokerStars Hand #103172903832:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:19:27 CET [2013/08/24 14:19:27 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($12.50 in chips) 
+Seat 2: aazaa ($23 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: Bonehead1977 ($5.20 in chips) 
+Seat 5: yogiberra14 ($28.91 in chips) 
+Seat 6: DrInfinity ($44.62 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8s 9c]
+Bonehead1977: raises $0.25 to $0.50
+yogiberra14: folds 
+DrInfinity: raises $0.75 to $1.25
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bonehead1977: calls $0.75
+*** FLOP *** [5d Qs 6s]
+Bonehead1977: checks 
+DrInfinity: bets $1
+Bonehead1977: raises $1 to $2
+DrInfinity: raises $3 to $5
+Bonehead1977: calls $1.95 and is all-in
+Uncalled bet ($1.05) returned to DrInfinity
+*** TURN *** [5d Qs 6s] [Ah]
+*** RIVER *** [5d Qs 6s Ah] [9h]
+*** SHOW DOWN ***
+Bonehead1977: shows [Qh 8h] (a pair of Queens)
+DrInfinity: shows [Kh Kc] (a pair of Kings)
+DrInfinity collected $10.27 from pot
+*** SUMMARY ***
+Total pot $10.75 | Rake $0.48 
+Board [5d Qs 6s Ah 9h]
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: Bonehead1977 showed [Qh 8h] and lost with a pair of Queens
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity showed [Kh Kc] and won ($10.27) with a pair of Kings
+
+
+
+PokerStars Hand #103172933925:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:20:08 CET [2013/08/24 14:20:08 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($12.50 in chips) 
+Seat 2: aazaa ($22.90 in chips) 
+Seat 3: LucKsTarWSOP ($25.10 in chips) 
+Seat 5: yogiberra14 ($28.91 in chips) 
+Seat 6: DrInfinity ($49.69 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ac Jh]
+DrInfinity: raises $0.50 to $0.75
+Bonehead1977 leaves the table
+Sir_Gambito: folds 
+WolfMe$$ing joins the table at seat #4 
+aazaa: calls $0.75
+LucKsTarWSOP: folds 
+yogiberra14: calls $0.50
+*** FLOP *** [5s 7d 2c]
+yogiberra14: checks 
+DrInfinity: checks 
+aazaa: checks 
+*** TURN *** [5s 7d 2c] [2s]
+yogiberra14: bets $1.50
+DrInfinity: folds 
+aazaa: calls $1.50
+*** RIVER *** [5s 7d 2c 2s] [4s]
+yogiberra14: bets $2.75
+aazaa: calls $2.75
+*** SHOW DOWN ***
+yogiberra14: shows [Qd Ts] (a pair of Deuces)
+aazaa: shows [Ac Jh] (a pair of Deuces - Ace kicker)
+aazaa collected $10.36 from pot
+*** SUMMARY ***
+Total pot $10.85 | Rake $0.49 
+Board [5s 7d 2c 2s 4s]
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa (button) showed [Ac Jh] and won ($10.36) with a pair of Deuces
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) showed [Qd Ts] and lost with a pair of Deuces
+Seat 6: DrInfinity folded on the Turn
+
+
+
+PokerStars Hand #103172975996:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:21:05 CET [2013/08/24 14:21:05 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($12.50 in chips) 
+Seat 2: aazaa ($28.26 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.94 in chips) 
+WolfMe$$ing will be allowed to play after the button
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4h Jh]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+yogiberra14 said, "stu pid re tard moron"
+yogiberra14: calls $0.15
+DrInfinity: checks 
+*** FLOP *** [8c 8s Jd]
+yogiberra14: bets $0.50
+DrInfinity: calls $0.50
+*** TURN *** [8c 8s Jd] [Kh]
+yogiberra14: bets $1
+DrInfinity: folds 
+Uncalled bet ($1) returned to yogiberra14
+yogiberra14 collected $1.43 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [8c 8s Jd Kh]
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) collected ($1.43)
+Seat 6: DrInfinity (big blind) folded on the Turn
+
+
+
+PokerStars Hand #103172999446:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:21:37 CET [2013/08/24 14:21:37 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($12.50 in chips) 
+Seat 2: aazaa ($28.26 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 5: yogiberra14 ($25.68 in chips) 
+Seat 6: DrInfinity ($48.19 in chips) 
+DrInfinity: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+WolfMe$$ing: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [9c Td]
+aazaa: folds 
+LucKsTarWSOP: folds 
+yogiberra14: raises $0.50 to $0.75
+DrInfinity: folds 
+Sir_Gambito: folds 
+Uncalled bet ($0.50) returned to yogiberra14
+yogiberra14 collected $0.60 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) collected ($0.60)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173021517:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:22:06 CET [2013/08/24 14:22:06 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($12.25 in chips) 
+Seat 2: aazaa ($28.26 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 5: yogiberra14 ($26.03 in chips) 
+Seat 6: DrInfinity ($48.09 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+WolfMe$$ing: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Td 9d]
+LucKsTarWSOP: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.37
+*** FLOP *** [5c 2d Qh]
+Sir_Gambito: bets $1
+aazaa: folds 
+Uncalled bet ($1) returned to Sir_Gambito
+Sir_Gambito collected $1.18 from pot
+*** SUMMARY ***
+Total pot $1.24 | Rake $0.06 
+Board [5c 2d Qh]
+Seat 1: Sir_Gambito (small blind) collected ($1.18)
+Seat 2: aazaa (big blind) folded on the Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173046487:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:22:41 CET [2013/08/24 14:22:41 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($27.64 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 5: yogiberra14 ($26.03 in chips) 
+Seat 6: DrInfinity ($48.09 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+WolfMe$$ing: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [8h Jd]
+yogiberra14: folds 
+DrInfinity: raises $0.50 to $0.75
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to DrInfinity
+DrInfinity collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity collected ($0.60)
+
+
+
+PokerStars Hand #103173057298:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:22:56 CET [2013/08/24 14:22:56 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($27.54 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($25 in chips) 
+Seat 5: yogiberra14 ($26.03 in chips) 
+Seat 6: DrInfinity ($48.44 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5c 6s]
+yogiberra14: raises $0.75 to $1
+DrInfinity: folds 
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: calls $0.75
+*** FLOP *** [5d 4s Jh]
+WolfMe$$ing: checks 
+yogiberra14: bets $1.50
+WolfMe$$ing: raises $2.50 to $4
+yogiberra14: folds 
+Uncalled bet ($2.50) returned to WolfMe$$ing
+WolfMe$$ing collected $4.87 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.10 | Rake $0.23 
+Board [5d 4s Jh]
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) collected ($4.87)
+Seat 5: yogiberra14 folded on the Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173083704:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:23:32 CET [2013/08/24 14:23:32 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($27.54 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($27.37 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.44 in chips) 
+WolfMe$$ing: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6s Js]
+DrInfinity: folds 
+Sir_Gambito: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+yogiberra14: folds 
+Uncalled bet ($0.50) returned to Sir_Gambito
+Sir_Gambito collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito collected ($0.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) folded before Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173101675:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:23:57 CET [2013/08/24 14:23:57 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($13.16 in chips) 
+Seat 2: aazaa ($27.54 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($27.27 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.44 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6s 2h]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) collected ($0.60)
+Seat 5: yogiberra14 (small blind) folded before Flop
+Seat 6: DrInfinity (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173114690:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:24:15 CET [2013/08/24 14:24:15 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($13.16 in chips) 
+Seat 2: aazaa ($27.54 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($27.62 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.19 in chips) 
+DrInfinity: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [As Ac]
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+yogiberra14: folds 
+DrInfinity: folds 
+Sir_Gambito: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa collected ($0.60)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+Seat 6: DrInfinity (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173141517:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:24:51 CET [2013/08/24 14:24:51 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($12.91 in chips) 
+Seat 2: aazaa ($27.89 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($27.62 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.09 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ad Td]
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+yogiberra14: folds 
+DrInfinity: folds 
+Sir_Gambito: folds 
+aazaa: calls $0.50
+*** FLOP *** [Qc 2d As]
+aazaa: checks 
+WolfMe$$ing: bets $0.75
+aazaa: calls $0.75
+*** TURN *** [Qc 2d As] [Tc]
+aazaa: checks 
+WolfMe$$ing: bets $2.25
+aazaa: calls $2.25
+*** RIVER *** [Qc 2d As Tc] [2s]
+aazaa: checks 
+WolfMe$$ing: bets $7.25
+aazaa: calls $7.25
+*** SHOW DOWN ***
+WolfMe$$ing: shows [Qd Qh] (a full house, Queens full of Deuces)
+aazaa: mucks hand 
+WolfMe$$ing collected $21.11 from pot
+*** SUMMARY ***
+Total pot $22.10 | Rake $0.99 
+Board [Qc 2d As Tc 2s]
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) mucked [Ad Td]
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing showed [Qd Qh] and won ($21.11) with a full house, Queens full of Deuces
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173218196:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:26:37 CET [2013/08/24 14:26:37 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($16.89 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($37.73 in chips) 
+Seat 5: yogiberra14 ($25 in chips) 
+Seat 6: DrInfinity ($48.09 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6d 5c]
+WolfMe$$ing: folds 
+yogiberra14: calls $0.25
+DrInfinity: folds 
+Sir_Gambito: folds 
+aazaa: calls $0.15
+LucKsTarWSOP: checks 
+*** FLOP *** [2d 4c Qs]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: bets $0.50
+aazaa: calls $0.50
+LucKsTarWSOP: calls $0.50
+*** TURN *** [2d 4c Qs] [Kh]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: checks 
+*** RIVER *** [2d 4c Qs Kh] [7s]
+aazaa: checks 
+LucKsTarWSOP: checks 
+yogiberra14: bets $3.50
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($3.50) returned to yogiberra14
+yogiberra14 collected $2.15 from pot
+yogiberra14: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.25 | Rake $0.10 
+Board [2d 4c Qs Kh 7s]
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded on the River
+Seat 3: LucKsTarWSOP (big blind) folded on the River
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: yogiberra14 collected ($2.15)
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173285953:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:28:10 CET [2013/08/24 14:28:10 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($24.35 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($37.73 in chips) 
+Seat 5: yogiberra14 ($26.40 in chips) 
+Seat 6: DrInfinity ($48.09 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8s 5c]
+yogiberra14: folds 
+DrInfinity: raises $0.50 to $0.75
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.50) returned to DrInfinity
+DrInfinity collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+Seat 6: DrInfinity collected ($0.60)
+
+
+
+PokerStars Hand #103173298499:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:28:27 CET [2013/08/24 14:28:27 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($24.35 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($37.48 in chips) 
+Seat 5: yogiberra14 ($26.40 in chips) 
+Seat 6: DrInfinity ($48.44 in chips) 
+WolfMe$$ing: posts small blind $0.10
+yogiberra14: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 5c]
+DrInfinity: folds 
+Sir_Gambito has timed out
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+WolfMe$$ing: folds 
+yogiberra14: folds 
+Uncalled bet ($0.37) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) collected ($0.60)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: yogiberra14 (big blind) folded before Flop
+Seat 6: DrInfinity folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173324981:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:29:04 CET [2013/08/24 14:29:04 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($12.81 in chips) 
+Seat 2: aazaa ($24.35 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($37.38 in chips) 
+Seat 5: yogiberra14 ($26.15 in chips) 
+yogiberra14: posts small blind $0.10
+DrInfinity: is sitting out 
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 4c]
+aazaa: folds 
+DrInfinity leaves the table
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+yogiberra14: calls $0.15
+Sir_Gambito: raises $0.75 to $1
+yogiberra14: folds 
+Uncalled bet ($0.75) returned to Sir_Gambito
+Sir_Gambito collected $0.50 from pot
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Sir_Gambito (big blind) collected ($0.50)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: yogiberra14 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173339428:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:29:24 CET [2013/08/24 14:29:24 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($13.06 in chips) 
+Seat 2: aazaa ($24.35 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($37.38 in chips) 
+Seat 5: yogiberra14 ($25.90 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 2c]
+csubakoppany joins the table at seat #6 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+yogiberra14: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.37
+*** FLOP *** [3c 4d Qc]
+Sir_Gambito: bets $1
+aazaa: calls $1
+*** TURN *** [3c 4d Qc] [7c]
+Sir_Gambito: checks 
+aazaa: bets $2
+Sir_Gambito: folds 
+Uncalled bet ($2) returned to aazaa
+aazaa collected $3.09 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.24 | Rake $0.15 
+Board [3c 4d Qc 7c]
+Seat 1: Sir_Gambito (small blind) folded on the Turn
+Seat 2: aazaa (big blind) collected ($3.09)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: yogiberra14 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173387078:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:30:28 CET [2013/08/24 14:30:28 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($11.44 in chips) 
+Seat 2: aazaa ($25.82 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($37.38 in chips) 
+Seat 5: yogiberra14 ($25.90 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [6d Ts]
+WolfMe$$ing: raises $0.50 to $0.75
+yogiberra14: folds 
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing collected ($0.60)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173399937:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:30:46 CET [2013/08/24 14:30:46 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($11.44 in chips) 
+Seat 2: aazaa ($25.72 in chips) 
+Seat 3: LucKsTarWSOP ($25.10 in chips) 
+Seat 4: WolfMe$$ing ($37.73 in chips) 
+Seat 5: yogiberra14 ($25.90 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [4c 3d]
+yogiberra14: folds 
+yogiberra14 leaves the table
+HowIRollWIN joins the table at seat #5 
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.15) returned to WolfMe$$ing
+WolfMe$$ing collected $0.20 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) collected ($0.20)
+Seat 5: yogiberra14 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173410928:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:31:00 CET [2013/08/24 14:31:00 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($11.44 in chips) 
+Seat 2: aazaa ($25.72 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($37.83 in chips) 
+Seat 5: HowIRollWIN ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+HowIRollWIN: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Tc 2s]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+WolfMe$$ing: folds 
+HowIRollWIN: folds 
+Uncalled bet ($0.37) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) collected ($0.60)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: HowIRollWIN (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173420880:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:31:14 CET [2013/08/24 14:31:14 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($11.44 in chips) 
+Seat 2: aazaa ($25.72 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($37.73 in chips) 
+Seat 5: HowIRollWIN ($25 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+HowIRollWIN: posts small blind $0.10
+csubakoppany: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h 7h]
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $1.85 to $2.60
+HowIRollWIN: folds 
+csubakoppany: folds 
+aazaa: folds 
+Uncalled bet ($1.85) returned to WolfMe$$ing
+WolfMe$$ing collected $1.85 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) collected ($1.85)
+Seat 5: HowIRollWIN (small blind) folded before Flop
+Seat 6: csubakoppany (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173443851:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:31:44 CET [2013/08/24 14:31:44 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($11.44 in chips) 
+Seat 2: aazaa ($24.97 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 5: HowIRollWIN ($25 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+csubakoppany: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jd Ac]
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+HowIRollWIN: calls $0.75
+csubakoppany: folds 
+Sir_Gambito: folds 
+*** FLOP *** [Kh Ts 5h]
+aazaa: checks 
+HowIRollWIN: bets $1.20
+aazaa: folds 
+Uncalled bet ($1.20) returned to HowIRollWIN
+HowIRollWIN collected $1.77 from pot
+HowIRollWIN: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [Kh Ts 5h]
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa folded on the Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: HowIRollWIN (button) collected ($1.77)
+Seat 6: csubakoppany (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173469131:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:32:19 CET [2013/08/24 14:32:19 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($11.19 in chips) 
+Seat 2: aazaa ($24.22 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 5: HowIRollWIN ($26.02 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7s 6s]
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+HowIRollWIN: folds 
+csubakoppany: folds 
+HowIRollWIN leaves the table
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.37
+*** FLOP *** [Ac 5c 3s]
+Sir_Gambito: bets $1
+aazaa: calls $1
+*** TURN *** [Ac 5c 3s] [9c]
+Sir_Gambito: checks 
+aazaa: bets $1.50
+Sir_Gambito: folds 
+Uncalled bet ($1.50) returned to aazaa
+aazaa collected $3.09 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.24 | Rake $0.15 
+Board [Ac 5c 3s 9c]
+Seat 1: Sir_Gambito (small blind) folded on the Turn
+Seat 2: aazaa (big blind) collected ($3.09)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: HowIRollWIN folded before Flop (didn't bet)
+Seat 6: csubakoppany (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173513216:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:33:18 CET [2013/08/24 14:33:18 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($9.57 in chips) 
+Seat 2: aazaa ($25.69 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 5c]
+WolfMe$$ing: folds 
+csubakoppany: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.37) returned to Sir_Gambito
+Sir_Gambito collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (button) collected ($0.60)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173523514:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:33:32 CET [2013/08/24 14:33:32 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($9.92 in chips) 
+Seat 2: aazaa ($25.59 in chips) 
+Seat 3: LucKsTarWSOP ($25.10 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd Jd]
+csubakoppany: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.62
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+*** FLOP *** [Th 5c 8c]
+Sir_Gambito: bets $1
+aazaa: calls $1
+*** TURN *** [Th 5c 8c] [7s]
+Sir_Gambito: bets $2.50
+aazaa: folds 
+Uncalled bet ($2.50) returned to Sir_Gambito
+Sir_Gambito collected $3.43 from pot
+*** SUMMARY ***
+Total pot $3.59 | Rake $0.16 
+Board [Th 5c 8c 7s]
+Seat 1: Sir_Gambito collected ($3.43)
+Seat 2: aazaa (button) folded on the Turn
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173552203:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:34:10 CET [2013/08/24 14:34:10 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($11.73 in chips) 
+Seat 2: aazaa ($23.97 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.58 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+csubakoppany: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4c 7c]
+Sir_Gambito: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+csubakoppany: folds 
+Uncalled bet ($0.50) returned to Sir_Gambito
+Sir_Gambito collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito collected ($0.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 6: csubakoppany (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173570643:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:34:35 CET [2013/08/24 14:34:35 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($12.08 in chips) 
+Seat 2: aazaa ($23.97 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.48 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+csubakoppany: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7d 7h]
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+csubakoppany: folds 
+Sir_Gambito: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa collected ($0.60)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 6: csubakoppany (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173589420:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:01 CET [2013/08/24 14:35:01 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($11.83 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.48 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks 3h]
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+csubakoppany: folds 
+Sir_Gambito: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing collected ($0.60)
+Seat 6: csubakoppany (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173599768:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:15 CET [2013/08/24 14:35:15 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($11.73 in chips) 
+Seat 2: aazaa ($24.07 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4s Tc]
+WolfMe$$ing: folds 
+csubakoppany: raises $0.50 to $0.75
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to csubakoppany
+csubakoppany collected $0.60 from pot
+csubakoppany: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 6: csubakoppany collected ($0.60)
+
+
+
+PokerStars Hand #103173615849:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:37 CET [2013/08/24 14:35:37 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($11.73 in chips) 
+Seat 2: aazaa ($23.97 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+Seat 6: csubakoppany ($25.35 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2h Qs]
+csubakoppany: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.37) returned to Sir_Gambito
+Sir_Gambito collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito collected ($0.60)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173629121:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:55 CET [2013/08/24 14:35:55 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($12.08 in chips) 
+Seat 2: aazaa ($23.97 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.58 in chips) 
+WolfMe$$ing: posts small blind $0.10
+csubakoppany: is sitting out 
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kc Jh]
+csubakoppany leaves the table
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Sir_Gambito: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa collected ($0.60)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173647884:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:36:20 CET [2013/08/24 14:36:20 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($11.83 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.48 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9s 7c]
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+Sir_Gambito: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) collected ($0.60)
+
+
+
+PokerStars Hand #103173667478:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:36:46 CET [2013/08/24 14:36:46 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($11.73 in chips) 
+Seat 2: aazaa ($24.07 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Js Jh]
+WolfMe$$ing: folds 
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.50 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) collected ($0.50)
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173675430:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:36:57 CET [2013/08/24 14:36:57 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($11.73 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3c Kd]
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.37) returned to Sir_Gambito
+Sir_Gambito collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito collected ($0.60)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173682639:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:07 CET [2013/08/24 14:37:07 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($12.08 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.58 in chips) 
+WolfMe$$ing: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qc 2d]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.15) returned to Sir_Gambito
+Sir_Gambito collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Sir_Gambito (big blind) collected ($0.20)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173692944:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:21 CET [2013/08/24 14:37:21 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($12.18 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.48 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4d As]
+Bajic5 joins the table at seat #6 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+Sir_Gambito: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) collected ($0.60)
+
+
+
+PokerStars Hand #103173707993:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:41 CET [2013/08/24 14:37:41 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($12.08 in chips) 
+Seat 2: aazaa ($24.07 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+wolthers21 joins the table at seat #5 
+Bajic5: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Kd 6s]
+WolfMe$$ing: folds 
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.50 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Sir_Gambito (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) collected ($0.50)
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173742616:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:38:28 CET [2013/08/24 14:38:28 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($12.08 in chips) 
+Seat 2: aazaa ($24.32 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($38.83 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+wolthers21: sits out 
+Bajic5: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [9c Kh]
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.62
+LucKsTarWSOP: folds 
+WolfMe$$ing: calls $0.37
+*** FLOP *** [2s Qh Ts]
+WolfMe$$ing: bets $1.25
+Sir_Gambito: folds 
+aazaa: folds 
+Uncalled bet ($1.25) returned to WolfMe$$ing
+WolfMe$$ing collected $1.87 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.96 | Rake $0.09 
+Board [2s Qh Ts]
+Seat 1: Sir_Gambito folded on the Flop
+Seat 2: aazaa (button) folded on the Flop
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) collected ($1.87)
+
+
+
+PokerStars Hand #103173769246:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:04 CET [2013/08/24 14:39:04 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($11.46 in chips) 
+Seat 2: aazaa ($23.70 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($40.08 in chips) 
+Seat 5: wolthers21 ($12.42 in chips) 
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+Bajic5: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Qc Ac]
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: calls $0.50
+*** FLOP *** [4c 4d 7d]
+wolthers21: checks 
+aazaa: bets $0.75
+wolthers21: folds 
+Uncalled bet ($0.75) returned to aazaa
+aazaa collected $1.53 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [4c 4d 7d]
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa collected ($1.53)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: wolthers21 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103173789316:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:31 CET [2013/08/24 14:39:31 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($11.46 in chips) 
+Seat 2: aazaa ($24.48 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.67 in chips) 
+Seat 6: Bajic5 ($25 in chips) 
+wolthers21: posts small blind $0.10
+Bajic5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7s 5c]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+wolthers21: folds 
+Bajic5: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) collected ($0.60)
+Seat 5: wolthers21 (small blind) folded before Flop
+Seat 6: Bajic5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173806606:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:55 CET [2013/08/24 14:39:55 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($11.46 in chips) 
+Seat 2: aazaa ($24.48 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($40.33 in chips) 
+Seat 5: wolthers21 ($11.57 in chips) 
+Seat 6: Bajic5 ($24.75 in chips) 
+Bajic5: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5d Ks]
+aazaa: folds 
+LucKsTarWSOP: raises $0.62 to $0.87
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: folds 
+Sir_Gambito: raises $1.13 to $2
+LucKsTarWSOP: folds 
+Uncalled bet ($1.13) returned to Sir_Gambito
+Sir_Gambito collected $1.84 from pot
+*** SUMMARY ***
+Total pot $1.84 | Rake $0 
+Seat 1: Sir_Gambito (big blind) collected ($1.84)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 (button) folded before Flop (didn't bet)
+Seat 6: Bajic5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173827030:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:23 CET [2013/08/24 14:40:23 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($12.43 in chips) 
+Seat 2: aazaa ($24.48 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($40.33 in chips) 
+Seat 5: wolthers21 ($11.57 in chips) 
+Seat 6: Bajic5 ($24.65 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qh 9s]
+LucKsTarWSOP: raises $0.75 to $1
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: folds 
+Sir_Gambito: folds 
+aazaa: folds 
+Uncalled bet ($0.75) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP collected ($0.60)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: Bajic5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173837938:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:38 CET [2013/08/24 14:40:38 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($12.33 in chips) 
+Seat 2: aazaa ($24.23 in chips) 
+Seat 3: LucKsTarWSOP ($25.35 in chips) 
+Seat 4: WolfMe$$ing ($40.33 in chips) 
+Seat 5: wolthers21 ($11.57 in chips) 
+Seat 6: Bajic5 ($24.65 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 5c]
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: calls $0.25
+Sir_Gambito: raises $0.75 to $1
+aazaa: folds 
+LucKsTarWSOP: folds 
+Bajic5: folds 
+Uncalled bet ($0.75) returned to Sir_Gambito
+Sir_Gambito collected $0.85 from pot
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: Sir_Gambito (button) collected ($0.85)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: Bajic5 folded before Flop
+
+
+
+PokerStars Hand #103173851225:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:56 CET [2013/08/24 14:40:56 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($12.93 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25.10 in chips) 
+Seat 4: WolfMe$$ing ($40.33 in chips) 
+Seat 5: wolthers21 ($11.57 in chips) 
+Seat 6: Bajic5 ($24.40 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kh 6c]
+wolthers21: folds 
+Bajic5: calls $0.25
+Sir_Gambito: raises $0.75 to $1
+aazaa: folds 
+LucKsTarWSOP: raises $2.25 to $3.25
+WolfMe$$ing: folds 
+Bajic5: folds 
+Sir_Gambito: folds 
+Uncalled bet ($2.25) returned to LucKsTarWSOP
+LucKsTarWSOP collected $2.50 from pot
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) collected ($2.50)
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: Bajic5 folded before Flop
+
+
+
+PokerStars Hand #103173879914:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:41:35 CET [2013/08/24 14:41:35 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($11.93 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.60 in chips) 
+Seat 4: WolfMe$$ing ($40.08 in chips) 
+Seat 5: wolthers21 ($11.57 in chips) 
+Seat 6: Bajic5 ($24.15 in chips) 
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jc Js]
+Bajic5: folds 
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa collected ($0.60)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: wolthers21 (big blind) folded before Flop
+Seat 6: Bajic5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173892149:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:41:52 CET [2013/08/24 14:41:52 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($11.93 in chips) 
+Seat 2: aazaa ($24.48 in chips) 
+Seat 3: LucKsTarWSOP ($26.60 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.32 in chips) 
+Seat 6: Bajic5 ($24.15 in chips) 
+wolthers21: posts small blind $0.10
+Bajic5: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [As 9h]
+Sir_Gambito: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: calls $0.50
+*** FLOP *** [2c 4d 8s]
+Bajic5: checks 
+aazaa: bets $1
+Bajic5: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.53 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [2c 4d 8s]
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa collected ($1.53)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: wolthers21 (small blind) folded before Flop
+Seat 6: Bajic5 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103173918638:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:42:28 CET [2013/08/24 14:42:28 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Sir_Gambito ($11.93 in chips) 
+Seat 2: aazaa ($25.26 in chips) 
+Seat 3: LucKsTarWSOP ($26.60 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: Bajic5 ($23.40 in chips) 
+Bajic5: posts small blind $0.10
+Sir_Gambito: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jd Td]
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: calls $0.65
+Sir_Gambito: folds 
+*** FLOP *** [7d 8d 6c]
+Bajic5: checks 
+aazaa: bets $1
+Bajic5: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.67 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [7d 8d 6c]
+Seat 1: Sir_Gambito (big blind) folded before Flop
+Seat 2: aazaa collected ($1.67)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 (button) folded before Flop (didn't bet)
+Seat 6: Bajic5 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #103173937072:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:42:53 CET [2013/08/24 14:42:53 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Sir_Gambito ($11.68 in chips) 
+Seat 2: aazaa ($26.18 in chips) 
+Seat 3: LucKsTarWSOP ($26.60 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: Bajic5 ($22.65 in chips) 
+Sir_Gambito: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3h Ad]
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: raises $0.88 to $1.50
+Sir_Gambito: folds 
+Uncalled bet ($0.88) returned to aazaa
+aazaa collected $1.24 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.24 | Rake $0 
+Seat 1: Sir_Gambito (small blind) folded before Flop
+Seat 2: aazaa (big blind) collected ($1.24)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: Bajic5 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173954131:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:43:16 CET [2013/08/24 14:43:16 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Sir_Gambito ($11.06 in chips) 
+Seat 2: aazaa ($26.80 in chips) 
+Seat 3: LucKsTarWSOP ($26.60 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: Bajic5 ($22.65 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3s 6s]
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bajic5: folds 
+Sir_Gambito: raises $0.37 to $0.62
+Bajic5 leaves the table
+aazaa: folds 
+LucKsTarWSOP: calls $0.37
+*** FLOP *** [Kh Jc Ks]
+LucKsTarWSOP: checks 
+Sir_Gambito: bets $0.75
+LucKsTarWSOP: folds 
+Uncalled bet ($0.75) returned to Sir_Gambito
+Sir_Gambito collected $1.28 from pot
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [Kh Jc Ks]
+Seat 1: Sir_Gambito (button) collected ($1.28)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded on the Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: Bajic5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174002630:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:44:22 CET [2013/08/24 14:44:22 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Sir_Gambito ($11.72 in chips) 
+Seat 2: aazaa ($26.70 in chips) 
+Seat 3: LucKsTarWSOP ($25.98 in chips) 
+Seat 4: WolfMe$$ing ($39.98 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jc Kc]
+wolthers21: folds 
+Sir_Gambito: raises $0.37 to $0.62
+aazaa: calls $0.62
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+*** FLOP *** [Td Th Ah]
+kaburov joins the table at seat #6 
+Sir_Gambito: bets $1
+aazaa: raises $1.75 to $2.75
+Sir_Gambito: raises $8.35 to $11.10 and is all-in
+aazaa: folds 
+Uncalled bet ($8.35) returned to Sir_Gambito
+Sir_Gambito collected $6.77 from pot
+*** SUMMARY ***
+Total pot $7.09 | Rake $0.32 
+Board [Td Th Ah]
+Seat 1: Sir_Gambito collected ($6.77)
+Seat 2: aazaa (button) folded on the Flop
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: wolthers21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174030506:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:45:00 CET [2013/08/24 14:45:00 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Sir_Gambito ($15.12 in chips) 
+Seat 2: aazaa ($23.33 in chips) 
+Seat 3: LucKsTarWSOP ($25.88 in chips) 
+Seat 4: WolfMe$$ing ($39.73 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+kaburov: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 3h]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+WolfMe$$ing: folds 
+wolthers21: folds 
+Uncalled bet ($0.37) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) collected ($0.60)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: wolthers21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174045451:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:45:21 CET [2013/08/24 14:45:21 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Sir_Gambito ($15.12 in chips) 
+Seat 2: aazaa ($23.33 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.97 in chips) 
+Seat 6: kaburov ($25 in chips) 
+wolthers21: posts small blind $0.10
+kaburov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8h 6c]
+Sir_Gambito: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.50 to $0.75
+WolfMe$$ing: folds 
+wolthers21: folds 
+kaburov: folds 
+Uncalled bet ($0.50) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Sir_Gambito folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP collected ($0.60)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: wolthers21 (small blind) folded before Flop
+Seat 6: kaburov (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174057868:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:45:38 CET [2013/08/24 14:45:38 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 2: aazaa ($23.33 in chips) 
+Seat 3: LucKsTarWSOP ($26.58 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.87 in chips) 
+Seat 6: kaburov ($25 in chips) 
+kaburov: posts small blind $0.10
+Sir_Gambito: is sitting out 
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 4h]
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Sir_Gambito leaves the table
+kaburov: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: aazaa (big blind) collected ($0.20)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 (button) folded before Flop (didn't bet)
+Seat 6: kaburov (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174065718:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:45:49 CET [2013/08/24 14:45:49 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 2: aazaa ($23.43 in chips) 
+Seat 3: LucKsTarWSOP ($26.58 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.87 in chips) 
+Seat 6: kaburov ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2h 6h]
+WolfMe$$ing: folds 
+wolthers21: folds 
+kaburov: folds 
+aazaa: raises $0.50 to $0.75
+Excustoms joins the table at seat #1 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.50 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: aazaa (small blind) collected ($0.50)
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: kaburov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174086533:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:46:17 CET [2013/08/24 14:46:17 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 2: aazaa ($23.68 in chips) 
+Seat 3: LucKsTarWSOP ($26.33 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.87 in chips) 
+Seat 6: kaburov ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+Excustoms: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Td 2c]
+wolthers21: raises $0.75 to $1
+kaburov: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.75) returned to wolthers21
+wolthers21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: wolthers21 collected ($0.60)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174099337:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:46:35 CET [2013/08/24 14:46:35 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 2: aazaa ($23.68 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.38 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: kaburov ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+Excustoms: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [3d 2c]
+Excustoms leaves the table
+kaburov: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+wolthers21: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.50 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) collected ($0.50)
+Seat 5: wolthers21 (big blind) folded before Flop
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174120780:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:04 CET [2013/08/24 14:47:04 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 2: aazaa ($23.68 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.97 in chips) 
+Seat 6: kaburov ($25 in chips) 
+wolthers21: posts small blind $0.10
+kaburov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2s 6d]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Uncalled bet ($0.15) returned to kaburov
+Bambila666 joins the table at seat #1 
+kaburov collected $0.20 from pot
+kaburov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: wolthers21 (small blind) folded before Flop
+Seat 6: kaburov (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #103174130883:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:18 CET [2013/08/24 14:47:18 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Bambila666 ($20 in chips) 
+Seat 2: aazaa ($23.68 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($10.87 in chips) 
+Seat 6: kaburov ($25.10 in chips) 
+kaburov: posts small blind $0.10
+Bambila666: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7c 8h]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: raises $0.75 to $1
+kaburov: folds 
+Bambila666: folds 
+Uncalled bet ($0.75) returned to wolthers21
+wolthers21 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 (button) collected ($0.60)
+Seat 6: kaburov (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174149585:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:43 CET [2013/08/24 14:47:43 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Bambila666 ($19.75 in chips) 
+Seat 2: aazaa ($23.68 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: kaburov ($25 in chips) 
+Bambila666: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8c 3c]
+LucKsTarWSOP: raises $0.75 to $1
+WolfMe$$ing: folds 
+wolthers21: folds 
+kaburov: folds 
+Bambila666: folds 
+aazaa: folds 
+Uncalled bet ($0.75) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP collected ($0.60)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: kaburov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174162189:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:48:00 CET [2013/08/24 14:48:00 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Bambila666 ($19.65 in chips) 
+Seat 2: aazaa ($23.43 in chips) 
+Seat 3: LucKsTarWSOP ($26.58 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: kaburov ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9s 2c]
+WolfMe$$ing: folds 
+wolthers21: folds 
+kaburov: folds 
+Bambila666: raises $0.25 to $0.50
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.25) returned to Bambila666
+Bambila666 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 (button) collected ($0.60)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174176728:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:48:20 CET [2013/08/24 14:48:20 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Bambila666 ($20 in chips) 
+Seat 2: aazaa ($23.33 in chips) 
+Seat 3: LucKsTarWSOP ($26.33 in chips) 
+Seat 4: WolfMe$$ing ($39.63 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: kaburov ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Js Jd]
+wolthers21: folds 
+kaburov: raises $0.50 to $0.75
+Bambila666: folds 
+aazaa: calls $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+*** FLOP *** [3c Kc Kd]
+kaburov: checks 
+aazaa: bets $1
+kaburov: calls $1
+*** TURN *** [3c Kc Kd] [Jc]
+kaburov: checks 
+aazaa: bets $2.50
+kaburov: calls $2.50
+*** RIVER *** [3c Kc Kd Jc] [8h]
+kaburov: checks 
+aazaa: bets $7
+kaburov: calls $7
+*** SHOW DOWN ***
+aazaa: shows [Js Jd] (a full house, Jacks full of Kings)
+kaburov: mucks hand 
+aazaa collected $21.82 from pot
+*** SUMMARY ***
+Total pot $22.85 | Rake $1.03 
+Board [3c Kc Kd Jc 8h]
+Seat 1: Bambila666 folded before Flop (didn't bet)
+Seat 2: aazaa (button) showed [Js Jd] and won ($21.82) with a full house, Jacks full of Kings
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: wolthers21 folded before Flop (didn't bet)
+Seat 6: kaburov mucked [5c Ac]
+
+
+
+PokerStars Hand #103174248910:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:49:59 CET [2013/08/24 14:49:59 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Bambila666 ($20 in chips) 
+Seat 2: aazaa ($33.90 in chips) 
+Seat 3: LucKsTarWSOP ($26.23 in chips) 
+Seat 4: WolfMe$$ing ($39.38 in chips) 
+Seat 5: wolthers21 ($11.22 in chips) 
+Seat 6: kaburov ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5s 4s]
+kaburov: folds 
+Bambila666: raises $0.50 to $0.75
+aazaa: calls $0.75
+LucKsTarWSOP: raises $2.25 to $3
+WolfMe$$ing: raises $5.25 to $8.25
+wolthers21: raises $2.97 to $11.22 and is all-in
+Bambila666: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: calls $2.97
+*** FLOP *** [6c 2s Kd]
+*** TURN *** [6c 2s Kd] [Qh]
+*** RIVER *** [6c 2s Kd Qh] [Jc]
+*** SHOW DOWN ***
+WolfMe$$ing: shows [Ah Jd] (a pair of Jacks)
+wolthers21: shows [Ks Kh] (three of a kind, Kings)
+wolthers21 collected $25.73 from pot
+*** SUMMARY ***
+Total pot $26.94 | Rake $1.21 
+Board [6c 2s Kd Qh Jc]
+Seat 1: Bambila666 folded before Flop
+Seat 2: aazaa folded before Flop
+Seat 3: LucKsTarWSOP (button) folded before Flop
+Seat 4: WolfMe$$ing (small blind) showed [Ah Jd] and lost with a pair of Jacks
+Seat 5: wolthers21 (big blind) showed [Ks Kh] and won ($25.73) with three of a kind, Kings
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174293746:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:01 CET [2013/08/24 14:51:01 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Bambila666 ($19.25 in chips) 
+Seat 2: aazaa ($33.15 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($28.16 in chips) 
+Seat 5: wolthers21 ($25.73 in chips) 
+wolthers21: posts small blind $0.10
+kaburov: is sitting out 
+Bambila666: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6d 8c]
+kaburov leaves the table
+aazaa: folds 
+csubakoppany joins the table at seat #6 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+wolthers21: folds 
+Bambila666: calls $0.50
+*** FLOP *** [2d 5d Ad]
+Bambila666: checks 
+WolfMe$$ing: bets $1
+Bambila666: calls $1
+*** TURN *** [2d 5d Ad] [Jd]
+Bambila666: checks 
+WolfMe$$ing: checks 
+*** RIVER *** [2d 5d Ad Jd] [Th]
+Bambila666: bets $2.50
+WolfMe$$ing: calls $2.50
+*** SHOW DOWN ***
+Bambila666: shows [Ac 7d] (a flush, Ace high)
+WolfMe$$ing: shows [Kc Qd] (a flush, Ace high - Queen higher)
+WolfMe$$ing collected $8.21 from pot
+*** SUMMARY ***
+Total pot $8.60 | Rake $0.39 
+Board [2d 5d Ad Jd Th]
+Seat 1: Bambila666 (big blind) showed [Ac 7d] and lost with a flush, Ace high
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) showed [Kc Qd] and won ($8.21) with a flush, Ace high
+Seat 5: wolthers21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174326281:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:45 CET [2013/08/24 14:51:45 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Bambila666 ($15 in chips) 
+Seat 2: aazaa ($33.15 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($32.12 in chips) 
+Seat 5: wolthers21 ($25.63 in chips) 
+csubakoppany will be allowed to play after the button
+Bambila666: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks Kd]
+LucKsTarWSOP has timed out
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+wolthers21: folds 
+Bambila666: raises $0.25 to $0.50
+aazaa: raises $0.75 to $1.25
+Bambila666: calls $0.75
+*** FLOP *** [5h 2d 9d]
+Bambila666: checks 
+aazaa: bets $1.80
+Bambila666: calls $1.80
+*** TURN *** [5h 2d 9d] [3c]
+Bambila666: checks 
+aazaa: bets $3
+Bambila666: calls $3
+*** RIVER *** [5h 2d 9d 3c] [Ac]
+Bambila666: checks 
+aazaa: bets $9
+Bambila666: calls $8.95 and is all-in
+Uncalled bet ($0.05) returned to aazaa
+*** SHOW DOWN ***
+aazaa: shows [Ks Kd] (a pair of Kings)
+Bambila666: shows [3h Ah] (two pair, Aces and Threes)
+Bambila666 collected $28.65 from pot
+*** SUMMARY ***
+Total pot $30 | Rake $1.35 
+Board [5h 2d 9d 3c Ac]
+Seat 1: Bambila666 (small blind) showed [3h Ah] and won ($28.65) with two pair, Aces and Threes
+Seat 2: aazaa (big blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: wolthers21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174378769:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:52:57 CET [2013/08/24 14:52:57 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Bambila666 ($28.65 in chips) 
+Seat 2: aazaa ($18.15 in chips) 
+Seat 4: WolfMe$$ing ($32.12 in chips) 
+Seat 5: wolthers21 ($25.63 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: is sitting out 
+WolfMe$$ing: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [As 6d]
+wolthers21: folds 
+Bambila666: calls $0.25
+aazaa: folds 
+WolfMe$$ing: raises $0.75 to $1
+Bambila666: calls $0.75
+*** FLOP *** [3d 5c 9s]
+WolfMe$$ing: checks 
+Bambila666: bets $1.50
+WolfMe$$ing: folds 
+Uncalled bet ($1.50) returned to Bambila666
+Bambila666 collected $2.01 from pot
+Bambila666: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.10 | Rake $0.09 
+Board [3d 5c 9s]
+Seat 1: Bambila666 (button) collected ($2.01)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded on the Flop
+Seat 5: wolthers21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174399265:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:53:25 CET [2013/08/24 14:53:25 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Bambila666 ($29.66 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.12 in chips) 
+Seat 5: wolthers21 ($25.63 in chips) 
+LucKsTarWSOP will be allowed to play after the button
+WolfMe$$ing: posts small blind $0.10
+wolthers21: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [3c Ah]
+Bambila666: folds 
+aazaa: raises $0.50 to $0.75
+WolfMe$$ing: raises $1.75 to $2.50
+wolthers21: folds 
+aazaa: folds 
+Uncalled bet ($1.75) returned to WolfMe$$ing
+wolthers21 leaves the table
+WolfMe$$ing collected $1.75 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Bambila666 folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop
+Seat 4: WolfMe$$ing (small blind) collected ($1.75)
+Seat 5: wolthers21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174415915:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:53:48 CET [2013/08/24 14:53:48 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Bambila666 ($29.66 in chips) 
+Seat 2: aazaa ($24.25 in chips) 
+Seat 4: WolfMe$$ing ($32.12 in chips) 
+csubakoppany will be allowed to play after the button
+Bambila666: posts small blind $0.10
+aazaa: posts big blind $0.25
+LucKsTarWSOP: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [4s Ad]
+WolfMe$$ing: raises $0.50 to $0.75
+Bambila666: calls $0.65
+aazaa: calls $0.50
+*** FLOP *** [5s Ac 8c]
+Bambila666: checks 
+RiggedAcount joins the table at seat #5 
+aazaa: bets $1.20
+WolfMe$$ing: folds 
+Bambila666: calls $1.20
+*** TURN *** [5s Ac 8c] [5d]
+Bambila666: checks 
+aazaa: bets $2.50
+Bambila666: calls $2.50
+*** RIVER *** [5s Ac 8c 5d] [Qh]
+Bambila666: checks 
+aazaa: bets $4
+Bambila666: calls $4
+*** SHOW DOWN ***
+aazaa: shows [4s Ad] (two pair, Aces and Fives)
+Bambila666: shows [Jd Ah] (two pair, Aces and Fives)
+Bambila666 collected $8.43 from pot
+aazaa collected $8.43 from pot
+*** SUMMARY ***
+Total pot $17.65 | Rake $0.79 
+Board [5s Ac 8c 5d Qh]
+Seat 1: Bambila666 (small blind) showed [Jd Ah] and won ($8.43) with two pair, Aces and Fives
+Seat 2: aazaa (big blind) showed [4s Ad] and won ($8.43) with two pair, Aces and Fives
+Seat 4: WolfMe$$ing (button) folded on the Flop
+
+
+
+PokerStars Hand #103174448022:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:32 CET [2013/08/24 14:54:32 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Bambila666 ($29.64 in chips) 
+Seat 2: aazaa ($24.23 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.37 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+RiggedAcount: sits out 
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [3s 8d]
+WolfMe$$ing: folds 
+Bambila666: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bambila666 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) collected ($0.20)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174456887:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:44 CET [2013/08/24 14:54:44 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Bambila666 ($29.64 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25.10 in chips) 
+Seat 4: WolfMe$$ing ($31.37 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+RiggedAcount: sits out 
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Jc 6s]
+Bambila666: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.50) returned to Bambila666
+Bambila666 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 collected ($0.60)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174477260:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:13 CET [2013/08/24 14:55:13 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Bambila666 ($29.99 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.12 in chips) 
+Seat 5: RiggedAcount ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+RiggedAcount: posts big blind $0.25
+csubakoppany: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Qh 4h]
+Bambila666: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+Uncalled bet ($0.50) returned to Bambila666
+Bambila666 collected $0.60 from pot
+Bambila666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 collected ($0.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: RiggedAcount (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174486872:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:33 CET [2013/08/24 14:55:33 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Bambila666 ($30.34 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.02 in chips) 
+Seat 5: RiggedAcount ($24.75 in chips) 
+Seat 6: csubakoppany ($25.35 in chips) 
+RiggedAcount: posts small blind $0.10
+csubakoppany: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3h 5d]
+Bambila666: raises $0.25 to $0.50
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+csubakoppany: folds 
+Uncalled bet ($0.25) returned to Bambila666
+Bambila666 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 collected ($0.60)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: RiggedAcount (small blind) folded before Flop
+Seat 6: csubakoppany (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174499803:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:59 CET [2013/08/24 14:55:59 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Bambila666 ($30.69 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.02 in chips) 
+Seat 5: RiggedAcount ($24.65 in chips) 
+Seat 6: csubakoppany ($25.10 in chips) 
+csubakoppany: posts small blind $0.10
+Bambila666: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jd 7s]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+csubakoppany: folds 
+Uncalled bet ($0.15) returned to Bambila666
+Bambila666 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bambila666 (big blind) collected ($0.20)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount (button) folded before Flop (didn't bet)
+Seat 6: csubakoppany (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174514913:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:56:30 CET [2013/08/24 14:56:30 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Bambila666 ($30.79 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.02 in chips) 
+Seat 5: RiggedAcount ($24.65 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+Bambila666: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7d Qc]
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: raises $0.37 to $0.62
+csubakoppany: folds 
+Bambila666: folds 
+aazaa: folds 
+Uncalled bet ($0.37) returned to RiggedAcount
+RiggedAcount collected $0.60 from pot
+RiggedAcount: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount collected ($0.60)
+Seat 6: csubakoppany (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174526045:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:56:52 CET [2013/08/24 14:56:52 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Bambila666 ($30.69 in chips) 
+Seat 2: aazaa ($23.88 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($31.02 in chips) 
+Seat 5: RiggedAcount ($25 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d Js]
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+csubakoppany: folds 
+Bambila666: raises $0.25 to $0.50
+aazaa: folds 
+LucKsTarWSOP: calls $0.25
+*** FLOP *** [7h As Kd]
+LucKsTarWSOP: checks 
+Bambila666: checks 
+*** TURN *** [7h As Kd] [Tc]
+LucKsTarWSOP: bets $0.50
+Bambila666: calls $0.50
+*** RIVER *** [7h As Kd Tc] [8c]
+LucKsTarWSOP: bets $1
+Bambila666: calls $1
+*** SHOW DOWN ***
+LucKsTarWSOP: shows [Ad 9s] (a pair of Aces)
+Bambila666: mucks hand 
+LucKsTarWSOP collected $3.92 from pot
+*** SUMMARY ***
+Total pot $4.10 | Rake $0.18 
+Board [7h As Kd Tc 8c]
+Seat 1: Bambila666 (button) mucked [Th Qh]
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) showed [Ad 9s] and won ($3.92) with a pair of Aces
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174557887:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:57:56 CET [2013/08/24 14:57:56 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Bambila666 ($28.69 in chips) 
+Seat 2: aazaa ($23.78 in chips) 
+Seat 3: LucKsTarWSOP ($26.92 in chips) 
+Seat 4: WolfMe$$ing ($31.02 in chips) 
+Seat 5: RiggedAcount ($25 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 8c]
+RiggedAcount: folds 
+csubakoppany: folds 
+Bambila666: folds 
+aazaa: raises $0.50 to $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 folded before Flop (didn't bet)
+Seat 2: aazaa (button) collected ($0.60)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174568634:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:18 CET [2013/08/24 14:58:18 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Bambila666 ($28.69 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.82 in chips) 
+Seat 4: WolfMe$$ing ($30.77 in chips) 
+Seat 5: RiggedAcount ($25 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+RiggedAcount: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9d 6h]
+csubakoppany: folds 
+Bambila666: folds 
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+Uncalled bet ($0.37) returned to LucKsTarWSOP
+LucKsTarWSOP collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) collected ($0.60)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: RiggedAcount (big blind) folded before Flop
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174585663:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:53 CET [2013/08/24 14:58:53 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: Bambila666 ($28.69 in chips) 
+Seat 2: aazaa ($24.13 in chips) 
+Seat 3: LucKsTarWSOP ($27.17 in chips) 
+Seat 4: WolfMe$$ing ($30.67 in chips) 
+Seat 5: RiggedAcount ($24.75 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+RiggedAcount: posts small blind $0.10
+csubakoppany: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 3c]
+Bambila666: raises $0.75 to $1
+aazaa: calls $1
+LucKsTarWSOP: folds 
+WolfMe$$ing: calls $1
+RiggedAcount: folds 
+csubakoppany: folds 
+*** FLOP *** [4s Th 5c]
+Bambila666: checks 
+aazaa: checks 
+WolfMe$$ing: bets $2.25
+Bambila666: calls $2.25
+aazaa: folds 
+*** TURN *** [4s Th 5c] [4d]
+Bambila666: checks 
+WolfMe$$ing: checks 
+*** RIVER *** [4s Th 5c 4d] [7s]
+Bambila666: bets $3.75
+WolfMe$$ing: calls $3.75
+*** SHOW DOWN ***
+Bambila666: shows [Qc Qs] (two pair, Queens and Fours)
+WolfMe$$ing: mucks hand 
+Bambila666 collected $14.66 from pot
+*** SUMMARY ***
+Total pot $15.35 | Rake $0.69 
+Board [4s Th 5c 4d 7s]
+Seat 1: Bambila666 showed [Qc Qs] and won ($14.66) with two pair, Queens and Fours
+Seat 2: aazaa folded on the Flop
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) mucked [9c Tc]
+Seat 5: RiggedAcount (small blind) folded before Flop
+Seat 6: csubakoppany (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174616741:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:56 CET [2013/08/24 14:59:56 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: Bambila666 ($36.35 in chips) 
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($27.17 in chips) 
+Seat 4: WolfMe$$ing ($25 in chips) 
+Seat 5: RiggedAcount ($24.65 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+csubakoppany: posts small blind $0.10
+Bambila666: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7d 5d]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: raises $0.37 to $0.62
+csubakoppany: folds 
+Bambila666: calls $0.37
+*** FLOP *** [Qs Ah Ks]
+Bambila666: checks 
+RiggedAcount: bets $0.80
+Bambila666: folds 
+Uncalled bet ($0.80) returned to RiggedAcount
+RiggedAcount collected $1.28 from pot
+RiggedAcount: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.34 | Rake $0.06 
+Board [Qs Ah Ks]
+Seat 1: Bambila666 (big blind) folded on the Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount (button) collected ($1.28)
+Seat 6: csubakoppany (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174643591:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:00:39 CET [2013/08/24 15:00:39 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 1: Bambila666 ($35.73 in chips) 
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($27.17 in chips) 
+Seat 4: WolfMe$$ing ($25 in chips) 
+Seat 5: RiggedAcount ($25.31 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+Bambila666: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3s Qh]
+LucKsTarWSOP has timed out
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+csubakoppany: folds 
+Bambila666: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Bambila666 (small blind) folded before Flop
+Seat 2: aazaa (big blind) collected ($0.20)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174660592:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:01:07 CET [2013/08/24 15:01:07 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: Bambila666 ($35.63 in chips) 
+Seat 2: aazaa ($23.23 in chips) 
+Seat 3: LucKsTarWSOP ($27.17 in chips) 
+Seat 4: WolfMe$$ing ($25 in chips) 
+Seat 5: RiggedAcount ($25.31 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ts 7c]
+WolfMe$$ing: raises $0.50 to $0.75
+RiggedAcount: folds 
+csubakoppany: folds 
+Bambila666: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.60 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing collected ($0.60)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174670671:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:01:22 CET [2013/08/24 15:01:22 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: Bambila666 ($35.63 in chips) 
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.92 in chips) 
+Seat 4: WolfMe$$ing ($25.35 in chips) 
+Seat 5: RiggedAcount ($25.31 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7h 9d]
+RiggedAcount: folds 
+csubakoppany: folds 
+Bambila666: raises $0.50 to $0.75
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.50) returned to Bambila666
+Bambila666 collected $0.60 from pot
+Bambila666: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Bambila666 collected ($0.60)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174684508:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:01:41 CET [2013/08/24 15:01:41 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: Bambila666 ($35.98 in chips) 
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.82 in chips) 
+Seat 4: WolfMe$$ing ($25.10 in chips) 
+Seat 5: RiggedAcount ($25.31 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+RiggedAcount: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d Kh]
+csubakoppany: folds 
+Bambila666: folds 
+Bambila666 leaves the table
+aazaa: folds 
+LucKsTarWSOP: raises $0.37 to $0.62
+WolfMe$$ing: raises $1.49 to $2.11
+RiggedAcount: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($1.49) returned to WolfMe$$ing
+WolfMe$$ing collected $1.49 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.49 | Rake $0 
+Seat 1: Bambila666 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop
+Seat 4: WolfMe$$ing (small blind) collected ($1.49)
+Seat 5: RiggedAcount (big blind) folded before Flop
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174717575:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:27 CET [2013/08/24 15:02:27 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.20 in chips) 
+Seat 4: WolfMe$$ing ($25.97 in chips) 
+Seat 5: RiggedAcount ($25.06 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+RiggedAcount: posts small blind $0.10
+csubakoppany: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7s Tc]
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+Uncalled bet ($0.15) returned to csubakoppany
+csubakoppany collected $0.20 from pot
+csubakoppany: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: RiggedAcount (small blind) folded before Flop
+Seat 6: csubakoppany (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #103174728726:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:41 CET [2013/08/24 15:02:41 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($26.20 in chips) 
+Seat 4: WolfMe$$ing ($25.97 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: csubakoppany ($25.10 in chips) 
+csubakoppany: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th Jd]
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+angui72 joins the table at seat #1 
+csubakoppany: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: aazaa (big blind) collected ($0.20)
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount (button) folded before Flop (didn't bet)
+Seat 6: csubakoppany (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174747085:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:03:06 CET [2013/08/24 15:03:06 ET]
+Table 'Schedios VI' 6-max Seat #6 is the button
+Seat 2: aazaa ($23.23 in chips) 
+Seat 3: LucKsTarWSOP ($26.20 in chips) 
+Seat 4: WolfMe$$ing ($25.97 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+angui72 will be allowed to play after the button
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8c 7s]
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+csubakoppany: raises $0.37 to $0.62
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.37) returned to csubakoppany
+csubakoppany collected $0.60 from pot
+csubakoppany: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany (button) collected ($0.60)
+
+
+
+PokerStars Hand #103174770135:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:03:36 CET [2013/08/24 15:03:36 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 2: aazaa ($23.13 in chips) 
+Seat 3: LucKsTarWSOP ($25.95 in chips) 
+Seat 4: WolfMe$$ing ($25.97 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: csubakoppany ($25.35 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+angui72: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [7c 6c]
+RiggedAcount: folds 
+csubakoppany: raises $0.50 to $0.75
+aazaa: calls $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $2.35 to $3.10
+csubakoppany: folds 
+aazaa: calls $2.35
+*** FLOP *** [3c Qh 9d]
+WolfMe$$ing: bets $4
+aazaa: folds 
+Uncalled bet ($4) returned to WolfMe$$ing
+WolfMe$$ing collected $6.73 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $7.05 | Rake $0.32 
+Board [3c Qh 9d]
+Seat 2: aazaa (button) folded on the Flop
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) collected ($6.73)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: csubakoppany folded before Flop
+
+
+
+PokerStars Hand #103174809173:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:04:25 CET [2013/08/24 15:04:25 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 2: aazaa ($20.03 in chips) 
+Seat 3: LucKsTarWSOP ($25.85 in chips) 
+Seat 4: WolfMe$$ing ($29.60 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: csubakoppany ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+RiggedAcount: posts big blind $0.25
+angui72: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [9h 6s]
+csubakoppany: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+Uncalled bet ($0.15) returned to RiggedAcount
+RiggedAcount collected $0.20 from pot
+RiggedAcount: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) folded before Flop
+Seat 5: RiggedAcount (big blind) collected ($0.20)
+Seat 6: csubakoppany folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174824097:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:04:44 CET [2013/08/24 15:04:44 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: angui72 ($14.30 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 3: LucKsTarWSOP ($25.85 in chips) 
+Seat 4: WolfMe$$ing ($29.50 in chips) 
+Seat 5: RiggedAcount ($25.06 in chips) 
+RiggedAcount: posts small blind $0.10
+csubakoppany: is sitting out 
+angui72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d 5c]
+aazaa: folds 
+csubakoppany leaves the table
+LucKsTarWSOP: raises $0.50 to $0.75
+WolfMe$$ing: raises $1.85 to $2.60
+RiggedAcount: folds 
+angui72: folds 
+Jomirrm joins the table at seat #6 
+LucKsTarWSOP: calls $1.85
+*** FLOP *** [4d 8s 9c]
+LucKsTarWSOP: checks 
+WolfMe$$ing: bets $3.50
+LucKsTarWSOP: raises $6.25 to $9.75
+WolfMe$$ing: raises $17.15 to $26.90 and is all-in
+LucKsTarWSOP: calls $13.50 and is all-in
+Uncalled bet ($3.65) returned to WolfMe$$ing
+*** FIRST TURN *** [4d 8s 9c] [Kc]
+*** FIRST RIVER *** [4d 8s 9c Kc] [3c]
+*** SECOND TURN *** [4d 8s 9c] [2s]
+*** SECOND RIVER *** [4d 8s 9c 2s] [2h]
+*** FIRST SHOW DOWN ***
+LucKsTarWSOP: shows [Jh Jd] (a pair of Jacks)
+WolfMe$$ing: shows [8h 9h] (two pair, Nines and Eights)
+WolfMe$$ing collected $25.03 from pot
+*** SECOND SHOW DOWN ***
+LucKsTarWSOP: shows [Jh Jd] (two pair, Jacks and Deuces)
+WolfMe$$ing: shows [8h 9h] (two pair, Nines and Eights)
+LucKsTarWSOP collected $25.02 from pot
+*** SUMMARY ***
+Total pot $52.05 | Rake $2 
+Hand was run twice
+FIRST Board [4d 8s 9c Kc 3c]
+SECOND Board [4d 8s 9c 2s 2h]
+Seat 1: angui72 (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP showed [Jh Jd] and lost with a pair of Jacks, and won ($25.02) with two pair, Jacks and Deuces
+Seat 4: WolfMe$$ing (button) showed [8h 9h] and won ($25.03) with two pair, Nines and Eights, and lost with two pair, Nines and Eights
+Seat 5: RiggedAcount (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174878890:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:05:52 CET [2013/08/24 15:05:52 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: angui72 ($14.05 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 3: LucKsTarWSOP ($25.02 in chips) 
+Seat 4: WolfMe$$ing ($28.68 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Jomirrm will be allowed to play after the button
+angui72: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5h 4c]
+LucKsTarWSOP: raises $0.62 to $0.87
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+angui72: raises $0.62 to $1.49
+aazaa: folds 
+LucKsTarWSOP said, "gh"
+LucKsTarWSOP: folds 
+Uncalled bet ($0.62) returned to angui72
+angui72 collected $1.99 from pot
+angui72: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.99 | Rake $0 
+Seat 1: angui72 (small blind) collected ($1.99)
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LucKsTarWSOP folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174908011:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:06:28 CET [2013/08/24 15:06:28 ET]
+Table 'Schedios VI' 6-max Seat #1 is the button
+Seat 1: angui72 ($15.17 in chips) 
+Seat 2: aazaa ($24.75 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($28.68 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: Jomirrm ($25 in chips) 
+aazaa: posts small blind $0.10
+LucKsTarWSOP: posts big blind $0.25
+Jomirrm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 6h]
+WolfMe$$ing: raises $0.75 to $1
+RiggedAcount: folds 
+Jomirrm: folds 
+angui72: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($0.75) returned to WolfMe$$ing
+WolfMe$$ing collected $0.85 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.85 | Rake $0 
+Seat 1: angui72 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LucKsTarWSOP (big blind) folded before Flop
+Seat 4: WolfMe$$ing collected ($0.85)
+Seat 5: RiggedAcount folded before Flop (didn't bet)
+Seat 6: Jomirrm folded before Flop
+
+
+
+PokerStars Hand #103174932680:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:06:59 CET [2013/08/24 15:06:59 ET]
+Table 'Schedios VI' 6-max Seat #2 is the button
+Seat 1: angui72 ($15.17 in chips) 
+Seat 2: aazaa ($24.65 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($29.28 in chips) 
+Seat 5: RiggedAcount ($24.96 in chips) 
+Seat 6: Jomirrm ($25 in chips) 
+LucKsTarWSOP: posts small blind $0.10
+WolfMe$$ing: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7h 7s]
+RiggedAcount: raises $0.50 to $0.75
+Jomirrm: folds 
+angui72: folds 
+aazaa: calls $0.75
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+*** FLOP *** [Kd 9d 3s]
+RiggedAcount: checks 
+aazaa: bets $1
+RiggedAcount: calls $1
+*** TURN *** [Kd 9d 3s] [6h]
+RiggedAcount: checks 
+aazaa: bets $2
+RiggedAcount: calls $2
+*** RIVER *** [Kd 9d 3s 6h] [Jh]
+RiggedAcount: checks 
+aazaa: checks 
+*** SHOW DOWN ***
+RiggedAcount: shows [Qd Qh] (a pair of Queens)
+aazaa: mucks hand 
+RiggedAcount collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [Kd 9d 3s 6h Jh]
+Seat 1: angui72 folded before Flop (didn't bet)
+Seat 2: aazaa (button) mucked [7h 7s]
+Seat 3: LucKsTarWSOP (small blind) folded before Flop
+Seat 4: WolfMe$$ing (big blind) folded before Flop
+Seat 5: RiggedAcount showed [Qd Qh] and won ($7.50) with a pair of Queens
+Seat 6: Jomirrm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174978383:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:07:56 CET [2013/08/24 15:07:56 ET]
+Table 'Schedios VI' 6-max Seat #3 is the button
+Seat 1: angui72 ($15.17 in chips) 
+Seat 2: aazaa ($20.90 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($29.03 in chips) 
+Seat 5: RiggedAcount ($28.71 in chips) 
+Seat 6: Jomirrm ($25 in chips) 
+WolfMe$$ing: posts small blind $0.10
+RiggedAcount: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2c 7s]
+Jomirrm: folds 
+angui72: folds 
+aazaa: folds 
+LucKsTarWSOP: folds 
+WolfMe$$ing: raises $0.50 to $0.75
+RiggedAcount: folds 
+Uncalled bet ($0.50) returned to WolfMe$$ing
+WolfMe$$ing collected $0.50 from pot
+WolfMe$$ing: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: angui72 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP (button) folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (small blind) collected ($0.50)
+Seat 5: RiggedAcount (big blind) folded before Flop
+Seat 6: Jomirrm folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174991889:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:08:14 CET [2013/08/24 15:08:14 ET]
+Table 'Schedios VI' 6-max Seat #4 is the button
+Seat 1: angui72 ($15.17 in chips) 
+Seat 2: aazaa ($25 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($29.28 in chips) 
+Seat 5: RiggedAcount ($28.46 in chips) 
+Seat 6: Jomirrm ($25 in chips) 
+RiggedAcount: posts small blind $0.10
+Jomirrm: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 4c]
+angui72: folds 
+aazaa: calls $0.25
+LucKsTarWSOP: folds 
+WolfMe$$ing: folds 
+RiggedAcount: folds 
+Jomirrm: checks 
+*** FLOP *** [2d Qd 9d]
+Jomirrm: checks 
+aazaa: checks 
+*** TURN *** [2d Qd 9d] [7d]
+Jomirrm: checks 
+aazaa: bets $0.50
+Jomirrm: calls $0.50
+*** RIVER *** [2d Qd 9d 7d] [Jc]
+Jomirrm: checks 
+aazaa: checks 
+*** SHOW DOWN ***
+Jomirrm: shows [Jd 4d] (a flush, Queen high)
+aazaa: mucks hand 
+Jomirrm collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [2d Qd 9d 7d Jc]
+Seat 1: angui72 folded before Flop (didn't bet)
+Seat 2: aazaa mucked [Qs 4c]
+Seat 3: LucKsTarWSOP folded before Flop (didn't bet)
+Seat 4: WolfMe$$ing (button) folded before Flop (didn't bet)
+Seat 5: RiggedAcount (small blind) folded before Flop
+Seat 6: Jomirrm (big blind) showed [Jd 4d] and won ($1.53) with a flush, Queen high
+
+
+
+PokerStars Hand #103175036011:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:09:09 CET [2013/08/24 15:09:09 ET]
+Table 'Schedios VI' 6-max Seat #5 is the button
+Seat 1: angui72 ($15.17 in chips) 
+Seat 2: aazaa ($24.25 in chips) 
+Seat 3: LucKsTarWSOP ($25 in chips) 
+Seat 4: WolfMe$$ing ($29.28 in chips) 
+Seat 5: RiggedAcount ($28.36 in chips) 
+Seat 6: Jomirrm ($25.78 in chips) 
+Jomirrm: posts small blind $0.10
+angui72: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8c Qh]
+aazaa: folds 
+LucKsTarWSOP: raises $0.62 to $0.87
+WolfMe$$ing: folds 
+RiggedAcount: raises $1.53 to $2.40
+Jomirrm: folds 
+angui72: folds 
+LucKsTarWSOP: folds 
+Uncalled bet ($1.53) returned to RiggedAcount
+RiggedAcount collected $2.09 from pot
+RiggedAcount: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.09 | Rake $0 
+Seat 1: angui72 (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LucKsTarWSOP folded before Flop
+Seat 4: WolfMe$$ing folded before Flop (didn't bet)
+Seat 5: RiggedAcount (button) collected ($2.09)
+Seat 6: Jomirrm (small blind) folded before Flop
+
+
+

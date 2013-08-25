@@ -1,0 +1,3221 @@
+﻿PokerStars Hand #103173343806:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:29:30 CET [2013/08/24 14:29:30 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: seiteen ($50.75 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($25 in chips) 
+Seat 5: ikounelis ($25.06 in chips) 
+Seat 6: shootsu ($27.44 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9s 3d]
+ikounelis: folds 
+shootsu: folds 
+seiteen: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to seiteen
+seiteen collected $0.60 from pot
+seiteen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen collected ($0.60)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173374250:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:30:10 CET [2013/08/24 14:30:10 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: seiteen ($51.10 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($24.75 in chips) 
+Seat 5: ikounelis ($25.06 in chips) 
+Seat 6: shootsu ($27.44 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3s 6s]
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173395889:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:30:40 CET [2013/08/24 14:30:40 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: seiteen ($51.10 in chips) 
+Seat 2: Gunnar3000 ($49.82 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($24.65 in chips) 
+Seat 5: ikounelis ($24.81 in chips) 
+Seat 6: shootsu ($27.44 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6h 8s]
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+shootsu: calls $0.50
+*** FLOP *** [Th Jd 2d]
+ikounelis: bets $1.25
+shootsu: calls $1.25
+*** TURN *** [Th Jd 2d] [8h]
+ikounelis: bets $3
+shootsu: folds 
+Uncalled bet ($3) returned to ikounelis
+ikounelis collected $3.82 from pot
+*** SUMMARY ***
+Total pot $4 | Rake $0.18 
+Board [Th Jd 2d 8h]
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) collected ($3.82)
+Seat 6: shootsu (big blind) folded on the Turn
+
+
+
+PokerStars Hand #103173441812:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:31:42 CET [2013/08/24 14:31:42 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: seiteen ($51.10 in chips) 
+Seat 2: Gunnar3000 ($49.82 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($24.65 in chips) 
+Seat 5: ikounelis ($26.63 in chips) 
+Seat 6: shootsu ($25.44 in chips) 
+shootsu: posts small blind $0.10
+seiteen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Tc Qh]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+seiteen: calls $0.50
+*** FLOP *** [Jd Qc 6h]
+seiteen: checks 
+aazaa: bets $1
+seiteen: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.53 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [Jd Qc 6h]
+Seat 1: seiteen (big blind) folded on the Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa collected ($1.53)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173462233:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:32:09 CET [2013/08/24 14:32:09 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: seiteen ($50.35 in chips) 
+Seat 2: Gunnar3000 ($49.82 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($25.43 in chips) 
+Seat 5: ikounelis ($26.63 in chips) 
+Seat 6: shootsu ($25.34 in chips) 
+seiteen: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th 6s]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+seiteen: raises $0.50 to $0.75
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to seiteen
+seiteen collected $0.50 from pot
+seiteen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: seiteen (small blind) collected ($0.50)
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173475861:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:32:28 CET [2013/08/24 14:32:28 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: seiteen ($50.60 in chips) 
+Seat 2: Gunnar3000 ($49.57 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($25.43 in chips) 
+Seat 5: ikounelis ($26.63 in chips) 
+Seat 6: shootsu ($25.34 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kd Ac]
+aazaa: raises $0.50 to $0.75
+ikounelis: calls $0.75
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+*** FLOP *** [7d Jh 5s]
+aazaa: bets $1
+ikounelis: calls $1
+*** TURN *** [7d Jh 5s] [Qc]
+aazaa: bets $2
+ikounelis: calls $2
+*** RIVER *** [7d Jh 5s Qc] [3d]
+aazaa: checks 
+ikounelis: bets $5
+aazaa: folds 
+Uncalled bet ($5) returned to ikounelis
+ikounelis collected $7.50 from pot
+*** SUMMARY ***
+Total pot $7.85 | Rake $0.35 
+Board [7d Jh 5s Qc 3d]
+Seat 1: seiteen (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded on the River
+Seat 5: ikounelis collected ($7.50)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173512679:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:33:17 CET [2013/08/24 14:33:17 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: seiteen ($50.60 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($21.68 in chips) 
+Seat 5: ikounelis ($30.38 in chips) 
+Seat 6: shootsu ($25.34 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kh 9s]
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173529170:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:33:40 CET [2013/08/24 14:33:40 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: seiteen ($50.60 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($21.78 in chips) 
+Seat 5: ikounelis ($30.38 in chips) 
+Seat 6: shootsu ($25.34 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5h Ah]
+shootsu: raises $0.55 to $0.80
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $0.70
+ikounelis: folds 
+*** FLOP *** [7c 5s Js]
+aazaa: checks 
+shootsu: checks 
+*** TURN *** [7c 5s Js] [6d]
+aazaa: bets $1.20
+shootsu: calls $1.20
+*** RIVER *** [7c 5s Js 6d] [2s]
+aazaa: checks 
+shootsu: checks 
+*** SHOW DOWN ***
+aazaa: shows [5h Ah] (a pair of Fives)
+shootsu: mucks hand 
+aazaa collected $4.06 from pot
+*** SUMMARY ***
+Total pot $4.25 | Rake $0.19 
+Board [7c 5s Js 6d 2s]
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) showed [5h Ah] and won ($4.06) with a pair of Fives
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: shootsu mucked [Qd Ad]
+
+
+
+PokerStars Hand #103173584978:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:34:55 CET [2013/08/24 14:34:55 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: seiteen ($50.60 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($23.84 in chips) 
+Seat 5: ikounelis ($30.13 in chips) 
+Seat 6: shootsu ($23.34 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2h 8c]
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo collected ($0.60)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173601487:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:17 CET [2013/08/24 14:35:17 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: seiteen ($50.60 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($23.84 in chips) 
+Seat 5: ikounelis ($30.03 in chips) 
+Seat 6: shootsu ($23.09 in chips) 
+shootsu: posts small blind $0.10
+seiteen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah Qc]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa collected ($0.60)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173618761:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:35:41 CET [2013/08/24 14:35:41 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: seiteen ($50.35 in chips) 
+Seat 2: Gunnar3000 ($49.47 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($24.19 in chips) 
+Seat 5: ikounelis ($30.03 in chips) 
+Seat 6: shootsu ($22.99 in chips) 
+seiteen: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qc Kc]
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: raises $1.25 to $2
+seiteen: folds 
+Gunnar3000: folds 
+aazaa: calls $1.25
+*** FLOP *** [Td Ts 6d]
+aazaa: checks 
+shootsu: bets $3
+aazaa: folds 
+Uncalled bet ($3) returned to shootsu
+shootsu collected $4.15 from pot
+shootsu: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.35 | Rake $0.20 
+Board [Td Ts 6d]
+Seat 1: seiteen (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded on the Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) collected ($4.15)
+
+
+
+PokerStars Hand #103173647165:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:36:19 CET [2013/08/24 14:36:19 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: seiteen ($50.25 in chips) 
+Seat 2: Gunnar3000 ($49.22 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.19 in chips) 
+Seat 5: ikounelis ($30.03 in chips) 
+Seat 6: shootsu ($25.14 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4h Qd]
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.15) returned to mr.HekTo
+mr.HekTo collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) collected ($0.20)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173668675:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:36:48 CET [2013/08/24 14:36:48 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: seiteen ($50.25 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.45 in chips) 
+Seat 4: aazaa ($22.19 in chips) 
+Seat 5: ikounelis ($30.03 in chips) 
+Seat 6: shootsu ($25.14 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 9c]
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173680277:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:03 CET [2013/08/24 14:37:03 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: seiteen ($50.25 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.29 in chips) 
+Seat 5: ikounelis ($30.03 in chips) 
+Seat 6: shootsu ($25.14 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 4c]
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: calls $0.50
+*** FLOP *** [Kh 2c Ah]
+aazaa: bets $1
+ikounelis: folds 
+Uncalled bet ($1) returned to aazaa
+aazaa collected $1.43 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Kh 2c Ah]
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) collected ($1.43)
+Seat 5: ikounelis (big blind) folded on the Flop
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173698239:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:28 CET [2013/08/24 14:37:28 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: seiteen ($50.25 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.28 in chips) 
+Seat 6: shootsu ($25.14 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Tc 2s]
+seiteen: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: raises $1.25 to $2
+seiteen: folds 
+Uncalled bet ($1.25) returned to shootsu
+shootsu collected $1.60 from pot
+shootsu: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: seiteen folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) collected ($1.60)
+
+
+
+PokerStars Hand #103173720434:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:37:58 CET [2013/08/24 14:37:58 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: seiteen ($49.50 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.99 in chips) 
+shootsu: posts small blind $0.10
+seiteen: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d 5d]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Uncalled bet ($0.15) returned to seiteen
+seiteen collected $0.20 from pot
+seiteen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen (big blind) collected ($0.20)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173735012:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:38:18 CET [2013/08/24 14:38:18 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: seiteen ($49.60 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.89 in chips) 
+seiteen: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 6h]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Uncalled bet ($0.15) returned to Gunnar3000
+Gunnar3000 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) collected ($0.20)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173747108:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:38:34 CET [2013/08/24 14:38:34 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: seiteen ($49.50 in chips) 
+Seat 2: Gunnar3000 ($49.22 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.89 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6c 4h]
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+seiteen: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to seiteen
+seiteen collected $0.60 from pot
+seiteen: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen (button) collected ($0.60)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173765958:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:00 CET [2013/08/24 14:39:00 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: seiteen ($49.85 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.10 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.89 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6s 9h]
+ikounelis: folds 
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173775643:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:13 CET [2013/08/24 14:39:13 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: seiteen ($49.85 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($23.07 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.89 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jc 7s]
+shootsu: folds 
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to ikounelis
+ikounelis collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($0.20)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173786443:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:27 CET [2013/08/24 14:39:27 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: seiteen ($49.85 in chips) 
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.28 in chips) 
+Seat 6: shootsu ($25.89 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4d Jd]
+seiteen: folds 
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: seiteen folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo collected ($0.60)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173796278:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:39:41 CET [2013/08/24 14:39:41 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 2: Gunnar3000 ($49.12 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.97 in chips) 
+Seat 5: ikounelis ($29.18 in chips) 
+Seat 6: shootsu ($25.64 in chips) 
+shootsu: posts small blind $0.10
+seiteen: is sitting out 
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Js Th]
+seiteen leaves the table
+mr.HekTo: folds 
+Rexedead joins the table at seat #1 
+aazaa: raises $0.50 to $0.75
+ikounelis: raises $1.50 to $2.25
+shootsu: folds 
+Gunnar3000: folds 
+aazaa: folds 
+Uncalled bet ($1.50) returned to ikounelis
+ikounelis collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop
+Seat 5: ikounelis (button) collected ($1.85)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173812296:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:03 CET [2013/08/24 14:40:03 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 2: Gunnar3000 ($48.87 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.22 in chips) 
+Seat 5: ikounelis ($30.28 in chips) 
+Seat 6: shootsu ($25.54 in chips) 
+Rexedead will be allowed to play after the button
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7s 2d]
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.15) returned to mr.HekTo
+mr.HekTo collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) collected ($0.20)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173826938:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:23 CET [2013/08/24 14:40:23 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 2: Gunnar3000 ($48.77 in chips) 
+Seat 3: mr.HekTo ($25.45 in chips) 
+Seat 4: aazaa ($22.22 in chips) 
+Seat 5: ikounelis ($30.28 in chips) 
+Seat 6: shootsu ($25.54 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Td Ah]
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173835865:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:40:35 CET [2013/08/24 14:40:35 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 2: Gunnar3000 ($48.77 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.32 in chips) 
+Seat 5: ikounelis ($30.28 in chips) 
+Seat 6: shootsu ($25.54 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [4s Qs]
+shootsu: raises $0.55 to $0.80
+Gunnar3000: calls $0.80
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: calls $0.55
+*** FLOP *** [8h Qc 3c]
+ikounelis: checks 
+shootsu: bets $1.50
+Gunnar3000: calls $1.50
+ikounelis: raises $7 to $8.50
+shootsu: folds 
+Gunnar3000: folds 
+Uncalled bet ($7) returned to ikounelis
+ikounelis collected $6.68 from pot
+*** SUMMARY ***
+Total pot $7 | Rake $0.32 
+Board [8h Qc 3c]
+Seat 2: Gunnar3000 folded on the Flop
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($6.68)
+Seat 6: shootsu folded on the Flop
+
+
+
+PokerStars Hand #103173873282:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:41:26 CET [2013/08/24 14:41:26 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 2: Gunnar3000 ($46.47 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.22 in chips) 
+Seat 5: ikounelis ($34.66 in chips) 
+Seat 6: shootsu ($23.24 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [5h 2c]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+shootsu: calls $0.50
+*** FLOP *** [Kc 2s 7h]
+ikounelis: bets $1.75
+shootsu: folds 
+Uncalled bet ($1.75) returned to ikounelis
+ikounelis collected $1.43 from pot
+*** SUMMARY ***
+Total pot $1.50 | Rake $0.07 
+Board [Kc 2s 7h]
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) collected ($1.43)
+Seat 6: shootsu (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103173892345:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:41:53 CET [2013/08/24 14:41:53 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($46.47 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($22.22 in chips) 
+Seat 5: ikounelis ($35.34 in chips) 
+Seat 6: shootsu ($22.49 in chips) 
+shootsu: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 9s]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: calls $0.75
+shootsu: folds 
+Rexedead: folds 
+*** FLOP *** [9c 5d Qc]
+aazaa: bets $1.20
+ikounelis: folds 
+Uncalled bet ($1.20) returned to aazaa
+aazaa collected $1.77 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [9c 5d Qc]
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa collected ($1.77)
+Seat 5: ikounelis (button) folded on the Flop
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173913051:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:42:20 CET [2013/08/24 14:42:20 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($46.47 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($23.24 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.39 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kh Jd]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis collected ($0.60)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173923908:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:42:35 CET [2013/08/24 14:42:35 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($46.22 in chips) 
+Seat 3: mr.HekTo ($25.35 in chips) 
+Seat 4: aazaa ($23.24 in chips) 
+Seat 5: ikounelis ($34.94 in chips) 
+Seat 6: shootsu ($22.39 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qh Qs]
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa collected ($0.60)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173931544:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:42:45 CET [2013/08/24 14:42:45 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($46.12 in chips) 
+Seat 3: mr.HekTo ($25.10 in chips) 
+Seat 4: aazaa ($23.59 in chips) 
+Seat 5: ikounelis ($34.94 in chips) 
+Seat 6: shootsu ($22.39 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9c Jc]
+ikounelis: folds 
+shootsu: folds 
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: raises $1.85 to $2.60
+mr.HekTo: folds 
+aazaa: folds 
+Rexedead: folds 
+Uncalled bet ($1.85) returned to Gunnar3000
+Gunnar3000 collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Rexedead folded before Flop
+Seat 2: Gunnar3000 (button) collected ($1.85)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173946828:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:43:06 CET [2013/08/24 14:43:06 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($47.22 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($23.34 in chips) 
+Seat 5: ikounelis ($34.94 in chips) 
+Seat 6: shootsu ($22.39 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd Ah]
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: calls $0.65
+ikounelis: folds 
+*** FLOP *** [3c 9d Jd]
+aazaa: checks 
+Gunnar3000: bets $1.25
+aazaa: folds 
+Uncalled bet ($1.25) returned to Gunnar3000
+Gunnar3000 collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [3c 9d Jd]
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 collected ($1.67)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded on the Flop
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173977085:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:43:47 CET [2013/08/24 14:43:47 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($48.14 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($22.59 in chips) 
+Seat 5: ikounelis ($34.69 in chips) 
+Seat 6: shootsu ($22.39 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7c 7s]
+Rexedead: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: raises $1.62 to $2.37
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: folds 
+Uncalled bet ($1.62) returned to mr.HekTo
+mr.HekTo collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop
+Seat 3: mr.HekTo collected ($1.85)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174004695:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:44:25 CET [2013/08/24 14:44:25 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($47.39 in chips) 
+Seat 3: mr.HekTo ($26.10 in chips) 
+Seat 4: aazaa ($22.59 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.14 in chips) 
+shootsu: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8c Js]
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo collected ($0.60)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174016168:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:44:41 CET [2013/08/24 14:44:41 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($47.39 in chips) 
+Seat 3: mr.HekTo ($26.45 in chips) 
+Seat 4: aazaa ($22.59 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.04 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks 2h]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Uncalled bet ($0.15) returned to Gunnar3000
+Gunnar3000 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) collected ($0.20)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174025796:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:44:54 CET [2013/08/24 14:44:54 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($47.49 in chips) 
+Seat 3: mr.HekTo ($26.45 in chips) 
+Seat 4: aazaa ($22.59 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.04 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d Tc]
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.15) returned to mr.HekTo
+mr.HekTo collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) collected ($0.20)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174035478:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:45:07 CET [2013/08/24 14:45:07 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($47.39 in chips) 
+Seat 3: mr.HekTo ($26.55 in chips) 
+Seat 4: aazaa ($22.59 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.04 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ac 2s]
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: raises $1.75 to $2.50
+Gunnar3000: calls $1.75
+*** FLOP *** [7h Jc 4h]
+aazaa: bets $3.50
+Gunnar3000: raises $6.75 to $10.25
+aazaa: folds 
+Uncalled bet ($6.75) returned to Gunnar3000
+Gunnar3000 collected $11.56 from pot
+*** SUMMARY ***
+Total pot $12.10 | Rake $0.54 
+Board [7h Jc 4h]
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) collected ($11.56)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded on the Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174082128:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:46:11 CET [2013/08/24 14:46:11 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.95 in chips) 
+Seat 3: mr.HekTo ($26.45 in chips) 
+Seat 4: aazaa ($16.59 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($22.04 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 2h]
+shootsu: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to ikounelis
+ikounelis collected $0.20 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($0.20)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174096036:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:46:30 CET [2013/08/24 14:46:30 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.95 in chips) 
+Seat 3: mr.HekTo ($26.45 in chips) 
+Seat 4: aazaa ($25 in chips) 
+Seat 5: ikounelis ($34.69 in chips) 
+Seat 6: shootsu ($22.04 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h Js]
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) collected ($0.60)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174112203:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:46:52 CET [2013/08/24 14:46:52 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 2: Gunnar3000 ($52.95 in chips) 
+Seat 3: mr.HekTo ($26.45 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($21.79 in chips) 
+shootsu: posts small blind $0.10
+Rexedead: is sitting out 
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3c Ts]
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: calls $0.50
+*** FLOP *** [5c Qd 6d]
+Gunnar3000: checks 
+mr.HekTo: bets $1
+Gunnar3000: folds 
+Uncalled bet ($1) returned to mr.HekTo
+mr.HekTo collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [5c Qd 6d]
+Seat 2: Gunnar3000 (big blind) folded on the Flop
+Seat 3: mr.HekTo collected ($1.53)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174129292:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:15 CET [2013/08/24 14:47:15 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 2: Gunnar3000 ($52.20 in chips) 
+Seat 3: mr.HekTo ($27.23 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($21.69 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qs Js]
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa collected ($0.60)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174140923:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:31 CET [2013/08/24 14:47:31 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 2: Gunnar3000 ($52.10 in chips) 
+Seat 3: mr.HekTo ($26.98 in chips) 
+Seat 4: aazaa ($25.70 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($21.69 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [7h As]
+ikounelis: folds 
+shootsu: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 (button) collected ($0.60)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174157928:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:47:55 CET [2013/08/24 14:47:55 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 2: Gunnar3000 ($52.45 in chips) 
+Seat 3: mr.HekTo ($26.88 in chips) 
+Seat 4: aazaa ($25.45 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: shootsu ($21.69 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [3h 4h]
+shootsu: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174172224:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:48:14 CET [2013/08/24 14:48:14 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 2: Gunnar3000 ($52.80 in chips) 
+Seat 3: mr.HekTo ($26.88 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($34.34 in chips) 
+Seat 6: shootsu ($21.69 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: posts big blind $0.25
+Rexedead: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [5c Kc]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+shootsu: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) collected ($0.60)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: shootsu (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174183462:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:48:29 CET [2013/08/24 14:48:29 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.80 in chips) 
+Seat 3: mr.HekTo ($26.88 in chips) 
+Seat 4: aazaa ($25.70 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: shootsu ($21.44 in chips) 
+shootsu: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6s 9h]
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Rexedead: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: shootsu (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174193779:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:48:44 CET [2013/08/24 14:48:44 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.15 in chips) 
+Seat 3: mr.HekTo ($26.88 in chips) 
+Seat 4: aazaa ($25.70 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: shootsu ($21.34 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h Ks]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+shootsu: folds 
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to Rexedead
+Rexedead collected $0.50 from pot
+Rexedead: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Rexedead (small blind) collected ($0.50)
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174206758:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:49:01 CET [2013/08/24 14:49:01 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25.25 in chips) 
+Seat 2: Gunnar3000 ($52.90 in chips) 
+Seat 3: mr.HekTo ($26.88 in chips) 
+Seat 4: aazaa ($25.70 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: shootsu ($21.34 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 6c]
+aazaa: folds 
+ikounelis: folds 
+shootsu: raises $0.55 to $0.80
+Rexedead: folds 
+Gunnar3000: calls $0.70
+mr.HekTo: folds 
+*** FLOP *** [6d 2d 2h]
+Gunnar3000: checks 
+shootsu: checks 
+*** TURN *** [6d 2d 2h] [Ks]
+Gunnar3000: checks 
+shootsu: checks 
+*** RIVER *** [6d 2d 2h Ks] [3c]
+Gunnar3000: checks 
+shootsu: checks 
+*** SHOW DOWN ***
+Gunnar3000: shows [5c 5h] (two pair, Fives and Deuces)
+shootsu: mucks hand 
+Gunnar3000 collected $1.77 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0.08 
+Board [6d 2d 2h Ks 3c]
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) showed [5c 5h] and won ($1.77) with two pair, Fives and Deuces
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu mucked [4c As]
+
+
+
+PokerStars Hand #103174246330:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:49:56 CET [2013/08/24 14:49:56 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25.25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($26.63 in chips) 
+Seat 4: aazaa ($25.70 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: shootsu ($20.54 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ac Td]
+ikounelis: folds 
+shootsu: folds 
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $1.75 to $2.50
+Rexedead: folds 
+Uncalled bet ($1.75) returned to aazaa
+aazaa collected $1.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: Rexedead folded before Flop
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($1.60)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: shootsu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174270223:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:50:29 CET [2013/08/24 14:50:29 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($26.53 in chips) 
+Seat 4: aazaa ($26.55 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: shootsu ($20.54 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks Ts]
+shootsu: raises $20.29 to $20.54 and is all-in
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($20.29) returned to shootsu
+shootsu collected $0.60 from pot
+shootsu: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: shootsu collected ($0.60)
+
+
+
+PokerStars Hand #103174283575:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:50:47 CET [2013/08/24 14:50:47 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($26.53 in chips) 
+Seat 4: aazaa ($26.45 in chips) 
+Seat 5: ikounelis ($33.99 in chips) 
+ikounelis: posts small blind $0.10
+shootsu: is sitting out 
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6c 4s]
+shootsu leaves the table
+kaburov joins the table at seat #6 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Rexedead: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174297177:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:05 CET [2013/08/24 14:51:05 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($54.22 in chips) 
+Seat 3: mr.HekTo ($26.53 in chips) 
+Seat 4: aazaa ($26.45 in chips) 
+Seat 5: ikounelis ($33.89 in chips) 
+kaburov will be allowed to play after the button
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d Kc]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Rexedead: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) collected ($0.60)
+
+
+
+PokerStars Hand #103174307606:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:19 CET [2013/08/24 14:51:19 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.97 in chips) 
+Seat 3: mr.HekTo ($26.53 in chips) 
+Seat 4: aazaa ($26.45 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+kaburov: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Qc 8c]
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis collected ($0.60)
+
+
+
+PokerStars Hand #103174321303:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:38 CET [2013/08/24 14:51:38 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($26.28 in chips) 
+Seat 4: aazaa ($26.45 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+kaburov: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [5d Ac]
+ikounelis: folds 
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to Rexedead
+Rexedead collected $0.60 from pot
+Rexedead: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead collected ($0.60)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174332116:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:51:53 CET [2013/08/24 14:51:53 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25.35 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($26.18 in chips) 
+Seat 4: aazaa ($26.20 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+kaburov: sits out 
+*** HOLE CARDS ***
+Dealt to aazaa [Kd 5h]
+Rexedead: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174344547:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:52:10 CET [2013/08/24 14:52:10 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25.35 in chips) 
+Seat 2: Gunnar3000 ($54.22 in chips) 
+Seat 3: mr.HekTo ($26.18 in chips) 
+Seat 4: aazaa ($26.10 in chips) 
+Seat 5: ikounelis ($34.34 in chips) 
+Seat 6: kaburov ($25 in chips) 
+ikounelis: posts small blind $0.10
+kaburov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h Kd]
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: raises $1.75 to $2.50
+kaburov: folds 
+aazaa: folds 
+Uncalled bet ($1.75) returned to ikounelis
+ikounelis collected $1.75 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.75 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop
+Seat 5: ikounelis (small blind) collected ($1.75)
+Seat 6: kaburov (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174367267:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:52:41 CET [2013/08/24 14:52:41 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25.35 in chips) 
+Seat 2: Gunnar3000 ($54.22 in chips) 
+Seat 3: mr.HekTo ($26.18 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($35.34 in chips) 
+Seat 6: kaburov ($25 in chips) 
+kaburov: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7d 3h]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+kaburov: raises $0.50 to $0.75
+Rexedead: folds 
+Uncalled bet ($0.50) returned to kaburov
+kaburov collected $0.50 from pot
+kaburov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: kaburov (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #103174385524:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:53:06 CET [2013/08/24 14:53:06 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: Rexedead ($25.10 in chips) 
+Seat 2: Gunnar3000 ($54.22 in chips) 
+Seat 3: mr.HekTo ($26.18 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($35.34 in chips) 
+Seat 6: kaburov ($25.25 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jc Qs]
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo collected ($0.60)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: kaburov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174399328:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:53:25 CET [2013/08/24 14:53:25 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.97 in chips) 
+Seat 3: mr.HekTo ($26.53 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($35.34 in chips) 
+Seat 6: kaburov ($25.25 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8h 7d]
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: raises $1.62 to $2.37
+ikounelis: folds 
+Uncalled bet ($1.62) returned to mr.HekTo
+mr.HekTo collected $1.60 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) collected ($1.60)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174424709:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:00 CET [2013/08/24 14:54:00 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($27.38 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: kaburov ($25.25 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5h 2c]
+ikounelis: folds 
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174433759:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:12 CET [2013/08/24 14:54:12 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($27.28 in chips) 
+Seat 4: aazaa ($25.45 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: kaburov ($25.25 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Js 3h]
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to ikounelis
+ikounelis collected $0.20 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($0.20)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174443651:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:26 CET [2013/08/24 14:54:26 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($27.28 in chips) 
+Seat 4: aazaa ($25.35 in chips) 
+Seat 5: ikounelis ($34.69 in chips) 
+Seat 6: kaburov ($25.25 in chips) 
+ikounelis: posts small blind $0.10
+kaburov: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h Kh]
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $0.75
+ikounelis: folds 
+kaburov: raises $2.35 to $3.10
+Rexedead: folds 
+aazaa: folds 
+Uncalled bet ($2.35) returned to kaburov
+kaburov collected $2.35 from pot
+kaburov: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0 
+Seat 1: Rexedead folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: kaburov (big blind) collected ($2.35)
+
+
+
+PokerStars Hand #103174465979:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:54:57 CET [2013/08/24 14:54:57 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($27.28 in chips) 
+Seat 4: aazaa ($24.60 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: kaburov ($26.85 in chips) 
+kaburov: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ts 8h]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+kaburov: raises $0.50 to $0.75
+Rexedead: folds 
+Uncalled bet ($0.50) returned to kaburov
+kaburov collected $0.50 from pot
+kaburov: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: kaburov (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #103174474094:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:08 CET [2013/08/24 14:55:08 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.87 in chips) 
+Seat 3: mr.HekTo ($27.28 in chips) 
+Seat 4: aazaa ($24.60 in chips) 
+Seat 5: ikounelis ($34.59 in chips) 
+Seat 6: kaburov ($27.10 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8s 2s]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+kaburov: raises $1.60 to $2.35
+Rexedead: folds 
+Gunnar3000: folds 
+ikounelis: folds 
+Uncalled bet ($1.60) returned to kaburov
+kaburov collected $1.85 from pot
+kaburov: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop
+Seat 6: kaburov (button) collected ($1.85)
+
+
+
+PokerStars Hand #103174485824:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:30 CET [2013/08/24 14:55:30 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.62 in chips) 
+Seat 3: mr.HekTo ($27.28 in chips) 
+Seat 4: aazaa ($24.60 in chips) 
+Seat 5: ikounelis ($33.84 in chips) 
+Seat 6: kaburov ($28.20 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 8s]
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis collected ($0.60)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174492605:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:55:44 CET [2013/08/24 14:55:44 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.52 in chips) 
+Seat 3: mr.HekTo ($27.03 in chips) 
+Seat 4: aazaa ($24.60 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+Seat 6: kaburov ($28.20 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4s Ac]
+ikounelis: folds 
+kaburov: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: kaburov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174503697:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:56:07 CET [2013/08/24 14:56:07 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.52 in chips) 
+Seat 3: mr.HekTo ($26.93 in chips) 
+Seat 4: aazaa ($24.70 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5c 5d]
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: calls $0.65
+ikounelis: folds 
+*** FLOP *** [6d 9h 9s]
+aazaa: checks 
+mr.HekTo: bets $1.25
+aazaa: folds 
+Uncalled bet ($1.25) returned to mr.HekTo
+mr.HekTo collected $1.67 from pot
+*** SUMMARY ***
+Total pot $1.75 | Rake $0.08 
+Board [6d 9h 9s]
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) collected ($1.67)
+Seat 4: aazaa (small blind) folded on the Flop
+Seat 5: ikounelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174516972:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:56:34 CET [2013/08/24 14:56:34 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.52 in chips) 
+Seat 3: mr.HekTo ($27.85 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($33.94 in chips) 
+ikounelis: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6h 3d]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Rexedead: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.50 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #103174528699:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:56:57 CET [2013/08/24 14:56:57 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.52 in chips) 
+Seat 3: mr.HekTo ($27.85 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9d 5c]
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo collected ($0.60)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174536568:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:57:13 CET [2013/08/24 14:57:13 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.27 in chips) 
+Seat 3: mr.HekTo ($28.20 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jh 2d]
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis collected ($0.60)
+
+
+
+PokerStars Hand #103174542628:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:57:25 CET [2013/08/24 14:57:25 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.17 in chips) 
+Seat 3: mr.HekTo ($27.95 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.54 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8h 9s]
+ikounelis: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.15) returned to aazaa
+aazaa collected $0.20 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($0.20)
+Seat 5: ikounelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174553848:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:57:48 CET [2013/08/24 14:57:48 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($53.17 in chips) 
+Seat 3: mr.HekTo ($27.85 in chips) 
+Seat 4: aazaa ($24.05 in chips) 
+Seat 5: ikounelis ($34.54 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks 5h]
+Rexedead: folds 
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: raises $1.62 to $2.37
+aazaa: folds 
+ikounelis: folds 
+Gunnar3000: folds 
+Uncalled bet ($1.62) returned to mr.HekTo
+mr.HekTo collected $1.85 from pot
+*** SUMMARY ***
+Total pot $1.85 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop
+Seat 3: mr.HekTo (button) collected ($1.85)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174563372:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:07 CET [2013/08/24 14:58:07 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.42 in chips) 
+Seat 3: mr.HekTo ($28.95 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.29 in chips) 
+ikounelis: posts small blind $0.10
+Rexedead: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4s Qs]
+Gunnar3000: raises $0.50 to $0.75
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Rexedead: folds 
+Uncalled bet ($0.50) returned to Gunnar3000
+Gunnar3000 collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (big blind) folded before Flop
+Seat 2: Gunnar3000 collected ($0.60)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174571217:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:23 CET [2013/08/24 14:58:23 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.77 in chips) 
+Seat 3: mr.HekTo ($28.95 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+Rexedead: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kd 7s]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Rexedead: folds 
+Uncalled bet ($0.15) returned to Gunnar3000
+Gunnar3000 collected $0.20 from pot
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) collected ($0.20)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174574581:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:30 CET [2013/08/24 14:58:30 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.87 in chips) 
+Seat 3: mr.HekTo ($28.95 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 2h]
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa collected ($0.60)
+Seat 5: ikounelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174580417:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:42 CET [2013/08/24 14:58:42 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: Rexedead ($25 in chips) 
+Seat 2: Gunnar3000 ($52.77 in chips) 
+Seat 3: mr.HekTo ($28.70 in chips) 
+Seat 4: aazaa ($24.30 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [7c 4c]
+ikounelis: folds 
+Rexedead: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to Rexedead
+Rexedead collected $0.60 from pot
+Rexedead: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: Rexedead collected ($0.60)
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174586103:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:58:54 CET [2013/08/24 14:58:54 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: Rexedead ($25.35 in chips) 
+Seat 2: Gunnar3000 ($52.77 in chips) 
+Seat 3: mr.HekTo ($28.60 in chips) 
+Seat 4: aazaa ($24.05 in chips) 
+Seat 5: ikounelis ($34.19 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [8h Td]
+Rexedead: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to ikounelis
+Rexedead leaves the table
+ikounelis collected $0.20 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: Rexedead folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($0.20)
+
+
+
+PokerStars Hand #103174593001:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:08 CET [2013/08/24 14:59:08 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 2: Gunnar3000 ($52.77 in chips) 
+Seat 3: mr.HekTo ($28.60 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.29 in chips) 
+ikounelis: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Kd 6s]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.50 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) collected ($0.50)
+
+
+
+PokerStars Hand #103174598859:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:20 CET [2013/08/24 14:59:20 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 2: Gunnar3000 ($52.52 in chips) 
+Seat 3: mr.HekTo ($28.60 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.54 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah Kh]
+aazaa: raises $0.50 to $0.75
+ikounelis: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to aazaa
+aazaa collected $0.60 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa collected ($0.60)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174602005:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:26 CET [2013/08/24 14:59:26 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 2: Gunnar3000 ($52.42 in chips) 
+Seat 3: mr.HekTo ($28.35 in chips) 
+Seat 4: aazaa ($24.30 in chips) 
+Seat 5: ikounelis ($34.54 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ks 6d]
+ikounelis: raises $0.50 to $0.75
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.50) returned to ikounelis
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded before Flop
+Seat 5: ikounelis collected ($0.60)
+
+
+
+PokerStars Hand #103174608153:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:39 CET [2013/08/24 14:59:39 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 2: Gunnar3000 ($52.42 in chips) 
+Seat 3: mr.HekTo ($28.25 in chips) 
+Seat 4: aazaa ($24.05 in chips) 
+Seat 5: ikounelis ($34.89 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4h 7s]
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($0.50) returned to mr.HekTo
+mr.HekTo collected $0.60 from pot
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) collected ($0.60)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+
+
+
+PokerStars Hand #103174616893:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:59:56 CET [2013/08/24 14:59:56 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 2: Gunnar3000 ($52.42 in chips) 
+Seat 3: mr.HekTo ($28.60 in chips) 
+Seat 4: aazaa ($23.95 in chips) 
+Seat 5: ikounelis ($34.64 in chips) 
+ikounelis: posts small blind $0.10
+Gunnar3000 is disconnected 
+Gunnar3000 is connected 
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ts Td]
+mr.HekTo: raises $0.50 to $0.75
+aazaa: calls $0.75
+kaburov leaves the table
+ikounelis: calls $0.65
+Gunnar3000: folds 
+*** FLOP *** [3h Ac Kc]
+ikounelis: checks 
+mr.HekTo: checks 
+aazaa: bets $1.70
+ikounelis: folds 
+mr.HekTo: folds 
+Uncalled bet ($1.70) returned to aazaa
+aazaa collected $2.39 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0.11 
+Board [3h Ac Kc]
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded on the Flop
+Seat 4: aazaa (button) collected ($2.39)
+Seat 5: ikounelis (small blind) folded on the Flop
+
+
+
+PokerStars Hand #103174639058:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:00:31 CET [2013/08/24 15:00:31 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 2: Gunnar3000 ($52.17 in chips) 
+Seat 3: mr.HekTo ($27.85 in chips) 
+Seat 4: aazaa ($25.59 in chips) 
+Seat 5: ikounelis ($33.89 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9c Kd]
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+condoru 001 joins the table at seat #1 
+Gunnar3000: folds 
+mr.HekTo: folds 
+Uncalled bet ($0.50) returned to ikounelis
+Kitombo joins the table at seat #6 
+ikounelis collected $0.60 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) collected ($0.60)
+
+
+
+PokerStars Hand #103174646625:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:00:44 CET [2013/08/24 15:00:44 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: condoru 001 ($15.43 in chips) 
+Seat 2: Gunnar3000 ($52.07 in chips) 
+Seat 3: mr.HekTo ($27.60 in chips) 
+Seat 4: aazaa ($25.59 in chips) 
+Seat 5: ikounelis ($34.24 in chips) 
+Seat 6: Kitombo ($14 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+Kitombo: posts big blind $0.25
+condoru 001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Tc 9c]
+ikounelis: raises $1.25 to $1.50
+Kitombo: folds 
+condoru 001: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $1.25
+*** FLOP *** [Kd Jc 5h]
+aazaa: checks 
+ikounelis: bets $2
+aazaa: folds 
+Uncalled bet ($2) returned to ikounelis
+ikounelis collected $3.44 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $3.60 | Rake $0.16 
+Board [Kd Jc 5h]
+Seat 1: condoru 001 folded before Flop
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded on the Flop
+Seat 5: ikounelis collected ($3.44)
+Seat 6: Kitombo folded before Flop
+
+
+
+PokerStars Hand #103174675687:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:01:29 CET [2013/08/24 15:01:29 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: condoru 001 ($15.18 in chips) 
+Seat 2: Gunnar3000 ($52.07 in chips) 
+Seat 3: mr.HekTo ($27.50 in chips) 
+Seat 4: aazaa ($24.09 in chips) 
+Seat 5: ikounelis ($36.18 in chips) 
+Seat 6: Kitombo ($13.75 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3h Qs]
+Kitombo: folds 
+condoru 001: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+Uncalled bet ($0.15) returned to ikounelis
+ikounelis collected $0.20 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.20 | Rake $0 
+Seat 1: condoru 001 folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) collected ($0.20)
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174684637:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:01:42 CET [2013/08/24 15:01:42 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: condoru 001 ($15.18 in chips) 
+Seat 2: Gunnar3000 ($52.07 in chips) 
+Seat 3: mr.HekTo ($27.50 in chips) 
+Seat 4: aazaa ($23.99 in chips) 
+Seat 5: ikounelis ($36.28 in chips) 
+Seat 6: Kitombo ($13.75 in chips) 
+ikounelis: posts small blind $0.10
+Kitombo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Jd 2s]
+condoru 001: folds 
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+Kitombo: calls $0.50
+*** FLOP *** [2c 6d Ks]
+Kitombo: checks 
+mr.HekTo: bets $1
+Kitombo: folds 
+Uncalled bet ($1) returned to mr.HekTo
+mr.HekTo collected $1.53 from pot
+*** SUMMARY ***
+Total pot $1.60 | Rake $0.07 
+Board [2c 6d Ks]
+Seat 1: condoru 001 folded before Flop (didn't bet)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo collected ($1.53)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded before Flop
+Seat 6: Kitombo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103174700687:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:04 CET [2013/08/24 15:02:04 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: condoru 001 ($15.18 in chips) 
+Seat 2: Gunnar3000 ($52.07 in chips) 
+Seat 3: mr.HekTo ($28.28 in chips) 
+Seat 4: aazaa ($23.99 in chips) 
+Seat 5: ikounelis ($36.18 in chips) 
+Seat 6: Kitombo ($13 in chips) 
+Kitombo: posts small blind $0.10
+condoru 001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Ah As]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: calls $0.75
+Kitombo: folds 
+condoru 001: calls $0.50
+*** FLOP *** [4s 9h Ts]
+condoru 001: checks 
+aazaa: bets $1.80
+ikounelis: folds 
+condoru 001: folds 
+Uncalled bet ($1.80) returned to aazaa
+aazaa collected $2.24 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.35 | Rake $0.11 
+Board [4s 9h Ts]
+Seat 1: condoru 001 (big blind) folded on the Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa collected ($2.24)
+Seat 5: ikounelis (button) folded on the Flop
+Seat 6: Kitombo (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174724719:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:36 CET [2013/08/24 15:02:36 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: condoru 001 ($14.43 in chips) 
+Seat 2: Gunnar3000 ($52.07 in chips) 
+Seat 3: mr.HekTo ($28.28 in chips) 
+Seat 4: aazaa ($25.48 in chips) 
+Seat 5: ikounelis ($35.43 in chips) 
+Seat 6: Kitombo ($12.90 in chips) 
+condoru 001: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [2d Ks]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Kitombo: raises $0.50 to $0.75
+condoru 001: folds 
+Gunnar3000: folds 
+Uncalled bet ($0.50) returned to Kitombo
+Kitombo collected $0.60 from pot
+Kitombo: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: condoru 001 (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: Kitombo (button) collected ($0.60)
+
+
+
+PokerStars Hand #103174732521:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:47 CET [2013/08/24 15:02:47 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: condoru 001 ($14.33 in chips) 
+Seat 2: Gunnar3000 ($51.82 in chips) 
+Seat 3: mr.HekTo ($28.28 in chips) 
+Seat 4: aazaa ($25.48 in chips) 
+Seat 5: ikounelis ($35.43 in chips) 
+Seat 6: Kitombo ($13.25 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9c 9h]
+aazaa: raises $0.50 to $0.75
+ikounelis: raises $1.50 to $2.25
+Kitombo: folds 
+condoru 001: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $1.50
+*** FLOP *** [8s 7h 8d]
+aazaa: checks 
+ikounelis: bets $4.50
+aazaa: folds 
+Uncalled bet ($4.50) returned to ikounelis
+ikounelis collected $4.63 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.22 
+Board [8s 7h 8d]
+Seat 1: condoru 001 (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa folded on the Flop
+Seat 5: ikounelis collected ($4.63)
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174772955:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:03:40 CET [2013/08/24 15:03:40 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: condoru 001 ($14.33 in chips) 
+Seat 2: Gunnar3000 ($51.72 in chips) 
+Seat 3: mr.HekTo ($28.03 in chips) 
+Seat 4: aazaa ($23.23 in chips) 
+Seat 5: ikounelis ($37.81 in chips) 
+Seat 6: Kitombo ($13.25 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4s 4d]
+ikounelis: raises $0.50 to $0.75
+Kitombo: folds 
+condoru 001: folds 
+Gunnar3000: calls $0.75
+mr.HekTo: folds 
+aazaa: calls $0.50
+*** FLOP *** [2h Qc 6c]
+aazaa: checks 
+ikounelis: bets $2
+Gunnar3000: calls $2
+aazaa: folds 
+*** TURN *** [2h Qc 6c] [Js]
+ikounelis: checks 
+Gunnar3000: bets $3
+ikounelis: folds 
+Uncalled bet ($3) returned to Gunnar3000
+Gunnar3000 collected $6.06 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.29 
+Board [2h Qc 6c Js]
+Seat 1: condoru 001 folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (button) collected ($6.06)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) folded on the Flop
+Seat 5: ikounelis folded on the Turn
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174804977:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:04:19 CET [2013/08/24 15:04:19 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: condoru 001 ($14.33 in chips) 
+Seat 2: Gunnar3000 ($55.03 in chips) 
+Seat 3: mr.HekTo ($27.93 in chips) 
+Seat 4: aazaa ($22.48 in chips) 
+Seat 5: ikounelis ($35.06 in chips) 
+Seat 6: Kitombo ($13.25 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [6d Ks]
+Kitombo: folds 
+condoru 001: raises $0.25 to $0.50
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($0.25) returned to condoru 001
+condoru 001 collected $0.60 from pot
+condoru 001: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.60 | Rake $0 
+Seat 1: condoru 001 collected ($0.60)
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) folded before Flop (didn't bet)
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) folded before Flop
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174821733:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:04:41 CET [2013/08/24 15:04:41 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: condoru 001 ($14.68 in chips) 
+Seat 2: Gunnar3000 ($55.03 in chips) 
+Seat 3: mr.HekTo ($27.93 in chips) 
+Seat 4: aazaa ($22.38 in chips) 
+Seat 5: ikounelis ($34.81 in chips) 
+Seat 6: Kitombo ($13.25 in chips) 
+ikounelis: posts small blind $0.10
+Kitombo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4c Kc]
+condoru 001: calls $0.25
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $0.25
+ikounelis: calls $0.15
+Kitombo: checks 
+*** FLOP *** [5c Tc 6d]
+ikounelis: checks 
+Kitombo: checks 
+condoru 001: bets $0.50
+aazaa: calls $0.50
+ikounelis: folds 
+Kitombo: folds 
+*** TURN *** [5c Tc 6d] [4d]
+condoru 001: bets $0.50
+aazaa: calls $0.50
+*** RIVER *** [5c Tc 6d 4d] [9c]
+condoru 001: bets $0.75
+aazaa: raises $2.75 to $3.50
+condoru 001: folds 
+Uncalled bet ($2.75) returned to aazaa
+aazaa collected $4.30 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.20 
+Board [5c Tc 6d 4d 9c]
+Seat 1: condoru 001 folded on the River
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) collected ($4.30)
+Seat 5: ikounelis (small blind) folded on the Flop
+Seat 6: Kitombo (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103174865562:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:05:35 CET [2013/08/24 15:05:35 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: condoru 001 ($12.68 in chips) 
+Seat 2: Gunnar3000 ($55.03 in chips) 
+Seat 3: mr.HekTo ($27.93 in chips) 
+Seat 4: aazaa ($24.68 in chips) 
+Seat 5: ikounelis ($34.56 in chips) 
+Seat 6: Kitombo ($13 in chips) 
+Kitombo: posts small blind $0.10
+condoru 001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [9h Tc]
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: raises $1.50 to $2.25
+Kitombo: folds 
+condoru 001: folds 
+aazaa: raises $3.75 to $6
+ikounelis: raises $28.56 to $34.56 and is all-in
+aazaa: folds 
+Uncalled bet ($28.56) returned to ikounelis
+ikounelis collected $12.35 from pot
+ikounelis: doesn't show hand 
+*** SUMMARY ***
+Total pot $12.35 | Rake $0 
+Seat 1: condoru 001 (big blind) folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop
+Seat 5: ikounelis (button) collected ($12.35)
+Seat 6: Kitombo (small blind) folded before Flop
+
+
+
+PokerStars Hand #103174886777:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:06:01 CET [2013/08/24 15:06:01 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: condoru 001 ($12.43 in chips) 
+Seat 2: Gunnar3000 ($55.03 in chips) 
+Seat 3: mr.HekTo ($27.93 in chips) 
+Seat 4: aazaa ($18.68 in chips) 
+Seat 5: ikounelis ($40.91 in chips) 
+Seat 6: Kitombo ($12.90 in chips) 
+condoru 001: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Qd Kd]
+mr.HekTo: folds 
+aazaa: raises $0.50 to $0.75
+ikounelis: calls $0.75
+Kitombo: raises $12.15 to $12.90 and is all-in
+condoru 001: folds 
+Gunnar3000: folds 
+aazaa: folds 
+ikounelis: folds 
+Uncalled bet ($12.15) returned to Kitombo
+Kitombo collected $2.60 from pot
+*** SUMMARY ***
+Total pot $2.60 | Rake $0 
+Seat 1: condoru 001 (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded before Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop
+Seat 5: ikounelis folded before Flop
+Seat 6: Kitombo (button) collected ($2.60)
+
+
+
+PokerStars Hand #103174904478:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:06:23 CET [2013/08/24 15:06:23 ET]
+Table 'Coelestina III' 6-max Seat #1 is the button
+Seat 1: condoru 001 ($12.33 in chips) 
+Seat 2: Gunnar3000 ($54.78 in chips) 
+Seat 3: mr.HekTo ($27.93 in chips) 
+Seat 4: aazaa ($17.93 in chips) 
+Seat 5: ikounelis ($40.16 in chips) 
+Seat 6: Kitombo ($14.75 in chips) 
+Gunnar3000: posts small blind $0.10
+mr.HekTo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5d Ad]
+aazaa: raises $0.50 to $0.75
+ikounelis: raises $1.50 to $2.25
+Kitombo: folds 
+condoru 001: folds 
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $1.50
+*** FLOP *** [8c Jd 6c]
+aazaa: checks 
+ikounelis: checks 
+*** TURN *** [8c Jd 6c] [Ts]
+aazaa: checks 
+ikounelis: checks 
+*** RIVER *** [8c Jd 6c Ts] [9d]
+aazaa: bets $2.50
+ikounelis: folds 
+Uncalled bet ($2.50) returned to aazaa
+aazaa collected $4.63 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.85 | Rake $0.22 
+Board [8c Jd 6c Ts 9d]
+Seat 1: condoru 001 (button) folded before Flop (didn't bet)
+Seat 2: Gunnar3000 (small blind) folded before Flop
+Seat 3: mr.HekTo (big blind) folded before Flop
+Seat 4: aazaa collected ($4.63)
+Seat 5: ikounelis folded on the River
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174937433:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:07:04 CET [2013/08/24 15:07:04 ET]
+Table 'Coelestina III' 6-max Seat #2 is the button
+Seat 1: condoru 001 ($12.33 in chips) 
+Seat 2: Gunnar3000 ($54.68 in chips) 
+Seat 3: mr.HekTo ($27.68 in chips) 
+Seat 4: aazaa ($25 in chips) 
+Seat 5: ikounelis ($37.91 in chips) 
+Seat 6: Kitombo ($14.75 in chips) 
+mr.HekTo: posts small blind $0.10
+aazaa: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5c Ah]
+ikounelis: folds 
+Kitombo: folds 
+condoru 001: raises $0.25 to $0.50
+Gunnar3000: folds 
+mr.HekTo: folds 
+aazaa: calls $0.25
+*** FLOP *** [Ad Ks 4c]
+aazaa: checks 
+condoru 001: checks 
+*** TURN *** [Ad Ks 4c] [4s]
+aazaa: bets $0.75
+condoru 001: folds 
+Uncalled bet ($0.75) returned to aazaa
+aazaa collected $1.05 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.10 | Rake $0.05 
+Board [Ad Ks 4c 4s]
+Seat 1: condoru 001 folded on the Turn
+Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
+Seat 3: mr.HekTo (small blind) folded before Flop
+Seat 4: aazaa (big blind) collected ($1.05)
+Seat 5: ikounelis folded before Flop (didn't bet)
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174960955:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:07:34 CET [2013/08/24 15:07:34 ET]
+Table 'Coelestina III' 6-max Seat #3 is the button
+Seat 1: condoru 001 ($11.83 in chips) 
+Seat 2: Gunnar3000 ($54.68 in chips) 
+Seat 3: mr.HekTo ($27.58 in chips) 
+Seat 4: aazaa ($25.55 in chips) 
+Seat 5: ikounelis ($37.91 in chips) 
+Seat 6: Kitombo ($14.75 in chips) 
+aazaa: posts small blind $0.10
+ikounelis: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [4s 2s]
+Kitombo: folds 
+condoru 001: calls $0.25
+Gunnar3000: folds 
+mr.HekTo: raises $1 to $1.25
+aazaa: folds 
+ikounelis: calls $1
+condoru 001: folds 
+*** FLOP *** [Qh 7c 5s]
+ikounelis: checks 
+mr.HekTo: bets $1.75
+ikounelis: calls $1.75
+*** TURN *** [Qh 7c 5s] [3h]
+ikounelis: checks 
+mr.HekTo: checks 
+*** RIVER *** [Qh 7c 5s 3h] [7h]
+ikounelis: checks 
+mr.HekTo: checks 
+*** SHOW DOWN ***
+ikounelis: shows [Qd Jd] (two pair, Queens and Sevens)
+mr.HekTo: mucks hand 
+ikounelis collected $6.06 from pot
+*** SUMMARY ***
+Total pot $6.35 | Rake $0.29 
+Board [Qh 7c 5s 3h 7h]
+Seat 1: condoru 001 folded before Flop
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo (button) mucked [Js 8s]
+Seat 4: aazaa (small blind) folded before Flop
+Seat 5: ikounelis (big blind) showed [Qd Jd] and won ($6.06) with two pair, Queens and Sevens
+Seat 6: Kitombo folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174981379:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:08:00 CET [2013/08/24 15:08:00 ET]
+Table 'Coelestina III' 6-max Seat #4 is the button
+Seat 1: condoru 001 ($11.58 in chips) 
+Seat 2: Gunnar3000 ($54.68 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($25.45 in chips) 
+Seat 5: ikounelis ($40.97 in chips) 
+Seat 6: Kitombo ($14.75 in chips) 
+ikounelis: posts small blind $0.10
+Kitombo: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [Th 9d]
+condoru 001: calls $0.25
+Gunnar3000: raises $0.85 to $1.10
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: calls $1
+Kitombo: folds 
+condoru 001: calls $0.85
+*** FLOP *** [5s 4d 2s]
+ikounelis: checks 
+condoru 001: checks 
+Gunnar3000: checks 
+*** TURN *** [5s 4d 2s] [As]
+ikounelis: checks 
+condoru 001: bets $0.75
+Gunnar3000: calls $0.75
+ikounelis: calls $0.75
+*** RIVER *** [5s 4d 2s As] [8s]
+ikounelis: checks 
+condoru 001: bets $1.25
+Gunnar3000: folds 
+ikounelis: folds 
+Uncalled bet ($1.25) returned to condoru 001
+condoru 001 collected $5.54 from pot
+condoru 001: doesn't show hand 
+*** SUMMARY ***
+Total pot $5.80 | Rake $0.26 
+Board [5s 4d 2s As 8s]
+Seat 1: condoru 001 collected ($5.54)
+Seat 2: Gunnar3000 folded on the River
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa (button) folded before Flop (didn't bet)
+Seat 5: ikounelis (small blind) folded on the River
+Seat 6: Kitombo (big blind) folded before Flop
+
+
+
+PokerStars Hand #103175025616:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:08:56 CET [2013/08/24 15:08:56 ET]
+Table 'Coelestina III' 6-max Seat #5 is the button
+Seat 1: condoru 001 ($15.27 in chips) 
+Seat 2: Gunnar3000 ($52.83 in chips) 
+Seat 3: mr.HekTo ($25 in chips) 
+Seat 4: aazaa ($25.45 in chips) 
+Seat 5: ikounelis ($39.12 in chips) 
+Seat 6: Kitombo ($14.50 in chips) 
+Kitombo: posts small blind $0.10
+condoru 001: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [3d 6h]
+Gunnar3000: folds 
+mr.HekTo: raises $0.50 to $0.75
+aazaa: folds 
+ikounelis: folds 
+Kitombo: folds 
+condoru 001: calls $0.50
+*** FLOP *** [4c 3c 5d]
+condoru 001: checks 
+mr.HekTo: bets $1.25
+condoru 001: calls $1.25
+*** TURN *** [4c 3c 5d] [7c]
+condoru 001: checks 
+mr.HekTo: checks 
+*** RIVER *** [4c 3c 5d 7c] [9d]
+condoru 001: bets $1.25
+mr.HekTo: calls $1.25
+*** SHOW DOWN ***
+condoru 001: shows [Js 4s] (a pair of Fours)
+mr.HekTo: shows [Qh Qc] (a pair of Queens)
+mr.HekTo collected $6.30 from pot
+*** SUMMARY ***
+Total pot $6.60 | Rake $0.30 
+Board [4c 3c 5d 7c 9d]
+Seat 1: condoru 001 (big blind) showed [Js 4s] and lost with a pair of Fours
+Seat 2: Gunnar3000 folded before Flop (didn't bet)
+Seat 3: mr.HekTo showed [Qh Qc] and won ($6.30) with a pair of Queens
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis (button) folded before Flop (didn't bet)
+Seat 6: Kitombo (small blind) folded before Flop
+
+
+
+PokerStars Hand #103175050415:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:09:28 CET [2013/08/24 15:09:28 ET]
+Table 'Coelestina III' 6-max Seat #6 is the button
+Seat 1: condoru 001 ($12.02 in chips) 
+Seat 2: Gunnar3000 ($52.83 in chips) 
+Seat 3: mr.HekTo ($28.05 in chips) 
+Seat 4: aazaa ($25.45 in chips) 
+Seat 5: ikounelis ($39.12 in chips) 
+Seat 6: Kitombo ($14.40 in chips) 
+condoru 001: posts small blind $0.10
+Gunnar3000: posts big blind $0.25
+*** HOLE CARDS ***
+Dealt to aazaa [5h 2s]
+mr.HekTo: folds 
+aazaa: folds 
+ikounelis: raises $0.50 to $0.75
+Kitombo: raises $0.75 to $1.50
+condoru 001: folds 
+Gunnar3000: calls $1.25
+ikounelis: calls $0.75
+*** FLOP *** [Qs 5c 4d]
+Gunnar3000: checks 
+ikounelis: checks 
+Kitombo: bets $3
+Gunnar3000: folds 
+ikounelis: folds 
+Uncalled bet ($3) returned to Kitombo
+Kitombo collected $4.39 from pot
+Kitombo: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.60 | Rake $0.21 
+Board [Qs 5c 4d]
+Seat 1: condoru 001 (small blind) folded before Flop
+Seat 2: Gunnar3000 (big blind) folded on the Flop
+Seat 3: mr.HekTo folded before Flop (didn't bet)
+Seat 4: aazaa folded before Flop (didn't bet)
+Seat 5: ikounelis folded on the Flop
+Seat 6: Kitombo (button) collected ($4.39)
+
+
+

@@ -1,0 +1,939 @@
+﻿PokerStars Hand #103171588815: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:47:22 CET [2013/08/24 13:47:22 ET]
+Table '778604559 2' 9-max Seat #1 is the button
+Seat 1: Equus99 (1500 in chips) 
+Seat 2: aazaa (1500 in chips) 
+Seat 3: MrHatti (1500 in chips) 
+Seat 4: jackthehat12 (1500 in chips) 
+Seat 5: onmybicycle (1500 in chips) 
+Seat 6: m.brunni (1500 in chips) 
+Seat 7: ribooon (1500 in chips) 
+Seat 8: EeeTee2008 (1500 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+aazaa: posts small blind 10
+MrHatti: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 7h]
+jackthehat12: folds 
+onmybicycle: folds 
+m.brunni: raises 100 to 120
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: folds 
+MrHatti: folds 
+Uncalled bet (100) returned to m.brunni
+m.brunni collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Equus99 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: MrHatti (big blind) folded before Flop
+Seat 4: jackthehat12 folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni collected (50)
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171610737: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:47:54 CET [2013/08/24 13:47:54 ET]
+Table '778604559 2' 9-max Seat #2 is the button
+Seat 1: Equus99 (1500 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1480 in chips) 
+Seat 4: jackthehat12 (1500 in chips) 
+Seat 5: onmybicycle (1500 in chips) 
+Seat 6: m.brunni (1530 in chips) 
+Seat 7: ribooon (1500 in chips) 
+Seat 8: EeeTee2008 (1500 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+MrHatti: posts small blind 10
+jackthehat12: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [5c Js]
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: raises 360 to 380
+aazaa: folds 
+MrHatti: folds 
+jackthehat12: calls 360
+*** FLOP *** [7c Jc 3c]
+jackthehat12: checks 
+Equus99: bets 600
+jackthehat12: raises 520 to 1120 and is all-in
+Equus99: calls 520 and is all-in
+*** TURN *** [7c Jc 3c] [9d]
+*** RIVER *** [7c Jc 3c 9d] [Kh]
+*** SHOW DOWN ***
+jackthehat12: shows [Ac 6h] (high card Ace)
+Equus99: shows [9s 9c] (three of a kind, Nines)
+Equus99 collected 3010 from pot
+jackthehat12 finished the tournament in 44th place
+*** SUMMARY ***
+Total pot 3010 | Rake 0 
+Board [7c Jc 3c 9d Kh]
+Seat 1: Equus99 showed [9s 9c] and won (3010) with three of a kind, Nines
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: MrHatti (small blind) folded before Flop
+Seat 4: jackthehat12 (big blind) showed [Ac 6h] and lost with high card Ace
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171653890: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:48:56 CET [2013/08/24 13:48:56 ET]
+Table '778604559 2' 9-max Seat #3 is the button
+Seat 1: Equus99 (3010 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1470 in chips) 
+Seat 5: onmybicycle (1500 in chips) 
+Seat 6: m.brunni (1530 in chips) 
+Seat 7: ribooon (1500 in chips) 
+Seat 8: EeeTee2008 (1500 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+onmybicycle: posts small blind 10
+m.brunni: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 5s]
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: calls 20
+aazaa: folds 
+MrHatti: calls 20
+onmybicycle: folds 
+m.brunni: checks 
+*** FLOP *** [Ts Jc Qh]
+m.brunni: checks 
+Equus99: checks 
+MrHatti: bets 80
+m.brunni: calls 80
+Equus99: calls 80
+*** TURN *** [Ts Jc Qh] [Th]
+m.brunni: checks 
+Equus99: checks 
+MrHatti: bets 200
+m.brunni: folds 
+Equus99: folds 
+Uncalled bet (200) returned to MrHatti
+MrHatti collected 310 from pot
+MrHatti: doesn't show hand 
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [Ts Jc Qh Th]
+Seat 1: Equus99 folded on the Turn
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti (button) collected (310)
+Seat 5: onmybicycle (small blind) folded before Flop
+Seat 6: m.brunni (big blind) folded on the Turn
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171705555: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:50:12 CET [2013/08/24 13:50:12 ET]
+Table '778604559 2' 9-max Seat #5 is the button
+Seat 1: Equus99 (2910 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1680 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1430 in chips) 
+Seat 7: ribooon (1500 in chips) 
+Seat 8: EeeTee2008 (1500 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+m.brunni: posts small blind 10
+ribooon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [3c 7c]
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: calls 20
+aazaa: folds 
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: calls 10
+ribooon: checks 
+*** FLOP *** [Td 5s 6d]
+m.brunni: checks 
+ribooon: bets 45
+Equus99: raises 275 to 320
+m.brunni: folds 
+ribooon: raises 920 to 1240
+Equus99: folds 
+Uncalled bet (920) returned to ribooon
+ribooon collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Td 5s 6d]
+Seat 1: Equus99 folded on the Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle (button) folded before Flop (didn't bet)
+Seat 6: m.brunni (small blind) folded on the Flop
+Seat 7: ribooon (big blind) collected (700)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171745141: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:51:11 CET [2013/08/24 13:51:11 ET]
+Table '778604559 2' 9-max Seat #6 is the button
+Seat 1: Equus99 (2570 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1680 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1410 in chips) 
+Seat 7: ribooon (1860 in chips) 
+Seat 8: EeeTee2008 (1500 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+ribooon: posts small blind 10
+EeeTee2008: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [4s 5h]
+PlayaPlz: folds 
+Equus99: calls 20
+aazaa: folds 
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: checks 
+*** FLOP *** [8c 9d Qs]
+EeeTee2008: bets 30
+Equus99: raises 230 to 260
+EeeTee2008: folds 
+Uncalled bet (230) returned to Equus99
+Equus99 collected 110 from pot
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Board [8c 9d Qs]
+Seat 1: Equus99 collected (110)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni (button) folded before Flop (didn't bet)
+Seat 7: ribooon (small blind) folded before Flop
+Seat 8: EeeTee2008 (big blind) folded on the Flop
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171793252: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:52:22 CET [2013/08/24 13:52:22 ET]
+Table '778604559 2' 9-max Seat #7 is the button
+Seat 1: Equus99 (2630 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1680 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1410 in chips) 
+Seat 7: ribooon (1850 in chips) 
+Seat 8: EeeTee2008 (1450 in chips) 
+Seat 9: PlayaPlz (1500 in chips) 
+EeeTee2008: posts small blind 10
+PlayaPlz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 9h]
+Equus99: raises 420 to 440
+aazaa: folds 
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Uncalled bet (420) returned to Equus99
+Equus99 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Equus99 collected (50)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon (button) folded before Flop (didn't bet)
+Seat 8: EeeTee2008 (small blind) folded before Flop
+Seat 9: PlayaPlz (big blind) folded before Flop
+
+
+
+PokerStars Hand #103171827802: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:53:13 CET [2013/08/24 13:53:13 ET]
+Table '778604559 2' 9-max Seat #8 is the button
+Seat 1: Equus99 (2660 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1680 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1410 in chips) 
+Seat 7: ribooon (1850 in chips) 
+Seat 8: EeeTee2008 (1440 in chips) 
+Seat 9: PlayaPlz (1480 in chips) 
+PlayaPlz: posts small blind 15
+Equus99: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [8c Th]
+aazaa: folds 
+MrHatti: calls 30
+onmybicycle: folds 
+m.brunni: calls 30
+ribooon: folds 
+EeeTee2008: raises 75 to 105
+PlayaPlz: raises 151 to 256
+Equus99: folds 
+MrHatti: folds 
+m.brunni: folds 
+EeeTee2008: folds 
+Uncalled bet (151) returned to PlayaPlz
+PlayaPlz collected 300 from pot
+PlayaPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Equus99 (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti folded before Flop
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded before Flop
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 (button) folded before Flop
+Seat 9: PlayaPlz (small blind) collected (300)
+
+
+
+PokerStars Hand #103171871714: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:54:18 CET [2013/08/24 13:54:18 ET]
+Table '778604559 2' 9-max Seat #9 is the button
+Seat 1: Equus99 (2630 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: MrHatti (1650 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1380 in chips) 
+Seat 7: ribooon (1850 in chips) 
+Seat 8: EeeTee2008 (1335 in chips) 
+Seat 9: PlayaPlz (1675 in chips) 
+Equus99: posts small blind 15
+aazaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Th 6s]
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: calls 30
+ribooon: calls 30
+EeeTee2008: calls 30
+PlayaPlz: calls 30
+Equus99: folds 
+aazaa: checks 
+*** FLOP *** [Js Ts 4s]
+aazaa: checks 
+m.brunni: checks 
+ribooon: checks 
+EeeTee2008: checks 
+PlayaPlz: checks 
+*** TURN *** [Js Ts 4s] [9s]
+aazaa: checks 
+m.brunni: bets 120
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+aazaa: folds 
+Uncalled bet (120) returned to m.brunni
+m.brunni collected 165 from pot
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [Js Ts 4s 9s]
+Seat 1: Equus99 (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded on the Turn
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni collected (165)
+Seat 7: ribooon folded on the Turn
+Seat 8: EeeTee2008 folded on the Turn
+Seat 9: PlayaPlz (button) folded on the Turn
+
+
+
+PokerStars Hand #103172076900: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:00:49 CET [2013/08/24 14:00:49 ET]
+Table '778604559 2' 9-max Seat #1 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1460 in chips) 
+Seat 3: MrHatti (1650 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1515 in chips) 
+Seat 7: ribooon (1820 in chips) 
+Seat 8: EeeTee2008 (1305 in chips) 
+Seat 9: PlayaPlz (1645 in chips) 
+aazaa: posts small blind 15
+MrHatti: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [3c Qs]
+onmybicycle: folds 
+m.brunni: calls 30
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99 has timed out
+Equus99: folds 
+Equus99 is sitting out
+aazaa: calls 15
+MrHatti: checks 
+*** FLOP *** [6c Jd Tc]
+aazaa: checks 
+MrHatti: bets 55
+m.brunni: folds 
+aazaa: folds 
+Uncalled bet (55) returned to MrHatti
+MrHatti collected 90 from pot
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [6c Jd Tc]
+Seat 1: Equus99 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded on the Flop
+Seat 3: MrHatti (big blind) collected (90)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded on the Flop
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172114065: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:01:47 CET [2013/08/24 14:01:47 ET]
+Table '778604559 2' 9-max Seat #2 is the button
+Seat 1: Equus99 (2615 in chips) is sitting out
+Seat 2: aazaa (1430 in chips) 
+Seat 3: MrHatti (1710 in chips) 
+Seat 5: onmybicycle (1490 in chips) 
+Seat 6: m.brunni (1485 in chips) 
+Seat 7: ribooon (1820 in chips) 
+Seat 8: EeeTee2008 (1305 in chips) 
+Seat 9: PlayaPlz (1645 in chips) 
+MrHatti: posts small blind 15
+onmybicycle: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [8s 3s]
+m.brunni: folds 
+ribooon: raises 60 to 90
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: folds 
+MrHatti: calls 75
+onmybicycle: folds 
+*** FLOP *** [9s 4c Qs]
+MrHatti: checks 
+ribooon: bets 157
+MrHatti: calls 157
+*** TURN *** [9s 4c Qs] [9d]
+MrHatti: checks 
+ribooon: checks 
+*** RIVER *** [9s 4c Qs 9d] [6d]
+MrHatti: bets 675
+Equus99 has returned
+ribooon: folds 
+Uncalled bet (675) returned to MrHatti
+MrHatti collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | Rake 0 
+Board [9s 4c Qs 9d 6d]
+Seat 1: Equus99 folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: MrHatti (small blind) collected (524)
+Seat 5: onmybicycle (big blind) folded before Flop
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon folded on the River
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172185053: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:03:27 CET [2013/08/24 14:03:27 ET]
+Table '778604559 2' 9-max Seat #3 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1430 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1460 in chips) 
+Seat 6: m.brunni (1485 in chips) 
+Seat 7: ribooon (1573 in chips) 
+Seat 8: EeeTee2008 (1305 in chips) 
+Seat 9: PlayaPlz (1645 in chips) 
+onmybicycle: posts small blind 25
+m.brunni: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [3c Qs]
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: folds 
+MrHatti: folds 
+onmybicycle: raises 50 to 100
+m.brunni: calls 50
+*** FLOP *** [Th 6d 6c]
+onmybicycle: bets 150
+m.brunni: folds 
+Uncalled bet (150) returned to onmybicycle
+onmybicycle collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Th 6d 6c]
+Seat 1: Equus99 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti (button) folded before Flop (didn't bet)
+Seat 5: onmybicycle (small blind) collected (200)
+Seat 6: m.brunni (big blind) folded on the Flop
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172247824: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:04:50 CET [2013/08/24 14:04:50 ET]
+Table '778604559 2' 9-max Seat #5 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1430 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1560 in chips) 
+Seat 6: m.brunni (1385 in chips) 
+Seat 7: ribooon (1573 in chips) 
+Seat 8: EeeTee2008 (1305 in chips) 
+Seat 9: PlayaPlz (1645 in chips) 
+m.brunni: posts small blind 25
+ribooon: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [8d Qd]
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: raises 70 to 120
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: raises 70 to 190
+ribooon: calls 140
+aazaa: calls 70
+*** FLOP *** [6d 5c 3c]
+m.brunni: bets 250
+ribooon: calls 250
+aazaa: folds 
+*** TURN *** [6d 5c 3c] [2h]
+m.brunni: checks 
+ribooon: bets 550
+m.brunni: folds 
+Uncalled bet (550) returned to ribooon
+ribooon collected 1070 from pot
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [6d 5c 3c 2h]
+Seat 1: Equus99 folded before Flop (didn't bet)
+Seat 2: aazaa folded on the Flop
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle (button) folded before Flop (didn't bet)
+Seat 6: m.brunni (small blind) folded on the Turn
+Seat 7: ribooon (big blind) collected (1070)
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172310958: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:06:14 CET [2013/08/24 14:06:14 ET]
+Table '778604559 2' 9-max Seat #6 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1240 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1560 in chips) 
+Seat 6: m.brunni (945 in chips) 
+Seat 7: ribooon (2203 in chips) 
+Seat 8: EeeTee2008 (1305 in chips) 
+Seat 9: PlayaPlz (1645 in chips) 
+ribooon: posts small blind 25
+EeeTee2008: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 3d]
+PlayaPlz: raises 50 to 100
+Equus99: folds 
+aazaa: folds 
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: calls 75
+EeeTee2008: calls 50
+*** FLOP *** [6h 3h Tc]
+ribooon: checks 
+EeeTee2008: checks 
+PlayaPlz: bets 150
+ribooon: folds 
+EeeTee2008: raises 255 to 405
+PlayaPlz: raises 1140 to 1545 and is all-in
+EeeTee2008: calls 800 and is all-in
+Uncalled bet (340) returned to PlayaPlz
+*** TURN *** [6h 3h Tc] [Td]
+*** RIVER *** [6h 3h Tc Td] [6s]
+*** SHOW DOWN ***
+EeeTee2008: shows [Th Jh] (a full house, Tens full of Sixes)
+PlayaPlz: shows [As Ad] (two pair, Aces and Tens)
+EeeTee2008 collected 2710 from pot
+*** SUMMARY ***
+Total pot 2710 | Rake 0 
+Board [6h 3h Tc Td 6s]
+Seat 1: Equus99 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni (button) folded before Flop (didn't bet)
+Seat 7: ribooon (small blind) folded on the Flop
+Seat 8: EeeTee2008 (big blind) showed [Th Jh] and won (2710) with a full house, Tens full of Sixes
+Seat 9: PlayaPlz showed [As Ad] and lost with two pair, Aces and Tens
+
+
+
+PokerStars Hand #103172355777: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:07:14 CET [2013/08/24 14:07:14 ET]
+Table '778604559 2' 9-max Seat #7 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1240 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1560 in chips) 
+Seat 6: m.brunni (945 in chips) 
+Seat 7: ribooon (2103 in chips) 
+Seat 8: EeeTee2008 (2710 in chips) 
+Seat 9: PlayaPlz (340 in chips) 
+EeeTee2008: posts small blind 25
+PlayaPlz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Ad Kd]
+Equus99: folds 
+aazaa: raises 70 to 120
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Uncalled bet (70) returned to aazaa
+aazaa collected 125 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Equus99 folded before Flop (didn't bet)
+Seat 2: aazaa collected (125)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon (button) folded before Flop (didn't bet)
+Seat 8: EeeTee2008 (small blind) folded before Flop
+Seat 9: PlayaPlz (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172379605: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:07:45 CET [2013/08/24 14:07:45 ET]
+Table '778604559 2' 9-max Seat #8 is the button
+Seat 1: Equus99 (2615 in chips) 
+Seat 2: aazaa (1315 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1560 in chips) 
+Seat 6: m.brunni (945 in chips) 
+Seat 7: ribooon (2103 in chips) 
+Seat 8: EeeTee2008 (2685 in chips) 
+Seat 9: PlayaPlz (290 in chips) 
+PlayaPlz: posts small blind 25
+Equus99: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Qs Js]
+aazaa: raises 60 to 110
+MrHatti: folds 
+onmybicycle: folds 
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+Uncalled bet (60) returned to aazaa
+aazaa collected 125 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Equus99 (big blind) folded before Flop
+Seat 2: aazaa collected (125)
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 (button) folded before Flop (didn't bet)
+Seat 9: PlayaPlz (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172407445: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:08:22 CET [2013/08/24 14:08:22 ET]
+Table '778604559 2' 9-max Seat #9 is the button
+Seat 1: Equus99 (2565 in chips) 
+Seat 2: aazaa (1390 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (1560 in chips) 
+Seat 6: m.brunni (945 in chips) 
+Seat 7: ribooon (2103 in chips) 
+Seat 8: EeeTee2008 (2685 in chips) 
+Seat 9: PlayaPlz (265 in chips) 
+Equus99: posts small blind 50
+aazaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [7d 9s]
+MrHatti: folds 
+onmybicycle: raises 100 to 200
+m.brunni: folds 
+ribooon: folds 
+EeeTee2008: raises 175 to 375
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: folds 
+onmybicycle: raises 1125 to 1500
+EeeTee2008: raises 1185 to 2685 and is all-in
+onmybicycle: calls 60 and is all-in
+Uncalled bet (1125) returned to EeeTee2008
+*** FLOP *** [2s 8d 2h]
+*** TURN *** [2s 8d 2h] [As]
+*** RIVER *** [2s 8d 2h As] [Jd]
+*** SHOW DOWN ***
+onmybicycle: shows [Qc Ah] (two pair, Aces and Deuces)
+EeeTee2008: shows [Th Tc] (two pair, Tens and Deuces)
+onmybicycle collected 3270 from pot
+*** SUMMARY ***
+Total pot 3270 | Rake 0 
+Board [2s 8d 2h As Jd]
+Seat 1: Equus99 (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: MrHatti folded before Flop (didn't bet)
+Seat 5: onmybicycle showed [Qc Ah] and won (3270) with two pair, Aces and Deuces
+Seat 6: m.brunni folded before Flop (didn't bet)
+Seat 7: ribooon folded before Flop (didn't bet)
+Seat 8: EeeTee2008 showed [Th Tc] and lost with two pair, Tens and Deuces
+Seat 9: PlayaPlz (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172458775: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:09:30 CET [2013/08/24 14:09:30 ET]
+Table '778604559 2' 9-max Seat #1 is the button
+Seat 1: Equus99 (2515 in chips) 
+Seat 2: aazaa (1290 in chips) 
+Seat 3: MrHatti (1987 in chips) 
+Seat 5: onmybicycle (3270 in chips) 
+Seat 6: m.brunni (945 in chips) 
+Seat 8: EeeTee2008 (1125 in chips) 
+Seat 9: PlayaPlz (265 in chips) 
+aazaa: posts small blind 50
+MrHatti: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [3s 5c]
+onmybicycle: folds 
+m.brunni: calls 100
+EeeTee2008: folds 
+PlayaPlz: folds 
+Equus99: folds 
+aazaa: folds 
+MrHatti: checks 
+*** FLOP *** [8h Qs Ks]
+MrHatti: checks 
+m.brunni: bets 400
+MrHatti: raises 500 to 900
+m.brunni: calls 445 and is all-in
+Uncalled bet (55) returned to MrHatti
+*** TURN *** [8h Qs Ks] [3c]
+*** RIVER *** [8h Qs Ks 3c] [Ts]
+*** SHOW DOWN ***
+MrHatti: shows [Qh Jc] (a pair of Queens)
+m.brunni: shows [7d 6d] (high card King)
+MrHatti collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [8h Qs Ks 3c Ts]
+Seat 1: Equus99 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: MrHatti (big blind) showed [Qh Jc] and won (1940) with a pair of Queens
+Seat 5: onmybicycle folded before Flop (didn't bet)
+Seat 6: m.brunni showed [7d 6d] and lost with high card King
+Seat 8: EeeTee2008 folded before Flop (didn't bet)
+Seat 9: PlayaPlz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172524111: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:10:58 CET [2013/08/24 14:10:58 ET]
+Table '778604559 5' 9-max Seat #3 is the button
+Seat 1: MrHatti (2982 in chips) 
+Seat 2: aazaa (1240 in chips) 
+Seat 3: rebuy city (2250 in chips) 
+Seat 4: urnehe (690 in chips) 
+Seat 5: BEESTENMAN29 (3200 in chips) 
+Seat 6: d10guinho (1470 in chips) 
+Seat 7: misiu 3 (1465 in chips) 
+Seat 8: guccyka (1450 in chips) 
+Seat 9: ZERO_77 (1345 in chips) 
+urnehe: posts small blind 50
+BEESTENMAN29: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [2s 9d]
+d10guinho: raises 1370 to 1470 and is all-in
+misiu 3: folds 
+guccyka: folds 
+ZERO_77: calls 1345 and is all-in
+MrHatti: folds 
+aazaa: folds 
+rebuy city: folds 
+urnehe: folds 
+BEESTENMAN29: folds 
+Uncalled bet (125) returned to d10guinho
+*** FLOP *** [Qh 4d Th]
+*** TURN *** [Qh 4d Th] [6s]
+*** RIVER *** [Qh 4d Th 6s] [2d]
+*** SHOW DOWN ***
+d10guinho: shows [Kh Qd] (a pair of Queens)
+ZERO_77: shows [Qs Qc] (three of a kind, Queens)
+ZERO_77 collected 2840 from pot
+*** SUMMARY ***
+Total pot 2840 | Rake 0 
+Board [Qh 4d Th 6s 2d]
+Seat 1: MrHatti folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: rebuy city (button) folded before Flop (didn't bet)
+Seat 4: urnehe (small blind) folded before Flop
+Seat 5: BEESTENMAN29 (big blind) folded before Flop
+Seat 6: d10guinho showed [Kh Qd] and lost with a pair of Queens
+Seat 7: misiu 3 folded before Flop (didn't bet)
+Seat 8: guccyka folded before Flop (didn't bet)
+Seat 9: ZERO_77 showed [Qs Qc] and won (2840) with three of a kind, Queens
+
+
+
+PokerStars Hand #103172560899: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:11:47 CET [2013/08/24 14:11:47 ET]
+Table '778604559 5' 9-max Seat #4 is the button
+Seat 1: MrHatti (2982 in chips) 
+Seat 2: aazaa (1240 in chips) 
+Seat 3: rebuy city (2250 in chips) 
+Seat 4: urnehe (640 in chips) 
+Seat 5: BEESTENMAN29 (3100 in chips) 
+Seat 6: d10guinho (125 in chips) 
+Seat 7: misiu 3 (1465 in chips) 
+Seat 8: guccyka (1450 in chips) 
+Seat 9: ZERO_77 (2840 in chips) 
+BEESTENMAN29: posts small blind 50
+d10guinho: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [3h 8s]
+misiu 3: raises 1365 to 1465 and is all-in
+guccyka: calls 1450 and is all-in
+ZERO_77: folds 
+MrHatti: folds 
+aazaa: folds 
+rebuy city: folds 
+urnehe: folds 
+BEESTENMAN29: folds 
+d10guinho: calls 25 and is all-in
+Uncalled bet (15) returned to misiu 3
+*** FLOP *** [Qh 7h Td]
+*** TURN *** [Qh 7h Td] [Kd]
+*** RIVER *** [Qh 7h Td Kd] [5c]
+*** SHOW DOWN ***
+misiu 3: shows [Jh Kh] (a pair of Kings)
+guccyka: shows [Jd Jc] (a pair of Jacks)
+misiu 3 collected 2650 from side pot
+d10guinho: shows [8d Ac] (high card Ace)
+misiu 3 collected 425 from main pot
+guccyka finished the tournament in 34th place
+d10guinho finished the tournament in 35th place
+*** SUMMARY ***
+Total pot 3075 Main pot 425. Side pot 2650. | Rake 0 
+Board [Qh 7h Td Kd 5c]
+Seat 1: MrHatti folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: rebuy city folded before Flop (didn't bet)
+Seat 4: urnehe (button) folded before Flop (didn't bet)
+Seat 5: BEESTENMAN29 (small blind) folded before Flop
+Seat 6: d10guinho (big blind) showed [8d Ac] and lost with high card Ace
+Seat 7: misiu 3 showed [Jh Kh] and won (3075) with a pair of Kings
+Seat 8: guccyka showed [Jd Jc] and lost with a pair of Jacks
+Seat 9: ZERO_77 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172587787: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:12:24 CET [2013/08/24 14:12:24 ET]
+Table '778604559 5' 9-max Seat #5 is the button
+Seat 1: MrHatti (2982 in chips) 
+Seat 2: aazaa (1240 in chips) 
+Seat 3: rebuy city (2250 in chips) 
+Seat 4: urnehe (640 in chips) 
+Seat 5: BEESTENMAN29 (3050 in chips) 
+Seat 7: misiu 3 (3090 in chips) 
+Seat 9: ZERO_77 (2840 in chips) 
+misiu 3: posts small blind 50
+ZERO_77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Kc Jh]
+MrHatti: folds 
+aazaa: raises 100 to 200
+rebuy city: folds 
+urnehe: folds 
+BEESTENMAN29: folds 
+misiu 3: folds 
+ZERO_77: calls 100
+*** FLOP *** [4s Ah 6c]
+ZERO_77: bets 240
+aazaa: folds 
+Uncalled bet (240) returned to ZERO_77
+ZERO_77 collected 450 from pot
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [4s Ah 6c]
+Seat 1: MrHatti folded before Flop (didn't bet)
+Seat 2: aazaa folded on the Flop
+Seat 3: rebuy city folded before Flop (didn't bet)
+Seat 4: urnehe folded before Flop (didn't bet)
+Seat 5: BEESTENMAN29 (button) folded before Flop (didn't bet)
+Seat 7: misiu 3 (small blind) folded before Flop
+Seat 9: ZERO_77 (big blind) collected (450)
+
+
+
+PokerStars Hand #103172630757: Tournament #778604559, $27.65+$2.35 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:13:22 CET [2013/08/24 14:13:22 ET]
+Table '778604559 5' 9-max Seat #7 is the button
+Seat 1: MrHatti (2982 in chips) 
+Seat 2: aazaa (1040 in chips) 
+Seat 3: rebuy city (2250 in chips) 
+Seat 4: urnehe (640 in chips) 
+Seat 5: BEESTENMAN29 (3050 in chips) 
+Seat 6: Reypeon (1300 in chips) is sitting out
+Seat 7: misiu 3 (3040 in chips) 
+Seat 9: ZERO_77 (3090 in chips) 
+ZERO_77: posts small blind 75
+MrHatti: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [6d Ts]
+aazaa: raises 890 to 1040 and is all-in
+rebuy city: folds 
+urnehe: folds 
+BEESTENMAN29: folds 
+Reypeon: folds 
+misiu 3: calls 1040
+ZERO_77: folds 
+MrHatti: folds 
+*** FLOP *** [5c 8s 9s]
+*** TURN *** [5c 8s 9s] [5s]
+*** RIVER *** [5c 8s 9s 5s] [Td]
+*** SHOW DOWN ***
+aazaa: shows [6d Ts] (two pair, Tens and Fives)
+misiu 3: shows [Ad Ac] (two pair, Aces and Fives)
+misiu 3 collected 2305 from pot
+aazaa finished the tournament in 33rd place
+*** SUMMARY ***
+Total pot 2305 | Rake 0 
+Board [5c 8s 9s 5s Td]
+Seat 1: MrHatti (big blind) folded before Flop
+Seat 2: aazaa showed [6d Ts] and lost with two pair, Tens and Fives
+Seat 3: rebuy city folded before Flop (didn't bet)
+Seat 4: urnehe folded before Flop (didn't bet)
+Seat 5: BEESTENMAN29 folded before Flop (didn't bet)
+Seat 6: Reypeon folded before Flop (didn't bet)
+Seat 7: misiu 3 (button) showed [Ad Ac] and won (2305) with two pair, Aces and Fives
+Seat 9: ZERO_77 (small blind) folded before Flop
+
+
+

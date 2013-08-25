@@ -1,0 +1,2488 @@
+﻿PokerStars Hand #103171133087: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:36:26 CET [2013/08/24 13:36:26 ET]
+Table '775135132 152' 9-max Seat #6 is the button
+Seat 1: XtremeFly (2620 in chips) 
+Seat 2: mddgfc (2990 in chips) 
+Seat 3: sharkkingpin (5345 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 6: Gowrie 1994 (1505 in chips) 
+Seat 7: muehle1 (4430 in chips) 
+Seat 8: Males-84 (3000 in chips) 
+Seat 9: Tilt000vicz (2910 in chips) 
+muehle1: posts small blind 15
+Males-84: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [6d 4c]
+Tilt000vicz: folds 
+XtremeFly: folds 
+mddgfc: folds 
+sharkkingpin: raises 30 to 60
+NegPL: folds 
+aazaa: folds 
+Gowrie 1994: raises 1445 to 1505 and is all-in
+muehle1: folds 
+Males-84: folds 
+sharkkingpin: folds 
+Uncalled bet (1445) returned to Gowrie 1994
+Gowrie 1994 collected 165 from pot
+Gowrie 1994: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: XtremeFly folded before Flop (didn't bet)
+Seat 2: mddgfc folded before Flop (didn't bet)
+Seat 3: sharkkingpin folded before Flop
+Seat 4: NegPL folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: Gowrie 1994 (button) collected (165)
+Seat 7: muehle1 (small blind) folded before Flop
+Seat 8: Males-84 (big blind) folded before Flop
+Seat 9: Tilt000vicz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171162004: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:37:08 CET [2013/08/24 13:37:08 ET]
+Table '775135132 152' 9-max Seat #7 is the button
+Seat 1: XtremeFly (2620 in chips) 
+Seat 2: mddgfc (2990 in chips) 
+Seat 3: sharkkingpin (5285 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 6: Gowrie 1994 (1610 in chips) 
+Seat 7: muehle1 (4415 in chips) 
+Seat 8: Males-84 (2970 in chips) 
+Seat 9: Tilt000vicz (2910 in chips) 
+Males-84: posts small blind 15
+Tilt000vicz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [2c Ts]
+XtremeFly: folds 
+mddgfc: folds 
+sharkkingpin: folds 
+NegPL: folds 
+aazaa: folds 
+Gowrie 1994: calls 30
+muehle1: raises 120 to 150
+Males-84: folds 
+Tilt000vicz: folds 
+Gowrie 1994: calls 120
+*** FLOP *** [Ah Ks Ad]
+Gowrie 1994: checks 
+muehle1: checks 
+*** TURN *** [Ah Ks Ad] [Tc]
+Gowrie 1994: bets 210
+muehle1: calls 210
+*** RIVER *** [Ah Ks Ad Tc] [Kc]
+Gowrie 1994: bets 1250 and is all-in
+muehle1: calls 1250
+*** SHOW DOWN ***
+Gowrie 1994: shows [4c 5c] (two pair, Aces and Kings)
+muehle1: shows [Ac Td] (a full house, Aces full of Kings)
+muehle1 collected 3265 from pot
+Gowrie 1994 finished the tournament in 1583rd place
+*** SUMMARY ***
+Total pot 3265 | Rake 0 
+Board [Ah Ks Ad Tc Kc]
+Seat 1: XtremeFly folded before Flop (didn't bet)
+Seat 2: mddgfc folded before Flop (didn't bet)
+Seat 3: sharkkingpin folded before Flop (didn't bet)
+Seat 4: NegPL folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: Gowrie 1994 showed [4c 5c] and lost with two pair, Aces and Kings
+Seat 7: muehle1 (button) showed [Ac Td] and won (3265) with a full house, Aces full of Kings
+Seat 8: Males-84 (small blind) folded before Flop
+Seat 9: Tilt000vicz (big blind) folded before Flop
+
+
+
+PokerStars Hand #103171226272: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:38:40 CET [2013/08/24 13:38:40 ET]
+Table '775135132 152' 9-max Seat #8 is the button
+Seat 1: XtremeFly (2620 in chips) 
+Seat 2: mddgfc (2990 in chips) 
+Seat 3: sharkkingpin (5285 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 7: muehle1 (6070 in chips) 
+Seat 8: Males-84 (2955 in chips) 
+Seat 9: Tilt000vicz (2880 in chips) 
+Tilt000vicz: posts small blind 15
+XtremeFly: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Jd 8c]
+mddgfc: folds 
+sharkkingpin: folds 
+NegPL: folds 
+aazaa: folds 
+muehle1: folds 
+Males-84: folds 
+Tilt000vicz: raises 30 to 60
+XtremeFly: folds 
+Uncalled bet (30) returned to Tilt000vicz
+Tilt000vicz collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: XtremeFly (big blind) folded before Flop
+Seat 2: mddgfc folded before Flop (didn't bet)
+Seat 3: sharkkingpin folded before Flop (didn't bet)
+Seat 4: NegPL folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 7: muehle1 folded before Flop (didn't bet)
+Seat 8: Males-84 (button) folded before Flop (didn't bet)
+Seat 9: Tilt000vicz (small blind) collected (60)
+
+
+
+PokerStars Hand #103171254070: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:39:20 CET [2013/08/24 13:39:20 ET]
+Table '775135132 152' 9-max Seat #9 is the button
+Seat 1: XtremeFly (2590 in chips) 
+Seat 2: mddgfc (2990 in chips) 
+Seat 3: sharkkingpin (5285 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 6: kapoeneke (3000 in chips) 
+Seat 7: muehle1 (6070 in chips) 
+Seat 8: Males-84 (2955 in chips) 
+Seat 9: Tilt000vicz (2910 in chips) 
+XtremeFly: posts small blind 15
+mddgfc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Jc 4h]
+sharkkingpin: calls 30
+NegPL: folds 
+aazaa: folds 
+kapoeneke: folds 
+muehle1: folds 
+Males-84: folds 
+Tilt000vicz: calls 30
+XtremeFly: folds 
+mddgfc: checks 
+*** FLOP *** [Jd 2d Kd]
+mddgfc: bets 60
+sharkkingpin: calls 60
+Tilt000vicz: folds 
+*** TURN *** [Jd 2d Kd] [8h]
+mddgfc: bets 120
+sharkkingpin: calls 120
+*** RIVER *** [Jd 2d Kd 8h] [Td]
+mddgfc: checks 
+sharkkingpin: bets 5075 and is all-in
+mddgfc: folds 
+Uncalled bet (5075) returned to sharkkingpin
+sharkkingpin collected 465 from pot
+*** SUMMARY ***
+Total pot 465 | Rake 0 
+Board [Jd 2d Kd 8h Td]
+Seat 1: XtremeFly (small blind) folded before Flop
+Seat 2: mddgfc (big blind) folded on the River
+Seat 3: sharkkingpin collected (465)
+Seat 4: NegPL folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: kapoeneke folded before Flop (didn't bet)
+Seat 7: muehle1 folded before Flop (didn't bet)
+Seat 8: Males-84 folded before Flop (didn't bet)
+Seat 9: Tilt000vicz (button) folded on the Flop
+
+
+
+PokerStars Hand #103171304186: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level III (20/40) - 2013/08/24 19:40:33 CET [2013/08/24 13:40:33 ET]
+Table '775135132 152' 9-max Seat #1 is the button
+Seat 1: XtremeFly (2575 in chips) 
+Seat 2: mddgfc (2780 in chips) 
+Seat 3: sharkkingpin (5540 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 6: kapoeneke (3000 in chips) 
+Seat 7: muehle1 (6070 in chips) 
+Seat 8: Males-84 (2955 in chips) 
+Seat 9: Tilt000vicz (2880 in chips) 
+mddgfc: posts small blind 20
+sharkkingpin: posts big blind 40
+*** HOLE CARDS ***
+Dealt to aazaa [4h 5s]
+NegPL: folds 
+aazaa: folds 
+kapoeneke: raises 40 to 80
+muehle1: folds 
+Males-84: folds 
+Tilt000vicz: folds 
+XtremeFly: calls 80
+mddgfc: folds 
+sharkkingpin: calls 40
+*** FLOP *** [4s Ts 5d]
+sharkkingpin: checks 
+kapoeneke: bets 120
+XtremeFly: folds 
+sharkkingpin: folds 
+Uncalled bet (120) returned to kapoeneke
+kapoeneke collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [4s Ts 5d]
+Seat 1: XtremeFly (button) folded on the Flop
+Seat 2: mddgfc (small blind) folded before Flop
+Seat 3: sharkkingpin (big blind) folded on the Flop
+Seat 4: NegPL folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: kapoeneke collected (260)
+Seat 7: muehle1 folded before Flop (didn't bet)
+Seat 8: Males-84 folded before Flop (didn't bet)
+Seat 9: Tilt000vicz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171338737: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level III (20/40) - 2013/08/24 19:41:23 CET [2013/08/24 13:41:23 ET]
+Table '775135132 152' 9-max Seat #2 is the button
+Seat 1: XtremeFly (2495 in chips) 
+Seat 2: mddgfc (2760 in chips) 
+Seat 3: sharkkingpin (5460 in chips) 
+Seat 4: NegPL (3080 in chips) 
+Seat 5: aazaa (3000 in chips) 
+Seat 6: kapoeneke (3180 in chips) 
+Seat 7: muehle1 (6070 in chips) 
+Seat 8: Males-84 (2955 in chips) 
+Seat 9: Tilt000vicz (2880 in chips) 
+sharkkingpin: posts small blind 20
+NegPL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to aazaa [2h 9d]
+aazaa: folds 
+kapoeneke: calls 40
+muehle1: raises 80 to 120
+Males-84: folds 
+Tilt000vicz: folds 
+XtremeFly: folds 
+mddgfc: folds 
+sharkkingpin: folds 
+NegPL: folds 
+kapoeneke: calls 80
+*** FLOP *** [3d 2s Jc]
+kapoeneke: checks 
+muehle1: bets 320
+kapoeneke: folds 
+Uncalled bet (320) returned to muehle1
+muehle1 collected 300 from pot
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [3d 2s Jc]
+Seat 1: XtremeFly folded before Flop (didn't bet)
+Seat 2: mddgfc (button) folded before Flop (didn't bet)
+Seat 3: sharkkingpin (small blind) folded before Flop
+Seat 4: NegPL (big blind) folded before Flop
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: kapoeneke folded on the Flop
+Seat 7: muehle1 collected (300)
+Seat 8: Males-84 folded before Flop (didn't bet)
+Seat 9: Tilt000vicz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171382960: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level III (20/40) - 2013/08/24 19:42:27 CET [2013/08/24 13:42:27 ET]
+Table '775135132 189' 9-max Seat #1 is the button
+Seat 1: aazaa (3000 in chips) 
+Seat 2: eduardcostin (3600 in chips) 
+Seat 3: Solar Garden (3000 in chips) 
+Seat 4: LilFishAtL (3000 in chips) 
+Seat 5: Johnnyc280 (2350 in chips) 
+Seat 8: awdz (3000 in chips) 
+eduardcostin: posts small blind 20
+Solar Garden: posts big blind 40
+*** HOLE CARDS ***
+Dealt to aazaa [Qh 8s]
+LilFishAtL is connected 
+LilFishAtL: folds 
+Johnnyc280 has timed out while disconnected
+Johnnyc280: folds 
+Johnnyc280 is sitting out
+awdz: folds 
+aazaa: raises 80 to 120
+eduardcostin: raises 840 to 960
+Solar Garden: folds 
+aazaa: folds 
+Uncalled bet (840) returned to eduardcostin
+eduardcostin collected 280 from pot
+*** SUMMARY ***
+Total pot 280 | Rake 0 
+Seat 1: aazaa (button) folded before Flop
+Seat 2: eduardcostin (small blind) collected (280)
+Seat 3: Solar Garden (big blind) folded before Flop
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171411801: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level III (20/40) - 2013/08/24 19:43:08 CET [2013/08/24 13:43:08 ET]
+Table '775135132 189' 9-max Seat #2 is the button
+Seat 1: aazaa (2880 in chips) 
+Seat 2: eduardcostin (3760 in chips) 
+Seat 3: Solar Garden (2960 in chips) 
+Seat 4: LilFishAtL (3000 in chips) 
+Seat 5: Johnnyc280 (2350 in chips) is sitting out
+Seat 6: jakobgold (3000 in chips) 
+Seat 7: BOBAN_MKD (3000 in chips) 
+Seat 8: awdz (3000 in chips) 
+Seat 9: genevaboy23 (3000 in chips) 
+Solar Garden: posts small blind 20
+LilFishAtL: posts big blind 40
+*** HOLE CARDS ***
+Dealt to aazaa [4d Qh]
+Johnnyc280: folds 
+jakobgold: folds 
+BOBAN_MKD: calls 40
+awdz: calls 40
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: calls 40
+Solar Garden: folds 
+LilFishAtL: checks 
+*** FLOP *** [Kd Td 7c]
+LilFishAtL: checks 
+Johnnyc280 has returned
+BOBAN_MKD: checks 
+awdz: bets 120
+eduardcostin: calls 120
+LilFishAtL: folds 
+BOBAN_MKD: folds 
+*** TURN *** [Kd Td 7c] [7s]
+awdz: bets 200
+eduardcostin: raises 360 to 560
+awdz: raises 840 to 1400
+eduardcostin: folds 
+Uncalled bet (840) returned to awdz
+awdz collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Kd Td 7c 7s]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin (button) folded on the Turn
+Seat 3: Solar Garden (small blind) folded before Flop
+Seat 4: LilFishAtL (big blind) folded on the Flop
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: BOBAN_MKD folded on the Flop
+Seat 8: awdz collected (1540)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171475698: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level III (20/40) - 2013/08/24 19:44:41 CET [2013/08/24 13:44:41 ET]
+Table '775135132 189' 9-max Seat #3 is the button
+Seat 1: aazaa (2880 in chips) 
+Seat 2: eduardcostin (3040 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2960 in chips) 
+Seat 5: Johnnyc280 (2350 in chips) 
+Seat 6: jakobgold (3000 in chips) 
+Seat 7: BOBAN_MKD (2960 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (3000 in chips) 
+LilFishAtL: posts small blind 20
+Johnnyc280: posts big blind 40
+*** HOLE CARDS ***
+Dealt to aazaa [Ac Td]
+jakobgold: folds 
+BOBAN_MKD: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: raises 80 to 120
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 80
+*** FLOP *** [8d Kd 6h]
+Johnnyc280: checks 
+aazaa: bets 120
+Johnnyc280: raises 200 to 320
+aazaa: folds 
+Uncalled bet (200) returned to Johnnyc280
+Johnnyc280 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Board [8d Kd 6h]
+Seat 1: aazaa folded on the Flop
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden (button) folded before Flop (didn't bet)
+Seat 4: LilFishAtL (small blind) folded before Flop
+Seat 5: Johnnyc280 (big blind) collected (500)
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: BOBAN_MKD folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171519594: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IV (25/50) - 2013/08/24 19:45:43 CET [2013/08/24 13:45:43 ET]
+Table '775135132 189' 9-max Seat #4 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: eduardcostin (3040 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (2610 in chips) 
+Seat 6: jakobgold (3000 in chips) 
+Seat 7: BOBAN_MKD (2960 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (3000 in chips) 
+Johnnyc280: posts small blind 25
+jakobgold: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [9c 8h]
+BOBAN_MKD: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: raises 100 to 150
+jakobgold: raises 200 to 350
+Johnnyc280: calls 200
+*** FLOP *** [Qs Kc Tc]
+Johnnyc280: checks 
+jakobgold: bets 300
+Johnnyc280: folds 
+Uncalled bet (300) returned to jakobgold
+jakobgold collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [Qs Kc Tc]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL (button) folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (small blind) folded on the Flop
+Seat 6: jakobgold (big blind) collected (700)
+Seat 7: BOBAN_MKD folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171555103: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IV (25/50) - 2013/08/24 19:46:34 CET [2013/08/24 13:46:34 ET]
+Table '775135132 189' 9-max Seat #5 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: eduardcostin (3040 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (2260 in chips) 
+Seat 6: jakobgold (3350 in chips) 
+Seat 7: BOBAN_MKD (2960 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (3000 in chips) 
+jakobgold: posts small blind 25
+BOBAN_MKD: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [8c 9h]
+awdz: folds 
+genevaboy23: raises 150 to 200
+aazaa: folds 
+eduardcostin: calls 200
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 200
+jakobgold: folds 
+BOBAN_MKD: raises 200 to 400
+genevaboy23: calls 200
+eduardcostin: calls 200
+Johnnyc280: calls 200
+*** FLOP *** [3d 7h Kd]
+BOBAN_MKD: bets 450
+genevaboy23: folds 
+eduardcostin: folds 
+Johnnyc280: raises 1410 to 1860 and is all-in
+BOBAN_MKD: calls 1410
+*** TURN *** [3d 7h Kd] [4s]
+*** RIVER *** [3d 7h Kd 4s] [Kc]
+*** SHOW DOWN ***
+BOBAN_MKD: shows [Td Jh] (a pair of Kings)
+Johnnyc280: shows [9s Ks] (three of a kind, Kings)
+Johnnyc280 collected 5345 from pot
+*** SUMMARY ***
+Total pot 5345 | Rake 0 
+Board [3d 7h Kd 4s Kc]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded on the Flop
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (button) showed [9s Ks] and won (5345) with three of a kind, Kings
+Seat 6: jakobgold (small blind) folded before Flop
+Seat 7: BOBAN_MKD (big blind) showed [Td Jh] and lost with a pair of Kings
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded on the Flop
+
+
+
+PokerStars Hand #103171597920: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IV (25/50) - 2013/08/24 19:47:35 CET [2013/08/24 13:47:35 ET]
+Table '775135132 189' 9-max Seat #6 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: eduardcostin (2640 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5345 in chips) 
+Seat 6: jakobgold (3325 in chips) 
+Seat 7: BOBAN_MKD (700 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (2600 in chips) 
+BOBAN_MKD: posts small blind 25
+awdz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [8c 3h]
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280 has timed out
+Johnnyc280: folds 
+Johnnyc280 is sitting out
+jakobgold: folds 
+BOBAN_MKD: folds 
+Uncalled bet (25) returned to awdz
+awdz collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: jakobgold (button) folded before Flop (didn't bet)
+Seat 7: BOBAN_MKD (small blind) folded before Flop
+Seat 8: awdz (big blind) collected (50)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171621746: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IV (25/50) - 2013/08/24 19:48:10 CET [2013/08/24 13:48:10 ET]
+Table '775135132 189' 9-max Seat #7 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: eduardcostin (2640 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5345 in chips) is sitting out
+Seat 6: jakobgold (3325 in chips) 
+Seat 7: BOBAN_MKD (675 in chips) 
+Seat 8: awdz (3845 in chips) 
+Seat 9: genevaboy23 (2600 in chips) 
+awdz: posts small blind 25
+genevaboy23: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [9c 8c]
+aazaa: folds 
+Johnnyc280 has returned
+eduardcostin has timed out
+eduardcostin: folds 
+eduardcostin is sitting out
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: raises 100 to 150
+jakobgold: folds 
+BOBAN_MKD: folds 
+awdz: folds 
+genevaboy23: calls 100
+*** FLOP *** [2s Jd Tc]
+genevaboy23: checks 
+Johnnyc280: bets 200
+genevaboy23: folds 
+Uncalled bet (200) returned to Johnnyc280
+Johnnyc280 collected 325 from pot
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [2s Jd Tc]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 collected (325)
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: BOBAN_MKD (button) folded before Flop (didn't bet)
+Seat 8: awdz (small blind) folded before Flop
+Seat 9: genevaboy23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103171671008: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IV (25/50) - 2013/08/24 19:49:21 CET [2013/08/24 13:49:21 ET]
+Table '775135132 189' 9-max Seat #8 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: eduardcostin (2640 in chips) is sitting out
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5520 in chips) 
+Seat 6: jakobgold (3325 in chips) 
+Seat 7: BOBAN_MKD (675 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (2450 in chips) 
+genevaboy23: posts small blind 25
+aazaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 9c]
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+eduardcostin has returned
+Johnnyc280: raises 100 to 150
+jakobgold: folds 
+BOBAN_MKD: raises 525 to 675 and is all-in
+awdz: folds 
+genevaboy23: calls 650
+aazaa: folds 
+Johnnyc280: folds 
+*** FLOP *** [2s Js Qh]
+*** TURN *** [2s Js Qh] [Th]
+*** RIVER *** [2s Js Qh Th] [9d]
+*** SHOW DOWN ***
+genevaboy23: shows [Kh Kd] (a straight, Nine to King)
+BOBAN_MKD: shows [6h Ad] (high card Ace)
+genevaboy23 collected 1550 from pot
+BOBAN_MKD finished the tournament in 1906th place
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Board [2s Js Qh Th 9d]
+Seat 1: aazaa (big blind) folded before Flop
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: BOBAN_MKD showed [6h Ad] and lost with high card Ace
+Seat 8: awdz (button) folded before Flop (didn't bet)
+Seat 9: genevaboy23 (small blind) showed [Kh Kd] and won (1550) with a straight, Nine to King
+
+
+
+PokerStars Hand #103171708799: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level V (30/60) - 2013/08/24 19:50:17 CET [2013/08/24 13:50:17 ET]
+Table '775135132 189' 9-max Seat #9 is the button
+Seat 1: aazaa (2590 in chips) 
+Seat 2: eduardcostin (2640 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5370 in chips) 
+Seat 6: jakobgold (3325 in chips) 
+Seat 8: awdz (3820 in chips) 
+Seat 9: genevaboy23 (3325 in chips) 
+aazaa: posts small blind 30
+eduardcostin: posts big blind 60
+*** HOLE CARDS ***
+Dealt to aazaa [8d 8c]
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+jakobgold: raises 120 to 180
+awdz: calls 180
+genevaboy23: folds 
+aazaa: calls 150
+eduardcostin: calls 120
+*** FLOP *** [Th 5h Tc]
+aazaa: checks 
+eduardcostin: checks 
+jakobgold: checks 
+awdz: checks 
+*** TURN *** [Th 5h Tc] [6d]
+aazaa: bets 300
+eduardcostin: raises 2160 to 2460 and is all-in
+jakobgold: folds 
+awdz: folds 
+aazaa: folds 
+Uncalled bet (2160) returned to eduardcostin
+eduardcostin collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Th 5h Tc 6d]
+Seat 1: aazaa (small blind) folded on the Turn
+Seat 2: eduardcostin (big blind) collected (1320)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: jakobgold folded on the Turn
+Seat 8: awdz folded on the Turn
+Seat 9: genevaboy23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171766394: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level V (30/60) - 2013/08/24 19:51:42 CET [2013/08/24 13:51:42 ET]
+Table '775135132 189' 9-max Seat #1 is the button
+Seat 1: aazaa (2110 in chips) 
+Seat 2: eduardcostin (3480 in chips) 
+Seat 3: Solar Garden (2940 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5370 in chips) 
+Seat 6: jakobgold (3145 in chips) 
+Seat 7: ae3333 (3000 in chips) 
+Seat 8: awdz (3640 in chips) 
+Seat 9: genevaboy23 (3325 in chips) 
+eduardcostin: posts small blind 30
+Solar Garden: posts big blind 60
+*** HOLE CARDS ***
+Dealt to aazaa [2c 8h]
+LilFishAtL: folds 
+Johnnyc280: folds 
+jakobgold: raises 120 to 180
+ae3333: calls 180
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+*** FLOP *** [4s Ts 6h]
+jakobgold: bets 240
+ae3333: calls 240
+*** TURN *** [4s Ts 6h] [8d]
+jakobgold: checks 
+ae3333: checks 
+*** RIVER *** [4s Ts 6h 8d] [8s]
+jakobgold: checks 
+ae3333: bets 240
+jakobgold: folds 
+Uncalled bet (240) returned to ae3333
+ae3333 collected 930 from pot
+ae3333: doesn't show hand 
+*** SUMMARY ***
+Total pot 930 | Rake 0 
+Board [4s Ts 6h 8d 8s]
+Seat 1: aazaa (button) folded before Flop (didn't bet)
+Seat 2: eduardcostin (small blind) folded before Flop
+Seat 3: Solar Garden (big blind) folded before Flop
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: jakobgold folded on the River
+Seat 7: ae3333 collected (930)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171807295: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level V (30/60) - 2013/08/24 19:52:43 CET [2013/08/24 13:52:43 ET]
+Table '775135132 189' 9-max Seat #2 is the button
+Seat 1: aazaa (2110 in chips) 
+Seat 2: eduardcostin (3450 in chips) 
+Seat 3: Solar Garden (2880 in chips) 
+Seat 4: LilFishAtL (2940 in chips) 
+Seat 5: Johnnyc280 (5370 in chips) 
+Seat 6: jakobgold (2725 in chips) 
+Seat 7: ae3333 (3510 in chips) 
+Seat 8: awdz (3640 in chips) 
+Seat 9: genevaboy23 (3325 in chips) 
+Solar Garden: posts small blind 30
+LilFishAtL: posts big blind 60
+*** HOLE CARDS ***
+Dealt to aazaa [Kd Ac]
+Johnnyc280: folds 
+jakobgold: folds 
+ae3333: calls 60
+awdz: calls 60
+genevaboy23: calls 60
+aazaa: raises 300 to 360
+eduardcostin: calls 360
+Solar Garden: folds 
+LilFishAtL: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: calls 300
+*** FLOP *** [6h Kh 5s]
+genevaboy23: checks 
+aazaa: bets 1750 and is all-in
+eduardcostin: folds 
+genevaboy23: folds 
+Uncalled bet (1750) returned to aazaa
+aazaa collected 1290 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1290 | Rake 0 
+Board [6h Kh 5s]
+Seat 1: aazaa collected (1290)
+Seat 2: eduardcostin (button) folded on the Flop
+Seat 3: Solar Garden (small blind) folded before Flop
+Seat 4: LilFishAtL (big blind) folded before Flop
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop
+Seat 8: awdz folded before Flop
+Seat 9: genevaboy23 folded on the Flop
+
+
+
+PokerStars Hand #103171905774: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 19:55:09 CET [2013/08/24 13:55:09 ET]
+Table '775135132 189' 9-max Seat #3 is the button
+Seat 1: aazaa (3040 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (2880 in chips) 
+Seat 5: Johnnyc280 (5370 in chips) 
+Seat 6: jakobgold (2725 in chips) 
+Seat 7: ae3333 (3450 in chips) 
+Seat 8: awdz (3580 in chips) 
+Seat 9: genevaboy23 (2965 in chips) 
+LilFishAtL: posts small blind 40
+Johnnyc280: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [7h 5s]
+jakobgold: folds 
+ae3333: folds 
+awdz: calls 80
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: checks 
+*** FLOP *** [2d 8h Qh]
+Johnnyc280: checks 
+awdz: bets 160
+Johnnyc280: folds 
+Uncalled bet (160) returned to awdz
+awdz collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [2d 8h Qh]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden (button) folded before Flop (didn't bet)
+Seat 4: LilFishAtL (small blind) folded before Flop
+Seat 5: Johnnyc280 (big blind) folded on the Flop
+Seat 6: jakobgold folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz collected (200)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172137559: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 20:02:20 CET [2013/08/24 14:02:20 ET]
+Table '775135132 189' 9-max Seat #4 is the button
+Seat 1: aazaa (3040 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (2840 in chips) 
+Seat 5: Johnnyc280 (5290 in chips) 
+Seat 6: notagg (3000 in chips) 
+Seat 7: ae3333 (3450 in chips) 
+Seat 8: awdz (3700 in chips) 
+Seat 9: genevaboy23 (2965 in chips) 
+Johnnyc280: posts small blind 40
+notagg: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [As 3d]
+ae3333: folds 
+awdz: folds 
+genevaboy23: raises 160 to 240
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+Uncalled bet (160) returned to genevaboy23
+genevaboy23 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL (button) folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (small blind) folded before Flop
+Seat 6: notagg (big blind) folded before Flop
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 collected (200)
+
+
+
+PokerStars Hand #103172161108: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 20:02:53 CET [2013/08/24 14:02:53 ET]
+Table '775135132 189' 9-max Seat #5 is the button
+Seat 1: aazaa (3040 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (2840 in chips) 
+Seat 5: Johnnyc280 (5250 in chips) 
+Seat 6: notagg (2920 in chips) 
+Seat 7: ae3333 (3450 in chips) 
+Seat 8: awdz (3700 in chips) 
+Seat 9: genevaboy23 (3085 in chips) 
+notagg: posts small blind 40
+ae3333: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [9s Ts]
+awdz: raises 80 to 160
+genevaboy23: calls 160
+aazaa: calls 160
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 160
+notagg: folds 
+ae3333: calls 80
+*** FLOP *** [5c 4d Qs]
+ae3333: checks 
+awdz: checks 
+genevaboy23: checks 
+aazaa: checks 
+Johnnyc280: checks 
+*** TURN *** [5c 4d Qs] [Kc]
+ae3333: checks 
+awdz: checks 
+genevaboy23: checks 
+aazaa: checks 
+Johnnyc280: bets 320
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+Uncalled bet (320) returned to Johnnyc280
+Johnnyc280 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5c 4d Qs Kc]
+Seat 1: aazaa folded on the Turn
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (button) collected (840)
+Seat 6: notagg (small blind) folded before Flop
+Seat 7: ae3333 (big blind) folded on the Turn
+Seat 8: awdz folded on the Turn
+Seat 9: genevaboy23 folded on the Turn
+
+
+
+PokerStars Hand #103172257042: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 20:05:03 CET [2013/08/24 14:05:03 ET]
+Table '775135132 189' 9-max Seat #6 is the button
+Seat 1: aazaa (2880 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (2840 in chips) 
+Seat 5: Johnnyc280 (5930 in chips) 
+Seat 6: notagg (2880 in chips) 
+Seat 7: ae3333 (3290 in chips) 
+Seat 8: awdz (3540 in chips) 
+Seat 9: genevaboy23 (2925 in chips) 
+ae3333: posts small blind 40
+awdz: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [3s 7h]
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: raises 100 to 180
+Johnnyc280 has timed out while being disconnected
+Johnnyc280: folds 
+Johnnyc280 is sitting out
+notagg: folds 
+Johnnyc280 is disconnected 
+ae3333: folds 
+awdz: folds 
+Uncalled bet (100) returned to LilFishAtL
+LilFishAtL collected 200 from pot
+LilFishAtL: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL collected (200)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg (button) folded before Flop (didn't bet)
+Seat 7: ae3333 (small blind) folded before Flop
+Seat 8: awdz (big blind) folded before Flop
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172285741: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 20:05:41 CET [2013/08/24 14:05:41 ET]
+Table '775135132 189' 9-max Seat #7 is the button
+Seat 1: aazaa (2880 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (2960 in chips) 
+Seat 5: Johnnyc280 (5930 in chips) is sitting out
+Seat 6: notagg (2880 in chips) 
+Seat 7: ae3333 (3250 in chips) 
+Seat 8: awdz (3460 in chips) 
+Seat 9: genevaboy23 (2925 in chips) 
+awdz: posts small blind 40
+genevaboy23: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [2s 8c]
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: raises 80 to 160
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: calls 80
+*** FLOP *** [Ac Ad 3s]
+genevaboy23: checks 
+Johnnyc280 has returned
+LilFishAtL: bets 154
+genevaboy23: folds 
+Uncalled bet (154) returned to LilFishAtL
+LilFishAtL collected 360 from pot
+LilFishAtL: doesn't show hand 
+*** SUMMARY ***
+Total pot 360 | Rake 0 
+Board [Ac Ad 3s]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL collected (360)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 (button) folded before Flop (didn't bet)
+Seat 8: awdz (small blind) folded before Flop
+Seat 9: genevaboy23 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #103172342276: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VI (40/80) - 2013/08/24 20:06:56 CET [2013/08/24 14:06:56 ET]
+Table '775135132 189' 9-max Seat #8 is the button
+Seat 1: aazaa (2880 in chips) 
+Seat 2: eduardcostin (3090 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (3160 in chips) 
+Seat 5: Johnnyc280 (5930 in chips) 
+Seat 6: notagg (2880 in chips) 
+Seat 7: ae3333 (3250 in chips) 
+Seat 8: awdz (3420 in chips) 
+Seat 9: genevaboy23 (2765 in chips) 
+genevaboy23: posts small blind 40
+aazaa: posts big blind 80
+*** HOLE CARDS ***
+Dealt to aazaa [5d 4s]
+eduardcostin: raises 240 to 320
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 320
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+*** FLOP *** [6s Jh Ks]
+eduardcostin: checks 
+Johnnyc280 is disconnected 
+Johnnyc280 has timed out while disconnected
+Johnnyc280: checks 
+*** TURN *** [6s Jh Ks] [Js]
+eduardcostin: bets 80
+Johnnyc280 has timed out while disconnected
+Johnnyc280: folds 
+Uncalled bet (80) returned to eduardcostin
+Johnnyc280 is sitting out
+eduardcostin collected 760 from pot
+*** SUMMARY ***
+Total pot 760 | Rake 0 
+Board [6s Jh Ks Js]
+Seat 1: aazaa (big blind) folded before Flop
+Seat 2: eduardcostin collected (760)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded on the Turn
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz (button) folded before Flop (didn't bet)
+Seat 9: genevaboy23 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172445792: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VII (50/100) - 2013/08/24 20:09:13 CET [2013/08/24 14:09:13 ET]
+Table '775135132 189' 9-max Seat #9 is the button
+Seat 1: aazaa (2800 in chips) 
+Seat 2: eduardcostin (3530 in chips) 
+Seat 3: Solar Garden (2850 in chips) 
+Seat 4: LilFishAtL (3160 in chips) 
+Seat 5: Johnnyc280 (5610 in chips) is sitting out
+Seat 6: notagg (2880 in chips) 
+Seat 7: ae3333 (3250 in chips) 
+Seat 8: awdz (3420 in chips) 
+Seat 9: genevaboy23 (2725 in chips) 
+aazaa: posts the ante 10
+eduardcostin: posts the ante 10
+Solar Garden: posts the ante 10
+LilFishAtL: posts the ante 10
+Johnnyc280: posts the ante 10
+notagg: posts the ante 10
+ae3333: posts the ante 10
+awdz: posts the ante 10
+genevaboy23: posts the ante 10
+aazaa: posts small blind 50
+eduardcostin: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 3d]
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: calls 100
+awdz: folds 
+genevaboy23: folds 
+aazaa: calls 50
+eduardcostin: checks 
+*** FLOP *** [5s 6h Th]
+aazaa: checks 
+eduardcostin: bets 200
+ae3333: calls 200
+aazaa: folds 
+*** TURN *** [5s 6h Th] [9s]
+eduardcostin: bets 200
+Johnnyc280 has returned
+ae3333: calls 200
+*** RIVER *** [5s 6h Th 9s] [5c]
+eduardcostin: bets 300
+ae3333: calls 300
+*** SHOW DOWN ***
+eduardcostin: shows [4c 6s] (two pair, Sixes and Fives)
+ae3333: shows [7c 7s] (two pair, Sevens and Fives)
+ae3333 collected 1790 from pot
+*** SUMMARY ***
+Total pot 1790 | Rake 0 
+Board [5s 6h Th 9s 5c]
+Seat 1: aazaa (small blind) folded on the Flop
+Seat 2: eduardcostin (big blind) showed [4c 6s] and lost with two pair, Sixes and Fives
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 showed [7c 7s] and won (1790) with two pair, Sevens and Fives
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172492366: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VII (50/100) - 2013/08/24 20:10:15 CET [2013/08/24 14:10:15 ET]
+Table '775135132 189' 9-max Seat #1 is the button
+Seat 1: aazaa (2690 in chips) 
+Seat 2: eduardcostin (2720 in chips) 
+Seat 3: Solar Garden (2840 in chips) 
+Seat 4: LilFishAtL (3150 in chips) 
+Seat 5: Johnnyc280 (5600 in chips) 
+Seat 6: notagg (2870 in chips) 
+Seat 7: ae3333 (4230 in chips) 
+Seat 8: awdz (3410 in chips) 
+Seat 9: genevaboy23 (2715 in chips) 
+aazaa: posts the ante 10
+eduardcostin: posts the ante 10
+Solar Garden: posts the ante 10
+LilFishAtL: posts the ante 10
+Johnnyc280: posts the ante 10
+notagg: posts the ante 10
+ae3333: posts the ante 10
+awdz: posts the ante 10
+genevaboy23: posts the ante 10
+eduardcostin: posts small blind 50
+Solar Garden: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [2s 3h]
+LilFishAtL: raises 100 to 200
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: calls 150
+Solar Garden: folds 
+*** FLOP *** [8c 5h Ad]
+eduardcostin: checks 
+LilFishAtL: bets 253
+eduardcostin: folds 
+Uncalled bet (253) returned to LilFishAtL
+LilFishAtL collected 590 from pot
+LilFishAtL: doesn't show hand 
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [8c 5h Ad]
+Seat 1: aazaa (button) folded before Flop (didn't bet)
+Seat 2: eduardcostin (small blind) folded on the Flop
+Seat 3: Solar Garden (big blind) folded before Flop
+Seat 4: LilFishAtL collected (590)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172521979: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VII (50/100) - 2013/08/24 20:10:55 CET [2013/08/24 14:10:55 ET]
+Table '775135132 189' 9-max Seat #2 is the button
+Seat 1: aazaa (2680 in chips) 
+Seat 2: eduardcostin (2510 in chips) 
+Seat 3: Solar Garden (2730 in chips) 
+Seat 4: LilFishAtL (3530 in chips) 
+Seat 5: Johnnyc280 (5590 in chips) 
+Seat 6: notagg (2860 in chips) 
+Seat 7: ae3333 (4220 in chips) 
+Seat 8: awdz (3400 in chips) 
+Seat 9: genevaboy23 (2705 in chips) 
+aazaa: posts the ante 10
+eduardcostin: posts the ante 10
+Solar Garden: posts the ante 10
+LilFishAtL: posts the ante 10
+Johnnyc280: posts the ante 10
+notagg: posts the ante 10
+ae3333: posts the ante 10
+awdz: posts the ante 10
+genevaboy23: posts the ante 10
+Solar Garden: posts small blind 50
+LilFishAtL: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 4c]
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: raises 150 to 250
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Uncalled bet (150) returned to aazaa
+aazaa collected 340 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Seat 1: aazaa collected (340)
+Seat 2: eduardcostin (button) folded before Flop (didn't bet)
+Seat 3: Solar Garden (small blind) folded before Flop
+Seat 4: LilFishAtL (big blind) folded before Flop
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172561005: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VII (50/100) - 2013/08/24 20:11:47 CET [2013/08/24 14:11:47 ET]
+Table '775135132 189' 9-max Seat #3 is the button
+Seat 1: aazaa (2910 in chips) 
+Seat 2: eduardcostin (2500 in chips) 
+Seat 3: Solar Garden (2670 in chips) 
+Seat 4: LilFishAtL (3420 in chips) 
+Seat 5: Johnnyc280 (5580 in chips) 
+Seat 6: notagg (2850 in chips) 
+Seat 7: ae3333 (4210 in chips) 
+Seat 8: awdz (3390 in chips) 
+Seat 9: genevaboy23 (2695 in chips) 
+aazaa: posts the ante 10
+eduardcostin: posts the ante 10
+Solar Garden: posts the ante 10
+LilFishAtL: posts the ante 10
+Johnnyc280: posts the ante 10
+notagg: posts the ante 10
+ae3333: posts the ante 10
+awdz: posts the ante 10
+genevaboy23: posts the ante 10
+LilFishAtL: posts small blind 50
+Johnnyc280: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6h 6s]
+notagg: folds 
+ae3333: folds 
+awdz: raises 100 to 200
+genevaboy23: folds 
+aazaa: calls 200
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 100
+*** FLOP *** [5c Th 3c]
+Johnnyc280: checks 
+awdz: bets 500
+aazaa: folds 
+Johnnyc280: folds 
+Uncalled bet (500) returned to awdz
+awdz collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [5c Th 3c]
+Seat 1: aazaa folded on the Flop
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden (button) folded before Flop (didn't bet)
+Seat 4: LilFishAtL (small blind) folded before Flop
+Seat 5: Johnnyc280 (big blind) folded on the Flop
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz collected (740)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172611444: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VIII (60/120) - 2013/08/24 20:12:56 CET [2013/08/24 14:12:56 ET]
+Table '775135132 189' 9-max Seat #4 is the button
+Seat 1: aazaa (2700 in chips) 
+Seat 2: eduardcostin (2490 in chips) 
+Seat 3: Solar Garden (2660 in chips) 
+Seat 4: LilFishAtL (3360 in chips) 
+Seat 5: Johnnyc280 (5370 in chips) 
+Seat 6: notagg (2840 in chips) 
+Seat 7: ae3333 (4200 in chips) 
+Seat 8: awdz (3920 in chips) 
+Seat 9: genevaboy23 (2685 in chips) 
+aazaa: posts the ante 15
+eduardcostin: posts the ante 15
+Solar Garden: posts the ante 15
+LilFishAtL: posts the ante 15
+Johnnyc280: posts the ante 15
+notagg: posts the ante 15
+ae3333: posts the ante 15
+awdz: posts the ante 15
+genevaboy23: posts the ante 15
+Johnnyc280: posts small blind 60
+notagg: posts big blind 120
+*** HOLE CARDS ***
+Dealt to aazaa [Qs Th]
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: folds 
+Solar Garden: folds 
+LilFishAtL: raises 120 to 240
+Johnnyc280: folds 
+notagg: raises 2585 to 2825 and is all-in
+LilFishAtL: folds 
+Uncalled bet (2585) returned to notagg
+notagg collected 675 from pot
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL (button) folded before Flop
+Seat 5: Johnnyc280 (small blind) folded before Flop
+Seat 6: notagg (big blind) collected (675)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172653458: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VIII (60/120) - 2013/08/24 20:13:53 CET [2013/08/24 14:13:53 ET]
+Table '775135132 189' 9-max Seat #5 is the button
+Seat 1: aazaa (2685 in chips) 
+Seat 2: eduardcostin (2475 in chips) 
+Seat 3: Solar Garden (2645 in chips) 
+Seat 4: LilFishAtL (3105 in chips) 
+Seat 5: Johnnyc280 (5295 in chips) 
+Seat 6: notagg (3260 in chips) 
+Seat 7: ae3333 (4185 in chips) 
+Seat 8: awdz (3905 in chips) 
+Seat 9: genevaboy23 (2670 in chips) 
+aazaa: posts the ante 15
+eduardcostin: posts the ante 15
+Solar Garden: posts the ante 15
+LilFishAtL: posts the ante 15
+Johnnyc280: posts the ante 15
+notagg: posts the ante 15
+ae3333: posts the ante 15
+awdz: posts the ante 15
+genevaboy23: posts the ante 15
+notagg: posts small blind 60
+ae3333: posts big blind 120
+*** HOLE CARDS ***
+Dealt to aazaa [5c Qh]
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+eduardcostin: raises 360 to 480
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: calls 420
+ae3333: folds 
+*** FLOP *** [6h 4s 7c]
+notagg: checks 
+eduardcostin: bets 1120
+notagg: raises 1645 to 2765 and is all-in
+eduardcostin: calls 860 and is all-in
+Uncalled bet (785) returned to notagg
+*** TURN *** [6h 4s 7c] [6d]
+*** RIVER *** [6h 4s 7c 6d] [5d]
+*** SHOW DOWN ***
+notagg: shows [8s 8c] (a straight, Four to Eight)
+eduardcostin: shows [7s Ah] (two pair, Sevens and Sixes)
+notagg collected 5175 from pot
+eduardcostin finished the tournament in 2266th place
+*** SUMMARY ***
+Total pot 5175 | Rake 0 
+Board [6h 4s 7c 6d 5d]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: eduardcostin showed [7s Ah] and lost with two pair, Sevens and Sixes
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (button) folded before Flop (didn't bet)
+Seat 6: notagg (small blind) showed [8s 8c] and won (5175) with a straight, Four to Eight
+Seat 7: ae3333 (big blind) folded before Flop
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172726002: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VIII (60/120) - 2013/08/24 20:15:30 CET [2013/08/24 14:15:30 ET]
+Table '775135132 189' 9-max Seat #6 is the button
+Seat 1: aazaa (2670 in chips) 
+Seat 3: Solar Garden (2630 in chips) 
+Seat 4: LilFishAtL (3090 in chips) 
+Seat 5: Johnnyc280 (5280 in chips) 
+Seat 6: notagg (5960 in chips) 
+Seat 7: ae3333 (4050 in chips) 
+Seat 8: awdz (3890 in chips) 
+Seat 9: genevaboy23 (2655 in chips) 
+aazaa: posts the ante 15
+Solar Garden: posts the ante 15
+LilFishAtL: posts the ante 15
+Johnnyc280: posts the ante 15
+notagg: posts the ante 15
+ae3333: posts the ante 15
+awdz: posts the ante 15
+genevaboy23: posts the ante 15
+ae3333: posts small blind 60
+awdz: posts big blind 120
+*** HOLE CARDS ***
+Dealt to aazaa [3c 6h]
+genevaboy23: folds 
+aazaa: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: raises 240 to 360
+ae3333: folds 
+awdz: folds 
+Uncalled bet (240) returned to notagg
+notagg collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg (button) collected (420)
+Seat 7: ae3333 (small blind) folded before Flop
+Seat 8: awdz (big blind) folded before Flop
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172753633: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VIII (60/120) - 2013/08/24 20:16:07 CET [2013/08/24 14:16:07 ET]
+Table '775135132 189' 9-max Seat #7 is the button
+Seat 1: aazaa (2655 in chips) 
+Seat 2: Tristan1993 (3000 in chips) 
+Seat 3: Solar Garden (2615 in chips) 
+Seat 4: LilFishAtL (3075 in chips) 
+Seat 5: Johnnyc280 (5265 in chips) 
+Seat 6: notagg (6245 in chips) 
+Seat 7: ae3333 (3975 in chips) 
+Seat 8: awdz (3755 in chips) 
+Seat 9: genevaboy23 (2640 in chips) 
+aazaa: posts the ante 15
+Tristan1993: posts the ante 15
+Solar Garden: posts the ante 15
+LilFishAtL: posts the ante 15
+Johnnyc280: posts the ante 15
+notagg: posts the ante 15
+ae3333: posts the ante 15
+awdz: posts the ante 15
+genevaboy23: posts the ante 15
+awdz: posts small blind 60
+genevaboy23: posts big blind 120
+*** HOLE CARDS ***
+Dealt to aazaa [6c 2c]
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: raises 240 to 360
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+Uncalled bet (240) returned to Johnnyc280
+Johnnyc280 collected 435 from pot
+*** SUMMARY ***
+Total pot 435 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 collected (435)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 (button) folded before Flop (didn't bet)
+Seat 8: awdz (small blind) folded before Flop
+Seat 9: genevaboy23 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172790594: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level VIII (60/120) - 2013/08/24 20:16:56 CET [2013/08/24 14:16:56 ET]
+Table '775135132 189' 9-max Seat #8 is the button
+Seat 1: aazaa (2640 in chips) 
+Seat 2: Tristan1993 (2985 in chips) 
+Seat 3: Solar Garden (2600 in chips) 
+Seat 4: LilFishAtL (3060 in chips) 
+Seat 5: Johnnyc280 (5565 in chips) 
+Seat 6: notagg (6230 in chips) 
+Seat 7: ae3333 (3960 in chips) 
+Seat 8: awdz (3680 in chips) 
+Seat 9: genevaboy23 (2505 in chips) 
+aazaa: posts the ante 15
+Tristan1993: posts the ante 15
+Solar Garden: posts the ante 15
+LilFishAtL: posts the ante 15
+Johnnyc280: posts the ante 15
+notagg: posts the ante 15
+ae3333: posts the ante 15
+awdz: posts the ante 15
+genevaboy23: posts the ante 15
+genevaboy23: posts small blind 60
+aazaa: posts big blind 120
+*** HOLE CARDS ***
+Dealt to aazaa [6s 9s]
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: raises 120 to 240
+genevaboy23: calls 180
+aazaa: calls 120
+*** FLOP *** [Kd Ts Th]
+genevaboy23: checks 
+aazaa: checks 
+awdz: bets 480
+genevaboy23: folds 
+aazaa: folds 
+Uncalled bet (480) returned to awdz
+awdz collected 855 from pot
+*** SUMMARY ***
+Total pot 855 | Rake 0 
+Board [Kd Ts Th]
+Seat 1: aazaa (big blind) folded on the Flop
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz (button) collected (855)
+Seat 9: genevaboy23 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #103172841163: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IX (75/150) - 2013/08/24 20:18:03 CET [2013/08/24 14:18:03 ET]
+Table '775135132 189' 9-max Seat #9 is the button
+Seat 1: aazaa (2385 in chips) 
+Seat 2: Tristan1993 (2970 in chips) 
+Seat 3: Solar Garden (2585 in chips) 
+Seat 4: LilFishAtL (3045 in chips) 
+Seat 5: Johnnyc280 (5550 in chips) 
+Seat 6: notagg (6215 in chips) 
+Seat 7: ae3333 (3945 in chips) 
+Seat 8: awdz (4280 in chips) 
+Seat 9: genevaboy23 (2250 in chips) 
+aazaa: posts the ante 20
+Tristan1993: posts the ante 20
+Solar Garden: posts the ante 20
+LilFishAtL: posts the ante 20
+Johnnyc280: posts the ante 20
+notagg: posts the ante 20
+ae3333: posts the ante 20
+awdz: posts the ante 20
+genevaboy23: posts the ante 20
+aazaa: posts small blind 75
+Tristan1993: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [6d Tc]
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: raises 300 to 450
+aazaa: folds 
+Tristan1993: folds 
+Uncalled bet (300) returned to genevaboy23
+genevaboy23 collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: aazaa (small blind) folded before Flop
+Seat 2: Tristan1993 (big blind) folded before Flop
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 (button) collected (555)
+
+
+
+PokerStars Hand #103172858089: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IX (75/150) - 2013/08/24 20:18:26 CET [2013/08/24 14:18:26 ET]
+Table '775135132 189' 9-max Seat #1 is the button
+Seat 1: aazaa (2290 in chips) 
+Seat 2: Tristan1993 (2800 in chips) 
+Seat 3: Solar Garden (2565 in chips) 
+Seat 4: LilFishAtL (3025 in chips) 
+Seat 5: Johnnyc280 (5530 in chips) 
+Seat 6: notagg (6195 in chips) 
+Seat 7: ae3333 (3925 in chips) 
+Seat 8: awdz (4260 in chips) 
+Seat 9: genevaboy23 (2635 in chips) 
+aazaa: posts the ante 20
+Tristan1993: posts the ante 20
+Solar Garden: posts the ante 20
+LilFishAtL: posts the ante 20
+Johnnyc280: posts the ante 20
+notagg: posts the ante 20
+ae3333: posts the ante 20
+awdz: posts the ante 20
+genevaboy23: posts the ante 20
+Tristan1993: posts small blind 75
+Solar Garden: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [9h 4d]
+LilFishAtL has timed out
+LilFishAtL: folds 
+LilFishAtL is sitting out
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: raises 300 to 450
+genevaboy23: folds 
+LilFishAtL has returned
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+Uncalled bet (300) returned to awdz
+awdz collected 555 from pot
+*** SUMMARY ***
+Total pot 555 | Rake 0 
+Seat 1: aazaa (button) folded before Flop (didn't bet)
+Seat 2: Tristan1993 (small blind) folded before Flop
+Seat 3: Solar Garden (big blind) folded before Flop
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz collected (555)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172917935: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IX (75/150) - 2013/08/24 20:19:46 CET [2013/08/24 14:19:46 ET]
+Table '775135132 189' 9-max Seat #2 is the button
+Seat 1: aazaa (2270 in chips) 
+Seat 2: Tristan1993 (2705 in chips) 
+Seat 3: Solar Garden (2395 in chips) 
+Seat 4: LilFishAtL (3005 in chips) 
+Seat 5: Johnnyc280 (5510 in chips) 
+Seat 6: notagg (6175 in chips) 
+Seat 7: ae3333 (3905 in chips) 
+Seat 8: awdz (4645 in chips) 
+Seat 9: genevaboy23 (2615 in chips) 
+aazaa: posts the ante 20
+Tristan1993: posts the ante 20
+Solar Garden: posts the ante 20
+LilFishAtL: posts the ante 20
+Johnnyc280: posts the ante 20
+notagg: posts the ante 20
+ae3333: posts the ante 20
+awdz: posts the ante 20
+genevaboy23: posts the ante 20
+Solar Garden: posts small blind 75
+LilFishAtL: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Js 7d]
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: calls 150
+aazaa: raises 2100 to 2250 and is all-in
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+genevaboy23: folds 
+Uncalled bet (2100) returned to aazaa
+aazaa collected 705 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 705 | Rake 0 
+Seat 1: aazaa collected (705)
+Seat 2: Tristan1993 (button) folded before Flop (didn't bet)
+Seat 3: Solar Garden (small blind) folded before Flop
+Seat 4: LilFishAtL (big blind) folded before Flop
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop
+
+
+
+PokerStars Hand #103172959318: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IX (75/150) - 2013/08/24 20:20:42 CET [2013/08/24 14:20:42 ET]
+Table '775135132 189' 9-max Seat #3 is the button
+Seat 1: aazaa (2805 in chips) 
+Seat 2: Tristan1993 (2685 in chips) 
+Seat 3: Solar Garden (2300 in chips) 
+Seat 4: LilFishAtL (2835 in chips) 
+Seat 5: Johnnyc280 (5490 in chips) 
+Seat 6: notagg (6155 in chips) 
+Seat 7: ae3333 (3885 in chips) 
+Seat 8: awdz (4625 in chips) 
+Seat 9: genevaboy23 (2445 in chips) 
+aazaa: posts the ante 20
+Tristan1993: posts the ante 20
+Solar Garden: posts the ante 20
+LilFishAtL: posts the ante 20
+Johnnyc280: posts the ante 20
+notagg: posts the ante 20
+ae3333: posts the ante 20
+awdz: posts the ante 20
+genevaboy23: posts the ante 20
+LilFishAtL: posts small blind 75
+Johnnyc280: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [6s 9d]
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: raises 187 to 337
+Johnnyc280: calls 187
+*** FLOP *** [3d Kd 2s]
+LilFishAtL: checks 
+Johnnyc280: bets 600
+LilFishAtL: folds 
+Uncalled bet (600) returned to Johnnyc280
+Johnnyc280 collected 854 from pot
+*** SUMMARY ***
+Total pot 854 | Rake 0 
+Board [3d Kd 2s]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden (button) folded before Flop (didn't bet)
+Seat 4: LilFishAtL (small blind) folded on the Flop
+Seat 5: Johnnyc280 (big blind) collected (854)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172993697: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level IX (75/150) - 2013/08/24 20:21:29 CET [2013/08/24 14:21:29 ET]
+Table '775135132 189' 9-max Seat #4 is the button
+Seat 1: aazaa (2785 in chips) 
+Seat 2: Tristan1993 (2665 in chips) 
+Seat 3: Solar Garden (2280 in chips) 
+Seat 4: LilFishAtL (2478 in chips) 
+Seat 5: Johnnyc280 (5987 in chips) 
+Seat 6: notagg (6135 in chips) 
+Seat 7: ae3333 (3865 in chips) 
+Seat 8: awdz (4605 in chips) 
+Seat 9: genevaboy23 (2425 in chips) 
+aazaa: posts the ante 20
+Tristan1993: posts the ante 20
+Solar Garden: posts the ante 20
+LilFishAtL: posts the ante 20
+Johnnyc280: posts the ante 20
+notagg: posts the ante 20
+ae3333: posts the ante 20
+awdz: posts the ante 20
+genevaboy23: posts the ante 20
+Johnnyc280: posts small blind 75
+notagg: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 4h]
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: raises 150 to 300
+notagg: raises 5815 to 6115 and is all-in
+Johnnyc280: folds 
+Uncalled bet (5815) returned to notagg
+notagg collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL (button) folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (small blind) folded before Flop
+Seat 6: notagg (big blind) collected (780)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173032725: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:22:22 CET [2013/08/24 14:22:22 ET]
+Table '775135132 189' 9-max Seat #5 is the button
+Seat 1: aazaa (2765 in chips) 
+Seat 2: Tristan1993 (2645 in chips) 
+Seat 3: Solar Garden (2260 in chips) 
+Seat 4: LilFishAtL (2458 in chips) 
+Seat 5: Johnnyc280 (5667 in chips) 
+Seat 6: notagg (6595 in chips) 
+Seat 7: ae3333 (3845 in chips) 
+Seat 8: awdz (4585 in chips) 
+Seat 9: genevaboy23 (2405 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+notagg: posts small blind 100
+ae3333: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 4h]
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: raises 2420 to 2620 and is all-in
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+Uncalled bet (2420) returned to Tristan1993
+Tristan1993 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 collected (725)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 (button) folded before Flop (didn't bet)
+Seat 6: notagg (small blind) folded before Flop
+Seat 7: ae3333 (big blind) folded before Flop
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173060355: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:23:00 CET [2013/08/24 14:23:00 ET]
+Table '775135132 189' 9-max Seat #6 is the button
+Seat 1: aazaa (2740 in chips) 
+Seat 2: Tristan1993 (3145 in chips) 
+Seat 3: Solar Garden (2235 in chips) 
+Seat 4: LilFishAtL (2433 in chips) 
+Seat 5: Johnnyc280 (5642 in chips) 
+Seat 6: notagg (6470 in chips) 
+Seat 7: ae3333 (3620 in chips) 
+Seat 8: awdz (4560 in chips) 
+Seat 9: genevaboy23 (2380 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+ae3333: posts small blind 100
+awdz: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [3c 2c]
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: calls 100
+awdz: checks 
+*** FLOP *** [4c 3h Kd]
+ae3333: checks 
+awdz: checks 
+*** TURN *** [4c 3h Kd] [9d]
+ae3333: bets 200
+awdz: folds 
+Uncalled bet (200) returned to ae3333
+ae3333 collected 625 from pot
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [4c 3h Kd 9d]
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg (button) folded before Flop (didn't bet)
+Seat 7: ae3333 (small blind) collected (625)
+Seat 8: awdz (big blind) folded on the Turn
+Seat 9: genevaboy23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173107208: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:24:05 CET [2013/08/24 14:24:05 ET]
+Table '775135132 189' 9-max Seat #7 is the button
+Seat 1: aazaa (2715 in chips) 
+Seat 2: Tristan1993 (3120 in chips) 
+Seat 3: Solar Garden (2210 in chips) 
+Seat 4: LilFishAtL (2408 in chips) 
+Seat 5: Johnnyc280 (5617 in chips) 
+Seat 6: notagg (6445 in chips) 
+Seat 7: ae3333 (4020 in chips) 
+Seat 8: awdz (4335 in chips) 
+Seat 9: genevaboy23 (2355 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+awdz: posts small blind 100
+genevaboy23: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Kh 3h]
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+Uncalled bet (100) returned to genevaboy23
+genevaboy23 collected 425 from pot
+*** SUMMARY ***
+Total pot 425 | Rake 0 
+Seat 1: aazaa folded before Flop (didn't bet)
+Seat 2: Tristan1993 folded before Flop (didn't bet)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 (button) folded before Flop (didn't bet)
+Seat 8: awdz (small blind) folded before Flop
+Seat 9: genevaboy23 (big blind) collected (425)
+
+
+
+PokerStars Hand #103173122030: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:24:25 CET [2013/08/24 14:24:25 ET]
+Table '775135132 189' 9-max Seat #8 is the button
+Seat 1: aazaa (2690 in chips) 
+Seat 2: Tristan1993 (3095 in chips) 
+Seat 3: Solar Garden (2185 in chips) 
+Seat 4: LilFishAtL (2383 in chips) 
+Seat 5: Johnnyc280 (5592 in chips) 
+Seat 6: notagg (6420 in chips) 
+Seat 7: ae3333 (3995 in chips) 
+Seat 8: awdz (4210 in chips) 
+Seat 9: genevaboy23 (2655 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+genevaboy23: posts small blind 100
+aazaa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [8c 3h]
+Tristan1993: calls 200
+Solar Garden: folds 
+LilFishAtL: folds 
+Johnnyc280: calls 200
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: calls 100
+aazaa: checks 
+*** FLOP *** [5d 4c 2c]
+genevaboy23: checks 
+aazaa: checks 
+Tristan1993: checks 
+Johnnyc280: bets 400
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: raises 2470 to 2870 and is all-in
+Johnnyc280: folds 
+Uncalled bet (2470) returned to Tristan1993
+Tristan1993 collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | Rake 0 
+Board [5d 4c 2c]
+Seat 1: aazaa (big blind) folded on the Flop
+Seat 2: Tristan1993 collected (1825)
+Seat 3: Solar Garden folded before Flop (didn't bet)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded on the Flop
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz (button) folded before Flop (didn't bet)
+Seat 9: genevaboy23 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #103173214095: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:26:31 CET [2013/08/24 14:26:31 ET]
+Table '775135132 189' 9-max Seat #9 is the button
+Seat 1: aazaa (2465 in chips) 
+Seat 2: Tristan1993 (4295 in chips) 
+Seat 3: Solar Garden (2160 in chips) 
+Seat 4: LilFishAtL (2358 in chips) 
+Seat 5: Johnnyc280 (4967 in chips) 
+Seat 6: notagg (6395 in chips) 
+Seat 7: ae3333 (3970 in chips) 
+Seat 8: awdz (4185 in chips) 
+Seat 9: genevaboy23 (2430 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+aazaa: posts small blind 100
+Tristan1993: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 2d]
+Solar Garden: raises 1935 to 2135 and is all-in
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: folds 
+ae3333: folds 
+awdz: folds 
+genevaboy23: folds 
+aazaa: folds 
+Tristan1993: folds 
+Uncalled bet (1935) returned to Solar Garden
+Solar Garden collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: aazaa (small blind) folded before Flop
+Seat 2: Tristan1993 (big blind) folded before Flop
+Seat 3: Solar Garden collected (725)
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg folded before Flop (didn't bet)
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173226208: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level X (100/200) - 2013/08/24 20:26:48 CET [2013/08/24 14:26:48 ET]
+Table '775135132 189' 9-max Seat #1 is the button
+Seat 1: aazaa (2340 in chips) 
+Seat 2: Tristan1993 (4070 in chips) 
+Seat 3: Solar Garden (2660 in chips) 
+Seat 4: LilFishAtL (2333 in chips) 
+Seat 5: Johnnyc280 (4942 in chips) 
+Seat 6: notagg (6370 in chips) 
+Seat 7: ae3333 (3945 in chips) 
+Seat 8: awdz (4160 in chips) 
+Seat 9: genevaboy23 (2405 in chips) 
+aazaa: posts the ante 25
+Tristan1993: posts the ante 25
+Solar Garden: posts the ante 25
+LilFishAtL: posts the ante 25
+Johnnyc280: posts the ante 25
+notagg: posts the ante 25
+ae3333: posts the ante 25
+awdz: posts the ante 25
+genevaboy23: posts the ante 25
+Tristan1993: posts small blind 100
+Solar Garden: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [2h Ac]
+LilFishAtL: folds 
+Johnnyc280: folds 
+notagg: raises 300 to 500
+ae3333: folds 
+awdz: folds 
+genevaboy23: raises 1880 to 2380 and is all-in
+aazaa: folds 
+Tristan1993: folds 
+Solar Garden: folds 
+notagg: calls 1880
+*** FLOP *** [Kd Qc Jc]
+*** TURN *** [Kd Qc Jc] [4c]
+*** RIVER *** [Kd Qc Jc 4c] [3c]
+*** SHOW DOWN ***
+notagg: shows [Ad Kh] (a pair of Kings)
+genevaboy23: shows [5d 5s] (a pair of Fives)
+notagg collected 5285 from pot
+*** SUMMARY ***
+Total pot 5285 | Rake 0 
+Board [Kd Qc Jc 4c 3c]
+Seat 1: aazaa (button) folded before Flop (didn't bet)
+Seat 2: Tristan1993 (small blind) folded before Flop
+Seat 3: Solar Garden (big blind) folded before Flop
+Seat 4: LilFishAtL folded before Flop (didn't bet)
+Seat 5: Johnnyc280 folded before Flop (didn't bet)
+Seat 6: notagg showed [Ad Kh] and won (5285) with a pair of Kings
+Seat 7: ae3333 folded before Flop (didn't bet)
+Seat 8: awdz folded before Flop (didn't bet)
+Seat 9: genevaboy23 showed [5d 5s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #103173275742: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XI (125/250) - 2013/08/24 20:27:56 CET [2013/08/24 14:27:56 ET]
+Table '775135132 127' 9-max Seat #4 is the button
+Seat 1: riccieri (1479 in chips) 
+Seat 2: fabimoosach (3527 in chips) 
+Seat 3: aazaa (2315 in chips) 
+Seat 4: Timunim (2310 in chips) 
+Seat 5: arcmonk (10865 in chips) 
+Seat 6: dabrunol2 (6692 in chips) 
+Seat 7: elkjaer1203 (7773 in chips) 
+Seat 8: timetopop87 (3618 in chips) 
+Seat 9: pokerdouglas (5906 in chips) 
+riccieri: posts the ante 30
+fabimoosach: posts the ante 30
+aazaa: posts the ante 30
+Timunim: posts the ante 30
+arcmonk: posts the ante 30
+dabrunol2: posts the ante 30
+elkjaer1203: posts the ante 30
+timetopop87: posts the ante 30
+pokerdouglas: posts the ante 30
+arcmonk: posts small blind 125
+dabrunol2: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [4h 9h]
+elkjaer1203: calls 250
+timetopop87: folds 
+pokerdouglas: folds 
+riccieri: raises 1199 to 1449 and is all-in
+fabimoosach: folds 
+aazaa: folds 
+Timunim: folds 
+arcmonk: folds 
+dabrunol2: calls 1199
+elkjaer1203: folds 
+*** FLOP *** [Kc 4c 6h]
+*** TURN *** [Kc 4c 6h] [5d]
+*** RIVER *** [Kc 4c 6h 5d] [6s]
+*** SHOW DOWN ***
+dabrunol2: shows [Js Ah] (a pair of Sixes)
+riccieri: shows [Qd Ac] (a pair of Sixes - Ace+King+Queen kicker)
+riccieri collected 3543 from pot
+*** SUMMARY ***
+Total pot 3543 | Rake 0 
+Board [Kc 4c 6h 5d 6s]
+Seat 1: riccieri showed [Qd Ac] and won (3543) with a pair of Sixes
+Seat 2: fabimoosach folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: Timunim (button) folded before Flop (didn't bet)
+Seat 5: arcmonk (small blind) folded before Flop
+Seat 6: dabrunol2 (big blind) showed [Js Ah] and lost with a pair of Sixes
+Seat 7: elkjaer1203 folded before Flop
+Seat 8: timetopop87 folded before Flop (didn't bet)
+Seat 9: pokerdouglas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173297261: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XI (125/250) - 2013/08/24 20:28:26 CET [2013/08/24 14:28:26 ET]
+Table '775135132 127' 9-max Seat #5 is the button
+Seat 1: riccieri (3543 in chips) 
+Seat 2: fabimoosach (3497 in chips) 
+Seat 3: aazaa (2285 in chips) 
+Seat 4: Timunim (2280 in chips) 
+Seat 5: arcmonk (10710 in chips) 
+Seat 6: dabrunol2 (5213 in chips) 
+Seat 7: elkjaer1203 (7493 in chips) 
+Seat 8: timetopop87 (3588 in chips) 
+Seat 9: pokerdouglas (5876 in chips) 
+riccieri: posts the ante 30
+fabimoosach: posts the ante 30
+aazaa: posts the ante 30
+Timunim: posts the ante 30
+arcmonk: posts the ante 30
+dabrunol2: posts the ante 30
+elkjaer1203: posts the ante 30
+timetopop87: posts the ante 30
+pokerdouglas: posts the ante 30
+dabrunol2: posts small blind 125
+elkjaer1203: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [Th 7d]
+timetopop87: folds 
+pokerdouglas: folds 
+riccieri: folds 
+fabimoosach: calls 250
+aazaa: folds 
+Timunim is disconnected 
+dabrunol2 is disconnected 
+Timunim has timed out while disconnected
+Timunim: folds 
+Timunim is sitting out
+arcmonk: folds 
+dabrunol2: folds 
+elkjaer1203: checks 
+*** FLOP *** [Jh Qs 2h]
+elkjaer1203: checks 
+fabimoosach: checks 
+*** TURN *** [Jh Qs 2h] [8h]
+elkjaer1203: checks 
+fabimoosach: checks 
+*** RIVER *** [Jh Qs 2h 8h] [Qd]
+elkjaer1203: bets 500
+fabimoosach: folds 
+Uncalled bet (500) returned to elkjaer1203
+elkjaer1203 collected 895 from pot
+*** SUMMARY ***
+Total pot 895 | Rake 0 
+Board [Jh Qs 2h 8h Qd]
+Seat 1: riccieri folded before Flop (didn't bet)
+Seat 2: fabimoosach folded on the River
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: Timunim folded before Flop (didn't bet)
+Seat 5: arcmonk (button) folded before Flop (didn't bet)
+Seat 6: dabrunol2 (small blind) folded before Flop
+Seat 7: elkjaer1203 (big blind) collected (895)
+Seat 8: timetopop87 folded before Flop (didn't bet)
+Seat 9: pokerdouglas folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173387684: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XI (125/250) - 2013/08/24 20:30:29 CET [2013/08/24 14:30:29 ET]
+Table '775135132 127' 9-max Seat #6 is the button
+Seat 1: riccieri (3513 in chips) 
+Seat 2: fabimoosach (3217 in chips) 
+Seat 3: aazaa (2255 in chips) 
+Seat 4: Timunim (2250 in chips) is sitting out
+Seat 5: arcmonk (10680 in chips) 
+Seat 6: dabrunol2 (5058 in chips) 
+Seat 7: elkjaer1203 (8108 in chips) 
+Seat 8: timetopop87 (3558 in chips) 
+Seat 9: pokerdouglas (5846 in chips) 
+riccieri: posts the ante 30
+fabimoosach: posts the ante 30
+aazaa: posts the ante 30
+Timunim: posts the ante 30
+arcmonk: posts the ante 30
+dabrunol2: posts the ante 30
+elkjaer1203: posts the ante 30
+timetopop87: posts the ante 30
+pokerdouglas: posts the ante 30
+elkjaer1203: posts small blind 125
+timetopop87: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [3d Kh]
+pokerdouglas: raises 375 to 625
+riccieri: folds 
+fabimoosach: folds 
+aazaa: folds 
+Timunim: folds 
+arcmonk: folds 
+dabrunol2: folds 
+elkjaer1203: calls 500
+timetopop87: folds 
+*** FLOP *** [9d 2d 4c]
+elkjaer1203: checks 
+pokerdouglas: bets 1000
+elkjaer1203: calls 1000
+*** TURN *** [9d 2d 4c] [5h]
+elkjaer1203: checks 
+pokerdouglas: bets 4191 and is all-in
+elkjaer1203: folds 
+Uncalled bet (4191) returned to pokerdouglas
+pokerdouglas collected 3770 from pot
+*** SUMMARY ***
+Total pot 3770 | Rake 0 
+Board [9d 2d 4c 5h]
+Seat 1: riccieri folded before Flop (didn't bet)
+Seat 2: fabimoosach folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: Timunim folded before Flop (didn't bet)
+Seat 5: arcmonk folded before Flop (didn't bet)
+Seat 6: dabrunol2 (button) folded before Flop (didn't bet)
+Seat 7: elkjaer1203 (small blind) folded on the Turn
+Seat 8: timetopop87 (big blind) folded before Flop
+Seat 9: pokerdouglas collected (3770)
+
+
+
+PokerStars Hand #103173440887: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XI (125/250) - 2013/08/24 20:31:41 CET [2013/08/24 14:31:41 ET]
+Table '775135132 127' 9-max Seat #7 is the button
+Seat 1: riccieri (3483 in chips) 
+Seat 2: fabimoosach (3187 in chips) 
+Seat 3: aazaa (2225 in chips) 
+Seat 4: Timunim (2220 in chips) is sitting out
+Seat 5: arcmonk (10650 in chips) 
+Seat 6: dabrunol2 (5028 in chips) 
+Seat 7: elkjaer1203 (6453 in chips) 
+Seat 8: timetopop87 (3278 in chips) 
+Seat 9: pokerdouglas (7961 in chips) 
+riccieri: posts the ante 30
+fabimoosach: posts the ante 30
+aazaa: posts the ante 30
+Timunim: posts the ante 30
+arcmonk: posts the ante 30
+dabrunol2: posts the ante 30
+elkjaer1203: posts the ante 30
+timetopop87: posts the ante 30
+pokerdouglas: posts the ante 30
+timetopop87: posts small blind 125
+pokerdouglas: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [3d Jc]
+riccieri: folds 
+fabimoosach: folds 
+aazaa: folds 
+Timunim: folds 
+arcmonk: folds 
+dabrunol2: raises 250 to 500
+elkjaer1203: raises 500 to 1000
+timetopop87: folds 
+pokerdouglas: folds 
+dabrunol2: calls 500
+*** FLOP *** [Ac 3h Ah]
+dabrunol2: bets 750
+elkjaer1203: calls 750
+*** TURN *** [Ac 3h Ah] [Qc]
+dabrunol2: bets 1000
+elkjaer1203: calls 1000
+*** RIVER *** [Ac 3h Ah Qc] [2c]
+dabrunol2: checks 
+elkjaer1203: bets 1000
+dabrunol2: folds 
+Uncalled bet (1000) returned to elkjaer1203
+elkjaer1203 collected 6145 from pot
+elkjaer1203: shows [Ad As] (four of a kind, Aces)
+*** SUMMARY ***
+Total pot 6145 | Rake 0 
+Board [Ac 3h Ah Qc 2c]
+Seat 1: riccieri folded before Flop (didn't bet)
+Seat 2: fabimoosach folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: Timunim folded before Flop (didn't bet)
+Seat 5: arcmonk folded before Flop (didn't bet)
+Seat 6: dabrunol2 folded on the River
+Seat 7: elkjaer1203 (button) collected (6145)
+Seat 8: timetopop87 (small blind) folded before Flop
+Seat 9: pokerdouglas (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173487946: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XII (150/300) - 2013/08/24 20:32:44 CET [2013/08/24 14:32:44 ET]
+Table '775135132 127' 9-max Seat #8 is the button
+Seat 1: riccieri (3453 in chips) 
+Seat 2: fabimoosach (3157 in chips) 
+Seat 3: aazaa (2195 in chips) 
+Seat 4: Timunim (2190 in chips) is sitting out
+Seat 5: arcmonk (10620 in chips) 
+Seat 6: dabrunol2 (2248 in chips) 
+Seat 7: elkjaer1203 (9818 in chips) 
+Seat 8: timetopop87 (3123 in chips) 
+Seat 9: pokerdouglas (7681 in chips) 
+riccieri: posts the ante 40
+fabimoosach: posts the ante 40
+aazaa: posts the ante 40
+Timunim: posts the ante 40
+arcmonk: posts the ante 40
+dabrunol2: posts the ante 40
+elkjaer1203: posts the ante 40
+timetopop87: posts the ante 40
+pokerdouglas: posts the ante 40
+pokerdouglas: posts small blind 150
+riccieri: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [6h 4d]
+fabimoosach: folds 
+aazaa: folds 
+Timunim: folds 
+arcmonk: folds 
+dabrunol2: folds 
+elkjaer1203: folds 
+timetopop87: folds 
+pokerdouglas: raises 300 to 600
+riccieri: folds 
+Uncalled bet (300) returned to pokerdouglas
+pokerdouglas collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 1: riccieri (big blind) folded before Flop
+Seat 2: fabimoosach folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: Timunim folded before Flop (didn't bet)
+Seat 5: arcmonk folded before Flop (didn't bet)
+Seat 6: dabrunol2 folded before Flop (didn't bet)
+Seat 7: elkjaer1203 folded before Flop (didn't bet)
+Seat 8: timetopop87 (button) folded before Flop (didn't bet)
+Seat 9: pokerdouglas (small blind) collected (960)
+
+
+
+PokerStars Hand #103173530700: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level XII (150/300) - 2013/08/24 20:33:42 CET [2013/08/24 14:33:42 ET]
+Table '775135132 127' 9-max Seat #9 is the button
+Seat 1: riccieri (3113 in chips) 
+Seat 2: fabimoosach (3117 in chips) 
+Seat 3: aazaa (2155 in chips) 
+Seat 4: Timunim (2150 in chips) is sitting out
+Seat 5: arcmonk (10580 in chips) 
+Seat 6: dabrunol2 (2208 in chips) 
+Seat 7: elkjaer1203 (9778 in chips) 
+Seat 8: timetopop87 (3083 in chips) 
+Seat 9: pokerdouglas (8301 in chips) 
+riccieri: posts the ante 40
+fabimoosach: posts the ante 40
+aazaa: posts the ante 40
+Timunim: posts the ante 40
+arcmonk: posts the ante 40
+dabrunol2: posts the ante 40
+elkjaer1203: posts the ante 40
+timetopop87: posts the ante 40
+pokerdouglas: posts the ante 40
+riccieri: posts small blind 150
+fabimoosach: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [Js Ad]
+aazaa: raises 1815 to 2115 and is all-in
+Timunim: folds 
+arcmonk: folds 
+dabrunol2: folds 
+elkjaer1203: folds 
+timetopop87: folds 
+pokerdouglas: folds 
+riccieri: raises 958 to 3073 and is all-in
+fabimoosach: folds 
+Uncalled bet (958) returned to riccieri
+*** FLOP *** [5h Jc Td]
+*** TURN *** [5h Jc Td] [Th]
+*** RIVER *** [5h Jc Td Th] [Qh]
+*** SHOW DOWN ***
+riccieri: shows [Ah Kd] (a straight, Ten to Ace)
+aazaa: shows [Js Ad] (two pair, Jacks and Tens)
+riccieri collected 4890 from pot
+aazaa finished the tournament in 1681st place
+*** SUMMARY ***
+Total pot 4890 | Rake 0 
+Board [5h Jc Td Th Qh]
+Seat 1: riccieri (small blind) showed [Ah Kd] and won (4890) with a straight, Ten to Ace
+Seat 2: fabimoosach (big blind) folded before Flop
+Seat 3: aazaa showed [Js Ad] and lost with two pair, Jacks and Tens
+Seat 4: Timunim folded before Flop (didn't bet)
+Seat 5: arcmonk folded before Flop (didn't bet)
+Seat 6: dabrunol2 folded before Flop (didn't bet)
+Seat 7: elkjaer1203 folded before Flop (didn't bet)
+Seat 8: timetopop87 folded before Flop (didn't bet)
+Seat 9: pokerdouglas (button) folded before Flop (didn't bet)
+
+
+

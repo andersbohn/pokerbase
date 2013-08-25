@@ -1,0 +1,1052 @@
+﻿PokerStars Hand #103173133863: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 20:24:41 CET [2013/08/24 14:24:41 ET]
+Table '778647605 8' 9-max Seat #1 is the button
+Seat 1: EeeTee2008 (1500 in chips) 
+Seat 2: aazaa (1500 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1500 in chips) 
+Seat 5: Mateywin (1500 in chips) 
+Seat 6: wsp21 (1500 in chips) 
+Seat 7: Leshrac82 (1500 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1500 in chips) 
+aazaa: posts small blind 10
+LilBigKahuna: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [5h 2c]
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: raises 20 to 40
+aazaa: folds 
+LilBigKahuna: folds 
+Uncalled bet (20) returned to EeeTee2008
+EeeTee2008 collected 50 from pot
+EeeTee2008: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: EeeTee2008 (button) collected (50)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LilBigKahuna (big blind) folded before Flop
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173169366: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 20:25:30 CET [2013/08/24 14:25:30 ET]
+Table '778647605 8' 9-max Seat #2 is the button
+Seat 1: EeeTee2008 (1530 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: LilBigKahuna (1480 in chips) 
+Seat 4: lordjosejose (1500 in chips) 
+Seat 5: Mateywin (1500 in chips) 
+Seat 6: wsp21 (1500 in chips) 
+Seat 7: Leshrac82 (1500 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1500 in chips) 
+LilBigKahuna: posts small blind 10
+lordjosejose: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Td 6c]
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: raises 40 to 60
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Uncalled bet (40) returned to L0L__KQ
+L0L__KQ collected 50 from pot
+L0L__KQ: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LilBigKahuna (small blind) folded before Flop
+Seat 4: lordjosejose (big blind) folded before Flop
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ collected (50)
+
+
+
+PokerStars Hand #103173205065: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 20:26:19 CET [2013/08/24 14:26:19 ET]
+Table '778647605 8' 9-max Seat #3 is the button
+Seat 1: EeeTee2008 (1530 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: LilBigKahuna (1470 in chips) 
+Seat 4: lordjosejose (1480 in chips) 
+Seat 5: Mateywin (1500 in chips) 
+Seat 6: wsp21 (1500 in chips) 
+Seat 7: Leshrac82 (1500 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1530 in chips) 
+lordjosejose: posts small blind 10
+Mateywin: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [4s 7s]
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: raises 35 to 55
+lordjosejose: folds 
+Mateywin: folds 
+Uncalled bet (35) returned to LilBigKahuna
+LilBigKahuna collected 50 from pot
+LilBigKahuna: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna (button) collected (50)
+Seat 4: lordjosejose (small blind) folded before Flop
+Seat 5: Mateywin (big blind) folded before Flop
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173239747: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 20:27:06 CET [2013/08/24 14:27:06 ET]
+Table '778647605 8' 9-max Seat #4 is the button
+Seat 1: EeeTee2008 (1530 in chips) 
+Seat 2: aazaa (1490 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1480 in chips) 
+Seat 6: wsp21 (1500 in chips) 
+Seat 7: Leshrac82 (1500 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1530 in chips) 
+Mateywin: posts small blind 10
+wsp21: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [As Td]
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: raises 30 to 50
+aazaa: raises 70 to 120
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+EeeTee2008: folds 
+Uncalled bet (70) returned to aazaa
+aazaa collected 130 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop
+Seat 2: aazaa collected (130)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose (button) folded before Flop (didn't bet)
+Seat 5: Mateywin (small blind) folded before Flop
+Seat 6: wsp21 (big blind) folded before Flop
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173290416: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 20:28:16 CET [2013/08/24 14:28:16 ET]
+Table '778647605 8' 9-max Seat #5 is the button
+Seat 1: EeeTee2008 (1480 in chips) 
+Seat 2: aazaa (1570 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (1480 in chips) 
+Seat 7: Leshrac82 (1500 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1530 in chips) 
+wsp21: posts small blind 10
+Leshrac82: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Kh Kc]
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: raises 40 to 60
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: calls 50
+Leshrac82: calls 40
+*** FLOP *** [7c 3d 8h]
+wsp21: checks 
+Leshrac82: checks 
+aazaa: bets 100
+wsp21: folds 
+Leshrac82: calls 100
+*** TURN *** [7c 3d 8h] [5s]
+Leshrac82: checks 
+aazaa: bets 200
+Leshrac82: calls 200
+*** RIVER *** [7c 3d 8h 5s] [Jc]
+Leshrac82: checks 
+aazaa: bets 300
+Leshrac82: folds 
+Uncalled bet (300) returned to aazaa
+aazaa collected 780 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [7c 3d 8h 5s Jc]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa collected (780)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin (button) folded before Flop (didn't bet)
+Seat 6: wsp21 (small blind) folded on the Flop
+Seat 7: Leshrac82 (big blind) folded on the River
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173376206: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:30:13 CET [2013/08/24 14:30:13 ET]
+Table '778647605 8' 9-max Seat #6 is the button
+Seat 1: EeeTee2008 (1480 in chips) 
+Seat 2: aazaa (1990 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (1420 in chips) 
+Seat 7: Leshrac82 (1140 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1530 in chips) 
+Leshrac82: posts small blind 15
+TMMPOKPOK: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [5d 8s]
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+Uncalled bet (15) returned to TMMPOKPOK
+TMMPOKPOK collected 30 from pot
+TMMPOKPOK: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 (button) folded before Flop (didn't bet)
+Seat 7: Leshrac82 (small blind) folded before Flop
+Seat 8: TMMPOKPOK (big blind) collected (30)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173413939: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:31:04 CET [2013/08/24 14:31:04 ET]
+Table '778647605 8' 9-max Seat #7 is the button
+Seat 1: EeeTee2008 (1480 in chips) 
+Seat 2: aazaa (1990 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (1420 in chips) 
+Seat 7: Leshrac82 (1125 in chips) 
+Seat 8: TMMPOKPOK (1515 in chips) 
+Seat 9: L0L__KQ (1530 in chips) 
+TMMPOKPOK: posts small blind 15
+L0L__KQ: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [7c 5s]
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: raises 60 to 90
+Leshrac82: raises 180 to 270
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+wsp21: calls 180
+*** FLOP *** [Qs Ks Qd]
+wsp21: checks 
+Leshrac82: bets 245
+wsp21: calls 245
+*** TURN *** [Qs Ks Qd] [3h]
+wsp21: checks 
+Leshrac82: bets 610 and is all-in
+wsp21: calls 610
+*** RIVER *** [Qs Ks Qd 3h] [2d]
+*** SHOW DOWN ***
+wsp21: shows [Kd 7d] (two pair, Kings and Queens)
+Leshrac82: shows [As Ad] (two pair, Aces and Queens)
+Leshrac82 collected 2295 from pot
+*** SUMMARY ***
+Total pot 2295 | Rake 0 
+Board [Qs Ks Qd 3h 2d]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 showed [Kd 7d] and lost with two pair, Kings and Queens
+Seat 7: Leshrac82 (button) showed [As Ad] and won (2295) with two pair, Aces and Queens
+Seat 8: TMMPOKPOK (small blind) folded before Flop
+Seat 9: L0L__KQ (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173487902: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:32:44 CET [2013/08/24 14:32:44 ET]
+Table '778647605 8' 9-max Seat #8 is the button
+Seat 1: EeeTee2008 (1480 in chips) 
+Seat 2: aazaa (1990 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2295 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1500 in chips) 
+L0L__KQ: posts small blind 15
+EeeTee2008: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [2s 3d]
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+Uncalled bet (15) returned to EeeTee2008
+EeeTee2008 collected 30 from pot
+EeeTee2008: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: EeeTee2008 (big blind) collected (30)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK (button) folded before Flop (didn't bet)
+Seat 9: L0L__KQ (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173517712: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:33:24 CET [2013/08/24 14:33:24 ET]
+Table '778647605 8' 9-max Seat #9 is the button
+Seat 1: EeeTee2008 (1495 in chips) 
+Seat 2: aazaa (1990 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2295 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1485 in chips) 
+EeeTee2008: posts small blind 15
+aazaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [5d 8s]
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: raises 42 to 72
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+Uncalled bet (42) returned to Leshrac82
+Leshrac82 collected 75 from pot
+Leshrac82: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: EeeTee2008 (small blind) folded before Flop
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 collected (75)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173544632: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 20:34:00 CET [2013/08/24 14:34:00 ET]
+Table '778647605 8' 9-max Seat #1 is the button
+Seat 1: EeeTee2008 (1480 in chips) 
+Seat 2: aazaa (1960 in chips) 
+Seat 3: LilBigKahuna (1500 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2340 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1485 in chips) 
+aazaa: posts small blind 15
+LilBigKahuna: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [9d 3h]
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: raises 30 to 60
+aazaa: folds 
+LilBigKahuna: folds 
+Uncalled bet (30) returned to EeeTee2008
+EeeTee2008 collected 75 from pot
+EeeTee2008: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: EeeTee2008 (button) collected (75)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LilBigKahuna (big blind) folded before Flop
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173592903: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:35:06 CET [2013/08/24 14:35:06 ET]
+Table '778647605 8' 9-max Seat #2 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1945 in chips) 
+Seat 3: LilBigKahuna (1470 in chips) 
+Seat 4: lordjosejose (1470 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2340 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (1485 in chips) 
+LilBigKahuna: posts small blind 25
+lordjosejose: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Jh Qd]
+Mateywin: folds 
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: raises 50 to 100
+EeeTee2008: folds 
+aazaa: calls 100
+LilBigKahuna: folds 
+lordjosejose: calls 50
+*** FLOP *** [3d Js 8c]
+lordjosejose: checks 
+L0L__KQ: bets 180
+aazaa: calls 180
+lordjosejose: raises 230 to 410
+L0L__KQ: calls 230
+aazaa: folds 
+*** TURN *** [3d Js 8c] [Kh]
+lordjosejose: checks 
+L0L__KQ: bets 975 and is all-in
+lordjosejose: folds 
+Uncalled bet (975) returned to L0L__KQ
+L0L__KQ collected 1325 from pot
+L0L__KQ: doesn't show hand 
+*** SUMMARY ***
+Total pot 1325 | Rake 0 
+Board [3d Js 8c Kh]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded on the Flop
+Seat 3: LilBigKahuna (small blind) folded before Flop
+Seat 4: lordjosejose (big blind) folded on the Turn
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ collected (1325)
+
+
+
+PokerStars Hand #103173691532: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:37:19 CET [2013/08/24 14:37:19 ET]
+Table '778647605 8' 9-max Seat #3 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1445 in chips) 
+Seat 4: lordjosejose (960 in chips) 
+Seat 5: Mateywin (1470 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2340 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (2300 in chips) 
+lordjosejose: posts small blind 25
+Mateywin: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Jd 7c]
+wsp21: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: raises 51 to 101
+lordjosejose: raises 859 to 960 and is all-in
+Mateywin: folds 
+LilBigKahuna: folds 
+Uncalled bet (859) returned to lordjosejose
+lordjosejose collected 252 from pot
+lordjosejose: doesn't show hand 
+*** SUMMARY ***
+Total pot 252 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna (button) folded before Flop
+Seat 4: lordjosejose (small blind) collected (252)
+Seat 5: Mateywin (big blind) folded before Flop
+Seat 6: wsp21 folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173732313: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:38:14 CET [2013/08/24 14:38:14 ET]
+Table '778647605 8' 9-max Seat #4 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1344 in chips) 
+Seat 4: lordjosejose (1111 in chips) 
+Seat 5: Mateywin (1420 in chips) 
+Seat 6: wsp21 (295 in chips) 
+Seat 7: Leshrac82 (2340 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (2300 in chips) 
+Mateywin: posts small blind 25
+wsp21: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [9c 5c]
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: raises 51 to 101
+lordjosejose: folds 
+Mateywin: folds 
+wsp21: raises 99 to 200
+LilBigKahuna: raises 425 to 625
+wsp21: calls 95 and is all-in
+Uncalled bet (330) returned to LilBigKahuna
+*** FLOP *** [7c 6c 9d]
+*** TURN *** [7c 6c 9d] [2c]
+*** RIVER *** [7c 6c 9d 2c] [7s]
+*** SHOW DOWN ***
+wsp21: shows [Jh Jd] (two pair, Jacks and Sevens)
+LilBigKahuna: shows [Ad Ac] (two pair, Aces and Sevens)
+LilBigKahuna collected 615 from pot
+wsp21 finished the tournament in 166th place
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [7c 6c 9d 2c 7s]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna showed [Ad Ac] and won (615) with two pair, Aces and Sevens
+Seat 4: lordjosejose (button) folded before Flop (didn't bet)
+Seat 5: Mateywin (small blind) folded before Flop
+Seat 6: wsp21 (big blind) showed [Jh Jd] and lost with two pair, Jacks and Sevens
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173771478: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 20:39:07 CET [2013/08/24 14:39:07 ET]
+Table '778647605 8' 9-max Seat #5 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1664 in chips) 
+Seat 4: lordjosejose (1111 in chips) 
+Seat 5: Mateywin (1395 in chips) 
+Seat 7: Leshrac82 (2340 in chips) 
+Seat 8: TMMPOKPOK (1500 in chips) 
+Seat 9: L0L__KQ (2300 in chips) 
+Leshrac82: posts small blind 25
+TMMPOKPOK: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [9s Qh]
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: raises 50 to 100
+Mateywin: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+Uncalled bet (50) returned to lordjosejose
+lordjosejose collected 125 from pot
+lordjosejose: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose collected (125)
+Seat 5: Mateywin (button) folded before Flop (didn't bet)
+Seat 7: Leshrac82 (small blind) folded before Flop
+Seat 8: TMMPOKPOK (big blind) folded before Flop
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173801303: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:39:48 CET [2013/08/24 14:39:48 ET]
+Table '778647605 8' 9-max Seat #7 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1664 in chips) 
+Seat 4: lordjosejose (1186 in chips) 
+Seat 5: Mateywin (1395 in chips) 
+Seat 7: Leshrac82 (2315 in chips) 
+Seat 8: TMMPOKPOK (1450 in chips) 
+Seat 9: L0L__KQ (2300 in chips) 
+TMMPOKPOK: posts small blind 50
+L0L__KQ: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [9s Ks]
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: raises 100 to 200
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+Uncalled bet (100) returned to Mateywin
+Mateywin collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin collected (250)
+Seat 7: Leshrac82 (button) folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK (small blind) folded before Flop
+Seat 9: L0L__KQ (big blind) folded before Flop
+
+
+
+PokerStars Hand #103173824509: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:40:20 CET [2013/08/24 14:40:20 ET]
+Table '778647605 8' 9-max Seat #8 is the button
+Seat 1: EeeTee2008 (1525 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1664 in chips) 
+Seat 4: lordjosejose (1186 in chips) 
+Seat 5: Mateywin (1545 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2315 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2200 in chips) 
+L0L__KQ: posts small blind 50
+EeeTee2008: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 4c]
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: raises 104 to 204
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+Uncalled bet (104) returned to Leshrac82
+Leshrac82 collected 250 from pot
+Leshrac82: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: EeeTee2008 (big blind) folded before Flop
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 collected (250)
+Seat 8: TMMPOKPOK (button) folded before Flop (didn't bet)
+Seat 9: L0L__KQ (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173852141: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:40:58 CET [2013/08/24 14:40:58 ET]
+Table '778647605 8' 9-max Seat #9 is the button
+Seat 1: EeeTee2008 (1425 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1664 in chips) 
+Seat 4: lordjosejose (1186 in chips) 
+Seat 5: Mateywin (1545 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+EeeTee2008: posts small blind 50
+aazaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6h Kh]
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+Uncalled bet (50) returned to aazaa
+aazaa collected 100 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: EeeTee2008 (small blind) folded before Flop
+Seat 2: aazaa (big blind) collected (100)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173893184: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:41:54 CET [2013/08/24 14:41:54 ET]
+Table '778647605 8' 9-max Seat #1 is the button
+Seat 1: EeeTee2008 (1375 in chips) 
+Seat 2: aazaa (1715 in chips) 
+Seat 3: LilBigKahuna (1664 in chips) 
+Seat 4: lordjosejose (1186 in chips) 
+Seat 5: Mateywin (1545 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+aazaa: posts small blind 50
+LilBigKahuna: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [8d 2c]
+lordjosejose: raises 1086 to 1186 and is all-in
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+Uncalled bet (1086) returned to lordjosejose
+lordjosejose collected 250 from pot
+lordjosejose: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: EeeTee2008 (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) folded before Flop
+Seat 3: LilBigKahuna (big blind) folded before Flop
+Seat 4: lordjosejose collected (250)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173936155: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:42:52 CET [2013/08/24 14:42:52 ET]
+Table '778647605 8' 9-max Seat #2 is the button
+Seat 1: EeeTee2008 (1375 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1564 in chips) 
+Seat 4: lordjosejose (1336 in chips) 
+Seat 5: Mateywin (1545 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+LilBigKahuna: posts small blind 50
+lordjosejose: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [9d 2d]
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: raises 100 to 200
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: calls 100
+*** FLOP *** [Js 9h 3d]
+lordjosejose: checks 
+EeeTee2008: bets 210
+lordjosejose: folds 
+Uncalled bet (210) returned to EeeTee2008
+EeeTee2008 collected 450 from pot
+EeeTee2008: doesn't show hand 
+*** SUMMARY ***
+Total pot 450 | Rake 0 
+Board [Js 9h 3d]
+Seat 1: EeeTee2008 collected (450)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 3: LilBigKahuna (small blind) folded before Flop
+Seat 4: lordjosejose (big blind) folded on the Flop
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173982144: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:43:54 CET [2013/08/24 14:43:54 ET]
+Table '778647605 8' 9-max Seat #3 is the button
+Seat 1: EeeTee2008 (1625 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1514 in chips) 
+Seat 4: lordjosejose (1136 in chips) 
+Seat 5: Mateywin (1545 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+lordjosejose: posts small blind 50
+Mateywin: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6h Tc]
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: raises 1036 to 1136 and is all-in
+Mateywin: calls 1036
+*** FLOP *** [Ts Ac 6s]
+*** TURN *** [Ts Ac 6s] [7c]
+*** RIVER *** [Ts Ac 6s 7c] [4c]
+*** SHOW DOWN ***
+lordjosejose: shows [4h 7h] (two pair, Sevens and Fours)
+Mateywin: shows [Jd Js] (a pair of Jacks)
+lordjosejose collected 2272 from pot
+*** SUMMARY ***
+Total pot 2272 | Rake 0 
+Board [Ts Ac 6s 7c 4c]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna (button) folded before Flop (didn't bet)
+Seat 4: lordjosejose (small blind) showed [4h 7h] and won (2272) with two pair, Sevens and Fours
+Seat 5: Mateywin (big blind) showed [Jd Js] and lost with a pair of Jacks
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174017550: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:44:43 CET [2013/08/24 14:44:43 ET]
+Table '778647605 8' 9-max Seat #4 is the button
+Seat 1: EeeTee2008 (1625 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1514 in chips) 
+Seat 4: lordjosejose (2272 in chips) 
+Seat 5: Mateywin (409 in chips) 
+Seat 6: ZRMED (1290 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+Mateywin: posts small blind 50
+ZRMED: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Th 3d]
+Leshrac82: folds 
+TMMPOKPOK: raises 1300 to 1400 and is all-in
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: folds 
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: folds 
+Uncalled bet (1300) returned to TMMPOKPOK
+TMMPOKPOK collected 250 from pot
+TMMPOKPOK: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa folded before Flop (didn't bet)
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose (button) folded before Flop (didn't bet)
+Seat 5: Mateywin (small blind) folded before Flop
+Seat 6: ZRMED (big blind) folded before Flop
+Seat 7: Leshrac82 folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK collected (250)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174054186: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:45:33 CET [2013/08/24 14:45:33 ET]
+Table '778647605 8' 9-max Seat #5 is the button
+Seat 1: EeeTee2008 (1625 in chips) 
+Seat 2: aazaa (1665 in chips) 
+Seat 3: LilBigKahuna (1514 in chips) 
+Seat 4: lordjosejose (2272 in chips) 
+Seat 5: Mateywin (359 in chips) 
+Seat 6: ZRMED (1190 in chips) 
+Seat 7: Leshrac82 (2465 in chips) 
+Seat 8: TMMPOKPOK (1550 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+ZRMED: posts small blind 75
+Leshrac82: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [2h Jh]
+TMMPOKPOK: folds 
+L0L__KQ: folds 
+EeeTee2008: folds 
+aazaa: raises 1515 to 1665 and is all-in
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: calls 1115 and is all-in
+Leshrac82: folds 
+Uncalled bet (475) returned to aazaa
+*** FLOP *** [8d Ac 8c]
+*** TURN *** [8d Ac 8c] [4d]
+*** RIVER *** [8d Ac 8c 4d] [2c]
+*** SHOW DOWN ***
+ZRMED: shows [Kh As] (two pair, Aces and Eights)
+aazaa: shows [2h Jh] (two pair, Eights and Deuces)
+ZRMED collected 2530 from pot
+*** SUMMARY ***
+Total pot 2530 | Rake 0 
+Board [8d Ac 8c 4d 2c]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa showed [2h Jh] and lost with two pair, Eights and Deuces
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin (button) folded before Flop (didn't bet)
+Seat 6: ZRMED (small blind) showed [Kh As] and won (2530) with two pair, Aces and Eights
+Seat 7: Leshrac82 (big blind) folded before Flop
+Seat 8: TMMPOKPOK folded before Flop (didn't bet)
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174096965: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:46:31 CET [2013/08/24 14:46:31 ET]
+Table '778647605 8' 9-max Seat #6 is the button
+Seat 1: EeeTee2008 (1625 in chips) 
+Seat 2: aazaa (475 in chips) 
+Seat 3: LilBigKahuna (1514 in chips) 
+Seat 4: lordjosejose (2272 in chips) 
+Seat 5: Mateywin (359 in chips) 
+Seat 6: ZRMED (2530 in chips) 
+Seat 7: Leshrac82 (2315 in chips) 
+Seat 8: TMMPOKPOK (1550 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+Leshrac82: posts small blind 75
+TMMPOKPOK: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Qh Qd]
+L0L__KQ: folds 
+EeeTee2008: raises 150 to 300
+aazaa: raises 175 to 475 and is all-in
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+EeeTee2008: calls 175
+*** FLOP *** [7h Qs 2d]
+*** TURN *** [7h Qs 2d] [5s]
+*** RIVER *** [7h Qs 2d 5s] [Ac]
+*** SHOW DOWN ***
+EeeTee2008: shows [Jd As] (a pair of Aces)
+aazaa: shows [Qh Qd] (three of a kind, Queens)
+aazaa collected 1175 from pot
+*** SUMMARY ***
+Total pot 1175 | Rake 0 
+Board [7h Qs 2d 5s Ac]
+Seat 1: EeeTee2008 showed [Jd As] and lost with a pair of Aces
+Seat 2: aazaa showed [Qh Qd] and won (1175) with three of a kind, Queens
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED (button) folded before Flop (didn't bet)
+Seat 7: Leshrac82 (small blind) folded before Flop
+Seat 8: TMMPOKPOK (big blind) folded before Flop
+Seat 9: L0L__KQ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103174149131: Tournament #778647605, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:47:43 CET [2013/08/24 14:47:43 ET]
+Table '778647605 8' 9-max Seat #7 is the button
+Seat 1: EeeTee2008 (1150 in chips) 
+Seat 2: aazaa (1175 in chips) 
+Seat 3: LilBigKahuna (1514 in chips) 
+Seat 4: lordjosejose (2272 in chips) 
+Seat 5: Mateywin (359 in chips) 
+Seat 6: ZRMED (2530 in chips) 
+Seat 7: Leshrac82 (2240 in chips) 
+Seat 8: TMMPOKPOK (1400 in chips) 
+Seat 9: L0L__KQ (2150 in chips) 
+TMMPOKPOK: posts small blind 75
+L0L__KQ: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Jh Td]
+EeeTee2008: folds 
+aazaa: raises 1025 to 1175 and is all-in
+LilBigKahuna: folds 
+lordjosejose: folds 
+Mateywin: folds 
+ZRMED: folds 
+Leshrac82: folds 
+TMMPOKPOK: folds 
+L0L__KQ: calls 1025
+*** FLOP *** [6h 6s 4d]
+*** TURN *** [6h 6s 4d] [9d]
+*** RIVER *** [6h 6s 4d 9d] [6c]
+*** SHOW DOWN ***
+L0L__KQ: shows [Ks Ad] (three of a kind, Sixes)
+aazaa: shows [Jh Td] (three of a kind, Sixes - lower kicker)
+L0L__KQ collected 2425 from pot
+aazaa finished the tournament in 131st place
+*** SUMMARY ***
+Total pot 2425 | Rake 0 
+Board [6h 6s 4d 9d 6c]
+Seat 1: EeeTee2008 folded before Flop (didn't bet)
+Seat 2: aazaa showed [Jh Td] and lost with three of a kind, Sixes
+Seat 3: LilBigKahuna folded before Flop (didn't bet)
+Seat 4: lordjosejose folded before Flop (didn't bet)
+Seat 5: Mateywin folded before Flop (didn't bet)
+Seat 6: ZRMED folded before Flop (didn't bet)
+Seat 7: Leshrac82 (button) folded before Flop (didn't bet)
+Seat 8: TMMPOKPOK (small blind) folded before Flop
+Seat 9: L0L__KQ (big blind) showed [Ks Ad] and won (2425) with three of a kind, Sixes
+
+
+

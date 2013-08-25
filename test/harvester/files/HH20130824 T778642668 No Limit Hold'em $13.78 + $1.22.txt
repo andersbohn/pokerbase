@@ -1,0 +1,888 @@
+﻿PokerStars Hand #103171102107: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:35:42 CET [2013/08/24 13:35:42 ET]
+Table '778642668 1' 9-max Seat #1 is the button
+Seat 1: xoen (1500 in chips) 
+Seat 2: Ferblink.Rc (1500 in chips) 
+Seat 3: ribooon (1500 in chips) 
+Seat 4: UMASS11 (1500 in chips) 
+Seat 5: 1333331 (1500 in chips) 
+Seat 6: Patron1843 (1500 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1500 in chips) 
+Ferblink.Rc: posts small blind 10
+ribooon: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [9d Kh]
+UMASS11: folds 
+1333331: folds 
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: raises 40 to 60
+ribooon: folds 
+Uncalled bet (40) returned to Ferblink.Rc
+Ferblink.Rc collected 40 from pot
+Ferblink.Rc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: xoen (button) folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (small blind) collected (40)
+Seat 3: ribooon (big blind) folded before Flop
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 folded before Flop (didn't bet)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171134146: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:36:28 CET [2013/08/24 13:36:28 ET]
+Table '778642668 1' 9-max Seat #2 is the button
+Seat 1: xoen (1500 in chips) 
+Seat 2: Ferblink.Rc (1520 in chips) 
+Seat 3: ribooon (1480 in chips) 
+Seat 4: UMASS11 (1500 in chips) 
+Seat 5: 1333331 (1500 in chips) 
+Seat 6: Patron1843 (1500 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1500 in chips) 
+ribooon: posts small blind 10
+UMASS11: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 4s]
+1333331: folds 
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: raises 40 to 60
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+Uncalled bet (40) returned to moneyprince
+moneyprince collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (button) folded before Flop (didn't bet)
+Seat 3: ribooon (small blind) folded before Flop
+Seat 4: UMASS11 (big blind) folded before Flop
+Seat 5: 1333331 folded before Flop (didn't bet)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince collected (50)
+
+
+
+PokerStars Hand #103171156720: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:37:00 CET [2013/08/24 13:37:00 ET]
+Table '778642668 1' 9-max Seat #3 is the button
+Seat 1: xoen (1500 in chips) 
+Seat 2: Ferblink.Rc (1520 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1480 in chips) 
+Seat 5: 1333331 (1500 in chips) 
+Seat 6: Patron1843 (1500 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1530 in chips) 
+UMASS11: posts small blind 10
+1333331: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [6h Jd]
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+xoen: raises 40 to 60
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+1333331: calls 40
+*** FLOP *** [Tc 6c Th]
+1333331: checks 
+xoen: checks 
+*** TURN *** [Tc 6c Th] [4d]
+1333331: bets 80
+xoen: folds 
+Uncalled bet (80) returned to 1333331
+1333331 collected 130 from pot
+1333331: doesn't show hand 
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Board [Tc 6c Th 4d]
+Seat 1: xoen folded on the Turn
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon (button) folded before Flop (didn't bet)
+Seat 4: UMASS11 (small blind) folded before Flop
+Seat 5: 1333331 (big blind) collected (130)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171199668: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:38:02 CET [2013/08/24 13:38:02 ET]
+Table '778642668 1' 9-max Seat #4 is the button
+Seat 1: xoen (1440 in chips) 
+Seat 2: Ferblink.Rc (1520 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1570 in chips) 
+Seat 6: Patron1843 (1500 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1530 in chips) 
+1333331: posts small blind 10
+Patron1843: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [6h 8c]
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: raises 20 to 40
+ribooon: folds 
+UMASS11: folds 
+1333331: calls 30
+Patron1843: folds 
+*** FLOP *** [8d Ac 7c]
+1333331: checks 
+Ferblink.Rc: checks 
+*** TURN *** [8d Ac 7c] [5h]
+1333331: checks 
+Ferblink.Rc: bets 46
+1333331: calls 46
+*** RIVER *** [8d Ac 7c 5h] [2h]
+1333331: checks 
+Ferblink.Rc: bets 71
+1333331: folds 
+Uncalled bet (71) returned to Ferblink.Rc
+Ferblink.Rc collected 192 from pot
+Ferblink.Rc: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [8d Ac 7c 5h 2h]
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc collected (192)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 (button) folded before Flop (didn't bet)
+Seat 5: 1333331 (small blind) folded on the River
+Seat 6: Patron1843 (big blind) folded before Flop
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171250602: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:39:15 CET [2013/08/24 13:39:15 ET]
+Table '778642668 1' 9-max Seat #5 is the button
+Seat 1: xoen (1440 in chips) 
+Seat 2: Ferblink.Rc (1626 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1484 in chips) 
+Seat 6: Patron1843 (1480 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1530 in chips) 
+Patron1843: posts small blind 10
+twin2-1962: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [7h Qs]
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+1333331: folds 
+Patron1843: folds 
+Uncalled bet (10) returned to twin2-1962
+twin2-1962 collected 20 from pot
+twin2-1962: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 (button) folded before Flop (didn't bet)
+Seat 6: Patron1843 (small blind) folded before Flop
+Seat 7: twin2-1962 (big blind) collected (20)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171265596: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:39:37 CET [2013/08/24 13:39:37 ET]
+Table '778642668 1' 9-max Seat #6 is the button
+Seat 1: xoen (1440 in chips) 
+Seat 2: Ferblink.Rc (1626 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1484 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1510 in chips) 
+Seat 8: aazaa (1500 in chips) 
+Seat 9: moneyprince (1530 in chips) 
+twin2-1962: posts small blind 10
+aazaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Jd 5c]
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+1333331: raises 60 to 80
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+Uncalled bet (60) returned to 1333331
+1333331 collected 50 from pot
+1333331: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 collected (50)
+Seat 6: Patron1843 (button) folded before Flop (didn't bet)
+Seat 7: twin2-1962 (small blind) folded before Flop
+Seat 8: aazaa (big blind) folded before Flop
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171298110: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:40:24 CET [2013/08/24 13:40:24 ET]
+Table '778642668 1' 9-max Seat #7 is the button
+Seat 1: xoen (1440 in chips) 
+Seat 2: Ferblink.Rc (1626 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1514 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1480 in chips) 
+Seat 9: moneyprince (1530 in chips) 
+aazaa: posts small blind 10
+moneyprince: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [5s Jh]
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+1333331: raises 40 to 60
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+Uncalled bet (40) returned to 1333331
+1333331 collected 50 from pot
+1333331: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 collected (50)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 (button) folded before Flop (didn't bet)
+Seat 8: aazaa (small blind) folded before Flop
+Seat 9: moneyprince (big blind) folded before Flop
+
+
+
+PokerStars Hand #103171316887: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:40:51 CET [2013/08/24 13:40:51 ET]
+Table '778642668 1' 9-max Seat #8 is the button
+Seat 1: xoen (1440 in chips) 
+Seat 2: Ferblink.Rc (1626 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1544 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1470 in chips) 
+Seat 9: moneyprince (1510 in chips) 
+moneyprince: posts small blind 15
+xoen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [8c 5s]
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+1333331: raises 60 to 90
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Uncalled bet (60) returned to 1333331
+1333331 collected 75 from pot
+1333331: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: xoen (big blind) folded before Flop
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 collected (75)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa (button) folded before Flop (didn't bet)
+Seat 9: moneyprince (small blind) folded before Flop
+
+
+
+PokerStars Hand #103171336388: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:41:19 CET [2013/08/24 13:41:19 ET]
+Table '778642668 1' 9-max Seat #9 is the button
+Seat 1: xoen (1410 in chips) 
+Seat 2: Ferblink.Rc (1626 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 5: 1333331 (1589 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1470 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+xoen: posts small blind 15
+Ferblink.Rc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [6h 7h]
+ribooon: folds 
+UMASS11: folds 
+1333331: folds 
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: raises 60 to 90
+moneyprince: folds 
+xoen: raises 165 to 255
+Ferblink.Rc: folds 
+aazaa: folds 
+Uncalled bet (165) returned to xoen
+xoen collected 210 from pot
+xoen: doesn't show hand 
+*** SUMMARY ***
+Total pot 210 | Rake 0 
+Seat 1: xoen (small blind) collected (210)
+Seat 2: Ferblink.Rc (big blind) folded before Flop
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: 1333331 folded before Flop (didn't bet)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop
+Seat 9: moneyprince (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171355794: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:41:47 CET [2013/08/24 13:41:47 ET]
+Table '778642668 1' 9-max Seat #1 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1596 in chips) 
+Seat 3: ribooon (1470 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1380 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+Ferblink.Rc: posts small blind 15
+ribooon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [As Ts]
+UMASS11: folds 
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: raises 60 to 90
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+Uncalled bet (60) returned to aazaa
+aazaa collected 75 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: xoen (button) folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (small blind) folded before Flop
+Seat 3: ribooon (big blind) folded before Flop
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa collected (75)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171389395: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:42:36 CET [2013/08/24 13:42:36 ET]
+Table '778642668 1' 9-max Seat #2 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1440 in chips) 
+Seat 4: UMASS11 (1470 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1425 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+ribooon: posts small blind 15
+UMASS11: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Ad Qd]
+Patron1843: folds 
+twin2-1962: folds 
+aazaa: raises 60 to 90
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+Uncalled bet (60) returned to aazaa
+aazaa collected 75 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (button) folded before Flop (didn't bet)
+Seat 3: ribooon (small blind) folded before Flop
+Seat 4: UMASS11 (big blind) folded before Flop
+Seat 6: Patron1843 folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa collected (75)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171409100: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:43:04 CET [2013/08/24 13:43:04 ET]
+Table '778642668 1' 9-max Seat #3 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (1440 in chips) 
+Seat 6: Patron1843 (1470 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1470 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+UMASS11: posts small blind 15
+Patron1843: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [4d 5c]
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: raises 45 to 75
+Patron1843: raises 1395 to 1470 and is all-in
+UMASS11: calls 1365 and is all-in
+Uncalled bet (30) returned to Patron1843
+*** FLOP *** [2h 3c Ts]
+*** TURN *** [2h 3c Ts] [7d]
+*** RIVER *** [2h 3c Ts 7d] [5h]
+*** SHOW DOWN ***
+UMASS11: shows [Qd Qh] (a pair of Queens)
+Patron1843: shows [Kd Ad] (high card Ace)
+UMASS11 collected 2880 from pot
+*** SUMMARY ***
+Total pot 2880 | Rake 0 
+Board [2h 3c Ts 7d 5h]
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon (button) folded before Flop (didn't bet)
+Seat 4: UMASS11 (small blind) showed [Qd Qh] and won (2880) with a pair of Queens
+Seat 6: Patron1843 (big blind) showed [Kd Ad] and lost with high card Ace
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171442781: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:43:53 CET [2013/08/24 13:43:53 ET]
+Table '778642668 1' 9-max Seat #4 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (2880 in chips) 
+Seat 6: Patron1843 (30 in chips) 
+Seat 7: twin2-1962 (1500 in chips) 
+Seat 8: aazaa (1470 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+Patron1843: posts small blind 15
+twin2-1962: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [4h Qh]
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: raises 45 to 75
+Patron1843: calls 15 and is all-in
+twin2-1962: calls 45
+*** FLOP *** [9h Kc 4d]
+twin2-1962: checks 
+UMASS11: checks 
+*** TURN *** [9h Kc 4d] [Js]
+twin2-1962: checks 
+UMASS11: checks 
+*** RIVER *** [9h Kc 4d Js] [8c]
+twin2-1962: checks 
+UMASS11: bets 90
+twin2-1962: folds 
+Uncalled bet (90) returned to UMASS11
+*** SHOW DOWN ***
+UMASS11: shows [8s 8d] (three of a kind, Eights)
+UMASS11 collected 90 from side pot
+Patron1843: shows [Qc 2d] (high card King)
+UMASS11 collected 90 from main pot
+Patron1843 finished the tournament in 42nd place
+*** SUMMARY ***
+Total pot 180 Main pot 90. Side pot 90. | Rake 0 
+Board [9h Kc 4d Js 8c]
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 (button) showed [8s 8d] and won (180) with three of a kind, Eights
+Seat 6: Patron1843 (small blind) showed [Qc 2d] and lost with high card King
+Seat 7: twin2-1962 (big blind) folded on the River
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171480326: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:44:48 CET [2013/08/24 13:44:48 ET]
+Table '778642668 1' 9-max Seat #7 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (2985 in chips) 
+Seat 7: twin2-1962 (1425 in chips) 
+Seat 8: aazaa (1470 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+aazaa: posts small blind 15
+moneyprince: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [3c 7h]
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+twin2-1962: folds 
+aazaa: folds 
+Uncalled bet (15) returned to moneyprince
+moneyprince collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 7: twin2-1962 (button) folded before Flop (didn't bet)
+Seat 8: aazaa (small blind) folded before Flop
+Seat 9: moneyprince (big blind) collected (30)
+
+
+
+PokerStars Hand #103171506187: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:45:24 CET [2013/08/24 13:45:24 ET]
+Table '778642668 1' 9-max Seat #8 is the button
+Seat 1: xoen (1530 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (2985 in chips) 
+Seat 5: PELELECBA (1410 in chips) 
+Seat 7: twin2-1962 (1425 in chips) 
+Seat 8: aazaa (1455 in chips) 
+Seat 9: moneyprince (1510 in chips) 
+moneyprince: posts small blind 15
+xoen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [4d 6h]
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+PELELECBA: folds 
+twin2-1962: raises 180 to 210
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Uncalled bet (180) returned to twin2-1962
+twin2-1962 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: xoen (big blind) folded before Flop
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: PELELECBA folded before Flop (didn't bet)
+Seat 7: twin2-1962 collected (75)
+Seat 8: aazaa (button) folded before Flop (didn't bet)
+Seat 9: moneyprince (small blind) folded before Flop
+
+
+
+PokerStars Hand #103171534687: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:46:05 CET [2013/08/24 13:46:05 ET]
+Table '778642668 1' 9-max Seat #9 is the button
+Seat 1: xoen (1500 in chips) 
+Seat 2: Ferblink.Rc (1581 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (2985 in chips) 
+Seat 5: PELELECBA (1410 in chips) 
+Seat 7: twin2-1962 (1470 in chips) 
+Seat 8: aazaa (1455 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+xoen: posts small blind 25
+Ferblink.Rc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 3h]
+ribooon: folds 
+UMASS11: folds 
+PELELECBA: folds 
+twin2-1962: raises 50 to 100
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+Uncalled bet (50) returned to twin2-1962
+twin2-1962 collected 125 from pot
+twin2-1962: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: xoen (small blind) folded before Flop
+Seat 2: Ferblink.Rc (big blind) folded before Flop
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: PELELECBA folded before Flop (didn't bet)
+Seat 7: twin2-1962 collected (125)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171554292: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:46:33 CET [2013/08/24 13:46:33 ET]
+Table '778642668 1' 9-max Seat #1 is the button
+Seat 1: xoen (1475 in chips) 
+Seat 2: Ferblink.Rc (1531 in chips) 
+Seat 3: ribooon (1425 in chips) 
+Seat 4: UMASS11 (2985 in chips) 
+Seat 5: PELELECBA (1410 in chips) 
+Seat 7: twin2-1962 (1545 in chips) 
+Seat 8: aazaa (1455 in chips) 
+Seat 9: moneyprince (1495 in chips) 
+Ferblink.Rc: posts small blind 25
+ribooon: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Ac 3c]
+UMASS11: folds 
+PELELECBA: raises 50 to 100
+twin2-1962: folds 
+aazaa: folds 
+moneyprince: calls 100
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+*** FLOP *** [Qc Qh 5d]
+PELELECBA: bets 250
+moneyprince: calls 250
+*** TURN *** [Qc Qh 5d] [Ad]
+PELELECBA: checks 
+moneyprince: checks 
+*** RIVER *** [Qc Qh 5d Ad] [6c]
+PELELECBA: checks 
+moneyprince: bets 400
+PELELECBA: folds 
+Uncalled bet (400) returned to moneyprince
+moneyprince collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [Qc Qh 5d Ad 6c]
+Seat 1: xoen (button) folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (small blind) folded before Flop
+Seat 3: ribooon (big blind) folded before Flop
+Seat 4: UMASS11 folded before Flop (didn't bet)
+Seat 5: PELELECBA folded on the River
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince collected (775)
+
+
+
+PokerStars Hand #103171586420: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:47:19 CET [2013/08/24 13:47:19 ET]
+Table '778642668 1' 9-max Seat #2 is the button
+Seat 1: xoen (1475 in chips) 
+Seat 2: Ferblink.Rc (1506 in chips) 
+Seat 3: ribooon (1375 in chips) 
+Seat 4: UMASS11 (2985 in chips) 
+Seat 5: PELELECBA (1060 in chips) 
+Seat 7: twin2-1962 (1545 in chips) 
+Seat 8: aazaa (1455 in chips) 
+Seat 9: moneyprince (1920 in chips) 
+ribooon: posts small blind 25
+UMASS11: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Ah Qh]
+PELELECBA: folds 
+twin2-1962: folds 
+aazaa: raises 70 to 120
+moneyprince: calls 120
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+*** FLOP *** [5c 9c 2d]
+aazaa: bets 150
+moneyprince: calls 150
+*** TURN *** [5c 9c 2d] [Kd]
+aazaa: bets 300
+moneyprince: folds 
+Uncalled bet (300) returned to aazaa
+aazaa collected 615 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [5c 9c 2d Kd]
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc (button) folded before Flop (didn't bet)
+Seat 3: ribooon (small blind) folded before Flop
+Seat 4: UMASS11 (big blind) folded before Flop
+Seat 5: PELELECBA folded before Flop (didn't bet)
+Seat 7: twin2-1962 folded before Flop (didn't bet)
+Seat 8: aazaa collected (615)
+Seat 9: moneyprince folded on the Turn
+
+
+
+PokerStars Hand #103171637553: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:48:33 CET [2013/08/24 13:48:33 ET]
+Table '778642668 1' 9-max Seat #3 is the button
+Seat 1: xoen (1475 in chips) 
+Seat 2: Ferblink.Rc (1506 in chips) 
+Seat 3: ribooon (1350 in chips) 
+Seat 4: UMASS11 (2935 in chips) 
+Seat 5: PELELECBA (1060 in chips) 
+Seat 7: twin2-1962 (1545 in chips) 
+Seat 8: aazaa (1800 in chips) 
+Seat 9: moneyprince (1650 in chips) 
+UMASS11: posts small blind 25
+PELELECBA: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [3c 5h]
+twin2-1962: calls 50
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+PELELECBA: raises 1010 to 1060 and is all-in
+twin2-1962: folds 
+Uncalled bet (1010) returned to PELELECBA
+PELELECBA collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon (button) folded before Flop (didn't bet)
+Seat 4: UMASS11 (small blind) folded before Flop
+Seat 5: PELELECBA (big blind) collected (125)
+Seat 7: twin2-1962 folded before Flop
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171665762: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:49:13 CET [2013/08/24 13:49:13 ET]
+Table '778642668 1' 9-max Seat #4 is the button
+Seat 1: xoen (1475 in chips) 
+Seat 2: Ferblink.Rc (1506 in chips) 
+Seat 3: ribooon (1350 in chips) 
+Seat 4: UMASS11 (2910 in chips) 
+Seat 5: PELELECBA (1135 in chips) 
+Seat 7: twin2-1962 (1495 in chips) 
+Seat 8: aazaa (1800 in chips) 
+Seat 9: moneyprince (1650 in chips) 
+PELELECBA: posts small blind 25
+twin2-1962: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [6s Td]
+aazaa: folds 
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: folds 
+PELELECBA: raises 150 to 200
+twin2-1962: folds 
+Uncalled bet (150) returned to PELELECBA
+PELELECBA collected 100 from pot
+PELELECBA: shows [9s 9c]
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 (button) folded before Flop (didn't bet)
+Seat 5: PELELECBA (small blind) collected (100)
+Seat 7: twin2-1962 (big blind) folded before Flop
+Seat 8: aazaa folded before Flop (didn't bet)
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171691284: Tournament #778642668, $13.78+$1.22 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:49:51 CET [2013/08/24 13:49:51 ET]
+Table '778642668 1' 9-max Seat #5 is the button
+Seat 1: xoen (1475 in chips) 
+Seat 2: Ferblink.Rc (1506 in chips) 
+Seat 3: ribooon (1350 in chips) 
+Seat 4: UMASS11 (2910 in chips) 
+Seat 5: PELELECBA (1185 in chips) 
+Seat 7: twin2-1962 (1445 in chips) 
+Seat 8: aazaa (1800 in chips) 
+Seat 9: moneyprince (1650 in chips) 
+twin2-1962: posts small blind 25
+aazaa: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [2h 4d]
+moneyprince: folds 
+xoen: folds 
+Ferblink.Rc: folds 
+ribooon: folds 
+UMASS11: raises 51 to 101
+PELELECBA: folds 
+twin2-1962: folds 
+aazaa: raises 149 to 250
+UMASS11: calls 149
+*** FLOP *** [7s Jc Kh]
+aazaa: bets 240
+UMASS11: calls 240
+*** TURN *** [7s Jc Kh] [Ts]
+aazaa: checks 
+UMASS11: checks 
+*** RIVER *** [7s Jc Kh Ts] [7c]
+aazaa: bets 1310 and is all-in
+UMASS11: calls 1310
+*** SHOW DOWN ***
+aazaa: shows [2h 4d] (a pair of Sevens)
+UMASS11: shows [Ac Ks] (two pair, Kings and Sevens)
+UMASS11 collected 3625 from pot
+*** SUMMARY ***
+Total pot 3625 | Rake 0 
+Board [7s Jc Kh Ts 7c]
+Seat 1: xoen folded before Flop (didn't bet)
+Seat 2: Ferblink.Rc folded before Flop (didn't bet)
+Seat 3: ribooon folded before Flop (didn't bet)
+Seat 4: UMASS11 showed [Ac Ks] and won (3625) with two pair, Kings and Sevens
+Seat 5: PELELECBA (button) folded before Flop (didn't bet)
+Seat 7: twin2-1962 (small blind) folded before Flop
+Seat 8: aazaa (big blind) showed [2h 4d] and lost with a pair of Sevens
+Seat 9: moneyprince folded before Flop (didn't bet)
+
+
+

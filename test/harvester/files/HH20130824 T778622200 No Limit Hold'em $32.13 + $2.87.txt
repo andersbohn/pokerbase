@@ -1,0 +1,2450 @@
+﻿PokerStars Hand #103171204517: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:38:09 CET [2013/08/24 13:38:09 ET]
+Table '778622200 12' 9-max Seat #1 is the button
+Seat 1: el uno 535 (1500 in chips) 
+Seat 2: surfstar33 (1500 in chips) 
+Seat 3: jataman22 (1500 in chips) 
+Seat 4: wycioreks (1500 in chips) 
+Seat 5: PlayaPlz (1500 in chips) 
+Seat 6: aazaa (1500 in chips) 
+Seat 7: elraca (1500 in chips) 
+Seat 8: luocan530 (1500 in chips) 
+Seat 9: hennerz0 (1500 in chips) 
+surfstar33: posts small blind 10
+jataman22: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Ac 2h]
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: calls 20
+surfstar33: calls 10
+jataman22: checks 
+*** FLOP *** [7c 3d Kc]
+surfstar33: checks 
+jataman22: checks 
+el uno 535: bets 60
+surfstar33: folds 
+jataman22: folds 
+Uncalled bet (60) returned to el uno 535
+el uno 535 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7c 3d Kc]
+Seat 1: el uno 535 (button) collected (60)
+Seat 2: surfstar33 (small blind) folded on the Flop
+Seat 3: jataman22 (big blind) folded on the Flop
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171245422: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:39:08 CET [2013/08/24 13:39:08 ET]
+Table '778622200 12' 9-max Seat #2 is the button
+Seat 1: el uno 535 (1540 in chips) 
+Seat 2: surfstar33 (1480 in chips) 
+Seat 3: jataman22 (1480 in chips) 
+Seat 4: wycioreks (1500 in chips) 
+Seat 5: PlayaPlz (1500 in chips) 
+Seat 6: aazaa (1500 in chips) 
+Seat 7: elraca (1500 in chips) 
+Seat 8: luocan530 (1500 in chips) 
+Seat 9: hennerz0 (1500 in chips) 
+jataman22: posts small blind 10
+wycioreks: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Tc Kh]
+PlayaPlz: raises 30 to 50
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33 has timed out
+surfstar33: folds 
+surfstar33 is sitting out
+surfstar33 has returned
+jataman22: folds 
+wycioreks: raises 110 to 160
+PlayaPlz: folds 
+Uncalled bet (110) returned to wycioreks
+wycioreks collected 110 from pot
+wycioreks: doesn't show hand 
+*** SUMMARY ***
+Total pot 110 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 (button) folded before Flop (didn't bet)
+Seat 3: jataman22 (small blind) folded before Flop
+Seat 4: wycioreks (big blind) collected (110)
+Seat 5: PlayaPlz folded before Flop
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171285084: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:40:05 CET [2013/08/24 13:40:05 ET]
+Table '778622200 12' 9-max Seat #3 is the button
+Seat 1: el uno 535 (1540 in chips) 
+Seat 2: surfstar33 (1480 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1560 in chips) 
+Seat 5: PlayaPlz (1450 in chips) 
+Seat 6: aazaa (1500 in chips) 
+Seat 7: elraca (1500 in chips) 
+Seat 8: luocan530 (1500 in chips) 
+Seat 9: hennerz0 (1500 in chips) 
+wycioreks: posts small blind 10
+PlayaPlz: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [6d 9d]
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: raises 40 to 60
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+Uncalled bet (40) returned to el uno 535
+el uno 535 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: el uno 535 collected (50)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 (button) folded before Flop (didn't bet)
+Seat 4: wycioreks (small blind) folded before Flop
+Seat 5: PlayaPlz (big blind) folded before Flop
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171309923: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:40:41 CET [2013/08/24 13:40:41 ET]
+Table '778622200 12' 9-max Seat #4 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1480 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1430 in chips) 
+Seat 6: aazaa (1500 in chips) 
+Seat 7: elraca (1500 in chips) 
+Seat 8: luocan530 (1500 in chips) 
+Seat 9: hennerz0 (1500 in chips) 
+PlayaPlz: posts small blind 10
+aazaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Ks 2d]
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: raises 20 to 40
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+Uncalled bet (20) returned to surfstar33
+surfstar33 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 collected (50)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks (button) folded before Flop (didn't bet)
+Seat 5: PlayaPlz (small blind) folded before Flop
+Seat 6: aazaa (big blind) folded before Flop
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171327530: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:41:06 CET [2013/08/24 13:41:06 ET]
+Table '778622200 12' 9-max Seat #5 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1510 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1420 in chips) 
+Seat 6: aazaa (1480 in chips) 
+Seat 7: elraca (1500 in chips) 
+Seat 8: luocan530 (1500 in chips) 
+Seat 9: hennerz0 (1500 in chips) 
+aazaa: posts small blind 10
+elraca: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [6d Jc]
+luocan530: raises 40 to 60
+hennerz0: calls 60
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+*** FLOP *** [5h Js 5d]
+luocan530: bets 80
+hennerz0: calls 80
+*** TURN *** [5h Js 5d] [6h]
+luocan530: bets 160
+hennerz0: folds 
+Uncalled bet (160) returned to luocan530
+luocan530 collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [5h Js 5d 6h]
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz (button) folded before Flop (didn't bet)
+Seat 6: aazaa (small blind) folded before Flop
+Seat 7: elraca (big blind) folded before Flop
+Seat 8: luocan530 collected (310)
+Seat 9: hennerz0 folded on the Turn
+
+
+
+PokerStars Hand #103171372477: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:42:12 CET [2013/08/24 13:42:12 ET]
+Table '778622200 12' 9-max Seat #6 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1510 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1420 in chips) 
+Seat 6: aazaa (1470 in chips) 
+Seat 7: elraca (1480 in chips) 
+Seat 8: luocan530 (1670 in chips) 
+Seat 9: hennerz0 (1360 in chips) 
+elraca: posts small blind 10
+luocan530: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [4s Ad]
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 40 to 60
+elraca: folds 
+luocan530: raises 100 to 160
+aazaa: folds 
+Uncalled bet (100) returned to luocan530
+luocan530 collected 130 from pot
+*** SUMMARY ***
+Total pot 130 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa (button) folded before Flop
+Seat 7: elraca (small blind) folded before Flop
+Seat 8: luocan530 (big blind) collected (130)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171401330: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level I (10/20) - 2013/08/24 19:42:53 CET [2013/08/24 13:42:53 ET]
+Table '778622200 12' 9-max Seat #7 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1510 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1420 in chips) 
+Seat 6: aazaa (1410 in chips) 
+Seat 7: elraca (1470 in chips) 
+Seat 8: luocan530 (1740 in chips) 
+Seat 9: hennerz0 (1360 in chips) 
+luocan530: posts small blind 10
+hennerz0: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [6h 2d]
+el uno 535: folds 
+surfstar33: folds 
+jataman22: raises 22 to 42
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+Uncalled bet (22) returned to jataman22
+jataman22 collected 50 from pot
+jataman22: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 collected (50)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca (button) folded before Flop (didn't bet)
+Seat 8: luocan530 (small blind) folded before Flop
+Seat 9: hennerz0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103171429303: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:43:34 CET [2013/08/24 13:43:34 ET]
+Table '778622200 12' 9-max Seat #8 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1510 in chips) 
+Seat 3: jataman22 (1500 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1420 in chips) 
+Seat 6: aazaa (1410 in chips) 
+Seat 7: elraca (1470 in chips) 
+Seat 8: luocan530 (1730 in chips) 
+Seat 9: hennerz0 (1340 in chips) 
+hennerz0: posts small blind 15
+el uno 535: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [7d 7s]
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 60 to 90
+elraca: calls 90
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+*** FLOP *** [3d 9h Th]
+aazaa: bets 90
+elraca: calls 90
+*** TURN *** [3d 9h Th] [8d]
+aazaa: bets 250
+elraca: raises 1040 to 1290 and is all-in
+aazaa: folds 
+Uncalled bet (1040) returned to elraca
+elraca collected 905 from pot
+*** SUMMARY ***
+Total pot 905 | Rake 0 
+Board [3d 9h Th 8d]
+Seat 1: el uno 535 (big blind) folded before Flop
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded on the Turn
+Seat 7: elraca collected (905)
+Seat 8: luocan530 (button) folded before Flop (didn't bet)
+Seat 9: hennerz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103171481785: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:44:50 CET [2013/08/24 13:44:50 ET]
+Table '778622200 12' 9-max Seat #9 is the button
+Seat 1: el uno 535 (1540 in chips) 
+Seat 2: surfstar33 (1510 in chips) 
+Seat 3: jataman22 (1500 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1420 in chips) 
+Seat 6: aazaa (980 in chips) 
+Seat 7: elraca (1945 in chips) 
+Seat 8: luocan530 (1730 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+el uno 535: posts small blind 15
+surfstar33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Jd Ah]
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: raises 45 to 75
+aazaa: raises 105 to 180
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+PlayaPlz: folds 
+Uncalled bet (105) returned to aazaa
+aazaa collected 195 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Seat 1: el uno 535 (small blind) folded before Flop
+Seat 2: surfstar33 (big blind) folded before Flop
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop
+Seat 6: aazaa collected (195)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171515724: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:45:38 CET [2013/08/24 13:45:38 ET]
+Table '778622200 12' 9-max Seat #1 is the button
+Seat 1: el uno 535 (1525 in chips) 
+Seat 2: surfstar33 (1480 in chips) 
+Seat 3: jataman22 (1500 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1345 in chips) 
+Seat 6: aazaa (1100 in chips) 
+Seat 7: elraca (1945 in chips) 
+Seat 8: luocan530 (1730 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+surfstar33: posts small blind 15
+jataman22: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [7s Ac]
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: raises 60 to 90
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+Uncalled bet (60) returned to luocan530
+luocan530 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: el uno 535 (button) folded before Flop (didn't bet)
+Seat 2: surfstar33 (small blind) folded before Flop
+Seat 3: jataman22 (big blind) folded before Flop
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 collected (75)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171538584: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:46:10 CET [2013/08/24 13:46:10 ET]
+Table '778622200 12' 9-max Seat #2 is the button
+Seat 1: el uno 535 (1525 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1470 in chips) 
+Seat 4: wycioreks (1550 in chips) 
+Seat 5: PlayaPlz (1345 in chips) 
+Seat 6: aazaa (1100 in chips) 
+Seat 7: elraca (1945 in chips) 
+Seat 8: luocan530 (1775 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+jataman22: posts small blind 15
+wycioreks: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [6s Kd]
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: raises 30 to 60
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+Uncalled bet (30) returned to el uno 535
+el uno 535 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: el uno 535 collected (75)
+Seat 2: surfstar33 (button) folded before Flop (didn't bet)
+Seat 3: jataman22 (small blind) folded before Flop
+Seat 4: wycioreks (big blind) folded before Flop
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171568133: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:46:53 CET [2013/08/24 13:46:53 ET]
+Table '778622200 12' 9-max Seat #3 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (1520 in chips) 
+Seat 5: PlayaPlz (1345 in chips) 
+Seat 6: aazaa (1100 in chips) 
+Seat 7: elraca (1945 in chips) 
+Seat 8: luocan530 (1775 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+wycioreks: posts small blind 15
+PlayaPlz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [6s Qs]
+aazaa: folds 
+elraca: raises 60 to 90
+luocan530: calls 90
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+*** FLOP *** [Th 4d 5c]
+elraca: bets 90
+luocan530: raises 120 to 210
+elraca: calls 120
+*** TURN *** [Th 4d 5c] [Ks]
+elraca: bets 90
+luocan530: raises 240 to 330
+elraca: calls 240
+*** RIVER *** [Th 4d 5c Ks] [Kh]
+elraca: checks 
+luocan530: checks 
+*** SHOW DOWN ***
+elraca: shows [Ad Js] (a pair of Kings)
+luocan530: shows [9c 9h] (two pair, Kings and Nines)
+luocan530 collected 1305 from pot
+*** SUMMARY ***
+Total pot 1305 | Rake 0 
+Board [Th 4d 5c Ks Kh]
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 (button) folded before Flop (didn't bet)
+Seat 4: wycioreks (small blind) folded before Flop
+Seat 5: PlayaPlz (big blind) folded before Flop
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca showed [Ad Js] and lost with a pair of Kings
+Seat 8: luocan530 showed [9c 9h] and won (1305) with two pair, Kings and Nines
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171620019: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:48:07 CET [2013/08/24 13:48:07 ET]
+Table '778622200 12' 9-max Seat #4 is the button
+Seat 1: el uno 535 (1570 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (1505 in chips) 
+Seat 5: PlayaPlz (1315 in chips) 
+Seat 6: aazaa (1100 in chips) 
+Seat 7: elraca (1315 in chips) 
+Seat 8: luocan530 (2450 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+PlayaPlz: posts small blind 15
+aazaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [3c 2h]
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: raises 30 to 60
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+Uncalled bet (30) returned to el uno 535
+el uno 535 collected 75 from pot
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: el uno 535 collected (75)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks (button) folded before Flop (didn't bet)
+Seat 5: PlayaPlz (small blind) folded before Flop
+Seat 6: aazaa (big blind) folded before Flop
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171645526: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:48:44 CET [2013/08/24 13:48:44 ET]
+Table '778622200 12' 9-max Seat #5 is the button
+Seat 1: el uno 535 (1615 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (1505 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1070 in chips) 
+Seat 7: elraca (1315 in chips) 
+Seat 8: luocan530 (2450 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+aazaa: posts small blind 25
+elraca: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [4h Ts]
+luocan530: folds 
+hennerz0: raises 75 to 125
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Uncalled bet (75) returned to hennerz0
+hennerz0 collected 125 from pot
+hennerz0: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz (button) folded before Flop (didn't bet)
+Seat 6: aazaa (small blind) folded before Flop
+Seat 7: elraca (big blind) folded before Flop
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 collected (125)
+
+
+
+PokerStars Hand #103171677012: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:49:30 CET [2013/08/24 13:49:30 ET]
+Table '778622200 12' 9-max Seat #6 is the button
+Seat 1: el uno 535 (1615 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (1505 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1045 in chips) 
+Seat 7: elraca (1265 in chips) 
+Seat 8: luocan530 (2450 in chips) 
+Seat 9: hennerz0 (1400 in chips) 
+elraca: posts small blind 25
+luocan530: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [4d Ad]
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: raises 52 to 102
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: calls 52
+*** FLOP *** [9h 7s Ks]
+luocan530: checks 
+wycioreks: bets 100
+luocan530: raises 150 to 250
+wycioreks: raises 250 to 500
+luocan530: raises 800 to 1300
+wycioreks: calls 800
+*** TURN *** [9h 7s Ks] [5s]
+luocan530: bets 400
+wycioreks: calls 103 and is all-in
+Uncalled bet (297) returned to luocan530
+*** RIVER *** [9h 7s Ks 5s] [8s]
+*** SHOW DOWN ***
+luocan530: shows [9s Kc] (a flush, King high)
+wycioreks: shows [Js Ts] (a flush, King high - Jack higher)
+wycioreks collected 3035 from pot
+*** SUMMARY ***
+Total pot 3035 | Rake 0 
+Board [9h 7s Ks 5s 8s]
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks showed [Js Ts] and won (3035) with a flush, King high
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa (button) folded before Flop (didn't bet)
+Seat 7: elraca (small blind) folded before Flop
+Seat 8: luocan530 (big blind) showed [9s Kc] and lost with a flush, King high
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171736157: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:50:58 CET [2013/08/24 13:50:58 ET]
+Table '778622200 12' 9-max Seat #7 is the button
+Seat 1: el uno 535 (1615 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (3035 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1045 in chips) 
+Seat 7: elraca (1240 in chips) 
+Seat 8: luocan530 (945 in chips) 
+Seat 9: hennerz0 (1400 in chips) 
+luocan530: posts small blind 25
+hennerz0: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 5h]
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: raises 50 to 100
+hennerz0: folds 
+Uncalled bet (50) returned to luocan530
+luocan530 collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca (button) folded before Flop (didn't bet)
+Seat 8: luocan530 (small blind) collected (100)
+Seat 9: hennerz0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103171756998: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level III (25/50) - 2013/08/24 19:51:29 CET [2013/08/24 13:51:29 ET]
+Table '778622200 12' 9-max Seat #8 is the button
+Seat 1: el uno 535 (1615 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (3035 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1045 in chips) 
+Seat 7: elraca (1240 in chips) 
+Seat 8: luocan530 (995 in chips) 
+Seat 9: hennerz0 (1350 in chips) 
+hennerz0: posts small blind 25
+el uno 535: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 2h]
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: calls 50
+luocan530: calls 50
+hennerz0: folds 
+el uno 535: checks 
+*** FLOP *** [8c 7s 8d]
+el uno 535: checks 
+elraca: bets 50
+luocan530: calls 50
+el uno 535: folds 
+*** TURN *** [8c 7s 8d] [8h]
+elraca: bets 100
+luocan530: raises 150 to 250
+elraca: calls 150
+*** RIVER *** [8c 7s 8d 8h] [Kh]
+elraca: bets 50
+luocan530: folds 
+Uncalled bet (50) returned to elraca
+elraca collected 775 from pot
+*** SUMMARY ***
+Total pot 775 | Rake 0 
+Board [8c 7s 8d 8h Kh]
+Seat 1: el uno 535 (big blind) folded on the Flop
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca collected (775)
+Seat 8: luocan530 (button) folded on the River
+Seat 9: hennerz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103171833471: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 19:53:22 CET [2013/08/24 13:53:22 ET]
+Table '778622200 12' 9-max Seat #9 is the button
+Seat 1: el uno 535 (1565 in chips) 
+Seat 2: surfstar33 (1465 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (3035 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1045 in chips) 
+Seat 7: elraca (1665 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+el uno 535: posts small blind 50
+surfstar33: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6s Ah]
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 945 to 1045 and is all-in
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+Uncalled bet (945) returned to aazaa
+aazaa collected 250 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: el uno 535 (small blind) folded before Flop
+Seat 2: surfstar33 (big blind) folded before Flop
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa collected (250)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103171854286: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 19:53:53 CET [2013/08/24 13:53:53 ET]
+Table '778622200 12' 9-max Seat #1 is the button
+Seat 1: el uno 535 (1515 in chips) 
+Seat 2: surfstar33 (1365 in chips) 
+Seat 3: jataman22 (1455 in chips) 
+Seat 4: wycioreks (3035 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1195 in chips) 
+Seat 7: elraca (1665 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+surfstar33: posts small blind 50
+jataman22: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [8c 9c]
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 1095 to 1195 and is all-in
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33 has timed out
+surfstar33: folds 
+surfstar33 is sitting out
+surfstar33 has returned
+jataman22: folds 
+Uncalled bet (1095) returned to aazaa
+aazaa collected 250 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: el uno 535 (button) folded before Flop (didn't bet)
+Seat 2: surfstar33 (small blind) folded before Flop
+Seat 3: jataman22 (big blind) folded before Flop
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa collected (250)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172095495: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:01:19 CET [2013/08/24 14:01:19 ET]
+Table '778622200 12' 9-max Seat #2 is the button
+Seat 1: el uno 535 (1515 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (1355 in chips) 
+Seat 4: wycioreks (3035 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1345 in chips) 
+Seat 7: elraca (1665 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+jataman22: posts small blind 50
+wycioreks: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [Kh 6d]
+PlayaPlz: folds 
+aazaa: folds 
+elraca: calls 100
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33 has timed out
+surfstar33: folds 
+surfstar33 is sitting out
+jataman22: folds 
+wycioreks: checks 
+*** FLOP *** [7d Kc 8h]
+wycioreks: checks 
+elraca: bets 100
+surfstar33 has returned
+wycioreks: folds 
+Uncalled bet (100) returned to elraca
+elraca collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Board [7d Kc 8h]
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 (button) folded before Flop (didn't bet)
+Seat 3: jataman22 (small blind) folded before Flop
+Seat 4: wycioreks (big blind) folded on the Flop
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca collected (250)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172133604: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:02:15 CET [2013/08/24 14:02:15 ET]
+Table '778622200 12' 9-max Seat #3 is the button
+Seat 1: el uno 535 (1515 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (1305 in chips) 
+Seat 4: wycioreks (2935 in chips) 
+Seat 5: PlayaPlz (1300 in chips) 
+Seat 6: aazaa (1345 in chips) 
+Seat 7: elraca (1815 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1325 in chips) 
+wycioreks: posts small blind 50
+PlayaPlz: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6c 5d]
+aazaa: folds 
+elraca: folds 
+luocan530: folds 
+hennerz0: raises 105 to 205
+el uno 535: calls 205
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: calls 105
+*** FLOP *** [9c 4d 7s]
+PlayaPlz: checks 
+hennerz0: checks 
+el uno 535: bets 300
+PlayaPlz: calls 300
+hennerz0: folds 
+*** TURN *** [9c 4d 7s] [Ts]
+PlayaPlz: checks 
+el uno 535: bets 300
+PlayaPlz: raises 495 to 795 and is all-in
+el uno 535: calls 495
+*** RIVER *** [9c 4d 7s Ts] [5h]
+*** SHOW DOWN ***
+PlayaPlz: shows [4s 4h] (three of a kind, Fours)
+el uno 535: shows [8c Tc] (a pair of Tens)
+PlayaPlz collected 2855 from pot
+*** SUMMARY ***
+Total pot 2855 | Rake 0 
+Board [9c 4d 7s Ts 5h]
+Seat 1: el uno 535 showed [8c Tc] and lost with a pair of Tens
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 (button) folded before Flop (didn't bet)
+Seat 4: wycioreks (small blind) folded before Flop
+Seat 5: PlayaPlz (big blind) showed [4s 4h] and won (2855) with three of a kind, Fours
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded on the Flop
+
+
+
+PokerStars Hand #103172172302: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:03:09 CET [2013/08/24 14:03:09 ET]
+Table '778622200 12' 9-max Seat #4 is the button
+Seat 1: el uno 535 (215 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (1305 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2855 in chips) 
+Seat 6: aazaa (1345 in chips) 
+Seat 7: elraca (1815 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1120 in chips) 
+PlayaPlz: posts small blind 50
+aazaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [6h 4s]
+elraca: folds 
+luocan530: folds 
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: raises 100 to 200
+aazaa: folds 
+Uncalled bet (100) returned to PlayaPlz
+PlayaPlz collected 200 from pot
+PlayaPlz: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks (button) folded before Flop (didn't bet)
+Seat 5: PlayaPlz (small blind) collected (200)
+Seat 6: aazaa (big blind) folded before Flop
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: luocan530 folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172198407: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IV (50/100) - 2013/08/24 20:03:45 CET [2013/08/24 14:03:45 ET]
+Table '778622200 12' 9-max Seat #5 is the button
+Seat 1: el uno 535 (215 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (1305 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (1245 in chips) 
+Seat 7: elraca (1815 in chips) 
+Seat 8: luocan530 (645 in chips) 
+Seat 9: hennerz0 (1120 in chips) 
+aazaa: posts small blind 50
+elraca: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [4s Jc]
+luocan530: raises 100 to 200
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Uncalled bet (100) returned to luocan530
+luocan530 collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz (button) folded before Flop (didn't bet)
+Seat 6: aazaa (small blind) folded before Flop
+Seat 7: elraca (big blind) folded before Flop
+Seat 8: luocan530 collected (250)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172236851: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:04:36 CET [2013/08/24 14:04:36 ET]
+Table '778622200 12' 9-max Seat #6 is the button
+Seat 1: el uno 535 (215 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (1305 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (1195 in chips) 
+Seat 7: elraca (1715 in chips) 
+Seat 8: luocan530 (795 in chips) 
+Seat 9: hennerz0 (1120 in chips) 
+elraca: posts small blind 75
+luocan530: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [8c 9s]
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+jataman22: raises 1155 to 1305 and is all-in
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+luocan530: calls 645 and is all-in
+Uncalled bet (510) returned to jataman22
+*** FLOP *** [Qh 4s 4c]
+*** TURN *** [Qh 4s 4c] [Jc]
+*** RIVER *** [Qh 4s 4c Jc] [5c]
+*** SHOW DOWN ***
+luocan530: shows [Ts As] (a pair of Fours)
+jataman22: shows [3h 3d] (two pair, Fours and Threes)
+jataman22 collected 1665 from pot
+luocan530 finished the tournament in 135th place
+*** SUMMARY ***
+Total pot 1665 | Rake 0 
+Board [Qh 4s 4c Jc 5c]
+Seat 1: el uno 535 folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 showed [3h 3d] and won (1665) with two pair, Fours and Threes
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa (button) folded before Flop (didn't bet)
+Seat 7: elraca (small blind) folded before Flop
+Seat 8: luocan530 (big blind) showed [Ts As] and lost with a pair of Fours
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172276580: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:05:29 CET [2013/08/24 14:05:29 ET]
+Table '778622200 12' 9-max Seat #7 is the button
+Seat 1: el uno 535 (215 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (2175 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (1195 in chips) 
+Seat 7: elraca (1640 in chips) 
+Seat 9: hennerz0 (1120 in chips) 
+hennerz0: posts small blind 75
+el uno 535: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Qs 6h]
+surfstar33: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 1045 to 1195 and is all-in
+elraca: folds 
+hennerz0: folds 
+el uno 535: calls 65 and is all-in
+Uncalled bet (980) returned to aazaa
+*** FLOP *** [4s 2s 5d]
+*** TURN *** [4s 2s 5d] [Js]
+*** RIVER *** [4s 2s 5d Js] [Kc]
+*** SHOW DOWN ***
+el uno 535: shows [Qc 7d] (high card King)
+aazaa: shows [Qs 6h] (high card King - lower kicker)
+el uno 535 collected 505 from pot
+*** SUMMARY ***
+Total pot 505 | Rake 0 
+Board [4s 2s 5d Js Kc]
+Seat 1: el uno 535 (big blind) showed [Qc 7d] and won (505) with high card King
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa showed [Qs 6h] and lost with high card King
+Seat 7: elraca (button) folded before Flop (didn't bet)
+Seat 9: hennerz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172307874: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:06:10 CET [2013/08/24 14:06:10 ET]
+Table '778622200 12' 9-max Seat #9 is the button
+Seat 1: el uno 535 (505 in chips) 
+Seat 2: surfstar33 (1315 in chips) 
+Seat 3: jataman22 (2175 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (980 in chips) 
+Seat 7: elraca (1640 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+el uno 535: posts small blind 75
+surfstar33: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [5h Ts]
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: raises 150 to 300
+hennerz0: folds 
+el uno 535: folds 
+surfstar33: folds 
+Uncalled bet (150) returned to elraca
+elraca collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: el uno 535 (small blind) folded before Flop
+Seat 2: surfstar33 (big blind) folded before Flop
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca collected (375)
+Seat 9: hennerz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172332092: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:06:43 CET [2013/08/24 14:06:43 ET]
+Table '778622200 12' 9-max Seat #1 is the button
+Seat 1: el uno 535 (430 in chips) 
+Seat 2: surfstar33 (1165 in chips) 
+Seat 3: jataman22 (2175 in chips) 
+Seat 4: wycioreks (2885 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (980 in chips) 
+Seat 7: elraca (1865 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+surfstar33: posts small blind 75
+jataman22: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Th Kh]
+wycioreks: raises 157 to 307
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+hennerz0: folds 
+el uno 535: raises 123 to 430 and is all-in
+surfstar33: folds 
+jataman22: folds 
+wycioreks: calls 123
+*** FLOP *** [Ah Ts As]
+*** TURN *** [Ah Ts As] [8h]
+*** RIVER *** [Ah Ts As 8h] [9d]
+*** SHOW DOWN ***
+wycioreks: shows [Jc Qc] (a straight, Eight to Queen)
+el uno 535: shows [9s Ks] (two pair, Aces and Nines)
+wycioreks collected 1085 from pot
+el uno 535 finished the tournament in 128th place
+*** SUMMARY ***
+Total pot 1085 | Rake 0 
+Board [Ah Ts As 8h 9d]
+Seat 1: el uno 535 (button) showed [9s Ks] and lost with two pair, Aces and Nines
+Seat 2: surfstar33 (small blind) folded before Flop
+Seat 3: jataman22 (big blind) folded before Flop
+Seat 4: wycioreks showed [Jc Qc] and won (1085) with a straight, Eight to Queen
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172355715: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:07:14 CET [2013/08/24 14:07:14 ET]
+Table '778622200 12' 9-max Seat #2 is the button
+Seat 2: surfstar33 (1090 in chips) 
+Seat 3: jataman22 (2025 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (980 in chips) 
+Seat 7: elraca (1865 in chips) 
+Seat 8: Snibal (2665 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+jataman22: posts small blind 75
+wycioreks: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [9h 2c]
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+surfstar33 has timed out
+surfstar33: folds 
+surfstar33 is sitting out
+surfstar33 has returned
+jataman22: folds 
+Uncalled bet (75) returned to wycioreks
+wycioreks collected 150 from pot
+wycioreks: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 2: surfstar33 (button) folded before Flop (didn't bet)
+Seat 3: jataman22 (small blind) folded before Flop
+Seat 4: wycioreks (big blind) collected (150)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172391185: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:08:01 CET [2013/08/24 14:08:01 ET]
+Table '778622200 12' 9-max Seat #3 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 2: surfstar33 (1090 in chips) 
+Seat 3: jataman22 (1950 in chips) 
+Seat 4: wycioreks (3615 in chips) 
+Seat 5: PlayaPlz (2955 in chips) 
+Seat 6: aazaa (980 in chips) 
+Seat 7: elraca (1865 in chips) 
+Seat 8: Snibal (2665 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+wycioreks: posts small blind 75
+PlayaPlz: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Jd Tc]
+aazaa: raises 830 to 980 and is all-in
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+surfstar33 has timed out
+surfstar33: folds 
+surfstar33 is sitting out
+surfstar33 has returned
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+Uncalled bet (830) returned to aazaa
+aazaa collected 375 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 (button) folded before Flop (didn't bet)
+Seat 4: wycioreks (small blind) folded before Flop
+Seat 5: PlayaPlz (big blind) folded before Flop
+Seat 6: aazaa collected (375)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172421058: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:08:40 CET [2013/08/24 14:08:40 ET]
+Table '778622200 12' 9-max Seat #4 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 2: surfstar33 (1090 in chips) 
+Seat 3: jataman22 (1950 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2805 in chips) 
+Seat 6: aazaa (1205 in chips) 
+Seat 7: elraca (1865 in chips) 
+Seat 8: Snibal (2665 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+PlayaPlz: posts small blind 75
+aazaa: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [4c Th]
+elraca: calls 150
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+surfstar33: folds 
+jataman22: raises 1800 to 1950 and is all-in
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Uncalled bet (1800) returned to jataman22
+jataman22 collected 525 from pot
+jataman22: doesn't show hand 
+*** SUMMARY ***
+Total pot 525 | Rake 0 
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: surfstar33 folded before Flop (didn't bet)
+Seat 3: jataman22 collected (525)
+Seat 4: wycioreks (button) folded before Flop (didn't bet)
+Seat 5: PlayaPlz (small blind) folded before Flop
+Seat 6: aazaa (big blind) folded before Flop
+Seat 7: elraca folded before Flop
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172448018: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level V (75/150) - 2013/08/24 20:09:16 CET [2013/08/24 14:09:16 ET]
+Table '778622200 12' 9-max Seat #5 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 2: surfstar33 (1090 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (1055 in chips) 
+Seat 7: elraca (1715 in chips) 
+Seat 8: Snibal (2665 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+aazaa: posts small blind 75
+elraca: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [9s 9h]
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+surfstar33: raises 940 to 1090 and is all-in
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: calls 980 and is all-in
+elraca: folds 
+Uncalled bet (35) returned to surfstar33
+*** FLOP *** [Ac Jd Qc]
+*** TURN *** [Ac Jd Qc] [Ks]
+*** RIVER *** [Ac Jd Qc Ks] [Jh]
+*** SHOW DOWN ***
+aazaa: shows [9s 9h] (two pair, Jacks and Nines)
+surfstar33: shows [3h 3s] (two pair, Jacks and Threes)
+aazaa collected 2260 from pot
+*** SUMMARY ***
+Total pot 2260 | Rake 0 
+Board [Ac Jd Qc Ks Jh]
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: surfstar33 showed [3h 3s] and lost with two pair, Jacks and Threes
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz (button) folded before Flop (didn't bet)
+Seat 6: aazaa (small blind) showed [9s 9h] and won (2260) with two pair, Jacks and Nines
+Seat 7: elraca (big blind) folded before Flop
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172482842: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:10:02 CET [2013/08/24 14:10:02 ET]
+Table '778622200 12' 9-max Seat #6 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 2: surfstar33 (35 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2260 in chips) 
+Seat 7: elraca (1565 in chips) 
+Seat 8: Snibal (2665 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+elraca: posts small blind 100
+Snibal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [3d Qd]
+hennerz0: folds 
+MyMilkCans=D: folds 
+surfstar33: calls 35 and is all-in
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: calls 100
+Snibal: checks 
+*** FLOP *** [Ts 3h 7c]
+elraca: bets 200
+Snibal: folds 
+Uncalled bet (200) returned to elraca
+*** TURN *** [Ts 3h 7c] [Ad]
+*** RIVER *** [Ts 3h 7c Ad] [8s]
+*** SHOW DOWN ***
+elraca: shows [Kc 6d] (high card Ace)
+elraca collected 330 from side pot
+surfstar33: shows [7d 5s] (a pair of Sevens)
+surfstar33 collected 105 from main pot
+*** SUMMARY ***
+Total pot 435 Main pot 105. Side pot 330. | Rake 0 
+Board [Ts 3h 7c Ad 8s]
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: surfstar33 showed [7d 5s] and won (105) with a pair of Sevens
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa (button) folded before Flop (didn't bet)
+Seat 7: elraca (small blind) showed [Kc 6d] and won (330) with high card Ace
+Seat 8: Snibal (big blind) folded on the Flop
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172520996: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:10:54 CET [2013/08/24 14:10:54 ET]
+Table '778622200 12' 9-max Seat #7 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 2: surfstar33 (105 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2260 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (2465 in chips) 
+Seat 9: hennerz0 (1045 in chips) 
+Snibal: posts small blind 100
+hennerz0: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 4s]
+MyMilkCans=D: folds 
+surfstar33: calls 105 and is all-in
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: folds 
+Uncalled bet (95) returned to hennerz0
+*** FLOP *** [8d 5d 9h]
+*** TURN *** [8d 5d 9h] [Qh]
+*** RIVER *** [8d 5d 9h Qh] [8c]
+*** SHOW DOWN ***
+hennerz0: shows [7c Qs] (two pair, Queens and Eights)
+surfstar33: shows [Ks 7d] (a pair of Eights)
+hennerz0 collected 310 from pot
+surfstar33 finished the tournament in 112th place
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Board [8d 5d 9h Qh 8c]
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: surfstar33 showed [Ks 7d] and lost with a pair of Eights
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca (button) folded before Flop (didn't bet)
+Seat 8: Snibal (small blind) folded before Flop
+Seat 9: hennerz0 (big blind) showed [7c Qs] and won (310) with two pair, Queens and Eights
+
+
+
+PokerStars Hand #103172537958: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:11:16 CET [2013/08/24 14:11:16 ET]
+Table '778622200 12' 9-max Seat #8 is the button
+Seat 1: MyMilkCans=D (2080 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2260 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (2365 in chips) 
+Seat 9: hennerz0 (1250 in chips) 
+hennerz0: posts small blind 100
+MyMilkCans=D: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 2d]
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 2060 to 2260 and is all-in
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+Uncalled bet (2060) returned to aazaa
+aazaa collected 500 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: MyMilkCans=D (big blind) folded before Flop
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa collected (500)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal (button) folded before Flop (didn't bet)
+Seat 9: hennerz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172555074: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:11:39 CET [2013/08/24 14:11:39 ET]
+Table '778622200 12' 9-max Seat #9 is the button
+Seat 1: MyMilkCans=D (1880 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (3540 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2560 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (2365 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+MyMilkCans=D: posts small blind 100
+jataman22: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [5h Ah]
+wycioreks: raises 210 to 410
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: calls 410
+hennerz0: folds 
+MyMilkCans=D: raises 1470 to 1880 and is all-in
+jataman22: folds 
+wycioreks: raises 1660 to 3540 and is all-in
+Snibal: folds 
+Uncalled bet (1660) returned to wycioreks
+*** FLOP *** [Qs 3s 8c]
+*** TURN *** [Qs 3s 8c] [9h]
+*** RIVER *** [Qs 3s 8c 9h] [7s]
+*** SHOW DOWN ***
+MyMilkCans=D: shows [Kh Kd] (a pair of Kings)
+wycioreks: shows [Td Ts] (a pair of Tens)
+MyMilkCans=D collected 4370 from pot
+*** SUMMARY ***
+Total pot 4370 | Rake 0 
+Board [Qs 3s 8c 9h 7s]
+Seat 1: MyMilkCans=D (small blind) showed [Kh Kd] and won (4370) with a pair of Kings
+Seat 3: jataman22 (big blind) folded before Flop
+Seat 4: wycioreks showed [Td Ts] and lost with a pair of Tens
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop
+Seat 9: hennerz0 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172594339: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:12:33 CET [2013/08/24 14:12:33 ET]
+Table '778622200 12' 9-max Seat #1 is the button
+Seat 1: MyMilkCans=D (4370 in chips) 
+Seat 2: TheLipoFund (1145 in chips) out of hand (moved from another table into small blind)
+Seat 3: jataman22 (2125 in chips) 
+Seat 4: wycioreks (1660 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2560 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (1955 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+jataman22: posts small blind 100
+wycioreks: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 2c]
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+jataman22: raises 1925 to 2125 and is all-in
+wycioreks: folds 
+Uncalled bet (1925) returned to jataman22
+jataman22 collected 400 from pot
+jataman22: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: MyMilkCans=D (button) folded before Flop (didn't bet)
+Seat 3: jataman22 (small blind) collected (400)
+Seat 4: wycioreks (big blind) folded before Flop
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172613373: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:12:59 CET [2013/08/24 14:12:59 ET]
+Table '778622200 12' 9-max Seat #3 is the button
+Seat 1: MyMilkCans=D (4370 in chips) 
+Seat 2: TheLipoFund (1145 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (1460 in chips) 
+Seat 5: PlayaPlz (2730 in chips) 
+Seat 6: aazaa (2560 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (1955 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+wycioreks: posts small blind 100
+PlayaPlz: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [9d 4c]
+aazaa: folds 
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+TheLipoFund: folds 
+jataman22: folds 
+wycioreks: raises 1260 to 1460 and is all-in
+PlayaPlz: folds 
+Uncalled bet (1260) returned to wycioreks
+wycioreks collected 400 from pot
+wycioreks: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: TheLipoFund folded before Flop (didn't bet)
+Seat 3: jataman22 (button) folded before Flop (didn't bet)
+Seat 4: wycioreks (small blind) collected (400)
+Seat 5: PlayaPlz (big blind) folded before Flop
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172649572: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:13:47 CET [2013/08/24 14:13:47 ET]
+Table '778622200 12' 9-max Seat #4 is the button
+Seat 1: MyMilkCans=D (4370 in chips) 
+Seat 2: TheLipoFund (1145 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (1660 in chips) 
+Seat 5: PlayaPlz (2530 in chips) 
+Seat 6: aazaa (2560 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (1955 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+PlayaPlz: posts small blind 100
+aazaa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Qh 4s]
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+TheLipoFund: raises 945 to 1145 and is all-in
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: calls 945
+*** FLOP *** [3c 3h 6c]
+*** TURN *** [3c 3h 6c] [Ah]
+*** RIVER *** [3c 3h 6c Ah] [9d]
+*** SHOW DOWN ***
+aazaa: shows [Qh 4s] (a pair of Threes)
+TheLipoFund: shows [Jd Js] (two pair, Jacks and Threes)
+TheLipoFund collected 2390 from pot
+*** SUMMARY ***
+Total pot 2390 | Rake 0 
+Board [3c 3h 6c Ah 9d]
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: TheLipoFund showed [Jd Js] and won (2390) with two pair, Jacks and Threes
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks (button) folded before Flop (didn't bet)
+Seat 5: PlayaPlz (small blind) folded before Flop
+Seat 6: aazaa (big blind) showed [Qh 4s] and lost with a pair of Threes
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172675760: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VI (100/200) - 2013/08/24 20:14:23 CET [2013/08/24 14:14:23 ET]
+Table '778622200 12' 9-max Seat #5 is the button
+Seat 1: MyMilkCans=D (4370 in chips) 
+Seat 2: TheLipoFund (2390 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (1660 in chips) 
+Seat 5: PlayaPlz (2430 in chips) 
+Seat 6: aazaa (1415 in chips) 
+Seat 7: elraca (1695 in chips) 
+Seat 8: Snibal (1955 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+aazaa: posts small blind 100
+elraca: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [4h 6d]
+Snibal: folds 
+hennerz0: folds 
+MyMilkCans=D: folds 
+TheLipoFund: raises 2190 to 2390 and is all-in
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Uncalled bet (2190) returned to TheLipoFund
+TheLipoFund collected 500 from pot
+TheLipoFund: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: TheLipoFund collected (500)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz (button) folded before Flop (didn't bet)
+Seat 6: aazaa (small blind) folded before Flop
+Seat 7: elraca (big blind) folded before Flop
+Seat 8: Snibal folded before Flop (didn't bet)
+Seat 9: hennerz0 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172704034: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VII (125/250) - 2013/08/24 20:15:01 CET [2013/08/24 14:15:01 ET]
+Table '778622200 12' 9-max Seat #6 is the button
+Seat 1: MyMilkCans=D (4370 in chips) 
+Seat 2: TheLipoFund (2690 in chips) 
+Seat 3: jataman22 (2325 in chips) 
+Seat 4: wycioreks (1660 in chips) 
+Seat 5: PlayaPlz (2430 in chips) 
+Seat 6: aazaa (1315 in chips) 
+Seat 7: elraca (1495 in chips) 
+Seat 8: Snibal (1955 in chips) 
+Seat 9: hennerz0 (1150 in chips) 
+MyMilkCans=D: posts the ante 25
+TheLipoFund: posts the ante 25
+jataman22: posts the ante 25
+wycioreks: posts the ante 25
+PlayaPlz: posts the ante 25
+aazaa: posts the ante 25
+elraca: posts the ante 25
+Snibal: posts the ante 25
+hennerz0: posts the ante 25
+elraca: posts small blind 125
+Snibal: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [2s Qc]
+hennerz0: raises 875 to 1125 and is all-in
+MyMilkCans=D: folds 
+TheLipoFund: folds 
+jataman22: folds 
+wycioreks: raises 510 to 1635 and is all-in
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: folds 
+Uncalled bet (510) returned to wycioreks
+*** FLOP *** [3d 8h Ah]
+*** TURN *** [3d 8h Ah] [3c]
+*** RIVER *** [3d 8h Ah 3c] [Jd]
+*** SHOW DOWN ***
+hennerz0: shows [Qd As] (two pair, Aces and Threes)
+wycioreks: shows [Kd Tc] (a pair of Threes)
+hennerz0 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | Rake 0 
+Board [3d 8h Ah 3c Jd]
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: TheLipoFund folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks showed [Kd Tc] and lost with a pair of Threes
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa (button) folded before Flop (didn't bet)
+Seat 7: elraca (small blind) folded before Flop
+Seat 8: Snibal (big blind) folded before Flop
+Seat 9: hennerz0 showed [Qd As] and won (2850) with two pair, Aces and Threes
+
+
+
+PokerStars Hand #103172729383: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VII (125/250) - 2013/08/24 20:15:34 CET [2013/08/24 14:15:34 ET]
+Table '778622200 12' 9-max Seat #7 is the button
+Seat 1: MyMilkCans=D (4345 in chips) 
+Seat 2: TheLipoFund (2665 in chips) 
+Seat 3: jataman22 (2300 in chips) 
+Seat 4: wycioreks (510 in chips) 
+Seat 5: PlayaPlz (2405 in chips) 
+Seat 6: aazaa (1290 in chips) 
+Seat 7: elraca (1345 in chips) 
+Seat 8: Snibal (1680 in chips) 
+Seat 9: hennerz0 (2850 in chips) 
+MyMilkCans=D: posts the ante 25
+TheLipoFund: posts the ante 25
+jataman22: posts the ante 25
+wycioreks: posts the ante 25
+PlayaPlz: posts the ante 25
+aazaa: posts the ante 25
+elraca: posts the ante 25
+Snibal: posts the ante 25
+hennerz0: posts the ante 25
+Snibal: posts small blind 125
+hennerz0: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [Qh Jd]
+MyMilkCans=D: folds 
+TheLipoFund: folds 
+jataman22: folds 
+wycioreks: folds 
+PlayaPlz: folds 
+aazaa: raises 1015 to 1265 and is all-in
+elraca: folds 
+Snibal: folds 
+hennerz0: folds 
+Uncalled bet (1015) returned to aazaa
+aazaa collected 850 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: MyMilkCans=D folded before Flop (didn't bet)
+Seat 2: TheLipoFund folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks folded before Flop (didn't bet)
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa collected (850)
+Seat 7: elraca (button) folded before Flop (didn't bet)
+Seat 8: Snibal (small blind) folded before Flop
+Seat 9: hennerz0 (big blind) folded before Flop
+
+
+
+PokerStars Hand #103172758105: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VII (125/250) - 2013/08/24 20:16:12 CET [2013/08/24 14:16:12 ET]
+Table '778622200 12' 9-max Seat #8 is the button
+Seat 1: MyMilkCans=D (4320 in chips) 
+Seat 2: TheLipoFund (2640 in chips) 
+Seat 3: jataman22 (2275 in chips) 
+Seat 4: wycioreks (485 in chips) 
+Seat 5: PlayaPlz (2380 in chips) 
+Seat 6: aazaa (1865 in chips) 
+Seat 7: elraca (1320 in chips) 
+Seat 8: Snibal (1530 in chips) 
+Seat 9: hennerz0 (2575 in chips) 
+MyMilkCans=D: posts the ante 25
+TheLipoFund: posts the ante 25
+jataman22: posts the ante 25
+wycioreks: posts the ante 25
+PlayaPlz: posts the ante 25
+aazaa: posts the ante 25
+elraca: posts the ante 25
+Snibal: posts the ante 25
+hennerz0: posts the ante 25
+hennerz0: posts small blind 125
+MyMilkCans=D: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [6s 9s]
+TheLipoFund: folds 
+jataman22: folds 
+wycioreks: raises 210 to 460 and is all-in
+PlayaPlz: folds 
+aazaa: folds 
+elraca: folds 
+Snibal: raises 1045 to 1505 and is all-in
+hennerz0: folds 
+MyMilkCans=D: calls 1255
+*** FLOP *** [As 6d Qh]
+*** TURN *** [As 6d Qh] [3c]
+*** RIVER *** [As 6d Qh 3c] [8d]
+*** SHOW DOWN ***
+MyMilkCans=D: shows [Jc Kc] (high card Ace)
+Snibal: shows [2h Ac] (a pair of Aces)
+Snibal collected 2090 from side pot
+wycioreks: shows [6h Jh] (a pair of Sixes)
+Snibal collected 1730 from main pot
+*** SUMMARY ***
+Total pot 3820 Main pot 1730. Side pot 2090. | Rake 0 
+Board [As 6d Qh 3c 8d]
+Seat 1: MyMilkCans=D (big blind) showed [Jc Kc] and lost with high card Ace
+Seat 2: TheLipoFund folded before Flop (didn't bet)
+Seat 3: jataman22 folded before Flop (didn't bet)
+Seat 4: wycioreks showed [6h Jh] and lost with a pair of Sixes
+Seat 5: PlayaPlz folded before Flop (didn't bet)
+Seat 6: aazaa folded before Flop (didn't bet)
+Seat 7: elraca folded before Flop (didn't bet)
+Seat 8: Snibal (button) showed [2h Ac] and won (3820) with a pair of Aces
+Seat 9: hennerz0 (small blind) folded before Flop
+
+
+
+PokerStars Hand #103172851599: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VII (125/250) - 2013/08/24 20:18:17 CET [2013/08/24 14:18:17 ET]
+Table '778622200 16' 9-max Seat #3 is the button
+Seat 1: Cashborn69 (11331 in chips) 
+Seat 3: ISmellToast (2520 in chips) 
+Seat 4: woyakko (2452 in chips) 
+Seat 5: kikoriver (3883 in chips) 
+Seat 6: Qsypal (2194 in chips) 
+Seat 7: aazaa (1840 in chips) 
+Seat 8: snelle_jel (3070 in chips) 
+Seat 9: Karaflos (2030 in chips) 
+Cashborn69: posts the ante 25
+ISmellToast: posts the ante 25
+woyakko: posts the ante 25
+kikoriver: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+snelle_jel: posts the ante 25
+Karaflos: posts the ante 25
+woyakko: posts small blind 125
+kikoriver: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [5s 7c]
+Qsypal: folds 
+aazaa: raises 1565 to 1815 and is all-in
+snelle_jel: folds 
+Karaflos: folds 
+Cashborn69: folds 
+ISmellToast: folds 
+woyakko: folds 
+kikoriver: folds 
+Uncalled bet (1565) returned to aazaa
+aazaa collected 825 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: Cashborn69 folded before Flop (didn't bet)
+Seat 3: ISmellToast (button) folded before Flop (didn't bet)
+Seat 4: woyakko (small blind) folded before Flop
+Seat 5: kikoriver (big blind) folded before Flop
+Seat 6: Qsypal folded before Flop (didn't bet)
+Seat 7: aazaa collected (825)
+Seat 8: snelle_jel folded before Flop (didn't bet)
+Seat 9: Karaflos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172880262: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VII (125/250) - 2013/08/24 20:18:55 CET [2013/08/24 14:18:55 ET]
+Table '778622200 16' 9-max Seat #4 is the button
+Seat 1: Cashborn69 (11306 in chips) 
+Seat 3: ISmellToast (2495 in chips) 
+Seat 4: woyakko (2302 in chips) 
+Seat 5: kikoriver (3608 in chips) 
+Seat 6: Qsypal (2169 in chips) 
+Seat 7: aazaa (2390 in chips) 
+Seat 8: snelle_jel (3045 in chips) 
+Seat 9: Karaflos (2005 in chips) 
+Cashborn69: posts the ante 25
+ISmellToast: posts the ante 25
+woyakko: posts the ante 25
+kikoriver: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+snelle_jel: posts the ante 25
+Karaflos: posts the ante 25
+kikoriver: posts small blind 125
+Qsypal: posts big blind 250
+*** HOLE CARDS ***
+Dealt to aazaa [5h 9d]
+aazaa: folds 
+snelle_jel: raises 2770 to 3020 and is all-in
+Karaflos: folds 
+Cashborn69: folds 
+ISmellToast: folds 
+woyakko: folds 
+kikoriver: folds 
+Qsypal: folds 
+Uncalled bet (2770) returned to snelle_jel
+snelle_jel collected 825 from pot
+snelle_jel: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Seat 1: Cashborn69 folded before Flop (didn't bet)
+Seat 3: ISmellToast folded before Flop (didn't bet)
+Seat 4: woyakko (button) folded before Flop (didn't bet)
+Seat 5: kikoriver (small blind) folded before Flop
+Seat 6: Qsypal (big blind) folded before Flop
+Seat 7: aazaa folded before Flop (didn't bet)
+Seat 8: snelle_jel collected (825)
+Seat 9: Karaflos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172907827: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VIII (150/300) - 2013/08/24 20:19:33 CET [2013/08/24 14:19:33 ET]
+Table '778622200 16' 9-max Seat #5 is the button
+Seat 1: Cashborn69 (11281 in chips) 
+Seat 3: ISmellToast (2470 in chips) 
+Seat 4: woyakko (2277 in chips) 
+Seat 5: kikoriver (3458 in chips) 
+Seat 6: Qsypal (1894 in chips) 
+Seat 7: aazaa (2365 in chips) 
+Seat 8: snelle_jel (3595 in chips) 
+Seat 9: Karaflos (1980 in chips) 
+Cashborn69: posts the ante 25
+ISmellToast: posts the ante 25
+woyakko: posts the ante 25
+kikoriver: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+snelle_jel: posts the ante 25
+Karaflos: posts the ante 25
+Qsypal: posts small blind 150
+aazaa: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [6s 8d]
+snelle_jel: folds 
+Karaflos: folds 
+Cashborn69: raises 900 to 1200
+ISmellToast: folds 
+woyakko: folds 
+kikoriver: calls 1200
+Qsypal: folds 
+aazaa: folds 
+*** FLOP *** [Ad 7s Jh]
+Cashborn69: bets 10056 and is all-in
+kikoriver: calls 2233 and is all-in
+Uncalled bet (7823) returned to Cashborn69
+*** TURN *** [Ad 7s Jh] [5d]
+*** RIVER *** [Ad 7s Jh 5d] [5c]
+*** SHOW DOWN ***
+Cashborn69: shows [As Tc] (two pair, Aces and Fives)
+kikoriver: shows [Qc Jc] (two pair, Jacks and Fives)
+Cashborn69 collected 7516 from pot
+*** SUMMARY ***
+Total pot 7516 | Rake 0 
+Board [Ad 7s Jh 5d 5c]
+Seat 1: Cashborn69 showed [As Tc] and won (7516) with two pair, Aces and Fives
+Seat 3: ISmellToast folded before Flop (didn't bet)
+Seat 4: woyakko folded before Flop (didn't bet)
+Seat 5: kikoriver (button) showed [Qc Jc] and lost with two pair, Jacks and Fives
+Seat 6: Qsypal (small blind) folded before Flop
+Seat 7: aazaa (big blind) folded before Flop
+Seat 8: snelle_jel folded before Flop (didn't bet)
+Seat 9: Karaflos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103172984149: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VIII (150/300) - 2013/08/24 20:21:16 CET [2013/08/24 14:21:16 ET]
+Table '778622200 17' 9-max Seat #8 is the button
+Seat 1: Dr. House 73 (2300 in chips) 
+Seat 2: jataman22 (1725 in chips) 
+Seat 3: lukro8 (2014 in chips) 
+Seat 4: Nekitka@2323 (4600 in chips) 
+Seat 5: Qsypal (1694 in chips) 
+Seat 6: Machiavel666 (680 in chips) 
+Seat 7: aazaa (2040 in chips) 
+Seat 8: jennyfuchs (14409 in chips) 
+Seat 9: lordjosejose (4935 in chips) 
+Dr. House 73: posts the ante 25
+jataman22: posts the ante 25
+lukro8: posts the ante 25
+Nekitka@2323: posts the ante 25
+Qsypal: posts the ante 25
+Machiavel666: posts the ante 25
+aazaa: posts the ante 25
+jennyfuchs: posts the ante 25
+lordjosejose: posts the ante 25
+lordjosejose: posts small blind 150
+Dr. House 73: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [As 5c]
+jataman22: folds 
+lukro8: folds 
+Nekitka@2323: folds 
+Qsypal: folds 
+Machiavel666: raises 355 to 655 and is all-in
+aazaa: raises 1360 to 2015 and is all-in
+jennyfuchs: folds 
+lordjosejose: folds 
+Dr. House 73: folds 
+Uncalled bet (1360) returned to aazaa
+*** FLOP *** [6d 6c 2s]
+*** TURN *** [6d 6c 2s] [Th]
+*** RIVER *** [6d 6c 2s Th] [Qd]
+*** SHOW DOWN ***
+Machiavel666: shows [Js Kh] (a pair of Sixes)
+aazaa: shows [As 5c] (a pair of Sixes - Ace kicker)
+aazaa collected 1985 from pot
+Machiavel666 finished the tournament in 72nd place
+*** SUMMARY ***
+Total pot 1985 | Rake 0 
+Board [6d 6c 2s Th Qd]
+Seat 1: Dr. House 73 (big blind) folded before Flop
+Seat 2: jataman22 folded before Flop (didn't bet)
+Seat 3: lukro8 folded before Flop (didn't bet)
+Seat 4: Nekitka@2323 folded before Flop (didn't bet)
+Seat 5: Qsypal folded before Flop (didn't bet)
+Seat 6: Machiavel666 showed [Js Kh] and lost with a pair of Sixes
+Seat 7: aazaa showed [As 5c] and won (1985) with a pair of Sixes
+Seat 8: jennyfuchs (button) folded before Flop (didn't bet)
+Seat 9: lordjosejose (small blind) folded before Flop
+
+
+
+PokerStars Hand #103173019886: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VIII (150/300) - 2013/08/24 20:22:04 CET [2013/08/24 14:22:04 ET]
+Table '778622200 17' 9-max Seat #9 is the button
+Seat 1: Dr. House 73 (1975 in chips) 
+Seat 2: jataman22 (1700 in chips) 
+Seat 3: lukro8 (1989 in chips) 
+Seat 4: Nekitka@2323 (4575 in chips) 
+Seat 5: Qsypal (1669 in chips) 
+Seat 7: aazaa (3345 in chips) 
+Seat 8: jennyfuchs (14384 in chips) 
+Seat 9: lordjosejose (4760 in chips) 
+Dr. House 73: posts the ante 25
+jataman22: posts the ante 25
+lukro8: posts the ante 25
+Nekitka@2323: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+jennyfuchs: posts the ante 25
+lordjosejose: posts the ante 25
+Dr. House 73: posts small blind 150
+jataman22: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [9s 6h]
+lukro8: folds 
+Nekitka@2323: folds 
+Qsypal: folds 
+aazaa: folds 
+jennyfuchs: folds 
+lordjosejose: raises 300 to 600
+Dr. House 73: folds 
+jataman22: folds 
+Uncalled bet (300) returned to lordjosejose
+lordjosejose collected 950 from pot
+lordjosejose: doesn't show hand 
+*** SUMMARY ***
+Total pot 950 | Rake 0 
+Seat 1: Dr. House 73 (small blind) folded before Flop
+Seat 2: jataman22 (big blind) folded before Flop
+Seat 3: lukro8 folded before Flop (didn't bet)
+Seat 4: Nekitka@2323 folded before Flop (didn't bet)
+Seat 5: Qsypal folded before Flop (didn't bet)
+Seat 7: aazaa folded before Flop (didn't bet)
+Seat 8: jennyfuchs folded before Flop (didn't bet)
+Seat 9: lordjosejose (button) collected (950)
+
+
+
+PokerStars Hand #103173050857: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VIII (150/300) - 2013/08/24 20:22:47 CET [2013/08/24 14:22:47 ET]
+Table '778622200 17' 9-max Seat #1 is the button
+Seat 1: Dr. House 73 (1800 in chips) 
+Seat 2: jataman22 (1375 in chips) 
+Seat 3: lukro8 (1964 in chips) 
+Seat 4: Nekitka@2323 (4550 in chips) 
+Seat 5: Qsypal (1644 in chips) 
+Seat 7: aazaa (3320 in chips) 
+Seat 8: jennyfuchs (14359 in chips) 
+Seat 9: lordjosejose (5385 in chips) 
+Dr. House 73: posts the ante 25
+jataman22: posts the ante 25
+lukro8: posts the ante 25
+Nekitka@2323: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+jennyfuchs: posts the ante 25
+lordjosejose: posts the ante 25
+jataman22: posts small blind 150
+lukro8: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [3c 8s]
+Nekitka@2323: folds 
+Qsypal: raises 1319 to 1619 and is all-in
+aazaa: folds 
+jennyfuchs: folds 
+lordjosejose: folds 
+Dr. House 73: folds 
+jataman22: folds 
+lukro8: calls 1319
+*** FLOP *** [9s 6d 5s]
+*** TURN *** [9s 6d 5s] [7d]
+*** RIVER *** [9s 6d 5s 7d] [Jc]
+*** SHOW DOWN ***
+lukro8: shows [Ad Kd] (high card Ace)
+Qsypal: shows [5h Ac] (a pair of Fives)
+Qsypal collected 3588 from pot
+*** SUMMARY ***
+Total pot 3588 | Rake 0 
+Board [9s 6d 5s 7d Jc]
+Seat 1: Dr. House 73 (button) folded before Flop (didn't bet)
+Seat 2: jataman22 (small blind) folded before Flop
+Seat 3: lukro8 (big blind) showed [Ad Kd] and lost with high card Ace
+Seat 4: Nekitka@2323 folded before Flop (didn't bet)
+Seat 5: Qsypal showed [5h Ac] and won (3588) with a pair of Fives
+Seat 7: aazaa folded before Flop (didn't bet)
+Seat 8: jennyfuchs folded before Flop (didn't bet)
+Seat 9: lordjosejose folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173084714: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level VIII (150/300) - 2013/08/24 20:23:34 CET [2013/08/24 14:23:34 ET]
+Table '778622200 17' 9-max Seat #2 is the button
+Seat 1: Dr. House 73 (1775 in chips) 
+Seat 2: jataman22 (1200 in chips) 
+Seat 3: lukro8 (320 in chips) 
+Seat 4: Nekitka@2323 (4525 in chips) 
+Seat 5: Qsypal (3588 in chips) 
+Seat 7: aazaa (3295 in chips) 
+Seat 8: jennyfuchs (14334 in chips) 
+Seat 9: lordjosejose (5360 in chips) 
+Dr. House 73: posts the ante 25
+jataman22: posts the ante 25
+lukro8: posts the ante 25
+Nekitka@2323: posts the ante 25
+Qsypal: posts the ante 25
+aazaa: posts the ante 25
+jennyfuchs: posts the ante 25
+lordjosejose: posts the ante 25
+lukro8: posts small blind 150
+Nekitka@2323: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [8s 7d]
+Qsypal: raises 3263 to 3563 and is all-in
+aazaa: folds 
+jennyfuchs: folds 
+lordjosejose: folds 
+Dr. House 73: folds 
+jataman22: folds 
+lukro8: calls 145 and is all-in
+Nekitka@2323: folds 
+Uncalled bet (3263) returned to Qsypal
+*** FLOP *** [Tc 2d Kd]
+*** TURN *** [Tc 2d Kd] [Th]
+*** RIVER *** [Tc 2d Kd Th] [4d]
+*** SHOW DOWN ***
+Qsypal: shows [Ac Qc] (a pair of Tens)
+Qsypal collected 10 from side pot
+lukro8: shows [8d 5h] (a pair of Tens - lower kicker)
+Qsypal collected 1085 from main pot
+*** SUMMARY ***
+Total pot 1095 Main pot 1085. Side pot 10. | Rake 0 
+Board [Tc 2d Kd Th 4d]
+Seat 1: Dr. House 73 folded before Flop (didn't bet)
+Seat 2: jataman22 (button) folded before Flop (didn't bet)
+Seat 3: lukro8 (small blind) showed [8d 5h] and lost with a pair of Tens
+Seat 4: Nekitka@2323 (big blind) folded before Flop
+Seat 5: Qsypal showed [Ac Qc] and won (1095) with a pair of Tens
+Seat 7: aazaa folded before Flop (didn't bet)
+Seat 8: jennyfuchs folded before Flop (didn't bet)
+Seat 9: lordjosejose folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173137284: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IX (200/400) - 2013/08/24 20:24:46 CET [2013/08/24 14:24:46 ET]
+Table '778622200 6' 9-max Seat #9 is the button
+Seat 1: mick_allin (4826 in chips) 
+Seat 2: aazaa (3270 in chips) 
+Seat 3: elraca (620 in chips) 
+Seat 4: mondonewc (7046 in chips) 
+Seat 5: Holmgaard89 (2006 in chips) 
+Seat 6: Stepa552884 (4085 in chips) 
+Seat 7: Antwerp2610 (3625 in chips) 
+Seat 8: 777Asker (2427 in chips) is sitting out
+Seat 9: tpleta (1773 in chips) 
+mick_allin: posts the ante 50
+aazaa: posts the ante 50
+elraca: posts the ante 50
+mondonewc: posts the ante 50
+Holmgaard89: posts the ante 50
+Stepa552884: posts the ante 50
+Antwerp2610: posts the ante 50
+777Asker: posts the ante 50
+tpleta: posts the ante 50
+mick_allin: posts small blind 200
+aazaa: posts big blind 400
+*** HOLE CARDS ***
+Dealt to aazaa [9s Kd]
+777Asker has returned
+elraca: raises 170 to 570 and is all-in
+mondonewc: folds 
+Holmgaard89: folds 
+Stepa552884: folds 
+Antwerp2610: folds 
+777Asker: folds 
+tpleta: folds 
+mick_allin: raises 2630 to 3200
+aazaa: folds 
+Uncalled bet (2630) returned to mick_allin
+*** FLOP *** [Ac 8c Qc]
+*** TURN *** [Ac 8c Qc] [6c]
+*** RIVER *** [Ac 8c Qc 6c] [6h]
+*** SHOW DOWN ***
+mick_allin: shows [Ad Js] (two pair, Aces and Sixes)
+elraca: shows [9h 3h] (a pair of Sixes)
+mick_allin collected 1990 from pot
+elraca finished the tournament in 63rd place
+*** SUMMARY ***
+Total pot 1990 | Rake 0 
+Board [Ac 8c Qc 6c 6h]
+Seat 1: mick_allin (small blind) showed [Ad Js] and won (1990) with two pair, Aces and Sixes
+Seat 2: aazaa (big blind) folded before Flop
+Seat 3: elraca showed [9h 3h] and lost with a pair of Sixes
+Seat 4: mondonewc folded before Flop (didn't bet)
+Seat 5: Holmgaard89 folded before Flop (didn't bet)
+Seat 6: Stepa552884 folded before Flop (didn't bet)
+Seat 7: Antwerp2610 folded before Flop (didn't bet)
+Seat 8: 777Asker folded before Flop (didn't bet)
+Seat 9: tpleta (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173171203: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IX (200/400) - 2013/08/24 20:25:33 CET [2013/08/24 14:25:33 ET]
+Table '778622200 6' 9-max Seat #1 is the button
+Seat 1: mick_allin (6196 in chips) 
+Seat 2: aazaa (2820 in chips) 
+Seat 4: mondonewc (6996 in chips) 
+Seat 5: Holmgaard89 (1956 in chips) 
+Seat 6: Stepa552884 (4035 in chips) 
+Seat 7: Antwerp2610 (3575 in chips) 
+Seat 8: 777Asker (2377 in chips) 
+Seat 9: tpleta (1723 in chips) 
+mick_allin: posts the ante 50
+aazaa: posts the ante 50
+mondonewc: posts the ante 50
+Holmgaard89: posts the ante 50
+Stepa552884: posts the ante 50
+Antwerp2610: posts the ante 50
+777Asker: posts the ante 50
+tpleta: posts the ante 50
+aazaa: posts small blind 200
+mondonewc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to aazaa [Tc Jh]
+Holmgaard89: calls 400
+Stepa552884: folds 
+Antwerp2610: folds 
+777Asker has timed out
+777Asker: folds 
+777Asker is sitting out
+tpleta: folds 
+777Asker has returned
+mick_allin: folds 
+aazaa: calls 200
+mondonewc: checks 
+*** FLOP *** [2d 5h 9c]
+aazaa: bets 2370 and is all-in
+mondonewc: folds 
+Holmgaard89: folds 
+Uncalled bet (2370) returned to aazaa
+aazaa collected 1600 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Board [2d 5h 9c]
+Seat 1: mick_allin (button) folded before Flop (didn't bet)
+Seat 2: aazaa (small blind) collected (1600)
+Seat 4: mondonewc (big blind) folded on the Flop
+Seat 5: Holmgaard89 folded on the Flop
+Seat 6: Stepa552884 folded before Flop (didn't bet)
+Seat 7: Antwerp2610 folded before Flop (didn't bet)
+Seat 8: 777Asker folded before Flop (didn't bet)
+Seat 9: tpleta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173223074: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IX (200/400) - 2013/08/24 20:26:43 CET [2013/08/24 14:26:43 ET]
+Table '778622200 6' 9-max Seat #2 is the button
+Seat 1: mick_allin (6146 in chips) 
+Seat 2: aazaa (3970 in chips) 
+Seat 4: mondonewc (6546 in chips) 
+Seat 5: Holmgaard89 (1506 in chips) 
+Seat 6: Stepa552884 (3985 in chips) 
+Seat 7: Antwerp2610 (3525 in chips) 
+Seat 8: 777Asker (2327 in chips) 
+Seat 9: tpleta (1673 in chips) 
+mick_allin: posts the ante 50
+aazaa: posts the ante 50
+mondonewc: posts the ante 50
+Holmgaard89: posts the ante 50
+Stepa552884: posts the ante 50
+Antwerp2610: posts the ante 50
+777Asker: posts the ante 50
+tpleta: posts the ante 50
+mondonewc: posts small blind 200
+Holmgaard89: posts big blind 400
+*** HOLE CARDS ***
+Dealt to aazaa [7c 2h]
+Stepa552884: folds 
+Antwerp2610: calls 400
+777Asker: raises 1877 to 2277 and is all-in
+tpleta: folds 
+mick_allin: folds 
+aazaa: folds 
+mondonewc: folds 
+Holmgaard89: folds 
+Antwerp2610: folds 
+Uncalled bet (1877) returned to 777Asker
+777Asker collected 1800 from pot
+777Asker: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Seat 1: mick_allin folded before Flop (didn't bet)
+Seat 2: aazaa (button) folded before Flop (didn't bet)
+Seat 4: mondonewc (small blind) folded before Flop
+Seat 5: Holmgaard89 (big blind) folded before Flop
+Seat 6: Stepa552884 folded before Flop (didn't bet)
+Seat 7: Antwerp2610 folded before Flop
+Seat 8: 777Asker collected (1800)
+Seat 9: tpleta folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #103173253778: Tournament #778622200, $32.13+$2.87 USD Hold'em No Limit - Level IX (200/400) - 2013/08/24 20:27:26 CET [2013/08/24 14:27:26 ET]
+Table '778622200 6' 9-max Seat #4 is the button
+Seat 1: mick_allin (6096 in chips) 
+Seat 2: aazaa (3920 in chips) 
+Seat 3: inductive (9937 in chips) 
+Seat 4: mondonewc (6296 in chips) 
+Seat 5: Holmgaard89 (1056 in chips) 
+Seat 6: Stepa552884 (3935 in chips) 
+Seat 7: Antwerp2610 (3075 in chips) 
+Seat 8: 777Asker (3677 in chips) 
+Seat 9: tpleta (1623 in chips) 
+mick_allin: posts the ante 50
+aazaa: posts the ante 50
+inductive: posts the ante 50
+mondonewc: posts the ante 50
+Holmgaard89: posts the ante 50
+Stepa552884: posts the ante 50
+Antwerp2610: posts the ante 50
+777Asker: posts the ante 50
+tpleta: posts the ante 50
+Holmgaard89: posts small blind 200
+Stepa552884: posts big blind 400
+*** HOLE CARDS ***
+Dealt to aazaa [8s Th]
+Antwerp2610: folds 
+777Asker: folds 
+tpleta: folds 
+mick_allin: folds 
+aazaa: raises 3470 to 3870 and is all-in
+inductive: folds 
+mondonewc: raises 2376 to 6246 and is all-in
+Holmgaard89: folds 
+Stepa552884: folds 
+Uncalled bet (2376) returned to mondonewc
+*** FLOP *** [9h 6c 8d]
+*** TURN *** [9h 6c 8d] [Jh]
+*** RIVER *** [9h 6c 8d Jh] [5c]
+*** SHOW DOWN ***
+aazaa: shows [8s Th] (a pair of Eights)
+mondonewc: shows [6d 6s] (three of a kind, Sixes)
+mondonewc collected 8790 from pot
+aazaa finished the tournament in 52nd place
+*** SUMMARY ***
+Total pot 8790 | Rake 0 
+Board [9h 6c 8d Jh 5c]
+Seat 1: mick_allin folded before Flop (didn't bet)
+Seat 2: aazaa showed [8s Th] and lost with a pair of Eights
+Seat 3: inductive folded before Flop (didn't bet)
+Seat 4: mondonewc (button) showed [6d 6s] and won (8790) with three of a kind, Sixes
+Seat 5: Holmgaard89 (small blind) folded before Flop
+Seat 6: Stepa552884 (big blind) folded before Flop
+Seat 7: Antwerp2610 folded before Flop (didn't bet)
+Seat 8: 777Asker folded before Flop (didn't bet)
+Seat 9: tpleta folded before Flop (didn't bet)
+
+
+
