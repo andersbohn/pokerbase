@@ -4,19 +4,21 @@ import model.HandHistory
 
 import play.api.mvc._
 import play.modules.reactivemongo.MongoController
-import reactivemongo.bson.BSONDocument
-import scala.concurrent.Future
 
 
 object HandHistories extends Controller with MongoController {
 
   def get(id: String) = Action {
     Async {
-      val futureHandHistoryOption: Future[Option[BSONDocument]] = HandHistory.find(id)
-      futureHandHistoryOption.map {
-        doc => Ok(doc.map(BSONDocument.pretty).getOrElse(""))
-      }
+      HandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
     }
   }
 
+  def createFromJson = Action(parse.json) {
+    request =>
+      Async {
+        HandHistory.insert(request.body).map(lastError =>
+          Ok("Mongo LastErorr:%s".format(lastError)))
+      }
+  }
 }

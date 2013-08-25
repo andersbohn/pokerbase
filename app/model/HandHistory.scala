@@ -1,9 +1,9 @@
 package model
 
 import java.util.Date
-import reactivemongo.bson.BSONDocument
-import reactivemongo.api.collections.default.BSONCollection
 import scala.concurrent.Future
+import play.api.libs.json.{JsValue, Json, JsObject}
+import play.modules.reactivemongo.json.collection.JSONCollection
 
 
 sealed case class Site(id: String, name: String)
@@ -14,8 +14,14 @@ case class HandHistory(id: String, source: String, timestamp: Date, raw: String)
 
 object HandHistory {
 
-  def find(id: String): Future[Option[BSONDocument]] = {
+  import scala.concurrent.ExecutionContext.Implicits.global
 
+  def insert(value: JsValue) = {
+    collection.insert(value)
+  }
+
+
+  def collection = {
     import reactivemongo.api._
     import scala.concurrent.ExecutionContext.Implicits.global
 
@@ -24,15 +30,16 @@ object HandHistory {
 
     val db: DefaultDB = connection("pokerbase")
 
-    val collection: BSONCollection = db.apply("handhistories")
-
-    val query = BSONDocument("id" -> id)
-
-    val fields = BSONDocument("raw" -> 1)
-
-    val future: Future[Option[BSONDocument]] = collection.find(query, fields).one[BSONDocument]
-    future
+    db.collection[JSONCollection]("handhistories")
   }
 
+  def findById(id: String): Future[Option[JsObject]] = {
+
+//    val fields = Json.obj("raw" -> id)
+    val query: JsObject = Json.obj("id" -> id)
+    val futureOptionJsObject: Future[Option[JsObject]] = collection.find(query).one[JsObject]
+
+    futureOptionJsObject
+  }
 
 }
