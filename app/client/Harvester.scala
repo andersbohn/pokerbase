@@ -2,10 +2,11 @@ package client
 
 import java.nio.file._
 import scala.collection.JavaConversions._
-import java.io.{File, BufferedReader, IOException}
-import java.util.Date
+import java.io.{BufferedReader, IOException}
+import java.util.{UUID, Date}
 import java.nio.charset.Charset
 import dispatch._
+import java.text.SimpleDateFormat
 
 object Harvester extends App {
 
@@ -132,6 +133,8 @@ object Harvester extends App {
     fileStatusMap += file -> Ok(new Date, linesRead)
   }
 
+  val timeFormat = new SimpleDateFormat("YYYY-MM-DD HH:mm:ss")
+
 
   def putHandHistoryBlock(currentBlock: StringBuilder) {
 
@@ -140,16 +143,20 @@ object Harvester extends App {
     println("PUT: " + currentBlock.substring(0, math.min(currentBlock.length, 20)))
     val thost = host("localhost", 9001)
     val request = thost / "handhistory"
+    val putRequest = request.addHeader("Content-Type", "application/json")
+      .setMethod("PUT")
+    val raw = currentBlock.toString.replaceAll("\n", "\\\\n")
+    val uuid = UUID.randomUUID().toString
+    val timestamp = new Date
+    val body = s"""{"id":"$uuid","source":"harvester","timestamp":"${timeFormat.format(timestamp)} +0100","raw":"$raw"}"""
+    val postRequest = putRequest << body
 
-    val putRequest = request
-    putRequest.setBody(currentBlock.toString)
-    putRequest.addHeader("Content-Type", "application/json")
-    putRequest.setMethod("PUT")
-    val response = Http(putRequest OK as.String)
+    val response = Http(postRequest OK as.String)
 
     response.onComplete {
       status =>
         println("PUT? " + status)
+
     }
     // Have som async followup on status ?
   }

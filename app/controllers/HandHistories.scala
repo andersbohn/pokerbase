@@ -4,6 +4,12 @@ import model.HandHistory
 
 import play.api.mvc._
 import play.modules.reactivemongo.MongoController
+import reactivemongo.core.commands.LastError
+import scala.concurrent.Future
+import akka.actor.Props
+import processor.Processor
+import java.util.UUID
+import play.libs.Akka
 
 
 object HandHistories extends Controller with MongoController {
@@ -17,8 +23,32 @@ object HandHistories extends Controller with MongoController {
   def createFromJson = Action(parse.json) {
     request =>
       Async {
-        HandHistory.insert(request.body).map(lastError =>
-          Ok("Mongo LastErorr:%s".format(lastError)))
+        println("calling insert ")
+        val insert: Future[LastError] = HandHistory.insert(request.body)
+        println("insert started " + insert.isCompleted)
+        insert.onComplete {
+          hh =>
+            println("completed insert - akkaing - "+hh)
+
+            val system = Akka.system
+
+            println("akkaing - system "+system)
+
+            val processor = system.actorOf(Props[Processor], name = "processorActor"+UUID.randomUUID().toString)
+
+            println("akkaing - system "+processor)
+
+            processor ! request.body
+
+            println("akkaing - sent hh!")
+
+        }
+        insert.map {
+          lastError =>
+          // TODO kickstart actor processor..
+            println("oking")
+            Ok("Mongo LastError:%s".format(lastError))
+        }
       }
   }
 }

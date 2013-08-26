@@ -5,6 +5,7 @@
 # Home page
 GET        /                       controllers.Application.index
 GET        /handhistory/:id        controllers.HandHistories.get(id)
+
 PUT        /handhistory            controllers.HandHistories.createFromJson
 
 # Map static resources from the /public folder to the /assets URL path
