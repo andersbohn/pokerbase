@@ -10,34 +10,39 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
   override val whiteSpace = """[ \t]+""".r
 
-  val PokerStars: Parser[Any] = "PokerStars"
+  val PokerStars = "PokerStars"
 
 
   val handHeader: Parser[Any] = """Hand\s+#""".r
-  val handNumber: Parser[Any] = handHeader ~> wholeNumber ^^ Hand
+  val handNumber: Parser[Hand] = handHeader ~> wholeNumber ^^ Hand
 
   val CRLF = """\r\n""".r | """\n""".r
 
 
   val word = """\w+""".r
-  val nonQuote = """[^\']+""".r
+  val nonQuote = """[^']+""".r
   val textLiteral = """[a-zA-Z0-9 ,\._-]+""".r
+  val timezoneString = """[a-zA-Z]+""".r
 
 
-  /* FIXME abj allow colon in playername .... hmpfr */
+  // The presence of any sort of character in playernames requires non-greedy match for the remainder of the line. Note also that eg "<plyname> joins table" can occur at any place in the file
+  val playerNameLiteral = """[a-zA-Z0-9;:\(\)=\-!"#\$%&'\*\+,\./<>\?@\[\]\^_´`\{\}~]+""".r
 
-  val toBeEscaped = ";()=-!\"#$%&'()*+,-./;<=>?@[\\]^_`{|}~"
+  def nonGreedyPlayerName[T](tailMatch: Parser[T]) = playerNameLiteral ~ nonGreedy2(playerNameLiteral, tailMatch) ^^ {
+    //    (String, List(Any) ~ Any)
+    case ply1 ~ (lst ~ any) =>
+      (extractPlyName(ply1, lst), any)
+  }
 
-  val playerNameLiteral = """[a-zA-Z0-9;\(\)=\-\!\"#\$%&'\*\+,\./<>\?@\[\]\^_\´\`\{\}~]+""".r
 
-  def nonGreedyPlayerName[T](rep: Parser[T]) = playerNameLiteral ~ nonGreedy2(playerNameLiteral, rep)
+  def extractPlyName[T](ply1: String, lst: List[Any]): String = (if (ply1.startsWith(":")) ply1.tail else ply1) + lst.mkString(" ")
 
   val HoldemNL: Parser[GameType] = """Hold'em No Limit""".r ^^ (x => NlHoldem)
   val amount: Parser[Double] = "$" ~ floatingPointNumber ^^ (_._2.toDouble)
 
   val pAmount: Parser[Double] = "(" ~> amount <~ ")"
 
-  val CashStakes: Parser[Any] = "(" ~> amount ~ "/" ~ amount ~ "USD" <~ ")" ^^ {
+  val CashStakes: Parser[Stakes] = "(" ~> amount ~ "/" ~ amount ~ "USD" <~ ")" ^^ {
     case sb ~ sep ~ bb ~ currency => DualBlind(sb, bb, currency)
   }
 
@@ -45,14 +50,14 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
     case yy ~ sep1 ~ mm ~ sep2 ~ dd => (yy.toInt, mm.toInt, dd.toInt)
   }
 
-  val TimeStamp: Parser[Date] = DatePart ~ wholeNumber ~ ":" ~ wholeNumber ~ ":" ~ wholeNumber ~ ("CET" | "ET") ^^ {
+  val TimeStamp: Parser[Date] = DatePart ~ wholeNumber ~ ":" ~ wholeNumber ~ ":" ~ wholeNumber ~ timezoneString ^^ {
     case (yy, mm, dd) ~ hh ~ sep1 ~ mi ~ sep2 ~ ss ~ tz => Time.timestampFor(yy, mm, dd, hh.toInt, mi.toInt, ss.toInt, tz)
   }
 
   val DoubleTimeStamp: Parser[Date] = TimeStamp ~ opt("[" ~> TimeStamp <~ "]") ^^ (_._1)
 
   val typeHeader = HoldemNL ~ CashStakes ~ "-" ~ DoubleTimeStamp ^^ {
-    case gameType ~ stakes ~ sep ~ timestamp => (gameType, stakes, timestamp)
+    case gameType ~ stakes ~ sep ~ timestamp => GameTypeInfo(gameType, stakes, timestamp)
   }
 
   val quotedString = "'" ~> nonQuote <~ "'"
@@ -62,39 +67,91 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
     case r ~ s => Card(r, s)
   }
 
-  val holecards = "[" ~> card ~ card <~ "]" ^^ {
+  val holecards: Parser[HoldemHolecards] = "[" ~> card ~ card <~ "]" ^^ {
     case card1 ~ card2 => HoldemHolecards(card1, card2)
   }
 
-  val finalHand = textLiteral
+  val finalHand = textLiteral ^^ FinalHand
 
   val pFinalHand = "(" ~> finalHand <~ ")"
   val header = PokerStars ~ handNumber ~ ":" ~ typeHeader ^^ {
-    case ps ~ hand ~ sep ~ th => (ps, hand, th)
+    case ps ~ hand ~ sep ~ th => Header(ps, hand, th)
   }
-  val table = "Table" ~> quotedString ~ "6-max Seat" ~ "#" ~ wholeNumber <~ "is the button"
+  val table = "Table" ~> quotedString ~ "6-max Seat" ~ "#" ~ wholeNumber ~ "is the button" ^^ {
+    case name ~ typeString ~ hash ~ buttonNumber ~ buttonText => Table(name, typeString, buttonNumber.toInt)
+  }
 
-  val seating = "Seat" ~> wholeNumber ~ ":" ~ nonGreedyPlayerName("(" ~ amount ~ "in chips)")
+  val amountInChips: Parser[Double] = "(" ~> amount <~ "in chips)"
 
-  val endStatus = "collected" <~ pAmount | "mucked " ~ opt(holecards) | "folded on the " ~ ("Turn" | "Flop" | "River") | "folded before Flop" ~ opt("(didn't bet)") | "showed" ~ holecards ~ "and" ~ ("won" ~ pAmount | "lost") ~ "with" ~ finalHand
+  val seating = "Seat" ~> wholeNumber ~ nonGreedyPlayerName(amountInChips) ^^ {
+    case ~(number, (name, amountDouble: Double)) =>
+      Seating(number.toInt, name, amountDouble)
+  }
 
-  val seatSummary = "Seat" ~> wholeNumber <~ ":" ~> nonGreedyPlayerName(opt("(button)" | "(small blind)" | "(big blind)") ~ endStatus)
-  val postSmallBlind = "posts big blind " ~> amount
-  val postBigBlind = "posts small blind " ~> amount
-  val preflopAction = nonGreedyPlayerName(":" ~ (postSmallBlind | postBigBlind | "sits out" | "leaves the table"))
-  val raises = "raises " ~> amount <~ "to " ~> amount ~ opt("and is all-in")
+  val esCollected = "collected" ~> pAmount ^^ Collected
+  val esMucked = "mucked " ~> opt(holecards) ^^ Mucked
+  val esFolded = "folded on the " ~> ("Turn" | "Flop" | "River") ^^ Folded
+  val esFoldedPF = "folded before Flop" ~> opt("(didn't bet)") ^^ {
+    x => FoldedPf(x.isDefined)
+  }
+  val esShowed = "showed" ~> holecards ~ "and" ~ ("won" ~ pAmount | "lost") ~ "with" ~ finalHand ^^ {
+    case hc ~ and ~ "lost" ~ wwith ~ fh => ShowedAndLost(hc, fh)
+    case x =>
+      println("showed and won... " + x)
+      ShowedAndWon(x._1._1._1._1, x._2, 0.0)
+    // FIXME why won't this work?
+    //    case hc ~ and ~ "won" ~ amountDouble ~ wwith ~ fh => ShowedAndWon(hc, fh, amountDouble)
+  }
 
-  val shows = "shows " ~ holecards ~ pFinalHand
+  val endStatus = esCollected | esMucked | esFolded | esFoldedPF | esShowed
+
+  val seatSummary = "Seat" ~> wholeNumber ~ nonGreedyPlayerName(opt("(button)" | "(small blind)" | "(big blind)") ~ endStatus)
+  val postSmallBlind = "posts big blind " ~> amount ^^ PostsBigBlind
+  val postBigBlind = "posts small blind " ~> amount ^^ PostsSmallBlind
+  val preflopAction = nonGreedyPlayerName(postSmallBlind | postBigBlind | "sits out" | "leaves the table")
 
   val statusActions = "collected" ~ amount ~ "from pot" | "leaves the table" | "will be allowed to play after the button" | "is disconnected" | "is connected" | "joins the table at seat #" ~ wholeNumber
   val statusAction = nonGreedyPlayerName(statusActions)
   val loggedStatusAction = log(statusAction)("naam")
 
-  val handAction = nonGreedyPlayerName(":" ~ ("is sitting out" | "folds" | "checks" | "mucks hand" | raises | "doesn't show hand" | "calls " ~ amount | "bets" ~ amount | shows))
+  val raises = "raises " ~> amount ~ "to " ~ amount ~ opt("and is all-in") ^^ {
+    case amountRaise ~ to ~ amountTo ~ allInOpt =>
+      val defined = allInOpt.isDefined
+      Raises(amountRaise, amountTo, defined)
+  }
+  val shows = "shows " ~> holecards ~ pFinalHand ^^ {
+    case hc ~ fh => Shows(hc, fh)
+  }
+  val haSittingOut = "is sitting out" ^^ {
+    x => IsSittingOut
+  }
+  val haFolds = "folds" ^^ {
+    x => IsSittingOut
+  }
+  val haChecks = "checks" ^^ {
+    x => IsSittingOut
+  }
+  val haMucksHand = "mucks hand" ^^ {
+    x => MucksHand
+  }
+  val haDoesntShow = "doesn't show hand" ^^ {
+    x => DoesntShow
+  }
+
+  val haCalls = "calls " ~> amount ^^ Calls
+  val haBets = "bets" ~> amount ^^ Bets
+
+  val handAction = nonGreedyPlayerName(haSittingOut | haFolds | haChecks | haMucksHand | raises | haDoesntShow | haCalls | haBets | shows)
 
   val playerAction = handAction | statusAction
 
-  val potInfo = "Uncalled bet (" ~> amount <~ ") returned to " ~> rep(playerNameLiteral) | "Total pot $" ~> decimalNumber ~ "|" ~ "Rake $" ~ decimalNumber
+  val potInfoUncalled = "Uncalled bet (" ~> amount ~ ") returned to " ~ rep(playerNameLiteral) ^^ {
+    case amountDouble ~ sep ~ lst => PotInfoUncalled(amountDouble, lst.mkString(" "))
+  }
+  val potInfoTotal = "Total pot $" ~> decimalNumber ~ "|" ~ "Rake $" ~ decimalNumber ^^ {
+    case amountDouble ~ sep1 ~ sep2 ~ rake => PotInfoTotal(amountDouble.toDouble, rake.toDouble)
+  }
+  val potInfo = potInfoUncalled | potInfoTotal
 
 
   val dealtCard = "Dealt to" ~> nonGreedyPlayerName(holecards)
@@ -114,7 +171,10 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
       flop | turn | river | board |
       "*** SHOW DOWN ***" |
       "*** SUMMARY ***" |
-      seatSummary, CRLF)
+      seatSummary, CRLF) ^^ {
+    case h ~ _ ~ t =>
+      (h, t)
+  }
 }
 
 

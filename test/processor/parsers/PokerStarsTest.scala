@@ -9,7 +9,7 @@ class PokerStarsTest {
 
   @Test
   def testParseHh1 {
-    val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, tstHh1)
+    val all = PokerStars.parseAll(PokerStars.parser, tstHh1)
     all
     println(all)
     println("IN: >" + tstHh1 + "<")
@@ -23,7 +23,7 @@ class PokerStarsTest {
 
   @Test
   def testParseHh2 {
-    val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, tstHh2)
+    val all = PokerStars.parseAll(PokerStars.parser, tstHh2)
     all
     println(all)
 
@@ -32,7 +32,7 @@ class PokerStarsTest {
 
   @Test
   def testParseHh3 {
-    val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, tstHh3)
+    val all = PokerStars.parseAll(PokerStars.parser, tstHh3)
     all
     println(all)
 
@@ -41,36 +41,42 @@ class PokerStarsTest {
 
 
   val tstHh1 =
-    """PokerStars Hand #103173343806:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 20:29:30 CET [2013/08/24 14:29:30 ET]
-      |Table 'Coelestina III' 6-max Seat #2 is the button
-      |Seat 1: seiteen ($50.75 in chips)
-      |Seat 2: Gunnar3000 ($49.47 in chips)
-      |Seat 3: mr.HekTo ($25 in chips)
-      |Seat 4: aazaa ($25 in chips)
-      |Seat 5: ikounelis ($25.06 in chips)
-      |Seat 6: shootsu ($27.44 in chips)
-      |mr.HekTo: posts small blind $0.10
-      |aazaa: posts big blind $0.25
+    """PokerStars Hand #103174700687:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:02:04 CET [2013/08/24 15:02:04 ET]
+      |Table 'Coelestina III' 6-max Seat #5 is the button
+      |Seat 1: condoru 001 ($15.18 in chips)
+      |Seat 2: Gunnar3000 ($52.07 in chips)
+      |Seat 3: mr.HekTo ($28.28 in chips)
+      |Seat 4: aazaa ($23.99 in chips)
+      |Seat 5: ikounelis ($36.18 in chips)
+      |Seat 6: Kitombo ($13 in chips)
+      |Kitombo: posts small blind $0.10
+      |condoru 001: posts big blind $0.25
       |*** HOLE CARDS ***
-      |Dealt to aazaa [9s 3d]
-      |ikounelis: folds
-      |shootsu: folds
-      |seiteen: raises $0.50 to $0.75
+      |Dealt to aazaa [Ah As]
       |Gunnar3000: folds
       |mr.HekTo: folds
-      |aazaa: folds
-      |Uncalled bet ($0.50) returned to seiteen
-      |seiteen collected $0.60 from pot
-      |seiteen: doesn't show hand
+      |aazaa: raises $0.50 to $0.75
+      |ikounelis: calls $0.75
+      |Kitombo: folds
+      |condoru 001: calls $0.50
+      |*** FLOP *** [4s 9h Ts]
+      |condoru 001: checks
+      |aazaa: bets $1.80
+      |ikounelis: folds
+      |condoru 001: folds
+      |Uncalled bet ($1.80) returned to aazaa
+      |aazaa collected $2.24 from pot
+      |aazaa: doesn't show hand
       |*** SUMMARY ***
-      |Total pot $0.60 | Rake $0
-      |Seat 1: seiteen collected ($0.60)
-      |Seat 2: Gunnar3000 (button) folded before Flop (didn't bet)
-      |Seat 3: mr.HekTo (small blind) folded before Flop
-      |Seat 4: aazaa (big blind) folded before Flop
-      |Seat 5: ikounelis folded before Flop (didn't bet)
-      |Seat 6: shootsu folded before Flop (didn't bet)
-      | """.stripMargin.trim
+      |Total pot $2.35 | Rake $0.11
+      |Board [4s 9h Ts]
+      |Seat 1: condoru 001 (big blind) folded on the Flop
+      |Seat 2: Gunnar3000 folded before Flop (didn't bet)
+      |Seat 3: mr.HekTo folded before Flop (didn't bet)
+      |Seat 4: aazaa collected ($2.24)
+      |Seat 5: ikounelis (button) folded on the Flop
+      |Seat 6: Kitombo (small blind) folded before Flop""".stripMargin.trim
+
   val tstHh2 =
     """PokerStars Hand #103171898362:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:54:57 CET [2013/08/24 13:54:57 ET]
       |Table 'Schedios VI' 6-max Seat #2 is the button

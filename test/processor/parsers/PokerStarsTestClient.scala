@@ -23,7 +23,7 @@ class PokerStarsTestClient {
         if (s.charAt(0) == BOM) {
           s = s.substring(1)
         }
-        val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, s)
+        val all = PokerStars.parseAll(PokerStars.parser, s)
         if (all.isEmpty) {
           println("error -> " + all)
           println("   in ->" + s + "<")
