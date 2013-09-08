@@ -16,6 +16,12 @@ class PokerStarsTest {
   }
 
   @Test
+  def testPart{
+    println(PokerStars.parseAll(PokerStars.loggedStatusAction, "condoru 001 arti joins the table at seat #1\n"))
+
+  }
+
+  @Test
   def testParseHh2 {
     val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, tstHh2)
     all
@@ -24,6 +30,14 @@ class PokerStarsTest {
     println("IN: >" + tstHh2 + "<")
   }
 
+  @Test
+  def testParseHh3 {
+    val all: PokerStars.ParseResult[PokerStars.~[Any, Any]] = PokerStars.parseAll(PokerStars.parser, tstHh3)
+    all
+    println(all)
+
+    println("IN: >" + tstHh3 + "<")
+  }
 
 
   val tstHh1 =
@@ -100,4 +114,30 @@ class PokerStarsTest {
       |Seat 4: Bonehead1977 (big blind) showed [9h 9d] and won ($2.86) with two pair, Nines and Threes
       |Seat 5: yogiberra14 folded before Flop (didn't bet)
       |Seat 6: DrInfinity folded before Flop (didn't bet)""".stripMargin.trim
+
+  val tstHh3 = """PokerStars Hand #103174639058:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 21:00:31 CET [2013/08/24 15:00:31 ET]
+                 |Table 'Coelestina III' 6-max Seat #5 is the button
+                 |Seat 2: Gunnar3000 ($52.17 in chips)
+                 |Seat 3: mr.HekTo ($27.85 in chips)
+                 |Seat 4: aazaa ($25.59 in chips)
+                 |Seat 5: ikounelis ($33.89 in chips)
+                 |Gunnar3000: posts small blind $0.10
+                 |mr.HekTo: posts big blind $0.25
+                 |*** HOLE CARDS ***
+                 |Dealt to aazaa [9c Kd]
+                 |aazaa: folds
+                 |ikounelis: raises $0.50 to $0.75
+                 |condoru 001 joins the table at seat #1
+                 |Gunnar3000: folds
+                 |mr.HekTo: folds
+                 |Uncalled bet ($0.50) returned to ikounelis
+                 |Kitombo joins the table at seat #6
+                 |ikounelis collected $0.60 from pot
+                 |ikounelis: doesn't show hand
+                 |*** SUMMARY ***
+                 |Total pot $0.60 | Rake $0
+                 |Seat 2: Gunnar3000 (small blind) folded before Flop
+                 |Seat 3: mr.HekTo (big blind) folded before Flop
+                 |Seat 4: aazaa folded before Flop (didn't bet)
+                 |Seat 5: ikounelis (button) collected ($0.60)""".stripMargin.trim
 }
