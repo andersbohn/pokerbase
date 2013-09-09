@@ -38,6 +38,7 @@ sealed trait EndStatus
 
 case class Collected(amount: Double) extends EndStatus
 
+
 case class Mucked(holecards: Option[HoldemHolecards]) extends EndStatus
 
 case class Folded(street: String) extends EndStatus
@@ -49,6 +50,9 @@ case class ShowedAndLost(hc: HoldemHolecards, finalHand: FinalHand) extends EndS
 case class ShowedAndWon(hc: HoldemHolecards, finalHand: FinalHand, amount: Double) extends EndStatus
 
 
+trait Status {
+
+}
 sealed trait Action {
 
 }
@@ -63,18 +67,37 @@ case object MucksHand extends Action
 
 case object DoesntShow extends Action
 
-
+case class PostsSmallAndBigBlind(amount: Double) extends Action
 case class PostsBigBlind(amount: Double) extends Action
 
 case class PostsSmallBlind(amount: Double) extends Action
+
+case object SitsOut extends Action
+case object Leaves extends Action
 
 case class Raises(amount: Double, to: Double, allIn: Boolean) extends Action
 
 case class Shows(holecards: HoldemHolecards, finalHand: FinalHand) extends Action
 
-case class Calls(amount: Double) extends Action
+case class Calls(amount: Double,allIn: Boolean) extends Action
 
-case class Bets(amount: Double) extends Action
+case class Bets(amount: Double,allIn: Boolean) extends Action
+
+case class PlayerAction(playerName:String, action:Action)
+
+
+case class CollectedAction(amount: Double) extends Action with Status
+
+case class Chats(message: String) extends Action with Status
+
+case class JoinsTable(seatNumber: Int) extends Action with Status
+
+case object WillBeAllowedAfterButton extends Action with Status
+case object IsDisconnected extends Action with Status
+case object TimedOut extends Action with Status
+case object IsConnected extends Action with Status
+
+
 
 
 case class PotInfoUncalled(amount: Double, playerName: String)
@@ -94,3 +117,5 @@ case class HoldemHolecards(card1: Card, card2: Card)
 case class Str(s: String)
 
 case class AnyStr(s: String)
+
+case class SeatSummary(seatNumber:Int, playerName:String, spot:Option[String], endStatus: EndStatus)

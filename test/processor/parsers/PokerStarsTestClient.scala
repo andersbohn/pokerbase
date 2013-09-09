@@ -14,7 +14,8 @@ class PokerStarsTestClient {
   @Test
   @Ignore
   def testLoadAllInFile {
-    val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130824 Coelestina III - $0.10-$0.25 - USD No Limit Hold'em.txt"
+    val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130824 Schedios VI - $0.10-$0.25 - USD No Limit Hold'em.txt"
+//    val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130824 Coelestina III - $0.10-$0.25 - USD No Limit Hold'em.txt"
 
     val delimiter: Scanner = new Scanner(new File(name), "UTF-8").useDelimiter("\\n\\n")
     while (delimiter.hasNext) {

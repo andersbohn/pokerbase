@@ -16,12 +16,6 @@ class PokerStarsTest {
   }
 
   @Test
-  def testPart{
-    println(PokerStars.parseAll(PokerStars.loggedStatusAction, "condoru 001 arti joins the table at seat #1\n"))
-
-  }
-
-  @Test
   def testParseHh2 {
     val all = PokerStars.parseAll(PokerStars.parser, tstHh2)
     all
