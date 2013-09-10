@@ -1,9 +1,9 @@
 package processor.parsers
 
 import org.junit.Test
+import org.scalatest.junit.AssertionsForJUnit
 
-
-class PokerStarsTest {
+class PokerStarsTest extends AssertionsForJUnit {
   val parsers = PokerStars
 
 
@@ -31,6 +31,14 @@ class PokerStarsTest {
     println(all)
 
     println("IN: >" + tstHh3 + "<")
+  }
+
+  @Test
+  def testNameColonOrNot {
+    val all1 = PokerStars.parseAll(PokerStars.seating, "Seat 1: condoru 001 ($15.18 in chips)")
+    assert(all1.get.playerName === "condoru 001")
+    val all2 = PokerStars.parseAll(PokerStars.preflopAction, "condoru 001: posts big blind $0.25")
+    assert(all2.get.playerName === "condoru 001")
   }
 
 

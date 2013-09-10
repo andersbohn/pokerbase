@@ -41,7 +41,12 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   }
 
 
-  def extractPlyName[T](ply1: String, lst: List[Any]): String = (if (ply1.endsWith(":")) ply1.substring(0, ply1.length - 1) else ply1) + lst.mkString(" ")
+  def extractPlyName[T](ply1: String, lst: List[Any]): String = {
+    val name = ply1 + " " + lst.mkString(" ")
+    val dropFirstColon = if (name.startsWith(":")) name.tail else name
+    val dropLastColon = if (dropFirstColon.endsWith(":")) dropFirstColon.init else dropFirstColon
+    dropLastColon.trim
+  }
 
   val HoldemNL: Parser[GameType] = """Hold'em No Limit""".r ^^ (x => NlHoldem)
   val amount: Parser[Double] = "$" ~ floatingPointNumber ^^ (_._2.toDouble)
@@ -127,6 +132,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
     case (name, action) => PlayerAction(name, action)
   }
 
+
   val statusCollected = "collected" ~> amount <~ "from pot" ^^ CollectedAction
 
   val chats = "said, " ~> doubleQuotedString ^^ Chats
@@ -138,6 +144,19 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val joinsTable = "joins the table at seat #" ~> wholeNumber ^^ (x => JoinsTable(x.toInt))
 
   val statusActions: Parser[Action] = statusCollected | leavesTheTable | statusWillBeAllowedAfterBtn | statusIsDisconnected | statusConnected | joinsTable | statusTimedOut | chats
+
+
+  /*
+    val seating = "Seat" ~> wholeNumber ~ nonGreedyPlayerName(amountInChips) ^^ {
+      case ~(number, (name, amountDouble: Double)) =>
+        Seating(number.toInt, name, amountDouble)
+    }
+    val seatSummary = "Seat" ~> wholeNumber ~ nameAndEndStatus ^^ {
+      //    case x=> x._2._
+      case ~(seatNumber, (name, ~(optSpot, tEndStatus))) => SeatSummary(seatNumber.toInt, name, optSpot, tEndStatus)
+
+    }
+  */
 
   val statusAction = nonGreedyPlayerName(statusActions) ^^ {
     case (name, action) => PlayerAction(name, action)
@@ -154,18 +173,13 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val haSittingOut = "is sitting out" ^^ {
     x => IsSittingOut
   }
-  val haFolds = "folds" ^^ {
-    x => IsSittingOut
-  }
-  val haChecks = "checks" ^^ {
-    x => IsSittingOut
-  }
-  val haMucksHand = "mucks hand" ^^ {
-    x => MucksHand
-  }
-  val haDoesntShow = "doesn't show hand" ^^ {
-    x => DoesntShow
-  }
+  val haFolds = "folds" ^^ (_ => Folds)
+
+  val haChecks = "checks" ^^ (_ => IsSittingOut)
+
+  val haMucksHand = "mucks hand" ^^ (_ => MucksHand)
+
+  val haDoesntShow = "doesn't show hand" ^^ (_ => DoesntShow)
 
   val haCalls = "calls " ~> amount ~ opt("and is all-in") ^^ (x => Calls(x._1, x._2.isDefined))
 
@@ -184,14 +198,22 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val potInfo = potInfoUncalled | potInfoTotal
 
 
-  val dealtCard = "Dealt to" ~> nonGreedyPlayerName(holecards)
+  val dealtCard = "Dealt to" ~> nonGreedyPlayerName(holecards) ^^ {
+    case (name, hc) => DealtTo(name, hc)
+  }
 
-  val flop = "*** FLOP *** [" ~ card ~ card ~ card ~ "]"
-  val turn = "*** TURN *** [" ~ card ~ card ~ card ~ "] [" ~ card ~ "]"
-  val river = "*** RIVER *** [" ~ card ~ card ~ card ~ card ~ "] [" ~ card ~ "]"
-  val board = "Board [" ~ card ~ card ~ card ~ opt(card) ~ opt(card) ~ "]"
+  val flop = "*** FLOP *** [" ~> card ~ card ~ card <~ "]" ^^ (cards => Flop(cards._1._1, cards._1._2, cards._2))
+  val turn = "*** TURN *** [" ~ card ~ card ~ card ~ "] [" ~> card <~ "]" ^^ Turn
+  val river = "*** RIVER *** [" ~ card ~ card ~ card ~ card ~ "] [" ~> card <~ "]" ^^ River
+  val board = "Board [" ~> card ~ card ~ card ~ opt(card) ~ opt(card) <~ "]" ^^ {
+    case flop1 ~ flop2 ~ flop3 ~ optTurn ~ optRiver => Board(Flop((flop1, flop2, flop3)), optTurn.map(Turn), optRiver.map(River))
+  }
 
-  val infoSeparators = "*** HOLE CARDS ***" | "*** SHOW DOWN ***" | "*** SUMMARY ***" ^^ (_ => None)
+  val infoHolecards = "*** HOLE CARDS ***" ^^ (_ => Holecards)
+  val infoShowdown = "*** SHOW DOWN ***" ^^ (_ => Showdown)
+  val infoSummary = "*** SUMMARY ***" ^^ (_ => Summary)
+
+  val infoSeparators = infoHolecards | infoShowdown | infoSummary
 
   // TODO would be nice if we could combine more repsep(xx,CRLF), but can't make it work correctly...
 
