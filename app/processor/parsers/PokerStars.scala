@@ -6,6 +6,7 @@ import domain._
 import util.Time
 import java.util.Date
 import processor.parsers
+import model.ParsedHandHistory
 
 object PokerStars extends JavaTokenParsers with NonGreedy {
 
@@ -27,6 +28,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val word = """\w+""".r
   val nonQuote = """[^']+""".r
   val nonDoubleQuote = """[^"]+""".r
+  val nonEndParenthesis = """[^\)]*""".r
   val textLiteral = """[a-zA-Z0-9 ,\._-]+""".r
   val timezoneString = """[a-zA-Z]+""".r
 
@@ -79,12 +81,16 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
     case r ~ s => Card(r, s)
   }
 
+  val holecard: Parser[Card] = "[" ~> card <~ "]"
+
   val holecards: Parser[HoldemHolecards] = "[" ~> card ~ card <~ "]" ^^ {
     case card1 ~ card2 => HoldemHolecards(card1, card2)
   }
 
-  val finalHand = textLiteral ^^ FinalHand
+  //  val finalHand = nonEndParenthesis ^^ FinalHand
+  val finalHand = """[a-zA-Z0-9 ,\+\._-]+""".r ^^ FinalHand
 
+  //  [Ks Ad] (a pair of Sevens - Ace+King kicker)
   val pFinalHand = "(" ~> finalHand <~ ")"
   val header = PokerStars ~ handNumber ~ ":" ~ typeHeader ^^ {
     case ps ~ hand ~ sep ~ th => Header(ps, hand, th)
@@ -141,9 +147,11 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val statusIsDisconnected = "is disconnected" ^^ (_ => IsDisconnected)
   val statusTimedOut = "has timed out" ^^ (_ => TimedOut)
   val statusConnected = "is connected" ^^ (_ => IsConnected)
+  val wasRemoved = "was removed from the table for failing to post" ^^ (_ => WasRemovedFromTheTableForFailingToPost)
+  val timedOutWhileDisconnected = ("has timed out while being disconnected" | "has timed out while disconnected") ^^ (_ => TimedOutWhileDisconnected)
   val joinsTable = "joins the table at seat #" ~> wholeNumber ^^ (x => JoinsTable(x.toInt))
 
-  val statusActions: Parser[Action] = statusCollected | leavesTheTable | statusWillBeAllowedAfterBtn | statusIsDisconnected | statusConnected | joinsTable | statusTimedOut | chats
+  val statusActions: Parser[Action] = statusCollected | leavesTheTable | statusWillBeAllowedAfterBtn | wasRemoved | timedOutWhileDisconnected | statusIsDisconnected | statusConnected | joinsTable | statusTimedOut | chats
 
 
   /*
@@ -173,7 +181,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val haSittingOut = "is sitting out" ^^ {
     x => IsSittingOut
   }
-  val haFolds = "folds" ^^ (_ => Folds)
+  val haFolds = "folds" ~ (opt(holecard) | opt(holecards)) ^^ (_ => Folds) // TODO add flashed cards here
 
   val haChecks = "checks" ^^ (_ => IsSittingOut)
 
@@ -213,13 +221,23 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val infoShowdown = "*** SHOW DOWN ***" ^^ (_ => Showdown)
   val infoSummary = "*** SUMMARY ***" ^^ (_ => Summary)
 
+  val badParts = "*** FIRST TURN ***" ^^ (_ => NoSuccess)
+
   val infoSeparators = infoHolecards | infoShowdown | infoSummary
 
   // TODO would be nice if we could combine more repsep(xx,CRLF), but can't make it work correctly...
 
+  def filterActions(products: List[Product with Serializable]): List[Action] = {
+    products.collect {
+      case action: Action => action
+    }
+  }
+
   val parser = header ~ CRLF ~
     table ~ CRLF ~ repsep(
-    seating | preflopAction |
+    //    badParts |
+    seating |
+      preflopAction |
       infoSeparators |
       dealtCard |
       handAction |
@@ -227,9 +245,15 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
       potInfo |
       flop | turn | river | board |
       seatSummary, CRLF) ^^ {
-    case h ~ _ ~ t ~ t2 =>
-      (h, t, t2)
+    case h ~ lf1 ~ t ~ lf2 ~ actions =>
+
+      val filtered = filterActions(actions)
+
+      ParsedHandHistory(t, h, filtered)
   }
+
+  // TODO some sort of consistency validation would be nice
+
 }
 
 

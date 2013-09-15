@@ -24,5 +24,15 @@ class NamesProcessor {
     println("->" + flat.mkString("\n"))
   }
 
+  @Test
+  @Ignore
+  def generateJsonFormats {
+
+    val classes = List("NlHoldem", "GameType", "Stakes", "DualBlind", "InfoMarker", "Holecards ", "Showdown", "Summary", "Street", "Flop", "Turn", "River", "Board", "GameTypeInfo", "Header", "Table", "Seating", "Card", "EndStatus", "Collected", "Mucked", "Folded", "FoldedPf", "ShowedAndLost", "ShowedAndWon", "Folds", "IsSittingOut", "Checks", "MucksHand", "DoesntShow", "PostsSmallAndBigBlind", "PostsBigBlind", "PostsSmallBlind", "SitsOut", "Leaves", "Raises", "Shows", "Calls", "Bets", "PlayerAction", "DealtTo", "CollectedAction", "Chats", "JoinsTable", "WillBeAllowedAfterButton", "IsDisconnected ", "TimedOut", "IsConnected", "PotInfoUncalled", "PotInfoTotal", "Hand", "FinalHand", "HoldemHolecards", "SeatSummary")
+    println(classes.map(name => s"implicit val jsonFormat$name = Json.format[$name]").mkString("\n"))
+  }
+
+
+
 
 }

@@ -15,12 +15,14 @@ case class DualBlind(sb: Double, bb: Double, currency: String) extends Stakes
 sealed trait InfoMarker
 
 case object Holecards extends InfoMarker
+
 case object Showdown extends InfoMarker
+
 case object Summary extends InfoMarker
 
 sealed trait Street
 
-case class Flop(cards: Tuple3[Card, Card, Card]) extends Street
+case class Flop(cards: (Card, Card, Card)) extends Street
 
 case class Turn(card: Card) extends Street
 
@@ -105,31 +107,82 @@ case class Chats(message: String) extends Action with Status
 
 case class JoinsTable(seatNumber: Int) extends Action with Status
 
+case object WasRemovedFromTheTableForFailingToPost extends Action with Status
+
 case object WillBeAllowedAfterButton extends Action with Status
 
 case object IsDisconnected extends Action with Status
 
 case object TimedOut extends Action with Status
 
+case object TimedOutWhileDisconnected extends Action with Status
+
 case object IsConnected extends Action with Status
 
 
-case class PotInfoUncalled(amount: Double, playerName: String)
+case class PotInfoUncalled(amount: Double, playerName: String) extends Action
 
-case class PotInfoTotal(amount: Double, rake: Double)
+case class PotInfoTotal(amount: Double, rake: Double) extends Action
 
-case class Ident(s: String)
 
-case class Number(n: Int)
+case class Hand(s: String) extends Action
 
-case class Hand(s: String)
+case class FinalHand(s: String) extends Action
 
-case class FinalHand(s: String)
+case class HoldemHolecards(card1: Card, card2: Card) extends Action
 
-case class HoldemHolecards(card1: Card, card2: Card)
 
-case class Str(s: String)
+case class SeatSummary(seatNumber: Int, playerName: String, spot: Option[String], endStatus: EndStatus) extends Action
 
-case class AnyStr(s: String)
+object JsonFormats {
 
-case class SeatSummary(seatNumber: Int, playerName: String, spot: Option[String], endStatus: EndStatus)
+  import play.api.libs.json.Json
+
+  // Generates Writes and Reads for Feed and User thanks to Json Macros
+
+/*
+  implicit val jsonFormatGameTypeInfo = Json.format[GameTypeInfo]
+  implicit val jsonFormatDualBlind = Json.format[DualBlind]
+  implicit val jsonFormatTable = Json.format[Table]
+  implicit val jsonFormatHeader = Json.format[Header]
+  implicit val jsonFormatHand = Json.format[Hand]
+
+
+  implicit val jsonFormatSeating = Json.format[Seating]
+  implicit val jsonFormatCard = Json.format[Card]
+  implicit val jsonFormatEndStatus = Json.format[EndStatus]
+  implicit val jsonFormatCollected = Json.format[Collected]
+  implicit val jsonFormatMucked = Json.format[Mucked]
+  implicit val jsonFormatFolded = Json.format[Folded]
+  implicit val jsonFormatFoldedPf = Json.format[FoldedPf]
+  implicit val jsonFormatShowedAndLost = Json.format[ShowedAndLost]
+  implicit val jsonFormatShowedAndWon = Json.format[ShowedAndWon]
+  implicit val jsonFormatPostsSmallAndBigBlind = Json.format[PostsSmallAndBigBlind]
+  implicit val jsonFormatPostsBigBlind = Json.format[PostsBigBlind]
+  implicit val jsonFormatPostsSmallBlind = Json.format[PostsSmallBlind]
+  implicit val jsonFormatRaises = Json.format[Raises]
+  implicit val jsonFormatShows = Json.format[Shows]
+  implicit val jsonFormatCalls = Json.format[Calls]
+  implicit val jsonFormatBets = Json.format[Bets]
+  implicit val jsonFormatPlayerAction = Json.format[PlayerAction]
+  implicit val jsonFormatDealtTo = Json.format[DealtTo]
+  implicit val jsonFormatCollectedAction = Json.format[CollectedAction]
+  implicit val jsonFormatChats = Json.format[Chats]
+  implicit val jsonFormatJoinsTable = Json.format[JoinsTable]
+  implicit val jsonFormatPotInfoUncalled = Json.format[PotInfoUncalled]
+  implicit val jsonFormatPotInfoTotal = Json.format[PotInfoTotal]
+
+  implicit val jsonFormatFinalHand = Json.format[FinalHand]
+  implicit val jsonFormatHoldemHolecards = Json.format[HoldemHolecards]
+  implicit val jsonFormatSeatSummary = Json.format[SeatSummary]
+
+  implicit val jsonFormatFlop = Json.format[Flop]
+  implicit val jsonFormatTurn = Json.format[Turn]
+  implicit val jsonFormatRiver = Json.format[River]
+  implicit val jsonFormatBoard = Json.format[Board]
+*/
+
+
+}
+
+

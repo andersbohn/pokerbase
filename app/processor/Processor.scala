@@ -1,8 +1,9 @@
 package processor
 
 import akka.actor.{ActorLogging, Actor}
-import model.HandHistory
+import model.{ParsedHandHistory, HandHistory}
 import play.api.libs.json._
+import play.Logger
 
 class Processor extends Actor with ActorLogging {
 
@@ -14,9 +15,6 @@ class Processor extends Actor with ActorLogging {
       val x = json.find(_._1 == "raw").headOption.map {
         raw =>
 
-        // PS: tour header - PokerStars Hand #103171133087: Tournament #775135132, $15.00+$1.50 USD Hold'em No Limit - Level II (15/30) - 2013/08/24 19:36:26 CET [2013/08/24 13:36:26 ET]
-        // PS: cash nl header - PokerStars Hand #103171854335:  Hold'em No Limit ($0.10/$0.25 USD) - 2013/08/24 19:53:52 CET [2013/08/24 13:53:52 ET]
-        // Note: as[String] automatically converts the \n's to real newlines...
           val str = raw._2.as[String].trim
 
           val s = "\n"
@@ -27,7 +25,18 @@ class Processor extends Actor with ActorLogging {
               if (header.contains("Tournament")) {
                 println("yey - tournament")
               } else {
-                println("ok - cashgame")
+                val all = processor.parsers.PokerStars.parseAll(processor.parsers.PokerStars.parser, str)
+
+                // BULP: errors should be marked and followed up on regularly - might even hire a VA in china to be real vigilant about it
+                if (all.isEmpty) {
+                  Logger.warn("error parsing hh " + json.find(_._1 == "raw").mkString)
+                } else {
+
+                  ParsedHandHistory.insert(all.get)
+
+                }
+
+
               }
             }
           } else {

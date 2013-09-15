@@ -34,6 +34,15 @@ class PokerStarsTest extends AssertionsForJUnit {
   }
 
   @Test
+  def testParseHh4 {
+    val all = PokerStars.parseAll(PokerStars.parser, tstHh4)
+    all
+    println(all)
+
+    println("IN: >" + tstHh4 + "<")
+  }
+
+  @Test
   def testNameColonOrNot {
     val all1 = PokerStars.parseAll(PokerStars.seating, "Seat 1: condoru 001 ($15.18 in chips)")
     assert(all1.get.playerName === "condoru 001")
@@ -148,4 +157,46 @@ class PokerStarsTest extends AssertionsForJUnit {
                  |Seat 3: mr.HekTo (big blind) folded before Flop
                  |Seat 4: aazaa folded before Flop (didn't bet)
                  |Seat 5: ikounelis (button) collected ($0.60)""".stripMargin.trim
+
+  val tstHh4 = """
+                 |
+                 |PokerStars Hand #77751355378:  Hold'em No Limit ($0.50/$1.00 USD) - 2012/03/24 23:00:35 CET [2012/03/24 18:00:35 ET]
+                 |Table 'Hunnia III' 6-max Seat #1 is the button
+                 |Seat 1: John59D ($45.94 in chips)
+                 |Seat 2: sharp ($99 in chips)
+                 |Seat 3: scorpchess ($408.71 in chips)
+                 |Seat 4: aazaa ($95.50 in chips)
+                 |Seat 5: pro100lolka ($39.50 in chips)
+                 |Seat 6: erikkke ($264.84 in chips)
+                 |sharp: posts small blind $0.50
+                 |scorpchess: posts big blind $1
+                 |*** HOLE CARDS ***
+                 |Dealt to aazaa [9s 2c]
+                 |aazaa: folds
+                 |pro100lolka: folds
+                 |erikkke: folds
+                 |John59D: folds
+                 |sharp: raises $2 to $3
+                 |scorpchess: raises $5 to $8
+                 |sharp: raises $13.50 to $21.50
+                 |scorpchess: raises $387.21 to $408.71 and is all-in
+                 |sharp: calls $77.50 and is all-in
+                 |Uncalled bet ($309.71) returned to scorpchess
+                 |*** FLOP *** [7c 6h 4c]
+                 |*** TURN *** [7c 6h 4c] [3h]
+                 |*** RIVER *** [7c 6h 4c 3h] [7h]
+                 |*** SHOW DOWN ***
+                 |sharp: shows [Qc As] (a pair of Sevens)
+                 |scorpchess: shows [Ks Ad] (a pair of Sevens - Ace+King kicker)
+                 |scorpchess collected $195.20 from pot
+                 |*** SUMMARY ***
+                 |Total pot $198 | Rake $2.80
+                 |Board [7c 6h 4c 3h 7h]
+                 |Seat 1: John59D (button) folded before Flop (didn't bet)
+                 |Seat 2: sharp (small blind) showed [Qc As] and lost with a pair of Sevens
+                 |Seat 3: scorpchess (big blind) showed [Ks Ad] and won ($195.20) with a pair of Sevens
+                 |Seat 4: aazaa folded before Flop (didn't bet)
+                 |Seat 5: pro100lolka folded before Flop (didn't bet)
+                 |Seat 6: erikkke folded before Flop (didn't bet)
+                 |""".stripMargin.trim
 }

@@ -28,15 +28,15 @@ object HandHistories extends Controller with MongoController {
         println("insert started " + insert.isCompleted)
         insert.onComplete {
           hh =>
-            println("completed insert - akkaing - "+hh)
+            println("completed insert - akkaing - " + hh)
 
             val system = Akka.system
 
-            println("akkaing - system "+system)
+            println("akkaing - system " + system)
 
-            val processor = system.actorOf(Props[Processor], name = "processorActor"+UUID.randomUUID().toString)
+            val processor = system.actorOf(Props[Processor], name = "processorActor" + UUID.randomUUID().toString)
 
-            println("akkaing - system "+processor)
+            println("akkaing - system " + processor)
 
             processor ! request.body
 
