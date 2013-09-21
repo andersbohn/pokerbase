@@ -250,7 +250,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
       val filtered = filterActions(actions)
 
-      ParsedHandHistory(t, h, filtered)
+      ParsedHandHistory(h.hand.handId, "azaa", t, h, filtered)
   }
 
   // TODO some sort of consistency validation would be nice

@@ -68,7 +68,7 @@ case class Board(flop: Flop, turn: Option[Turn], river: Option[River]) extends E
 
 case class GameTypeInfo(gameType: GameType, stakes: DualBlind, timestamp: Date)
 
-case class Header(ps: String, hand: Hand, th: GameTypeInfo)
+case class Header(pokerstarsString: String, hand: Hand, th: GameTypeInfo)
 
 case class Table(name: String, description: String, button: Int)
 
@@ -99,39 +99,11 @@ object Card {
 
 }
 
-sealed trait EndStatus {
-  def name = getClass.getName
-}
-
-object EndStatus {
-
-  implicit val implicitFormat = new Format[EndStatus] {
-
-    // FIXME abj these should parse all endstatues
-
-    def reads(json: JsValue): JsResult[EndStatus] = JsError("")
-
-    def writes(o: EndStatus): JsValue = JsString(o.name)
-  }
-}
-
-case class Collected(amount: Double) extends EndStatus
-
-
-case class Mucked(holecards: Option[HoldemHolecards]) extends EndStatus
-
-case class Folded(street: String) extends EndStatus
-
-case class FoldedPf(didntBet: Boolean) extends EndStatus
-
-case class ShowedAndLost(hc: HoldemHolecards, finalHand: FinalHand) extends EndStatus
-
-case class ShowedAndWon(hc: HoldemHolecards, finalHand: FinalHand, amount: Double) extends EndStatus
-
 
 trait Status {
 
 }
+
 
 sealed trait Action {
 
@@ -140,11 +112,22 @@ sealed trait Action {
 
 object Action {
 
-  implicit val jsonFormatSeatSummary = Json.format[SeatSummary]
-
   implicit val jsonFormatHand = Json.format[Hand]
+
   implicit val jsonFormatFinalHand = Json.format[FinalHand]
   implicit val jsonFormatHoldemHolecards = Json.format[HoldemHolecards]
+
+
+  implicit val jsonFormatCollected = Json.format[Collected]
+  implicit val jsonFormatMucked = Json.format[Mucked]
+  implicit val jsonFormatFolded = Json.format[Folded]
+  implicit val jsonFormatFoldedPf = Json.format[FoldedPf]
+  implicit val jsonFormatShowedAndLost = Json.format[ShowedAndLost]
+  implicit val jsonFormatShowedAndWon = Json.format[ShowedAndWon]
+  implicit val jsonFormatTurn = Json.format[Turn]
+  implicit val jsonFormatRiver = Json.format[River]
+  implicit val jsonFormatBoard = Json.format[Board]
+
   implicit val jsonFormatShows = Json.format[Shows]
 
 
@@ -158,6 +141,7 @@ object Action {
   implicit val jsonFormatJoinsTable = Json.format[JoinsTable]
   implicit val jsonFormatPotInfoUncalled = Json.format[PotInfoUncalled]
   implicit val jsonFormatPotInfoTotal = Json.format[PotInfoTotal]
+
 
   implicit val implicitFormat = new Format[Action] {
 
@@ -183,7 +167,14 @@ object Action {
       case hand@Hand(_) => Json.toJson(hand)
       case finalHand@FinalHand(_) => Json.toJson(finalHand)
       case holdemHolecards@HoldemHolecards(card1: Card, card2: Card) => Json.toJson(holdemHolecards)
-      case seatSummary@SeatSummary(_, _, _, _) => Json.toJson(seatSummary)
+      case collected@Collected(_) => Json.toJson(collected)
+      case mucked@Mucked(_) => Json.toJson(mucked)
+      case folded@Folded(_) => Json.toJson(folded)
+      case foldedPf@FoldedPf(_) => Json.toJson(foldedPf)
+      case showedAndLost@ShowedAndLost(_, _) => Json.toJson(showedAndLost)
+      case showedAndWon@ShowedAndWon(_, _, _) => Json.toJson(showedAndWon)
+      case board@Board(_, _, _) => Json.toJson(board)
+
     }
   }
 
@@ -253,13 +244,40 @@ case class PotInfoUncalled(amount: Double, playerName: String) extends Action
 
 case class PotInfoTotal(amount: Double, rake: Double) extends Action
 
-case class Hand(s: String) extends Action
+case class Hand(handId: String) extends Action
 
-case class FinalHand(s: String) extends Action
+case class FinalHand(handString: String) extends Action
 
 case class HoldemHolecards(card1: Card, card2: Card) extends Action
 
-case class SeatSummary(seatNumber: Int, playerName: String, spot: Option[String], endStatus: EndStatus) extends Action
+
+sealed trait EndStatus extends Action {
+  def name = getClass.getName
+}
+
+object EndStatus {
+  implicit val implicitFormat = new Format[EndStatus] {
+    def reads(json: JsValue): JsResult[EndStatus] = JsError("xx")
+
+    def writes(endStatus: EndStatus): JsValue = Action.implicitFormat.writes(endStatus)
+  }
+
+}
+
+
+case class Collected(amount: Double) extends EndStatus
+
+case class Mucked(holecards: Option[HoldemHolecards]) extends EndStatus
+
+case class Folded(street: String) extends EndStatus
+
+case class FoldedPf(didntBet: Boolean) extends EndStatus
+
+case class ShowedAndLost(hc: HoldemHolecards, finalHand: FinalHand) extends EndStatus
+
+case class ShowedAndWon(hc: HoldemHolecards, finalHand: FinalHand, amount: Double) extends EndStatus
+
+case class SeatSummary(seatNumber: Int, playerName: String, spot: Option[String], endStatus: EndStatus)
 
 
 object JsonFormats {
@@ -280,18 +298,12 @@ object JsonFormats {
 
   implicit val jsonFormatSeating = Json.format[Seating]
 
-
+  implicit val jsonFormatSeatSummary = Json.format[SeatSummary]
 
   implicit val jsonFormatTurn = Json.format[Turn]
   implicit val jsonFormatRiver = Json.format[River]
   implicit val jsonFormatBoard = Json.format[Board]
 
-  implicit val jsonFormatCollected = Json.format[Collected]
-  implicit val jsonFormatMucked = Json.format[Mucked]
-  implicit val jsonFormatFolded = Json.format[Folded]
-  implicit val jsonFormatFoldedPf = Json.format[FoldedPf]
-  implicit val jsonFormatShowedAndLost = Json.format[ShowedAndLost]
-  implicit val jsonFormatShowedAndWon = Json.format[ShowedAndWon]
   implicit val jsonFormatPostsSmallAndBigBlind = Json.format[PostsSmallAndBigBlind]
   implicit val jsonFormatPostsBigBlind = Json.format[PostsBigBlind]
   implicit val jsonFormatPostsSmallBlind = Json.format[PostsSmallBlind]

@@ -6,7 +6,7 @@ import domain._
 import reactivemongo.core.commands.LastError
 
 
-case class ParsedHandHistory(table: Table, header: Header, actions: List[Action])
+case class ParsedHandHistory(handId:String, playerId:String, table: Table, header: Header, actions: List[Action])//, summaries: List[SeatSummary])
 
 object ParsedHandHistory extends MongoCollection {
 

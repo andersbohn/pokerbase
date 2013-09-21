@@ -1,6 +1,6 @@
 package controllers
 
-import model.HandHistory
+import model.{ParsedHandHistory, HandHistory}
 
 import play.api.mvc._
 import play.modules.reactivemongo.MongoController
@@ -14,9 +14,15 @@ import play.libs.Akka
 
 object HandHistories extends Controller with MongoController {
 
-  def get(id: String) = Action {
+  def getHandHistory(id: String) = Action {
     Async {
       HandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
+    }
+  }
+
+  def getParsedHandHistory(id: String) = Action {
+    Async {
+      ParsedHandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
     }
   }
 

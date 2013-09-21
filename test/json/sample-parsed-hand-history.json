@@ -1,0 +1,51 @@
+{
+    "handId" : "77751355378",
+    "playerId" : "azaa",
+    "table" : {
+        "name" : "Hunnia III",
+        "description" : "6-max Seat",
+        "button" : 1
+    },
+    "header" : {
+        "pokerstarsString" : "PokerStars",
+        "hand" : {
+            "handId" : "77751355378"
+        },
+        "th" : {
+            "gameType" : {
+                "name" : "NLHoldem"
+            },
+            "stakes" : {
+                "sb" : 0.5,
+                "bb" : 1.0,
+                "currency" : "USD"
+            },
+            "timestamp" : 1335301235814
+        }
+    },
+    "actions" : [ {
+        "playerName" : "aazaa",
+        "holecards" : {
+            "card1" : "9s",
+            "card2" : "2c"
+        }
+    }, {
+        "amount" : 309.71,
+        "playerName" : "scorpchess"
+    }, {
+        "amount" : 198.0,
+        "rake" : 2.8
+    }, {
+        "flop" : {
+            "card1" : "7c",
+            "card2" : "6h",
+            "card3" : "4c"
+        },
+        "turn" : {
+            "card" : "3h"
+        },
+        "river" : {
+            "card" : "7h"
+        }
+    } ]
+}

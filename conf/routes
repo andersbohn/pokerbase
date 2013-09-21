@@ -4,7 +4,9 @@
 
 # Home page
 GET        /                       controllers.Application.index
-GET        /handhistory/:id        controllers.HandHistories.get(id)
+GET        /test                       controllers.Application.test
+GET        /handhistory/:id/parsed        controllers.HandHistories.getParsedHandHistory(id)
+GET        /handhistory/:id        controllers.HandHistories.getHandHistory(id)
 
 PUT        /handhistory            controllers.HandHistories.createFromJson
 
