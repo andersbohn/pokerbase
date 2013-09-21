@@ -17,9 +17,8 @@ object HandHistory extends MongoCollection {
 
   import scala.concurrent.ExecutionContext.Implicits.global
 
-  def insert(value: JsValue) = {
-    collection.insert(value)
-  }
+  def insert(value: JsValue) = collection.insert(value)
+
 
   def findById(id: String): Future[Option[JsObject]] = {
 

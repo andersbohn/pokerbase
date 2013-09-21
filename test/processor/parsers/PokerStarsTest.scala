@@ -2,6 +2,7 @@ package processor.parsers
 
 import org.junit.Test
 import org.scalatest.junit.AssertionsForJUnit
+import model.ParsedHandHistory
 
 class PokerStarsTest extends AssertionsForJUnit {
   val parsers = PokerStars
@@ -40,6 +41,13 @@ class PokerStarsTest extends AssertionsForJUnit {
     println(all)
 
     println("IN: >" + tstHh4 + "<")
+
+    import play.api.libs.json._
+
+    import domain.JsonFormats._
+    implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
+
+    println("JSON > "+ Json.prettyPrint(Json.toJson(all.get)))
   }
 
   @Test

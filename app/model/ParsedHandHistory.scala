@@ -3,6 +3,7 @@ package model
 import play.api.libs.json.{Json, JsObject, JsValue}
 import scala.concurrent.Future
 import domain._
+import reactivemongo.core.commands.LastError
 
 
 case class ParsedHandHistory(table: Table, header: Header, actions: List[Action])
@@ -17,15 +18,12 @@ object ParsedHandHistory extends MongoCollection {
     collection.insert(value)
   }
 
-  def insert(parsedHandHistory: ParsedHandHistory) = {
+  def insert(parsedHandHistory: ParsedHandHistory): Future[LastError] = {
 
+    import JsonFormats._
+    implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
 
-    //    implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
-    //    import spray.json._
-    //    import DefaultJsonProtocol._
-    //
-    //    collection.insert(parsedHandHistory.toJson)
-    ""
+    collection.insert(Json.toJson(parsedHandHistory))
   }
 
 

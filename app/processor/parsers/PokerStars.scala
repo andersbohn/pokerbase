@@ -55,7 +55,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
   val pAmount: Parser[Double] = "(" ~> amount <~ ")"
 
-  val CashStakes: Parser[Stakes] = "(" ~> amount ~ "/" ~ amount ~ "USD" <~ ")" ^^ {
+  val CashStakes: Parser[DualBlind] = "(" ~> amount ~ "/" ~ amount ~ "USD" <~ ")" ^^ {
     case sb ~ sep ~ bb ~ currency => DualBlind(sb, bb, currency)
   }
 
@@ -128,9 +128,10 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
     case ~(seatNumber, (name, ~(optSpot, tEndStatus))) => SeatSummary(seatNumber.toInt, name, optSpot, tEndStatus)
 
   }
-  val postSmallBlind = "posts big blind " ~> amount ^^ PostsBigBlind
-  val postBigBlind = "posts small blind " ~> amount ^^ PostsSmallBlind
-  val postSmallAndBigBlind = "posts small & big blinds " ~> amount ^^ PostsSmallAndBigBlind
+  // TODO Not sure if "and is all-in" occurs on blinds posts...
+  val postSmallBlind = "posts big blind " ~> amount ~ opt("and is all-in") ^^ (x => PostsBigBlind(x._1, x._2.isDefined))
+  val postBigBlind = "posts small blind " ~> amount ~ opt("and is all-in") ^^ (x => PostsSmallBlind(x._1, x._2.isDefined))
+  val postSmallAndBigBlind = "posts small & big blinds " ~> amount ~ opt("and is all-in") ^^ (x => PostsSmallAndBigBlind(x._1, x._2.isDefined))
   val sitsOut = "sits out" ^^ (_ => SitsOut)
   val leavesTheTable = "leaves the table" ^^ (_ => Leaves)
 

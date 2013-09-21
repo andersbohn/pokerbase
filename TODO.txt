@@ -1,2 +1,4 @@
 
-* Udtræk liste fra PT af alle kendte playernames' karakterindhold1
+ * Autoritativ liste med alle playernames' karakterindhold
+
+ * Upload pr. pålogget spiller
