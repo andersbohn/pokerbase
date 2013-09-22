@@ -12,7 +12,7 @@ object ApplicationBuild extends Build {
     //	"org.mongodb" %% "casbah" % "2.6.2"
     "org.scalatest" % "scalatest_2.10" % "1.9.1" % "test",
     "net.databinder.dispatch" %% "dispatch-core" % "0.11.0",
-    "org.reactivemongo" %% "play2-reactivemongo" % "0.9"
+    "org.reactivemongo" %% "play2-reactivemongo" % "0.9"  exclude("org.scala-stm", "scala-stm_2.10.0")
 
   )
 
