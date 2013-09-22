@@ -3,12 +3,12 @@
 # ~~~~
 
 # Home page
-GET        /                       controllers.Application.index
-GET        /test                       controllers.Application.test
+GET        /                              controllers.Application.index
+GET        /test                          controllers.Application.test
 GET        /handhistory/:id/parsed        controllers.HandHistories.getParsedHandHistory(id)
-GET        /handhistory/:id        controllers.HandHistories.getHandHistory(id)
+GET        /handhistory/:id               controllers.HandHistories.getHandHistory(id)
 
-PUT        /handhistory            controllers.HandHistories.createFromJson
+PUT        /handhistory                   controllers.HandHistories.createFromJson
 
-# Map static resources from the /public folder to the /assets URL path
-GET        /assets/*file           controllers.Assets.at(path="/public", file)
+GET        /assets/*file                  controllers.Assets.at(path="/public", file)
+
