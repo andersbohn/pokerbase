@@ -1,19 +1,22 @@
-<input type="text" ng-model="search" class="search-query" placeholder="Search">
 <table>
     <thead>
     <tr>
-        <th>Project</th>
-        <th>Description</th>
-        <th><a href="#/new"><i class="icon-plus-sign"></i></a></th>
+        <th>Table</th>
+        <th>Hand#</th>
+        <th>Type</th>
+        <th>Stakes</th>
+        <th>Time</th>
     </tr>
     </thead>
     <tbody>
-    <tr ng-repeat="project in projects | filter:search | orderBy:'name'">
-        <td><a href="{{project.site}}" target="_blank">{{project.name}}</a></td>
-        <td>{{project.description}}</td>
-        <td>
-            <a href="#/edit/{{project.$id}}"><i class="glyphicon glyphicon-pencil"></i></a>
-        </td>
+    <tr ng-repeat="hand in handhistories_parsed">
+        <td title="{{hand.table.description}}">{{hand.table.name}}</td>
+        <td> <a href="#/hand/{{hand.handId}}">{{hand.handId}}</a></td>
+        <td>{{hand.header.th.gameType.name}}</td>
+        <td>{{hand.header.th.stakes.sb}}/
+            {{hand.header.th.stakes.bb}}
+            {{hand.header.th.stakes.currency}}</td>
+        <td>{{hand.header.th.timestamp}}</td>
     </tr>
     </tbody>
 </table>

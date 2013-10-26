@@ -10,6 +10,7 @@ import akka.actor.Props
 import processor.Processor
 import java.util.UUID
 import play.libs.Akka
+import play.api.libs.json._
 
 
 object HandHistories extends Controller with MongoController {
@@ -20,8 +21,26 @@ object HandHistories extends Controller with MongoController {
     }
   }
 
+  def listParsedHandHistory = Action {
+    Async {
+      val list: Future[List[JsObject]] = ParsedHandHistory.list
+
+      /*val array: Future[JsArray] = list.map {
+        persons =>
+          Json.toJson(persons)
+      }*/
+
+      list.map {
+        persons =>
+          Ok(Json.toJson(persons))
+      }
+      //      list.map(_.map(Ok(_)).getOrElse(NotFound))
+    }
+  }
+
   def getParsedHandHistory(id: String) = Action {
     Async {
+      println("id: "+id)
       ParsedHandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
     }
   }

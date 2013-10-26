@@ -3,12 +3,24 @@
 # ~~~~
 
 # Home page
-GET        /                              controllers.Application.index
-GET        /test                          controllers.Application.test
-GET        /handhistory/:id/parsed        controllers.HandHistories.getParsedHandHistory(id)
-GET        /handhistory/:id               controllers.HandHistories.getHandHistory(id)
+GET         /                              controllers.Application.index
 
-PUT        /handhistory                   controllers.HandHistories.createFromJson
+GET         /login                         controllers.Application.login
+POST        /login                         controllers.Application.authenticate
+GET         /logout                        controllers.Application.logout
 
-GET        /assets/*file                  controllers.Assets.at(path="/public", file)
+GET         /register                      controllers.Application.register
+POST        /register                      controllers.Application.registerForm
+
+GET         /user/main                     controllers.Main.index
+
+GET         /test                          controllers.Application.test
+GET         /hands                         controllers.Application.hands
+GET         /handhistories/parsed          controllers.HandHistories.listParsedHandHistory
+GET         /handhistory/:id/parsed        controllers.HandHistories.getParsedHandHistory(id)
+GET         /handhistory/:id               controllers.HandHistories.getHandHistory(id)
+
+PUT         /handhistory                   controllers.HandHistories.createFromJson
+
+GET         /assets/*file                  controllers.Assets.at(path="/public", file)
 
