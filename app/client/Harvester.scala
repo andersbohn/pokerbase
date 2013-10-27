@@ -7,6 +7,7 @@ import java.util.{UUID, Date}
 import java.nio.charset.Charset
 import dispatch._
 import java.text.SimpleDateFormat
+import controllers.Helper
 
 object Harvester extends App {
 
@@ -14,8 +15,11 @@ object Harvester extends App {
 
   val charset = Charset.forName("UTF-8")
 
-  val folder = System.getProperty("handHistoryFolder", "/Users/abj/Library/Application Support/PokerStarsDK/HandHistory/aazaa/")
-  //  val folder = System.getProperty("handHistoryFolder", "/Users/abj/Projects/pokerbase/test/harvester/files")
+  // TODO this should be configurable for the client - auth mechanism as well, integrated with other parts (HUD/Mobile/Browser)
+  val username = "abj"
+
+//  val folder = System.getProperty("handHistoryFolder", "/Users/abj/Library/Application Support/PokerStarsDK/HandHistory/aazaa/")
+    val folder = System.getProperty("handHistoryFolder", "/Users/abj/Projects/pokerbase/test/harvester/files")
 
   // TODO design: write an index-file om some sort ? avoid moving files, if possible, just read 'em all and then watch changes
   // TODO design: add replication style upload, eg storing last uploaded line-number (+ maybe a CSC) to upload only the appended handhistories since last upload
@@ -143,12 +147,16 @@ object Harvester extends App {
     println("PUT: " + currentBlock.substring(0, math.min(currentBlock.length, 20)))
     val thost = host("localhost", 9001)
     val request = thost / "handhistory"
-    val putRequest = request.addHeader("Content-Type", "application/json")
-      .setMethod("PUT")
+
+    val basicAuth = Helper.encodeBasicAuth(username, "xxx") // TODO insert real auth stuff
+    val putRequest = request
+        .addHeader("Content-Type", "application/json")
+        .addHeader("Authorization", basicAuth)
+        .setMethod("PUT")
     val raw = currentBlock.toString.replaceAll("\n", "\\\\n")
     val uuid = UUID.randomUUID().toString
     val timestamp = new Date
-    val body = s"""{"id":"$uuid","source":"harvester","timestamp":"${timeFormat.format(timestamp)} +0100","raw":"$raw"}"""
+    val body = s"""{"id":"$uuid","owner":"$username","source":"harvester","timestamp":"${timeFormat.format(timestamp)} +0100","raw":"$raw"}"""
     val postRequest = putRequest << body
 
     val response = Http(postRequest OK as.String)

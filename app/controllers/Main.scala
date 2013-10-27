@@ -8,10 +8,6 @@ import model.NormalUser
 
 object Main extends Controller with AuthElement with AuthConfigImpl {
 
-  /*def index =  StackAction(AuthorityKey -> NormalUser) { implicit request =>
-    Ok(views.html.user.main("Your new application is ready."))
-  }*/
-
   import scala.concurrent.ExecutionContext.Implicits.global
 
   def index = authorizedAction(NormalUser) {

@@ -20,11 +20,17 @@ object User extends MongoCollection {
 
   def insert(user: User) = collection.insert(Json.toJson(user))
 
+  def findUserByNameAsync(name: String): Future[Option[User]] = {
+    findByName(name).map(_.map{json => Json.fromJson(json).get})
+  }
+
   def findUserByName(name: String): Option[User] = {
     val result: Option[JsObject] = Await.result(findByName(name), 120 seconds)
-    result.map {
+    val opt = result.map {
       json => Json.fromJson(json).get
     }
+    Logger.info(s"findUserByName($name)->$opt")
+    opt
   }
 
   def getByName(name: String): User = findUserByName(name).get

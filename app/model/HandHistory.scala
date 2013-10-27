@@ -9,7 +9,9 @@ sealed case class Site(id: String, name: String)
 
 //case object PokerStars extends Site("PS", "PokerStars")
 
-case class HandHistory(id: String, source: String, timestamp: Date, raw: String)
+case class JsonHandHistory(owner: String, json: JsValue)
+
+case class HandHistory(id: String, owner: String, source: String, timestamp: Date, raw: String)
 
 object HandHistory extends MongoCollection {
 
@@ -28,5 +30,7 @@ object HandHistory extends MongoCollection {
 
     futureOptionJsObject
   }
+
+  def listFor(owner: String): Future[List[JsObject]] = collection.find(Json.obj("owner" -> owner)).cursor[JsObject].toList
 
 }

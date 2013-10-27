@@ -1,4 +1,8 @@
 
  * Autoritativ liste med alle playernames' karakterindhold
 
- * Upload pr. pålogget spiller
+ * Authentication and authorization
+     - Full impl of password check, including hashing, salting
+     - Basic AUTH for REST and Ajax requests
+     - Register and unregister forms
+     -

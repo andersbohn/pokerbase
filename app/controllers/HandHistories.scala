@@ -1,6 +1,6 @@
 package controllers
 
-import model.{ParsedHandHistory, HandHistory}
+import model._
 
 import play.api.mvc._
 import play.modules.reactivemongo.MongoController
@@ -11,67 +11,87 @@ import processor.Processor
 import java.util.UUID
 import play.libs.Akka
 import play.api.libs.json._
+import jp.t2v.lab.play2.auth.AuthElement
+import play.Logger
+import Logger.info
+import model.JsonHandHistory
+import play.api.libs.json.JsObject
+
+object HandHistories extends Controller with MongoController with AuthElement with AuthConfigImpl with Security {
 
 
-object HandHistories extends Controller with MongoController {
-
-  def getHandHistory(id: String) = Action {
-    Async {
-      HandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
-    }
+  def getHandHistory(id: String) = authorizedAction(NormalUser) {
+    user => implicit request =>
+      Async {
+        HandHistory.findById(id).map(_.map {
+          json =>
+            val docOwner = (json \ "owner").asOpt[String]
+            docOwner.filter(_ == user.name).map(Ok(_)).getOrElse(Forbidden)
+        }.getOrElse(NotFound))
+      }
   }
 
-  def listParsedHandHistory = Action {
-    Async {
-      val list: Future[List[JsObject]] = ParsedHandHistory.list
-
-      /*val array: Future[JsArray] = list.map {
-        persons =>
-          Json.toJson(persons)
-      }*/
-
-      list.map {
-        persons =>
-          Ok(Json.toJson(persons))
+  def listHandHistories = authorizedAction(NormalUser) {
+    user => implicit request =>
+      Async {
+        val list: Future[List[JsObject]] = HandHistory.listFor(user.name)
+        list.map {
+          hhs =>
+            Logger.info(s"list: $hhs")
+            Ok(Json.toJson(hhs))
+        }
       }
-      //      list.map(_.map(Ok(_)).getOrElse(NotFound))
-    }
+  }
+
+  def listParsedHandHistory = authorizedAction(NormalUser) {
+    user => implicit request =>
+      Async {
+        val list: Future[List[JsObject]] = ParsedHandHistory.list(user.name)
+        list.map {
+          hhs =>
+            Logger.info(s"list: $hhs")
+            Ok(Json.toJson(hhs))
+        }
+      }
   }
 
   def getParsedHandHistory(id: String) = Action {
     Async {
-      println("id: "+id)
+      info(s"id: $id")
       ParsedHandHistory.findById(id).map(_.map(Ok(_)).getOrElse(NotFound))
     }
   }
 
-  def createFromJson = Action(parse.json) {
-    request =>
+  def put = AuthenticatedP(play.api.mvc.BodyParsers.parse.json) {
+    // authorizedAction(parse.json, NormalUser) {
+    implicit request =>
+
+
       Async {
-        println("calling insert ")
+        info(s"calling insert for ${request.user}")
         val insert: Future[LastError] = HandHistory.insert(request.body)
-        println("insert started " + insert.isCompleted)
+        info(s"insert started ${insert.isCompleted}")
         insert.onComplete {
           hh =>
-            println("completed insert - akkaing - " + hh)
+            info(s"completed insert - akkaing $hh")
 
             val system = Akka.system
 
-            println("akkaing - system " + system)
+            info(s"akkaing - system $system")
 
             val processor = system.actorOf(Props[Processor], name = "processorActor" + UUID.randomUUID().toString)
 
-            println("akkaing - system " + processor)
+            info(s"akkaing - system $processor")
 
-            processor ! request.body
+            processor ! JsonHandHistory(request.user.name, request.body)
 
-            println("akkaing - sent hh!")
+            info(s"akkaing - sent hh!")
 
         }
         insert.map {
           lastError =>
           // TODO kickstart actor processor..
-            println("oking")
+            info(s"oking")
             Ok("Mongo LastError:%s".format(lastError))
         }
       }
