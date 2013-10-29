@@ -10,11 +10,14 @@ object Main extends Controller with AuthElement with AuthConfigImpl {
 
   import scala.concurrent.ExecutionContext.Implicits.global
 
+
+  // Ordinary logged in :
   def index = authorizedAction(NormalUser) {
     user => implicit request =>
       val title = s"message main $user"
-      Ok(html.user.menu(title))
+      Ok(html.user.index(title))
   }
+
 
 
   def test = Action {

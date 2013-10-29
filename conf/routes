@@ -7,12 +7,14 @@ GET         /                              controllers.Application.index
 
 GET         /login                         controllers.Application.login
 POST        /login                         controllers.Application.authenticate
+POST        /authenticate                  controllers.Application.authenticateRest
 GET         /logout                        controllers.Application.logout
 
 GET         /register                      controllers.Application.register
 POST        /register                      controllers.Application.registerForm
 
-GET         /user/main                     controllers.Main.index
+GET         /user/index                    controllers.Main.index
+GET         /user/app                      controllers.OptionalAuth.app
 
 GET         /test                          controllers.Application.test
 GET         /hands                         controllers.Application.hands

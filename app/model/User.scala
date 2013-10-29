@@ -7,7 +7,8 @@ import reactivemongo.core.commands.LastError
 import play.Logger
 
 case class User(name: String, salt: String, hash: String) {
-  def permission = NormalUser
+  // TODO abj replace with rolestuff
+  def permission:Permission = NormalUser
 }
 
 object User extends MongoCollection {
@@ -71,8 +72,23 @@ object User extends MongoCollection {
 
 }
 
-sealed trait Permission
+sealed trait Permission {
+  def rolename:String
+}
 
-case object Administrator extends Permission
+case object Administrator extends Permission {
+  def rolename: String = "admin"
+}
 
-case object NormalUser extends Permission
+case object NormalUser extends Permission    {
+  def rolename: String = "user"
+}
+
+case object GuestUser extends Permission    {
+  def rolename: String = "public"
+}
+
+object Guest extends User("guest","x","x") {
+  // TODO abj replace with rolestuff
+  override def permission: Permission = GuestUser
+}

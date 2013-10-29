@@ -145,7 +145,7 @@ object Harvester extends App {
     import scala.concurrent.ExecutionContext.Implicits.global
 
     println("PUT: " + currentBlock.substring(0, math.min(currentBlock.length, 20)))
-    val thost = host("localhost", 9001)
+    val thost = host("localhost", 9000)
     val request = thost / "handhistory"
 
     val basicAuth = Helper.encodeBasicAuth(username, "xxx") // TODO insert real auth stuff

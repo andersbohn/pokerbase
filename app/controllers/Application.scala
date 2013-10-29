@@ -5,6 +5,7 @@ import play.api.data.Forms._
 import views._
 import play.api.mvc._
 import jp.t2v.lab.play2.auth._
+import play.api.libs.json.Json
 
 
 object Application extends Controller with LoginLogout with AuthConfigImpl {
@@ -54,6 +55,17 @@ object Application extends Controller with LoginLogout with AuthConfigImpl {
         formWithErrors => BadRequest(html.login(formWithErrors)),
         user => gotoLoginSucceeded(user.get.name)
       )
+  }
+
+  def authenticateRest = Action {
+    implicit request =>
+      loginForm.bindFromRequest.fold(
+        formWithErrors => BadRequest(html.login(formWithErrors)),
+        user => Ok(Json.parse(s""" {"role": {
+                                |    "bitMask": 2,
+                                |    "title": "user"
+                                |  },
+                                |  "username": "${user.get.name}" }""".stripMargin)))
   }
 
   def test = Action {
