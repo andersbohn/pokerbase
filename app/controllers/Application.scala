@@ -61,11 +61,14 @@ object Application extends Controller with LoginLogout with AuthConfigImpl {
     implicit request =>
       loginForm.bindFromRequest.fold(
         formWithErrors => BadRequest(html.login(formWithErrors)),
-        user => Ok(Json.parse(s""" {"role": {
+        user =>
+          gotoLoginSucceeded(user.get.name,
+            Ok(Json.parse( s""" {"role": {
                                 |    "bitMask": 2,
                                 |    "title": "user"
                                 |  },
-                                |  "username": "${user.get.name}" }""".stripMargin)))
+                                |  "username": "${user.get.name}" }""".stripMargin))
+          ))
   }
 
   def test = Action {

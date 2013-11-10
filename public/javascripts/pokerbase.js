@@ -1,6 +1,6 @@
 'use strict';
 
-/*
+
 function HandListCtrl($scope, $http) {
     $http.get('handhistories/parsed').success(function (data) {
         $scope.handhistories_parsed = data;
@@ -21,6 +21,7 @@ function HandDetailCtrl($scope, $routeParams, $http) {
 }
 
 
+/*
 angular.module('phonecat', []).
     config(['$routeProvider', function ($routeProvider) {
         $routeProvider.
@@ -28,4 +29,5 @@ angular.module('phonecat', []).
             when('/hand/:handId', {templateUrl: '/assets/parts/detail.html', controller: HandDetailCtrl}).
             otherwise({redirectTo: '/hands'});
     }]);
+
 */
