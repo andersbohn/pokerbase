@@ -16,6 +16,7 @@ class PokerStarsTestClient {
   @Ignore
   def testLoadAllInFile {
     val name = "/Users/abj/Projects/pokerbase/test/harvester/files/all-cash-hh.csv"
+//        val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130226 T695727164 No Limit Hold'em $13.89 + $1.11.txt"
 //        val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130824 Schedios VI - $0.10-$0.25 - USD No Limit Hold'em.txt"
     //    val name = "/Users/abj/Projects/pokerbase/test/harvester/files/HH20130824 Coelestina III - $0.10-$0.25 - USD No Limit Hold'em.txt"
 

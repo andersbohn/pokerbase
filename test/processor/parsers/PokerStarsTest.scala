@@ -47,7 +47,41 @@ class PokerStarsTest extends AssertionsForJUnit {
     import domain.JsonFormats._
     implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
 
-    println("JSON > "+ Json.prettyPrint(Json.toJson(all.get)))
+    println("JSON > " + Json.prettyPrint(Json.toJson(all.get)))
+  }
+
+  @Test
+  def testParseTournamentHh1 {
+    val all = PokerStars.parseAll(PokerStars.parser, tstTournamentHh1)
+    all
+    println(all)
+
+    println("IN: >" + tstTournamentHh2 + "<")
+
+    import play.api.libs.json._
+    import domain.JsonFormats._
+
+
+    implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
+
+    println("JSON > " + Json.prettyPrint(Json.toJson(all.get)))
+  }
+
+  @Test
+  def testParseTournamentHh2 {
+    val all = PokerStars.parseAll(PokerStars.parser, tstTournamentHh2)
+    all
+    println(all)
+
+    println("IN: >" + tstTournamentHh2 + "<")
+
+
+    import play.api.libs.json._
+    import domain.JsonFormats._
+
+    implicit val formatParsedHandHistory = Json.format[ParsedHandHistory]
+
+    println("JSON > " + Json.prettyPrint(Json.toJson(all.get)))
   }
 
   @Test
@@ -206,5 +240,105 @@ class PokerStarsTest extends AssertionsForJUnit {
                  |Seat 4: aazaa folded before Flop (didn't bet)
                  |Seat 5: pro100lolka folded before Flop (didn't bet)
                  |Seat 6: erikkke folded before Flop (didn't bet)
-                 |""".stripMargin.trim
+                 | """.stripMargin.trim
+
+  val tstTournamentHh1 = """PokerStars Hand #94697087383: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:49:45 CET [2013/02/26 17:49:45 ET]
+                           |Table '695727164 2' 9-max Seat #1 is the button
+                           |Seat 1: tlj85 (1500 in chips)
+                           |Seat 2: Gajukas (1500 in chips)
+                           |Seat 3: aazaa (1500 in chips)
+                           |Seat 4: joapmm (1500 in chips)
+                           |Seat 5: o'canada1979 (1500 in chips)
+                           |Seat 6: Rodd_Hammers (1500 in chips)
+                           |Seat 7: Dexter8010 (1500 in chips)
+                           |Seat 8: jumaduq (1500 in chips)
+                           |Seat 9: KINGBAZZ1986 (1500 in chips)
+                           |Gajukas: posts small blind 10
+                           |aazaa: posts big blind 20
+                           |*** HOLE CARDS ***
+                           |Dealt to aazaa [7d Js]
+                           |joapmm: folds
+                           |o'canada1979: calls 20
+                           |Rodd_Hammers: folds
+                           |Dexter8010: folds
+                           |jumaduq: raises 100 to 120
+                           |KINGBAZZ1986: folds
+                           |tlj85: folds
+                           |Gajukas: folds
+                           |aazaa: folds
+                           |o'canada1979: calls 100
+                           |*** FLOP *** [Qh 7s As]
+                           |o'canada1979: bets 110
+                           |jumaduq: raises 110 to 220
+                           |o'canada1979: calls 110
+                           |*** TURN *** [Qh 7s As] [4d]
+                           |o'canada1979: checks
+                           |jumaduq: checks
+                           |*** RIVER *** [Qh 7s As 4d] [2d]
+                           |o'canada1979: bets 330
+                           |jumaduq: calls 330
+                           |*** SHOW DOWN ***
+                           |o'canada1979: shows [2s 5s] (a pair of Deuces)
+                           |jumaduq: shows [Ad Ks] (a pair of Aces)
+                           |jumaduq collected 1370 from pot
+                           |*** SUMMARY ***
+                           |Total pot 1370 | Rake 0
+                           |Board [Qh 7s As 4d 2d]
+                           |Seat 1: tlj85 (button) folded before Flop (didn't bet)
+                           |Seat 2: Gajukas (small blind) folded before Flop
+                           |Seat 3: aazaa (big blind) folded before Flop
+                           |Seat 4: joapmm folded before Flop (didn't bet)
+                           |Seat 5: o'canada1979 showed [2s 5s] and lost with a pair of Deuces
+                           |Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+                           |Seat 7: Dexter8010 folded before Flop (didn't bet)
+                           |Seat 8: jumaduq showed [Ad Ks] and won (1370) with a pair of Aces
+                           |Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+                           | """.stripMargin.trim
+
+
+  val tstTournamentHh2 = """PokerStars Hand #94697468575: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:57:38 CET [2013/02/26 17:57:38 ET]
+                           |Table '695727164 2' 9-max Seat #9 is the button
+                           |Seat 1: tlj85 (1635 in chips)
+                           |Seat 2: Gajukas (1785 in chips)
+                           |Seat 3: aazaa (1470 in chips)
+                           |Seat 4: joapmm (1470 in chips)
+                           |Seat 5: o'canada1979 (290 in chips)
+                           |Seat 6: Rodd_Hammers (1470 in chips)
+                           |Seat 7: Dexter8010 (1330 in chips)
+                           |Seat 8: jumaduq (2055 in chips)
+                           |Seat 9: KINGBAZZ1986 (1995 in chips)
+                           |tlj85: posts small blind 15
+                           |Gajukas: posts big blind 30
+                           |*** HOLE CARDS ***
+                           |Dealt to aazaa [Ad 8c]
+                           |aazaa: raises 60 to 90
+                           |joapmm: folds
+                           |o'canada1979: raises 200 to 290 and is all-in
+                           |Rodd_Hammers: folds
+                           |Dexter8010: folds
+                           |jumaduq: folds
+                           |KINGBAZZ1986: folds
+                           |tlj85: folds
+                           |Gajukas: folds
+                           |aazaa: calls 200
+                           |*** FLOP *** [Tc 8h 5d]
+                           |*** TURN *** [Tc 8h 5d] [5s]
+                           |*** RIVER *** [Tc 8h 5d 5s] [4c]
+                           |*** SHOW DOWN ***
+                           |aazaa: shows [Ad 8c] (two pair, Eights and Fives)
+                           |o'canada1979: shows [Qd Ks] (a pair of Fives)
+                           |aazaa collected 625 from pot
+                           |o'canada1979 finished the tournament in 18th place
+                           |*** SUMMARY ***
+                           |Total pot 625 | Rake 0
+                           |Board [Tc 8h 5d 5s 4c]
+                           |Seat 1: tlj85 (small blind) folded before Flop
+                           |Seat 2: Gajukas (big blind) folded before Flop
+                           |Seat 3: aazaa showed [Ad 8c] and won (625) with two pair, Eights and Fives
+                           |Seat 4: joapmm folded before Flop (didn't bet)
+                           |Seat 5: o'canada1979 showed [Qd Ks] and lost with a pair of Fives
+                           |Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+                           |Seat 7: Dexter8010 folded before Flop (didn't bet)
+                           |Seat 8: jumaduq folded before Flop (didn't bet)
+                           |Seat 9: KINGBAZZ1986 (button) folded before Flop (didn't bet)""".stripMargin.trim
 }

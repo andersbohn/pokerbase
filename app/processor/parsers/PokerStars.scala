@@ -11,8 +11,10 @@ import model.ParsedHandHistory
 object PokerStars extends JavaTokenParsers with NonGreedy {
 
 
-  // CASH Games only, testet only on 6-max
-  // Dealt once only!
+  // Limitations:
+  //  - CASH Games only
+  //  - testet only on 6-max
+  //  - Dealt once only!
 
   override val whiteSpace = """[ \t]+""".r
 
@@ -20,6 +22,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
 
   val handHeader: Parser[Any] = """Hand\s+#""".r
+  val tournamentHeader: Parser[Any] = """Tournament\s+#""".r
   val handNumber: Parser[Hand] = handHeader ~> wholeNumber ^^ Hand
 
   val CRLF = """\r\n""".r | """\n""".r
@@ -51,12 +54,20 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   }
 
   val HoldemNL: Parser[GameType] = """Hold'em No Limit""".r ^^ (x => NlHoldem)
-  val amount: Parser[Double] = "$" ~ floatingPointNumber ^^ (_._2.toDouble)
+  val amount: Parser[Double] = opt("$") ~ floatingPointNumber ^^ (_._2.toDouble)
 
   val pAmount: Parser[Double] = "(" ~> amount <~ ")"
 
+  val tournamentCost = amount ~ "+" ~ amount ~ "USD" ^^ {
+    case cost ~ sep ~ rake ~ currency => TournamentCost(cost, rake, currency)
+  }
+
   val CashStakes: Parser[DualBlind] = "(" ~> amount ~ "/" ~ amount ~ "USD" <~ ")" ^^ {
     case sb ~ sep ~ bb ~ currency => DualBlind(sb, bb, currency)
+  }
+
+  val TournamentStakes: Parser[TournamentDualBlind] = "-" ~ "Level" ~> textLiteral ~ "(" ~ wholeNumber ~ "/" ~ wholeNumber <~ ")" ^^ {
+    case level ~ sep1 ~ sb ~ sep2 ~ bb => TournamentDualBlind(sb.toInt, bb.toInt, level)
   }
 
   val DatePart = wholeNumber ~ "/" ~ wholeNumber ~ "/" ~ wholeNumber ^^ {
@@ -69,8 +80,17 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
   val DoubleTimeStamp: Parser[Date] = TimeStamp ~ opt("[" ~> TimeStamp <~ "]") ^^ (_._1)
 
-  val typeHeader = HoldemNL ~ CashStakes ~ "-" ~ DoubleTimeStamp ^^ {
-    case gameType ~ stakes ~ sep ~ timestamp => GameTypeInfo(gameType, stakes, timestamp)
+  // Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20)
+  //                                         Hold'em No Limit ($0.10/$0.25 USD)
+
+
+  val tournamentInfo = tournamentHeader ~> wholeNumber ~ "," ~ tournamentCost ^^ {
+    case tournamentId ~ sep ~ tc => TournamentInfo(tournamentId, tc)
+  }
+
+
+  val typeHeader = opt(tournamentInfo) ~ HoldemNL ~ (CashStakes | TournamentStakes) ~ "-" ~ DoubleTimeStamp ^^ {
+    case tournamentInfoOpt ~ gameType ~ stakes ~ sep ~ timestamp => GameTypeInfo(gameType, tournamentInfoOpt, stakes, timestamp)
   }
 
   val quotedString = "'" ~> nonQuote <~ "'"
@@ -95,7 +115,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val header = PokerStars ~ handNumber ~ ":" ~ typeHeader ^^ {
     case ps ~ hand ~ sep ~ th => Header(ps, hand, th)
   }
-  val table = "Table" ~> quotedString ~ "6-max Seat" ~ "#" ~ wholeNumber ~ "is the button" ^^ {
+  val table = "Table" ~> quotedString ~ ("6-max Seat" | "9-max Seat") ~ "#" ~ wholeNumber ~ "is the button" ^^ {
     case name ~ typeString ~ hash ~ buttonNumber ~ buttonText => Table(name, typeString, buttonNumber.toInt)
   }
 
@@ -134,6 +154,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val postSmallAndBigBlind = "posts small & big blinds " ~> amount ~ opt("and is all-in") ^^ (x => PostsSmallAndBigBlind(x._1, x._2.isDefined))
   val sitsOut = "sits out" ^^ (_ => SitsOut)
   val leavesTheTable = "leaves the table" ^^ (_ => Leaves)
+  val finishedTournament = "finished the tournament in "~>wholeNumber<~"th place" ^^ (n => Finished(n) )
 
   val preflopAction = nonGreedyPlayerName(postSmallBlind | postBigBlind | postSmallAndBigBlind | sitsOut | leavesTheTable) ^^ {
     case (name, action) => PlayerAction(name, action)
@@ -152,7 +173,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val timedOutWhileDisconnected = ("has timed out while being disconnected" | "has timed out while disconnected") ^^ (_ => TimedOutWhileDisconnected)
   val joinsTable = "joins the table at seat #" ~> wholeNumber ^^ (x => JoinsTable(x.toInt))
 
-  val statusActions: Parser[Action] = statusCollected | leavesTheTable | statusWillBeAllowedAfterBtn | wasRemoved | timedOutWhileDisconnected | statusIsDisconnected | statusConnected | joinsTable | statusTimedOut | chats
+  val statusActions: Parser[Action] = statusCollected | leavesTheTable | statusWillBeAllowedAfterBtn | wasRemoved | timedOutWhileDisconnected | statusIsDisconnected | statusConnected | joinsTable | statusTimedOut | chats | finishedTournament
 
 
   /*
@@ -201,8 +222,8 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
   val potInfoUncalled = "Uncalled bet (" ~> amount ~ ") returned to " ~ rep(playerNameLiteral) ^^ {
     case amountDouble ~ sep ~ lst => PotInfoUncalled(amountDouble, lst.mkString(" "))
   }
-  val potInfoTotal = "Total pot $" ~> decimalNumber ~ "|" ~ "Rake $" ~ decimalNumber ^^ {
-    case amountDouble ~ sep1 ~ sep2 ~ rake => PotInfoTotal(amountDouble.toDouble, rake.toDouble)
+  val potInfoTotal = "Total pot " ~ opt("$") ~> decimalNumber ~ "|" ~ "Rake" ~ opt("$") ~ decimalNumber ^^ {
+    case amountDouble ~ pipe ~ rakeString ~ optDollar ~ rake => PotInfoTotal(amountDouble.toDouble, rake.toDouble)
   }
   val potInfo = potInfoUncalled | potInfoTotal
 
@@ -250,7 +271,7 @@ object PokerStars extends JavaTokenParsers with NonGreedy {
 
       val filtered = filterActions(actions)
 
-    // TODO hardcoding playerId ?
+      // TODO hardcoding playerId ?
       ParsedHandHistory(h.hand.handId, "azaa", None, t, h, filtered)
   }
 

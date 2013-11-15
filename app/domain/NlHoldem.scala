@@ -30,9 +30,35 @@ case object NlHoldem extends GameType {
   val name = "NLHoldem"
 }
 
+case class TournamentCost(cost:Double,rake:Double, currency: String)
+
+case class TournamentInfo(tournamentId: String, tournamentCost: TournamentCost)
+
 sealed trait Stakes
 
+object Stakes {
+
+  implicit val jsonFormatDualBlind = Json.format[DualBlind]
+  implicit val jsonFormatTournamentDualBlind = Json.format[TournamentDualBlind]
+  implicit val jsonFormatTournamentCost= Json.format[TournamentCost]
+  implicit val jsonFormatTournamentInfo = Json.format[TournamentInfo]
+
+
+  implicit val formats = new Format[Stakes] {
+    def reads(json: JsValue): JsResult[Stakes] = ??? // FIXME abj impl
+
+    def writes(foo: Stakes): JsValue = foo match {
+      case db: DualBlind => Json.toJson(db)
+      case tc: TournamentDualBlind => Json.toJson(tc)
+    }
+
+  }
+}
+
+
 case class DualBlind(sb: Double, bb: Double, currency: String) extends Stakes
+
+case class TournamentDualBlind(sb: Int, bb: Int, levelName: String) extends Stakes
 
 
 sealed trait InfoMarker
@@ -66,7 +92,7 @@ case class River(card: Card) extends Street
 case class Board(flop: Flop, turn: Option[Turn], river: Option[River]) extends EndStatus
 
 
-case class GameTypeInfo(gameType: GameType, stakes: DualBlind, timestamp: Date)
+case class GameTypeInfo(gameType: GameType, tourmentInfo:Option[TournamentInfo], stakes: Stakes, timestamp: Date)
 
 case class Header(pokerstarsString: String, hand: Hand, th: GameTypeInfo)
 
@@ -194,7 +220,6 @@ case object SitsOut extends Action
 
 case object Leaves extends Action
 
-
 case object WasRemovedFromTheTableForFailingToPost extends Action with Status
 
 case object WillBeAllowedAfterButton extends Action with Status
@@ -250,6 +275,8 @@ case class FinalHand(handString: String) extends Action
 
 case class HoldemHolecards(card1: Card, card2: Card) extends Action
 
+case class Finished(place:String) extends Action with Status
+
 
 sealed trait EndStatus extends Action {
   def name = getClass.getName
@@ -286,8 +313,11 @@ object JsonFormats {
 
   // Generates Writes and Reads for Feed and User thanks to Json Macros
 
-
+  // These are duplicated om "object Stakes" above - lost track of the macro stuff weirdness compile order...
   implicit val jsonFormatDualBlind = Json.format[DualBlind]
+  implicit val jsonFormatTournamentDualBlind = Json.format[TournamentDualBlind]
+  implicit val jsonFormatTournamentCost= Json.format[TournamentCost]
+  implicit val jsonFormatTournamentInfo = Json.format[TournamentInfo]
 
 
   implicit val jsonFormatGameTypeInfo = Json.format[GameTypeInfo]

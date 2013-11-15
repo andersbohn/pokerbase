@@ -1,0 +1,1966 @@
+﻿PokerStars Hand #94697087383: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:49:45 CET [2013/02/26 17:49:45 ET]
+Table '695727164 2' 9-max Seat #1 is the button
+Seat 1: tlj85 (1500 in chips) 
+Seat 2: Gajukas (1500 in chips) 
+Seat 3: aazaa (1500 in chips) 
+Seat 4: joapmm (1500 in chips) 
+Seat 5: o'canada1979 (1500 in chips) 
+Seat 6: Rodd_Hammers (1500 in chips) 
+Seat 7: Dexter8010 (1500 in chips) 
+Seat 8: jumaduq (1500 in chips) 
+Seat 9: KINGBAZZ1986 (1500 in chips) 
+Gajukas: posts small blind 10
+aazaa: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [7d Js]
+joapmm: folds 
+o'canada1979: calls 20
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: raises 100 to 120
+KINGBAZZ1986: folds 
+tlj85: folds 
+Gajukas: folds 
+aazaa: folds 
+o'canada1979: calls 100
+*** FLOP *** [Qh 7s As]
+o'canada1979: bets 110
+jumaduq: raises 110 to 220
+o'canada1979: calls 110
+*** TURN *** [Qh 7s As] [4d]
+o'canada1979: checks 
+jumaduq: checks 
+*** RIVER *** [Qh 7s As 4d] [2d]
+o'canada1979: bets 330
+jumaduq: calls 330
+*** SHOW DOWN ***
+o'canada1979: shows [2s 5s] (a pair of Deuces)
+jumaduq: shows [Ad Ks] (a pair of Aces)
+jumaduq collected 1370 from pot
+*** SUMMARY ***
+Total pot 1370 | Rake 0 
+Board [Qh 7s As 4d 2d]
+Seat 1: tlj85 (button) folded before Flop (didn't bet)
+Seat 2: Gajukas (small blind) folded before Flop
+Seat 3: aazaa (big blind) folded before Flop
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 showed [2s 5s] and lost with a pair of Deuces
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq showed [Ad Ks] and won (1370) with a pair of Aces
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697162040: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:51:10 CET [2013/02/26 17:51:10 ET]
+Table '695727164 2' 9-max Seat #2 is the button
+Seat 1: tlj85 (1500 in chips) 
+Seat 2: Gajukas (1490 in chips) 
+Seat 3: aazaa (1480 in chips) 
+Seat 4: joapmm (1500 in chips) 
+Seat 5: o'canada1979 (830 in chips) 
+Seat 6: Rodd_Hammers (1500 in chips) 
+Seat 7: Dexter8010 (1500 in chips) 
+Seat 8: jumaduq (2200 in chips) 
+Seat 9: KINGBAZZ1986 (1500 in chips) 
+aazaa: posts small blind 10
+joapmm: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [5c 2c]
+o'canada1979: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: raises 31 to 51
+tlj85: raises 51 to 102
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+KINGBAZZ1986: raises 198 to 300
+tlj85: calls 198
+*** FLOP *** [Ad 3c 3d]
+KINGBAZZ1986: checks 
+tlj85: checks 
+*** TURN *** [Ad 3c 3d] [3s]
+KINGBAZZ1986: checks 
+tlj85: bets 240
+KINGBAZZ1986: calls 240
+*** RIVER *** [Ad 3c 3d 3s] [9h]
+KINGBAZZ1986: checks 
+tlj85: checks 
+*** SHOW DOWN ***
+KINGBAZZ1986: shows [Ks Kh] (a full house, Threes full of Kings)
+tlj85: mucks hand 
+KINGBAZZ1986 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [Ad 3c 3d 3s 9h]
+Seat 1: tlj85 mucked [8h Jh]
+Seat 2: Gajukas (button) folded before Flop (didn't bet)
+Seat 3: aazaa (small blind) folded before Flop
+Seat 4: joapmm (big blind) folded before Flop
+Seat 5: o'canada1979 folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 showed [Ks Kh] and won (1110) with a full house, Threes full of Kings
+
+
+
+PokerStars Hand #94697226014: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:52:23 CET [2013/02/26 17:52:23 ET]
+Table '695727164 2' 9-max Seat #3 is the button
+Seat 1: tlj85 (960 in chips) 
+Seat 2: Gajukas (1490 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1480 in chips) 
+Seat 5: o'canada1979 (830 in chips) 
+Seat 6: Rodd_Hammers (1500 in chips) 
+Seat 7: Dexter8010 (1500 in chips) 
+Seat 8: jumaduq (2200 in chips) 
+Seat 9: KINGBAZZ1986 (2070 in chips) 
+joapmm: posts small blind 10
+o'canada1979: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [Qh 6d]
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+tlj85: calls 20
+Gajukas: raises 20 to 40
+aazaa: folds 
+joapmm: folds 
+o'canada1979: calls 20
+tlj85: calls 20
+*** FLOP *** [Th Qs Ah]
+o'canada1979: checks 
+tlj85: checks 
+Gajukas: checks 
+*** TURN *** [Th Qs Ah] [7s]
+o'canada1979: bets 70
+tlj85: folds 
+Gajukas: raises 70 to 140
+o'canada1979: folds 
+Uncalled bet (70) returned to Gajukas
+Gajukas collected 270 from pot
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [Th Qs Ah 7s]
+Seat 1: tlj85 folded on the Turn
+Seat 2: Gajukas collected (270)
+Seat 3: aazaa (button) folded before Flop (didn't bet)
+Seat 4: joapmm (small blind) folded before Flop
+Seat 5: o'canada1979 (big blind) folded on the Turn
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697284354: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:53:31 CET [2013/02/26 17:53:31 ET]
+Table '695727164 2' 9-max Seat #4 is the button
+Seat 1: tlj85 (920 in chips) 
+Seat 2: Gajukas (1650 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (720 in chips) 
+Seat 6: Rodd_Hammers (1500 in chips) 
+Seat 7: Dexter8010 (1500 in chips) 
+Seat 8: jumaduq (2200 in chips) 
+Seat 9: KINGBAZZ1986 (2070 in chips) 
+o'canada1979: posts small blind 10
+Rodd_Hammers: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [9s Qs]
+Dexter8010: folds 
+jumaduq: raises 80 to 100
+KINGBAZZ1986: folds 
+tlj85: calls 100
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+o'canada1979: folds 
+Rodd_Hammers: folds 
+*** FLOP *** [8s 9h 5h]
+jumaduq: checks 
+tlj85: checks 
+*** TURN *** [8s 9h 5h] [4h]
+jumaduq: checks 
+tlj85: checks 
+*** RIVER *** [8s 9h 5h 4h] [2h]
+jumaduq: checks 
+tlj85: checks 
+*** SHOW DOWN ***
+jumaduq: shows [Jc Ac] (high card Ace)
+tlj85: shows [7s 2d] (a pair of Deuces)
+tlj85 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [8s 9h 5h 4h 2h]
+Seat 1: tlj85 showed [7s 2d] and won (230) with a pair of Deuces
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm (button) folded before Flop (didn't bet)
+Seat 5: o'canada1979 (small blind) folded before Flop
+Seat 6: Rodd_Hammers (big blind) folded before Flop
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq showed [Jc Ac] and lost with high card Ace
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697336380: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level I (10/20) - 2013/02/26 23:54:32 CET [2013/02/26 17:54:32 ET]
+Table '695727164 2' 9-max Seat #5 is the button
+Seat 1: tlj85 (1050 in chips) 
+Seat 2: Gajukas (1650 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (710 in chips) 
+Seat 6: Rodd_Hammers (1480 in chips) 
+Seat 7: Dexter8010 (1500 in chips) 
+Seat 8: jumaduq (2100 in chips) 
+Seat 9: KINGBAZZ1986 (2070 in chips) 
+Rodd_Hammers: posts small blind 10
+Dexter8010: posts big blind 20
+*** HOLE CARDS ***
+Dealt to aazaa [4s Jc]
+jumaduq: folds 
+KINGBAZZ1986: folds 
+tlj85: raises 20 to 40
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+o'canada1979: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+Uncalled bet (20) returned to tlj85
+tlj85 collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: tlj85 collected (50)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 (button) folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (small blind) folded before Flop
+Seat 7: Dexter8010 (big blind) folded before Flop
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697370846: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:55:12 CET [2013/02/26 17:55:12 ET]
+Table '695727164 2' 9-max Seat #6 is the button
+Seat 1: tlj85 (1080 in chips) 
+Seat 2: Gajukas (1650 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (710 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1480 in chips) 
+Seat 8: jumaduq (2100 in chips) 
+Seat 9: KINGBAZZ1986 (2070 in chips) 
+Dexter8010: posts small blind 15
+jumaduq: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [5h 3d]
+KINGBAZZ1986: folds 
+tlj85: raises 30 to 60
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+o'canada1979: calls 60
+Rodd_Hammers: folds 
+Dexter8010: calls 45
+jumaduq: folds 
+*** FLOP *** [8d 7s 9h]
+Dexter8010: checks 
+tlj85: bets 90
+o'canada1979: calls 90
+Dexter8010: calls 90
+*** TURN *** [8d 7s 9h] [Qs]
+Dexter8010: checks 
+tlj85: checks 
+o'canada1979: bets 210
+Dexter8010: folds 
+tlj85: calls 210
+*** RIVER *** [8d 7s 9h Qs] [5s]
+tlj85: checks 
+o'canada1979: checks 
+*** SHOW DOWN ***
+tlj85: shows [Tc Td] (a pair of Tens)
+o'canada1979: mucks hand 
+tlj85 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [8d 7s 9h Qs 5s]
+Seat 1: tlj85 showed [Tc Td] and won (900) with a pair of Tens
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 mucked [Jd 9d]
+Seat 6: Rodd_Hammers (button) folded before Flop (didn't bet)
+Seat 7: Dexter8010 (small blind) folded on the Turn
+Seat 8: jumaduq (big blind) folded before Flop
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697424769: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:56:32 CET [2013/02/26 17:56:32 ET]
+Table '695727164 2' 9-max Seat #7 is the button
+Seat 1: tlj85 (1620 in chips) 
+Seat 2: Gajukas (1650 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (350 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2070 in chips) 
+Seat 9: KINGBAZZ1986 (2070 in chips) 
+jumaduq: posts small blind 15
+KINGBAZZ1986: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [8d Jd]
+tlj85: folds 
+Gajukas: raises 30 to 60
+aazaa: folds 
+joapmm: folds 
+o'canada1979: calls 60
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: calls 30
+*** FLOP *** [5s 2h 3d]
+KINGBAZZ1986: checks 
+Gajukas: bets 120
+o'canada1979: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (120) returned to Gajukas
+Gajukas collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [5s 2h 3d]
+Seat 1: tlj85 folded before Flop (didn't bet)
+Seat 2: Gajukas collected (195)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 folded on the Flop
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 (button) folded before Flop (didn't bet)
+Seat 8: jumaduq (small blind) folded before Flop
+Seat 9: KINGBAZZ1986 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #94697454293: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:57:17 CET [2013/02/26 17:57:17 ET]
+Table '695727164 2' 9-max Seat #8 is the button
+Seat 1: tlj85 (1620 in chips) 
+Seat 2: Gajukas (1785 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (290 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (2010 in chips) 
+KINGBAZZ1986: posts small blind 15
+tlj85: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 3s]
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+o'canada1979: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (15) returned to tlj85
+tlj85 collected 30 from pot
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: tlj85 (big blind) collected (30)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq (button) folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (small blind) folded before Flop
+
+
+
+PokerStars Hand #94697468575: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:57:38 CET [2013/02/26 17:57:38 ET]
+Table '695727164 2' 9-max Seat #9 is the button
+Seat 1: tlj85 (1635 in chips) 
+Seat 2: Gajukas (1785 in chips) 
+Seat 3: aazaa (1470 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 5: o'canada1979 (290 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+tlj85: posts small blind 15
+Gajukas: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [Ad 8c]
+aazaa: raises 60 to 90
+joapmm: folds 
+o'canada1979: raises 200 to 290 and is all-in
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+tlj85: folds 
+Gajukas: folds 
+aazaa: calls 200
+*** FLOP *** [Tc 8h 5d]
+*** TURN *** [Tc 8h 5d] [5s]
+*** RIVER *** [Tc 8h 5d 5s] [4c]
+*** SHOW DOWN ***
+aazaa: shows [Ad 8c] (two pair, Eights and Fives)
+o'canada1979: shows [Qd Ks] (a pair of Fives)
+aazaa collected 625 from pot
+o'canada1979 finished the tournament in 18th place
+*** SUMMARY ***
+Total pot 625 | Rake 0 
+Board [Tc 8h 5d 5s 4c]
+Seat 1: tlj85 (small blind) folded before Flop
+Seat 2: Gajukas (big blind) folded before Flop
+Seat 3: aazaa showed [Ad 8c] and won (625) with two pair, Eights and Fives
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 5: o'canada1979 showed [Qd Ks] and lost with a pair of Fives
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697491149: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:58:12 CET [2013/02/26 17:58:12 ET]
+Table '695727164 2' 9-max Seat #1 is the button
+Seat 1: tlj85 (1620 in chips) 
+Seat 2: Gajukas (1755 in chips) 
+Seat 3: aazaa (1805 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+Gajukas: posts small blind 15
+aazaa: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [5c 7c]
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+tlj85: raises 30 to 60
+Gajukas: calls 45
+aazaa: calls 30
+*** FLOP *** [9h 7s 6h]
+Gajukas: checks 
+aazaa: checks 
+tlj85: bets 90
+Gajukas: calls 90
+aazaa: calls 90
+*** TURN *** [9h 7s 6h] [4d]
+Gajukas: checks 
+aazaa: checks 
+tlj85: bets 360
+Gajukas: folds 
+aazaa: raises 1295 to 1655 and is all-in
+tlj85: calls 1110 and is all-in
+Uncalled bet (185) returned to aazaa
+*** RIVER *** [9h 7s 6h 4d] [8d]
+*** SHOW DOWN ***
+aazaa: shows [5c 7c] (a straight, Five to Nine)
+tlj85: shows [Ks Ah] (high card Ace)
+aazaa collected 3390 from pot
+tlj85 finished the tournament in 17th place
+*** SUMMARY ***
+Total pot 3390 | Rake 0 
+Board [9h 7s 6h 4d 8d]
+Seat 1: tlj85 (button) showed [Ks Ah] and lost with high card Ace
+Seat 2: Gajukas (small blind) folded on the Turn
+Seat 3: aazaa (big blind) showed [5c 7c] and won (3390) with a straight, Five to Nine
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697531923: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level II (15/30) - 2013/02/26 23:59:14 CET [2013/02/26 17:59:14 ET]
+Table '695727164 2' 9-max Seat #2 is the button
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (3575 in chips) 
+Seat 4: joapmm (1470 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+aazaa: posts small blind 15
+joapmm: posts big blind 30
+*** HOLE CARDS ***
+Dealt to aazaa [7c 7d]
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+Gajukas: folds 
+aazaa: raises 60 to 90
+joapmm: calls 60
+*** FLOP *** [3c 6s Kd]
+aazaa: bets 90
+joapmm: calls 90
+*** TURN *** [3c 6s Kd] [Tc]
+aazaa: checks 
+joapmm: bets 135
+aazaa: calls 135
+*** RIVER *** [3c 6s Kd Tc] [Ts]
+aazaa: checks 
+joapmm: bets 225
+aazaa: calls 225
+*** SHOW DOWN ***
+joapmm: shows [Jh Ks] (two pair, Kings and Tens)
+aazaa: mucks hand 
+joapmm collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [3c 6s Kd Tc Ts]
+Seat 2: Gajukas (button) folded before Flop (didn't bet)
+Seat 3: aazaa (small blind) mucked [7c 7d]
+Seat 4: joapmm (big blind) showed [Jh Ks] and won (1080) with two pair, Kings and Tens
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697578072: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:00:21 CET [2013/02/26 18:00:21 ET]
+Table '695727164 2' 9-max Seat #3 is the button
+Seat 1: a posteriory (1600 in chips) 
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (3035 in chips) 
+Seat 4: joapmm (2010 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+joapmm: posts small blind 25
+Rodd_Hammers: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 8c]
+Dexter8010 has timed out
+Dexter8010: folds 
+Dexter8010 is sitting out
+jumaduq: folds 
+KINGBAZZ1986: folds 
+Dexter8010 has returned
+a posteriory: folds 
+Gajukas: folds 
+aazaa: raises 100 to 150
+joapmm: folds 
+Rodd_Hammers: folds 
+Uncalled bet (100) returned to aazaa
+aazaa collected 125 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa (button) collected (125)
+Seat 4: joapmm (small blind) folded before Flop
+Seat 6: Rodd_Hammers (big blind) folded before Flop
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697626004: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:01:25 CET [2013/02/26 18:01:25 ET]
+Table '695727164 2' 9-max Seat #4 is the button
+Seat 1: a posteriory (1600 in chips) 
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (3110 in chips) 
+Seat 4: joapmm (1985 in chips) 
+Seat 6: Rodd_Hammers (1420 in chips) 
+Seat 7: Dexter8010 (1330 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+Rodd_Hammers: posts small blind 25
+Dexter8010: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Tc As]
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: raises 50 to 100
+Gajukas: folds 
+aazaa: raises 150 to 250
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+a posteriory: raises 1350 to 1600 and is all-in
+aazaa: folds 
+Uncalled bet (1350) returned to a posteriory
+a posteriory collected 575 from pot
+a posteriory: doesn't show hand 
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Seat 1: a posteriory collected (575)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop
+Seat 4: joapmm (button) folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (small blind) folded before Flop
+Seat 7: Dexter8010 (big blind) folded before Flop
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697671635: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:02:18 CET [2013/02/26 18:02:18 ET]
+Table '695727164 2' 9-max Seat #6 is the button
+Seat 1: a posteriory (1925 in chips) 
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (2860 in chips) 
+Seat 4: joapmm (1985 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1280 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+Dexter8010: posts small blind 25
+jumaduq: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [2d 8c]
+KINGBAZZ1986: folds 
+a posteriory: folds 
+Gajukas: folds 
+aazaa: folds 
+joapmm: raises 50 to 100
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+Uncalled bet (50) returned to joapmm
+joapmm collected 125 from pot
+joapmm: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm collected (125)
+Seat 6: Rodd_Hammers (button) folded before Flop (didn't bet)
+Seat 7: Dexter8010 (small blind) folded before Flop
+Seat 8: jumaduq (big blind) folded before Flop
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697697726: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:02:49 CET [2013/02/26 18:02:49 ET]
+Table '695727164 2' 9-max Seat #7 is the button
+Seat 1: a posteriory (1925 in chips) 
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (2860 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2005 in chips) 
+Seat 9: KINGBAZZ1986 (1995 in chips) 
+jumaduq: posts small blind 25
+KINGBAZZ1986: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [3d Tc]
+a posteriory: folds 
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: raises 150 to 200
+KINGBAZZ1986: folds 
+Uncalled bet (150) returned to jumaduq
+jumaduq collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 (button) folded before Flop (didn't bet)
+Seat 8: jumaduq (small blind) collected (100)
+Seat 9: KINGBAZZ1986 (big blind) folded before Flop
+
+
+
+PokerStars Hand #94697726514: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:03:21 CET [2013/02/26 18:03:21 ET]
+Table '695727164 2' 9-max Seat #8 is the button
+Seat 1: a posteriory (1925 in chips) 
+Seat 2: Gajukas (1605 in chips) 
+Seat 3: aazaa (2860 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1945 in chips) 
+KINGBAZZ1986: posts small blind 25
+a posteriory: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [4h Ah]
+Gajukas: raises 50 to 100
+aazaa: calls 100
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+*** FLOP *** [Tc Jh 5s]
+Gajukas: bets 150
+aazaa: calls 150
+*** TURN *** [Tc Jh 5s] [7h]
+Gajukas: checks 
+aazaa: checks 
+*** RIVER *** [Tc Jh 5s 7h] [Td]
+Gajukas: bets 275
+aazaa: folds 
+Uncalled bet (275) returned to Gajukas
+Gajukas collected 575 from pot
+*** SUMMARY ***
+Total pot 575 | Rake 0 
+Board [Tc Jh 5s 7h Td]
+Seat 1: a posteriory (big blind) folded before Flop
+Seat 2: Gajukas collected (575)
+Seat 3: aazaa folded on the River
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq (button) folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (small blind) folded before Flop
+
+
+
+PokerStars Hand #94697777504: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level III (25/50) - 2013/02/27 0:04:19 CET [2013/02/26 18:04:19 ET]
+Table '695727164 2' 9-max Seat #9 is the button
+Seat 1: a posteriory (1875 in chips) 
+Seat 2: Gajukas (1930 in chips) 
+Seat 3: aazaa (2610 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+a posteriory: posts small blind 25
+Gajukas: posts big blind 50
+*** HOLE CARDS ***
+Dealt to aazaa [Th Ad]
+aazaa: raises 100 to 150
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: calls 125
+Gajukas: folds 
+*** FLOP *** [5h Ks 3d]
+a posteriory: checks 
+aazaa: bets 200
+a posteriory: folds 
+Uncalled bet (200) returned to aazaa
+aazaa collected 350 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 350 | Rake 0 
+Board [5h Ks 3d]
+Seat 1: a posteriory (small blind) folded on the Flop
+Seat 2: Gajukas (big blind) folded before Flop
+Seat 3: aazaa collected (350)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697828243: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:05:16 CET [2013/02/26 18:05:16 ET]
+Table '695727164 2' 9-max Seat #1 is the button
+Seat 1: a posteriory (1725 in chips) 
+Seat 2: Gajukas (1880 in chips) 
+Seat 3: aazaa (2810 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+Gajukas: posts small blind 50
+aazaa: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [7d 6s]
+joapmm: raises 100 to 200
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+Gajukas: folds 
+aazaa: folds 
+Uncalled bet (100) returned to joapmm
+joapmm collected 250 from pot
+joapmm: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: a posteriory (button) folded before Flop (didn't bet)
+Seat 2: Gajukas (small blind) folded before Flop
+Seat 3: aazaa (big blind) folded before Flop
+Seat 4: joapmm collected (250)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697856736: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:05:49 CET [2013/02/26 18:05:49 ET]
+Table '695727164 2' 9-max Seat #2 is the button
+Seat 1: a posteriory (1725 in chips) 
+Seat 2: Gajukas (1830 in chips) 
+Seat 3: aazaa (2710 in chips) 
+Seat 4: joapmm (2210 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+aazaa: posts small blind 50
+joapmm: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [4c 3c]
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+Gajukas: raises 200 to 300
+aazaa: folds 
+joapmm: folds 
+Uncalled bet (200) returned to Gajukas
+Gajukas collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: Gajukas (button) collected (250)
+Seat 3: aazaa (small blind) folded before Flop
+Seat 4: joapmm (big blind) folded before Flop
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697898373: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:06:36 CET [2013/02/26 18:06:36 ET]
+Table '695727164 2' 9-max Seat #3 is the button
+Seat 1: a posteriory (1725 in chips) 
+Seat 2: Gajukas (1980 in chips) 
+Seat 3: aazaa (2660 in chips) 
+Seat 4: joapmm (2110 in chips) 
+Seat 6: Rodd_Hammers (1395 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+joapmm: posts small blind 50
+Rodd_Hammers: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [8c 5c]
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: raises 100 to 200
+Gajukas: folds 
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Uncalled bet (100) returned to a posteriory
+a posteriory collected 250 from pot
+a posteriory: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: a posteriory collected (250)
+Seat 2: Gajukas folded before Flop (didn't bet)
+Seat 3: aazaa (button) folded before Flop (didn't bet)
+Seat 4: joapmm (small blind) folded before Flop
+Seat 6: Rodd_Hammers (big blind) folded before Flop
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697918673: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:06:59 CET [2013/02/26 18:06:59 ET]
+Table '695727164 2' 9-max Seat #4 is the button
+Seat 1: a posteriory (1875 in chips) 
+Seat 3: aazaa (2660 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1295 in chips) 
+Seat 7: Dexter8010 (1255 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+Rodd_Hammers: posts small blind 50
+Dexter8010: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [8d Kh]
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: raises 100 to 200
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+Uncalled bet (100) returned to aazaa
+aazaa collected 250 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa collected (250)
+Seat 4: joapmm (button) folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (small blind) folded before Flop
+Seat 7: Dexter8010 (big blind) folded before Flop
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94697951331: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:07:36 CET [2013/02/26 18:07:36 ET]
+Table '695727164 2' 9-max Seat #6 is the button
+Seat 1: a posteriory (1875 in chips) 
+Seat 3: aazaa (2810 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1155 in chips) 
+Seat 8: jumaduq (2055 in chips) 
+Seat 9: KINGBAZZ1986 (1920 in chips) 
+Dexter8010: posts small blind 50
+jumaduq: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [9c 9h]
+KINGBAZZ1986: raises 125 to 225
+a posteriory: folds 
+aazaa: raises 275 to 500
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: calls 275
+*** FLOP *** [4s Jd 5d]
+KINGBAZZ1986: checks 
+aazaa: bets 500
+KINGBAZZ1986: raises 500 to 1000
+aazaa: folds 
+Uncalled bet (500) returned to KINGBAZZ1986
+KINGBAZZ1986 collected 2150 from pot
+*** SUMMARY ***
+Total pot 2150 | Rake 0 
+Board [4s Jd 5d]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa folded on the Flop
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (button) folded before Flop (didn't bet)
+Seat 7: Dexter8010 (small blind) folded before Flop
+Seat 8: jumaduq (big blind) folded before Flop
+Seat 9: KINGBAZZ1986 collected (2150)
+
+
+
+PokerStars Hand #94698023184: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level IV (50/100) - 2013/02/27 0:08:58 CET [2013/02/26 18:08:58 ET]
+Table '695727164 2' 9-max Seat #7 is the button
+Seat 1: a posteriory (1875 in chips) 
+Seat 3: aazaa (1810 in chips) 
+Seat 4: joapmm (2060 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1105 in chips) 
+Seat 8: jumaduq (1955 in chips) 
+Seat 9: KINGBAZZ1986 (3070 in chips) 
+jumaduq: posts small blind 50
+KINGBAZZ1986: posts big blind 100
+*** HOLE CARDS ***
+Dealt to aazaa [9d Qd]
+a posteriory: folds 
+aazaa: folds 
+joapmm: raises 100 to 200
+Rodd_Hammers: folds 
+Dexter8010: raises 905 to 1105 and is all-in
+jumaduq: folds 
+KINGBAZZ1986: folds 
+joapmm: folds 
+Uncalled bet (905) returned to Dexter8010
+Dexter8010 collected 550 from pot
+Dexter8010: doesn't show hand 
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 (button) collected (550)
+Seat 8: jumaduq (small blind) folded before Flop
+Seat 9: KINGBAZZ1986 (big blind) folded before Flop
+
+
+
+PokerStars Hand #94698076020: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:09:59 CET [2013/02/26 18:09:59 ET]
+Table '695727164 2' 9-max Seat #8 is the button
+Seat 1: a posteriory (1875 in chips) 
+Seat 3: aazaa (1810 in chips) 
+Seat 4: joapmm (1860 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (2970 in chips) 
+KINGBAZZ1986: posts small blind 75
+a posteriory: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Kc 2c]
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: raises 1095 to 1245 and is all-in
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+Uncalled bet (1095) returned to Rodd_Hammers
+Rodd_Hammers collected 375 from pot
+Rodd_Hammers: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: a posteriory (big blind) folded before Flop
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers collected (375)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq (button) folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (small blind) folded before Flop
+
+
+
+PokerStars Hand #94698110999: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:10:39 CET [2013/02/26 18:10:39 ET]
+Table '695727164 2' 9-max Seat #9 is the button
+Seat 1: a posteriory (1725 in chips) 
+Seat 3: aazaa (1810 in chips) 
+Seat 4: joapmm (1860 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (2895 in chips) 
+a posteriory: posts small blind 75
+aazaa: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Qd Tc]
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: raises 1305 to 1455 and is all-in
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: folds 
+Uncalled bet (1305) returned to Dexter8010
+Dexter8010 collected 375 from pot
+Dexter8010: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: a posteriory (small blind) folded before Flop
+Seat 3: aazaa (big blind) folded before Flop
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 collected (375)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698154615: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:11:29 CET [2013/02/26 18:11:29 ET]
+Table '695727164 2' 9-max Seat #1 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1660 in chips) 
+Seat 4: joapmm (1860 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1680 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (2895 in chips) 
+aazaa: posts small blind 75
+joapmm: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [5c Kc]
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: raises 1510 to 1660 and is all-in
+joapmm: folds 
+Uncalled bet (1510) returned to aazaa
+aazaa collected 300 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: a posteriory (button) folded before Flop (didn't bet)
+Seat 3: aazaa (small blind) collected (300)
+Seat 4: joapmm (big blind) folded before Flop
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698183658: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:12:03 CET [2013/02/26 18:12:03 ET]
+Table '695727164 2' 9-max Seat #3 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1810 in chips) 
+Seat 4: joapmm (1710 in chips) 
+Seat 6: Rodd_Hammers (1470 in chips) 
+Seat 7: Dexter8010 (1680 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (2895 in chips) 
+joapmm: posts small blind 75
+Rodd_Hammers: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [5c 3d]
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: raises 187 to 337
+a posteriory: folds 
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Uncalled bet (187) returned to KINGBAZZ1986
+KINGBAZZ1986 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa (button) folded before Flop (didn't bet)
+Seat 4: joapmm (small blind) folded before Flop
+Seat 6: Rodd_Hammers (big blind) folded before Flop
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 collected (375)
+
+
+
+PokerStars Hand #94698205711: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:12:29 CET [2013/02/26 18:12:29 ET]
+Table '695727164 2' 9-max Seat #4 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1810 in chips) 
+Seat 4: joapmm (1635 in chips) 
+Seat 6: Rodd_Hammers (1320 in chips) 
+Seat 7: Dexter8010 (1680 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (3120 in chips) 
+Rodd_Hammers: posts small blind 75
+Dexter8010: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Td Ah]
+jumaduq: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: raises 1660 to 1810 and is all-in
+joapmm: calls 1635 and is all-in
+Rodd_Hammers: folds 
+Dexter8010: folds 
+Uncalled bet (175) returned to aazaa
+*** FLOP *** [6d 3h 4d]
+*** TURN *** [6d 3h 4d] [5c]
+*** RIVER *** [6d 3h 4d 5c] [2h]
+*** SHOW DOWN ***
+aazaa: shows [Td Ah] (a straight, Deuce to Six)
+joapmm: shows [Tc Ac] (a straight, Deuce to Six)
+aazaa collected 1748 from pot
+joapmm collected 1747 from pot
+*** SUMMARY ***
+Total pot 3495 | Rake 0 
+Board [6d 3h 4d 5c 2h]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa showed [Td Ah] and won (1748) with a straight, Deuce to Six
+Seat 4: joapmm (button) showed [Tc Ac] and won (1747) with a straight, Deuce to Six
+Seat 6: Rodd_Hammers (small blind) folded before Flop
+Seat 7: Dexter8010 (big blind) folded before Flop
+Seat 8: jumaduq folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698246372: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:13:16 CET [2013/02/26 18:13:16 ET]
+Table '695727164 2' 9-max Seat #6 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1923 in chips) 
+Seat 4: joapmm (1747 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1530 in chips) 
+Seat 8: jumaduq (1905 in chips) 
+Seat 9: KINGBAZZ1986 (3120 in chips) 
+Dexter8010: posts small blind 75
+jumaduq: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Qd 7h]
+KINGBAZZ1986: raises 232 to 382
+a posteriory: folds 
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+Uncalled bet (232) returned to KINGBAZZ1986
+KINGBAZZ1986 collected 375 from pot
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (button) folded before Flop (didn't bet)
+Seat 7: Dexter8010 (small blind) folded before Flop
+Seat 8: jumaduq (big blind) folded before Flop
+Seat 9: KINGBAZZ1986 collected (375)
+
+
+
+PokerStars Hand #94698278091: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:13:53 CET [2013/02/26 18:13:53 ET]
+Table '695727164 2' 9-max Seat #7 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1923 in chips) 
+Seat 4: joapmm (1747 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 8: jumaduq (1755 in chips) 
+Seat 9: KINGBAZZ1986 (3345 in chips) 
+jumaduq: posts small blind 75
+KINGBAZZ1986: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Td 3s]
+a posteriory: folds 
+aazaa: folds 
+joapmm: raises 150 to 300
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (150) returned to joapmm
+joapmm collected 375 from pot
+joapmm: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm collected (375)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 (button) folded before Flop (didn't bet)
+Seat 8: jumaduq (small blind) folded before Flop
+Seat 9: KINGBAZZ1986 (big blind) folded before Flop
+
+
+
+PokerStars Hand #94698306643: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level V (75/150) - 2013/02/27 0:14:26 CET [2013/02/26 18:14:26 ET]
+Table '695727164 2' 9-max Seat #8 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 3: aazaa (1923 in chips) 
+Seat 4: joapmm (1972 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 8: jumaduq (1680 in chips) 
+Seat 9: KINGBAZZ1986 (3195 in chips) 
+KINGBAZZ1986: posts small blind 75
+a posteriory: posts big blind 150
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 5h]
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (75) returned to a posteriory
+a posteriory collected 150 from pot
+a posteriory: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: a posteriory (big blind) collected (150)
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq (button) folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 (small blind) folded before Flop
+
+
+
+PokerStars Hand #94698333773: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:14:58 CET [2013/02/26 18:14:58 ET]
+Table '695727164 2' 9-max Seat #9 is the button
+Seat 1: a posteriory (1725 in chips) 
+Seat 3: aazaa (1923 in chips) 
+Seat 4: joapmm (1972 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 8: jumaduq (1680 in chips) 
+Seat 9: KINGBAZZ1986 (3120 in chips) 
+a posteriory: posts small blind 100
+aazaa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [4c 7d]
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+jumaduq: raises 250 to 450
+KINGBAZZ1986: raises 2670 to 3120 and is all-in
+a posteriory: folds 
+aazaa: folds 
+jumaduq: calls 1230 and is all-in
+Uncalled bet (1440) returned to KINGBAZZ1986
+*** FLOP *** [6d 5h 7s]
+*** TURN *** [6d 5h 7s] [5s]
+*** RIVER *** [6d 5h 7s 5s] [2c]
+*** SHOW DOWN ***
+jumaduq: shows [Jd Ad] (a pair of Fives)
+KINGBAZZ1986: shows [Jh Js] (two pair, Jacks and Fives)
+KINGBAZZ1986 collected 3660 from pot
+jumaduq finished the tournament in 13th place
+*** SUMMARY ***
+Total pot 3660 | Rake 0 
+Board [6d 5h 7s 5s 2c]
+Seat 1: a posteriory (small blind) folded before Flop
+Seat 3: aazaa (big blind) folded before Flop
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 8: jumaduq showed [Jd Ad] and lost with a pair of Fives
+Seat 9: KINGBAZZ1986 (button) showed [Jh Js] and won (3660) with two pair, Jacks and Fives
+
+
+
+PokerStars Hand #94698375728: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:15:47 CET [2013/02/26 18:15:47 ET]
+Table '695727164 2' 9-max Seat #1 is the button
+Seat 1: a posteriory (1625 in chips) 
+Seat 3: aazaa (1723 in chips) 
+Seat 4: joapmm (1972 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 9: KINGBAZZ1986 (5100 in chips) 
+aazaa: posts small blind 100
+joapmm: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [5c 5d]
+Rodd_Hammers: folds 
+Dexter8010: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: raises 1523 to 1723 and is all-in
+joapmm: folds 
+Uncalled bet (1523) returned to aazaa
+aazaa collected 400 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: a posteriory (button) folded before Flop (didn't bet)
+Seat 3: aazaa (small blind) collected (400)
+Seat 4: joapmm (big blind) folded before Flop
+Seat 6: Rodd_Hammers folded before Flop (didn't bet)
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698410986: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:16:28 CET [2013/02/26 18:16:28 ET]
+Table '695727164 2' 9-max Seat #3 is the button
+Seat 1: a posteriory (1625 in chips) 
+Seat 3: aazaa (1923 in chips) 
+Seat 4: joapmm (1772 in chips) 
+Seat 6: Rodd_Hammers (1245 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 9: KINGBAZZ1986 (5100 in chips) 
+joapmm: posts small blind 100
+Rodd_Hammers: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Jc 6c]
+Dexter8010: folds 
+KINGBAZZ1986: folds 
+a posteriory: folds 
+aazaa: raises 1723 to 1923 and is all-in
+joapmm: folds 
+Rodd_Hammers: folds 
+Uncalled bet (1723) returned to aazaa
+aazaa collected 500 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa (button) collected (500)
+Seat 4: joapmm (small blind) folded before Flop
+Seat 6: Rodd_Hammers (big blind) folded before Flop
+Seat 7: Dexter8010 folded before Flop (didn't bet)
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698445771: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:17:09 CET [2013/02/26 18:17:09 ET]
+Table '695727164 2' 9-max Seat #4 is the button
+Seat 1: a posteriory (1625 in chips) 
+Seat 3: aazaa (2223 in chips) 
+Seat 4: joapmm (1672 in chips) 
+Seat 6: Rodd_Hammers (1045 in chips) 
+Seat 7: Dexter8010 (1455 in chips) 
+Seat 9: KINGBAZZ1986 (5100 in chips) 
+Rodd_Hammers: posts small blind 100
+Dexter8010: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [4c Ts]
+KINGBAZZ1986: folds 
+a posteriory: raises 200 to 400
+aazaa: folds 
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: raises 1055 to 1455 and is all-in
+a posteriory: calls 1055
+*** FLOP *** [6h 5c 9h]
+*** TURN *** [6h 5c 9h] [9d]
+*** RIVER *** [6h 5c 9h 9d] [8s]
+*** SHOW DOWN ***
+Dexter8010: shows [Qc Qd] (two pair, Queens and Nines)
+a posteriory: shows [Qh Qs] (two pair, Queens and Nines)
+Dexter8010 collected 1505 from pot
+a posteriory collected 1505 from pot
+*** SUMMARY ***
+Total pot 3010 | Rake 0 
+Board [6h 5c 9h 9d 8s]
+Seat 1: a posteriory showed [Qh Qs] and won (1505) with two pair, Queens and Nines
+Seat 3: aazaa folded before Flop (didn't bet)
+Seat 4: joapmm (button) folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (small blind) folded before Flop
+Seat 7: Dexter8010 (big blind) showed [Qc Qd] and won (1505) with two pair, Queens and Nines
+Seat 9: KINGBAZZ1986 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698474661: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:17:43 CET [2013/02/26 18:17:43 ET]
+Table '695727164 2' 9-max Seat #6 is the button
+Seat 1: a posteriory (1675 in chips) 
+Seat 3: aazaa (2223 in chips) 
+Seat 4: joapmm (1672 in chips) 
+Seat 6: Rodd_Hammers (945 in chips) 
+Seat 7: Dexter8010 (1505 in chips) 
+Seat 9: KINGBAZZ1986 (5100 in chips) 
+Dexter8010: posts small blind 100
+KINGBAZZ1986: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [3s 3c]
+a posteriory: folds 
+aazaa: raises 2023 to 2223 and is all-in
+joapmm: folds 
+Rodd_Hammers: folds 
+Dexter8010: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (2023) returned to aazaa
+aazaa collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 3: aazaa collected (500)
+Seat 4: joapmm folded before Flop (didn't bet)
+Seat 6: Rodd_Hammers (button) folded before Flop (didn't bet)
+Seat 7: Dexter8010 (small blind) folded before Flop
+Seat 9: KINGBAZZ1986 (big blind) folded before Flop
+
+
+
+PokerStars Hand #94698527180: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:18:45 CET [2013/02/26 18:18:45 ET]
+Table '695727164 1' 9-max Seat #8 is the button
+Seat 4: daleyplanet (2805 in chips) 
+Seat 5: aazaa (2523 in chips) 
+Seat 6: celenta17 (3520 in chips) 
+Seat 8: corto12 (5315 in chips) 
+Seat 9: sergrom (2240 in chips) 
+sergrom: posts small blind 100
+daleyplanet: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [8d Qh]
+aazaa: folds 
+celenta17: raises 300 to 500
+corto12: folds 
+sergrom: raises 1740 to 2240 and is all-in
+daleyplanet: folds 
+celenta17: folds 
+Uncalled bet (1740) returned to sergrom
+sergrom collected 1200 from pot
+sergrom: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 4: daleyplanet (big blind) folded before Flop
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: celenta17 folded before Flop
+Seat 8: corto12 (button) folded before Flop (didn't bet)
+Seat 9: sergrom (small blind) collected (1200)
+
+
+
+PokerStars Hand #94698554086: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:19:17 CET [2013/02/26 18:19:17 ET]
+Table '695727164 1' 9-max Seat #9 is the button
+Seat 1: a posteriory (1675 in chips) out of hand (moved from another table into small blind)
+Seat 2: KINGBAZZ1986 (4800 in chips) out of hand (moved from another table into small blind)
+Seat 3: Dexter8010 (2650 in chips) out of hand (moved from another table into small blind)
+Seat 4: daleyplanet (2605 in chips) 
+Seat 5: aazaa (2523 in chips) 
+Seat 6: celenta17 (3020 in chips) 
+Seat 7: joapmm (1472 in chips) 
+Seat 8: corto12 (5315 in chips) 
+Seat 9: sergrom (2940 in chips) 
+daleyplanet: posts small blind 100
+aazaa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [7d Td]
+celenta17: raises 300 to 500
+joapmm: folds 
+corto12: folds 
+sergrom: folds 
+daleyplanet: folds 
+aazaa: folds 
+Uncalled bet (300) returned to celenta17
+celenta17 collected 500 from pot
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 4: daleyplanet (small blind) folded before Flop
+Seat 5: aazaa (big blind) folded before Flop
+Seat 6: celenta17 collected (500)
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 folded before Flop (didn't bet)
+Seat 9: sergrom (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698578292: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VI (100/200) - 2013/02/27 0:19:46 CET [2013/02/26 18:19:46 ET]
+Table '695727164 1' 9-max Seat #4 is the button
+Seat 1: a posteriory (1675 in chips) 
+Seat 2: KINGBAZZ1986 (4800 in chips) 
+Seat 3: Dexter8010 (2650 in chips) 
+Seat 4: daleyplanet (2505 in chips) 
+Seat 5: aazaa (2323 in chips) 
+Seat 6: celenta17 (3320 in chips) 
+Seat 7: joapmm (1472 in chips) 
+Seat 8: corto12 (5315 in chips) 
+Seat 9: sergrom (2940 in chips) 
+aazaa: posts small blind 100
+celenta17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [4c As]
+joapmm: folds 
+corto12: raises 200 to 400
+sergrom: folds 
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: folds 
+celenta17: folds 
+Uncalled bet (200) returned to corto12
+corto12 collected 500 from pot
+corto12: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 folded before Flop (didn't bet)
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet (button) folded before Flop (didn't bet)
+Seat 5: aazaa (small blind) folded before Flop
+Seat 6: celenta17 (big blind) folded before Flop
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 collected (500)
+Seat 9: sergrom folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698611146: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VII (100/200) - 2013/02/27 0:20:25 CET [2013/02/26 18:20:25 ET]
+Table '695727164 1' 9-max Seat #5 is the button
+Seat 1: a posteriory (1675 in chips) 
+Seat 2: KINGBAZZ1986 (4800 in chips) 
+Seat 3: Dexter8010 (2650 in chips) 
+Seat 4: daleyplanet (2505 in chips) 
+Seat 5: aazaa (2223 in chips) 
+Seat 6: celenta17 (3120 in chips) 
+Seat 7: joapmm (1472 in chips) 
+Seat 8: corto12 (5615 in chips) 
+Seat 9: sergrom (2940 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+celenta17: posts small blind 100
+joapmm: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [8c Th]
+corto12: folds 
+sergrom: folds 
+a posteriory has timed out
+a posteriory: folds 
+a posteriory is sitting out
+KINGBAZZ1986: folds 
+a posteriory has returned
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: raises 1998 to 2198 and is all-in
+celenta17: folds 
+joapmm: calls 1247 and is all-in
+Uncalled bet (751) returned to aazaa
+*** FLOP *** [2h Ks Jh]
+*** TURN *** [2h Ks Jh] [Tc]
+*** RIVER *** [2h Ks Jh Tc] [Jc]
+*** SHOW DOWN ***
+joapmm: shows [Kh 9s] (two pair, Kings and Jacks)
+aazaa: shows [8c Th] (two pair, Jacks and Tens)
+joapmm collected 3219 from pot
+*** SUMMARY ***
+Total pot 3219 | Rake 0 
+Board [2h Ks Jh Tc Jc]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 folded before Flop (didn't bet)
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa (button) showed [8c Th] and lost with two pair, Jacks and Tens
+Seat 6: celenta17 (small blind) folded before Flop
+Seat 7: joapmm (big blind) showed [Kh 9s] and won (3219) with two pair, Kings and Jacks
+Seat 8: corto12 folded before Flop (didn't bet)
+Seat 9: sergrom folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698660678: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VII (100/200) - 2013/02/27 0:21:25 CET [2013/02/26 18:21:25 ET]
+Table '695727164 1' 9-max Seat #6 is the button
+Seat 1: a posteriory (1650 in chips) 
+Seat 2: KINGBAZZ1986 (4775 in chips) 
+Seat 3: Dexter8010 (2625 in chips) 
+Seat 4: daleyplanet (2480 in chips) 
+Seat 5: aazaa (751 in chips) 
+Seat 6: celenta17 (2995 in chips) 
+Seat 7: joapmm (3219 in chips) 
+Seat 8: corto12 (5590 in chips) 
+Seat 9: sergrom (2915 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+joapmm: posts small blind 100
+corto12: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Qd Td]
+sergrom: raises 200 to 400
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: folds 
+celenta17: folds 
+joapmm: folds 
+corto12: calls 200
+*** FLOP *** [8h Th Qs]
+corto12: checks 
+sergrom: bets 562
+corto12: folds 
+Uncalled bet (562) returned to sergrom
+sergrom collected 1125 from pot
+sergrom: doesn't show hand 
+*** SUMMARY ***
+Total pot 1125 | Rake 0 
+Board [8h Th Qs]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 folded before Flop (didn't bet)
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: celenta17 (button) folded before Flop (didn't bet)
+Seat 7: joapmm (small blind) folded before Flop
+Seat 8: corto12 (big blind) folded on the Flop
+Seat 9: sergrom collected (1125)
+
+
+
+PokerStars Hand #94698706931: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VII (100/200) - 2013/02/27 0:22:21 CET [2013/02/26 18:22:21 ET]
+Table '695727164 1' 9-max Seat #7 is the button
+Seat 1: a posteriory (1625 in chips) 
+Seat 2: KINGBAZZ1986 (4750 in chips) 
+Seat 3: Dexter8010 (2600 in chips) 
+Seat 4: daleyplanet (2455 in chips) 
+Seat 5: aazaa (726 in chips) 
+Seat 6: celenta17 (2970 in chips) 
+Seat 7: joapmm (3094 in chips) 
+Seat 8: corto12 (5165 in chips) 
+Seat 9: sergrom (3615 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+corto12: posts small blind 100
+sergrom: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Jc Jh]
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: raises 501 to 701 and is all-in
+celenta17: folds 
+joapmm: folds 
+corto12: folds 
+sergrom: calls 501
+*** FLOP *** [Qc Jd 4s]
+*** TURN *** [Qc Jd 4s] [2d]
+*** RIVER *** [Qc Jd 4s 2d] [Qd]
+*** SHOW DOWN ***
+sergrom: shows [Th Tc] (two pair, Queens and Tens)
+aazaa: shows [Jc Jh] (a full house, Jacks full of Queens)
+aazaa collected 1727 from pot
+*** SUMMARY ***
+Total pot 1727 | Rake 0 
+Board [Qc Jd 4s 2d Qd]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 folded before Flop (didn't bet)
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa showed [Jc Jh] and won (1727) with a full house, Jacks full of Queens
+Seat 6: celenta17 folded before Flop (didn't bet)
+Seat 7: joapmm (button) folded before Flop (didn't bet)
+Seat 8: corto12 (small blind) folded before Flop
+Seat 9: sergrom (big blind) showed [Th Tc] and lost with two pair, Queens and Tens
+
+
+
+PokerStars Hand #94698755224: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VII (100/200) - 2013/02/27 0:23:19 CET [2013/02/26 18:23:19 ET]
+Table '695727164 1' 9-max Seat #8 is the button
+Seat 1: a posteriory (1600 in chips) 
+Seat 2: KINGBAZZ1986 (4725 in chips) 
+Seat 3: Dexter8010 (2575 in chips) 
+Seat 4: daleyplanet (2430 in chips) 
+Seat 5: aazaa (1727 in chips) 
+Seat 6: celenta17 (2945 in chips) 
+Seat 7: joapmm (3069 in chips) 
+Seat 8: corto12 (5040 in chips) 
+Seat 9: sergrom (2889 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+sergrom: posts small blind 100
+a posteriory: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Ah 2c]
+KINGBAZZ1986: raises 250 to 450
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: folds 
+celenta17: folds 
+joapmm: folds 
+corto12: folds 
+sergrom: folds 
+a posteriory: folds 
+Uncalled bet (250) returned to KINGBAZZ1986
+KINGBAZZ1986 collected 725 from pot
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: a posteriory (big blind) folded before Flop
+Seat 2: KINGBAZZ1986 collected (725)
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: celenta17 folded before Flop (didn't bet)
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 (button) folded before Flop (didn't bet)
+Seat 9: sergrom (small blind) folded before Flop
+
+
+
+PokerStars Hand #94698794262: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VII (100/200) - 2013/02/27 0:24:06 CET [2013/02/26 18:24:06 ET]
+Table '695727164 1' 9-max Seat #9 is the button
+Seat 1: a posteriory (1375 in chips) 
+Seat 2: KINGBAZZ1986 (5225 in chips) 
+Seat 3: Dexter8010 (2550 in chips) 
+Seat 4: daleyplanet (2405 in chips) 
+Seat 5: aazaa (1702 in chips) 
+Seat 6: celenta17 (2920 in chips) 
+Seat 7: joapmm (3044 in chips) 
+Seat 8: corto12 (5015 in chips) 
+Seat 9: sergrom (2764 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+a posteriory: posts small blind 100
+KINGBAZZ1986: posts big blind 200
+*** HOLE CARDS ***
+Dealt to aazaa [Th 9c]
+Dexter8010: folds 
+daleyplanet: folds 
+aazaa: raises 1477 to 1677 and is all-in
+celenta17: folds 
+joapmm: folds 
+corto12: folds 
+sergrom: folds 
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Uncalled bet (1477) returned to aazaa
+aazaa collected 725 from pot
+aazaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 725 | Rake 0 
+Seat 1: a posteriory (small blind) folded before Flop
+Seat 2: KINGBAZZ1986 (big blind) folded before Flop
+Seat 3: Dexter8010 folded before Flop (didn't bet)
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa collected (725)
+Seat 6: celenta17 folded before Flop (didn't bet)
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 folded before Flop (didn't bet)
+Seat 9: sergrom (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698834743: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VIII (150/300) - 2013/02/27 0:24:55 CET [2013/02/26 18:24:55 ET]
+Table '695727164 1' 9-max Seat #1 is the button
+Seat 1: a posteriory (1250 in chips) 
+Seat 2: KINGBAZZ1986 (5000 in chips) 
+Seat 3: Dexter8010 (2525 in chips) 
+Seat 4: daleyplanet (2380 in chips) 
+Seat 5: aazaa (2202 in chips) 
+Seat 6: celenta17 (2895 in chips) 
+Seat 7: joapmm (3019 in chips) 
+Seat 8: corto12 (4990 in chips) 
+Seat 9: sergrom (2739 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+KINGBAZZ1986: posts small blind 150
+Dexter8010: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [6h 8d]
+daleyplanet: folds 
+aazaa: folds 
+celenta17: raises 2570 to 2870 and is all-in
+joapmm: folds 
+corto12: folds 
+sergrom: folds 
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Dexter8010: calls 2200 and is all-in
+Uncalled bet (370) returned to celenta17
+*** FLOP *** [7d Td 9d]
+*** TURN *** [7d Td 9d] [3h]
+*** RIVER *** [7d Td 9d 3h] [9h]
+*** SHOW DOWN ***
+Dexter8010: shows [Kd As] (a pair of Nines)
+celenta17: shows [Qh Ks] (a pair of Nines - lower kicker)
+Dexter8010 collected 5375 from pot
+*** SUMMARY ***
+Total pot 5375 | Rake 0 
+Board [7d Td 9d 3h 9h]
+Seat 1: a posteriory (button) folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 (small blind) folded before Flop
+Seat 3: Dexter8010 (big blind) showed [Kd As] and won (5375) with a pair of Nines
+Seat 4: daleyplanet folded before Flop (didn't bet)
+Seat 5: aazaa folded before Flop (didn't bet)
+Seat 6: celenta17 showed [Qh Ks] and lost with a pair of Nines
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 folded before Flop (didn't bet)
+Seat 9: sergrom folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #94698874777: Tournament #695727164, $13.89+$1.11 USD Hold'em No Limit - Level VIII (150/300) - 2013/02/27 0:25:44 CET [2013/02/26 18:25:44 ET]
+Table '695727164 1' 9-max Seat #2 is the button
+Seat 1: a posteriory (1225 in chips) 
+Seat 2: KINGBAZZ1986 (4825 in chips) 
+Seat 3: Dexter8010 (5375 in chips) 
+Seat 4: daleyplanet (2355 in chips) 
+Seat 5: aazaa (2177 in chips) 
+Seat 6: celenta17 (370 in chips) 
+Seat 7: joapmm (2994 in chips) 
+Seat 8: corto12 (4965 in chips) 
+Seat 9: sergrom (2714 in chips) 
+a posteriory: posts the ante 25
+KINGBAZZ1986: posts the ante 25
+Dexter8010: posts the ante 25
+daleyplanet: posts the ante 25
+aazaa: posts the ante 25
+celenta17: posts the ante 25
+joapmm: posts the ante 25
+corto12: posts the ante 25
+sergrom: posts the ante 25
+Dexter8010: posts small blind 150
+daleyplanet: posts big blind 300
+*** HOLE CARDS ***
+Dealt to aazaa [5d 4d]
+aazaa: raises 1852 to 2152 and is all-in
+celenta17: calls 345 and is all-in
+joapmm: folds 
+corto12: folds 
+sergrom: raises 537 to 2689 and is all-in
+a posteriory: folds 
+KINGBAZZ1986: folds 
+Dexter8010: folds 
+daleyplanet: folds 
+Uncalled bet (537) returned to sergrom
+*** FLOP *** [3h 2h Ts]
+*** TURN *** [3h 2h Ts] [7h]
+*** RIVER *** [3h 2h Ts 7h] [3s]
+*** SHOW DOWN ***
+aazaa: shows [5d 4d] (a pair of Threes)
+sergrom: shows [Ah Ks] (a pair of Threes - Ace kicker)
+sergrom collected 3614 from side pot
+celenta17: shows [Td Qd] (two pair, Tens and Threes)
+celenta17 collected 1710 from main pot
+aazaa finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 5324 Main pot 1710. Side pot 3614. | Rake 0 
+Board [3h 2h Ts 7h 3s]
+Seat 1: a posteriory folded before Flop (didn't bet)
+Seat 2: KINGBAZZ1986 (button) folded before Flop (didn't bet)
+Seat 3: Dexter8010 (small blind) folded before Flop
+Seat 4: daleyplanet (big blind) folded before Flop
+Seat 5: aazaa showed [5d 4d] and lost with a pair of Threes
+Seat 6: celenta17 showed [Td Qd] and won (1710) with two pair, Tens and Threes
+Seat 7: joapmm folded before Flop (didn't bet)
+Seat 8: corto12 folded before Flop (didn't bet)
+Seat 9: sergrom showed [Ah Ks] and won (3614) with a pair of Threes
+
+
+
