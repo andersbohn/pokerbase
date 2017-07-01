@@ -17,7 +17,8 @@ object Harvester extends App {
   val username = "abj"
 
 //  val folder = System.getProperty("handHistoryFolder", "/Users/abj/Library/Application Support/PokerStarsDK/HandHistory/aazaa/")
-    val folder = System.getProperty("handHistoryFolder", "/Users/abj/Projects/pokerbase/test/harvester/files")
+  val folder = System.getProperty("handHistoryFolder", "/Users/abj/Library/Application Support/PokerStars/HandHistory/aazaa/")
+//    val folder = System.getProperty("handHistoryFolder", "/Users/abj/Projects/pokerbase/test/harvester/files")
 
   // TODO design: write an index-file om some sort ? avoid moving files, if possible, just read 'em all and then watch changes
   // TODO design: add replication style upload, eg storing last uploaded line-number (+ maybe a CSC) to upload only the appended handhistories since last upload

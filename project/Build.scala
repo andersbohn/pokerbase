@@ -11,6 +11,8 @@ object ApplicationBuild extends Build {
   val appDependencies = Seq(
     "io.spray" %% "spray-json" % "1.3.3",
     //     "org.scalactic" %% "scalactic" % "3.0.1",
+    // https://mvnrepository.com/artifact/postgresql/postgresql
+    "postgresql" % "postgresql" % "9.1-901-1.jdbc4",
     "org.scalatest" %% "scalatest" % "3.0.1" % "test"
   )
 
