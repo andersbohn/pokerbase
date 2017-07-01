@@ -1,3 +1,4 @@
 
  * Autoritativ liste med alle playernames' karakterindhold
 
+ * Check out postgres async / with quill
