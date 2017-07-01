@@ -1,11 +1,3 @@
 
  * Autoritativ liste med alle playernames' karakterindhold
 
- * Authentication and authorization
-     - Full impl of password check, including hashing, salting
-     - Basic AUTH for REST and Ajax requests
-     - Register and unregister forms
-     -
-
-
- http://www.frederiknakstad.com/authentication-in-single-page-applications-with-angular-js/

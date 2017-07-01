@@ -5,11 +5,12 @@ target
 tmp
 .history
 dist
-/.idea
+.idea
+.idea_modules
 /*.iml
+*DS_Store
 /out
-/.idea_modules
-/.classpath
+.classpath
 /.project
 /RUNNING_PID
-/.settings
+.settings
