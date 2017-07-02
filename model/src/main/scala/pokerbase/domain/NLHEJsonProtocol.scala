@@ -127,7 +127,7 @@ object NLHEJsonProtocol extends DefaultJsonProtocol {
 
     def read(json: JsValue): Action = ???
 
-    def write(action: Action): JsValue = action match {
+    def write(action: Action): JsValue =action match {
       case Folds | IsSittingOut | Checks | MucksHand | DoesntShow |
            SitsOut | Leaves | WasRemovedFromTheTableForFailingToPost |
            WillBeAllowedAfterButton | IsDisconnected | TimedOut | TimedOutWhileDisconnected |

@@ -1,15 +1,22 @@
 import sbt._
 import Keys._
 
-object ApplicationBuild extends Build {
+object Build extends Build {
+
 
   val appName = "pokerbase"
   val appVersion = "2.0-SNAPSHOT"
 
   val ScalaVersion = "2.11.11"
 
+  val AkkaHttpVersion = "10.0.9"
+  val AkkaVersion = "2.4.19"
+
+  val QuillVersion = "1.2.1"
+
   val appDependencies = Seq(
     "org.slf4s" %% "slf4s-api" % "1.7.12",
+    "com.typesafe.akka" %% "akka-slf4j" % AkkaVersion,
     "ch.qos.logback" % "logback-classic" % "1.1.2",
     "org.scalatest" %% "scalatest" % "3.0.1" % "test"
   )
@@ -29,7 +36,9 @@ object ApplicationBuild extends Build {
     .dependsOn(model)
     .settings(libraryDependencies ++= appDependencies ++ Seq(
       "org.postgresql" % "postgresql" % "9.4.1208",
-      "io.getquill" %% "quill-jdbc" % "1.2.1"
+      "io.getquill" %% "quill-jdbc" % QuillVersion,
+      "com.typesafe.akka" %% "akka-http" % AkkaHttpVersion,
+      "com.typesafe.akka" %% "akka-http-spray-json" % AkkaHttpVersion
     ))
 
   lazy val parsers = Project(id = "pokerbase-parsers", base = file("parsers"))
@@ -40,10 +49,10 @@ object ApplicationBuild extends Build {
 
   lazy val rest = Project(id = "pokerbase-rest", base = file("rest"))
     .settings(libraryDependencies ++= appDependencies ++ Seq(
-      "io.getquill" %% "quill-cassandra" % "1.2.1",
-      "com.typesafe.akka" %% "akka-http" % "10.0.9",
-      "com.typesafe.akka" %% "akka-http-spray-json" % "10.0.9",
-      "com.typesafe.akka" %% "akka-http-testkit" % "10.0.9" % Test
+      "io.getquill" %% "quill-cassandra" % QuillVersion,
+      "com.typesafe.akka" %% "akka-http" % AkkaHttpVersion,
+      "com.typesafe.akka" %% "akka-http-spray-json" % AkkaHttpVersion,
+      "com.typesafe.akka" %% "akka-http-testkit" % AkkaHttpVersion % Test
     ))
     .dependsOn(model, parsers)
 
