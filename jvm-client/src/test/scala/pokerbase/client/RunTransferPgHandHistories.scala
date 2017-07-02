@@ -7,11 +7,11 @@ object RunTransferPgHandHistories extends App {
 
   import scala.concurrent.ExecutionContext.Implicits.global
 
-  val res = PgHhExporter.streamHandsFromPg(Some(1), Some(50))
+  val res = PgHhExporter.streamHandsFromPg(None, None)
 
   val bc = new BaseClient
   val results = res.map { hh =>
-    bc.putHandHistory(res.head.handId.toLong, res.head).map ( hh.handId -> _ )
+    bc.putHandHistory(hh.handId.toLong, hh).map ( hh.handId -> _ )
   }
   val r = Await.result(Future.sequence(results), 10 seconds)
 

@@ -8,6 +8,6 @@ import scala.concurrent.Future
 object HandHistoryController extends Logging {
   def storeHandHistory(idHand: Long, handHistory: HandHistory): Future[Unit] = {
     log.info(s"Storing hand history for id $idHand - ${handHistory.handId}")
-    Future.successful(())
+    HandHistoryRepository.storeHandHistory(idHand, handHistory: HandHistory)
   }
 }
